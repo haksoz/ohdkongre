@@ -8,13 +8,12 @@
         </div><!-- Credits-->
         <div class="col-md-4 res-margin">
             <ul class="list-unstyled footer-icons">
-                <li><i class="fa fa-map-marker"></i><b>Adres:</b>Konutkent Mah. 3035 Cadde Dış Kapı No:74 A İç Kapı No:47
-                    <br>Çankaya/Ankara/Türkiye
+                <li><i class="fa fa-map-marker"></i><b>Adres:</b>Ankara/Türkiye
                 </li>
 <!--                <li><i class="fa fa-phone"></i><b>Tel:</b><a href="tel:+902125340452"> +90 212 534 04 52</a></li>-->
 <!--                <li><i class="fa fa-phone"></i><b>Tel:</b><a href="+905372688548"> +90 537 268 85 48</a></li>-->
                 <li>
-                    <i class="fa fa-envelope"></i><b>E-Mail:</b><a href="mailto:cbmdsekreter@gmail.com"> cbmdsekreter@gmail.com</a>
+                    <i class="fa fa-envelope"></i><b>E-Mail:</b><a href="mailto:info@onkohem.org.tr"> info@onkohem.org.tr</a>
                 </li>
             </ul>
         </div><!-- /.col-md-4 -->
@@ -24,11 +23,11 @@
         </div><!-- Credits-->
         <div class="col-md-4 res-margin">
             <ul class="list-unstyled footer-icons">
-                <li><i class="fa fa-map-marker"></i><b>Adres:</b> Esentepe Mah. Yazarlar Sok. No:16 Şişli, 34394, İstanbul</li>
-                <li><i class="fa fa-phone"></i><b>Tel:</b><a href="+902122790020"> +90 212 279 00 20</a></li>
-                <li><i class="fa fa-fax margin-icon"></i><b>Faks:</b> +90 212 279 00 35</li>
+                <li><i class="fa fa-map-marker"></i><b>Adres:</b> Kozyatağı Mah. Çardak Sok. Şaşmaz Sitesi B2 Blok
+                    No:4 D:10 Kadıköy/İstanbul</li>
+                <li><i class="fa fa-phone"></i><b>Tel:</b><a href="tel:+902167661870"> +90 (216) 766 18 70</a></li>
                 <li>
-                    <i class="fa fa-envelope"></i><b>E-Mail:</b><a href="mailto:lizozomal@soloevent.net"> lizozomal@soloevent.net</a>
+                    <i class="fa fa-envelope"></i><b>E-Mail:</b><a href="mailto:salih@momentosevent.com"> salih@momentosevent.com</a>
                 </li>
             </ul>
             

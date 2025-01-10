@@ -3,7 +3,7 @@
 <?php $page = 'bildiri'; ?>
 
 <head>
-	<title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Bildiri Gönderimi</title>
+	<title>1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi | Bildiri Gönderimi</title>
 	<?php include("head.php") ?>
 </head>
 

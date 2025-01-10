@@ -2,7 +2,7 @@
 <html lang="TR">
 <?php $page = 'davet'; ?>
 <head>
-	<title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Davet</title>
+	<title>1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi | Davet</title>
 	<?php include("head.php")?>
 </head>
 <body data-spy="scroll" data-target=".navbar-custom" id="page-top">
@@ -21,11 +21,10 @@
 		<div id="page-section">
 			<section id="blog">
 				<div class="container-fluid">
-					<div class="jumbotron"></div><!-- /jumbotron-->
-					<div class="jumbo-heading" style="background-color: transparent;">
-						<!-- Heading -->
-						<h1>9. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi</h1>
-					</div><!-- /jumbo-heading -->
+					<div class="jumbotron"></div>
+					<div class="jumbo-heading">
+                        <img src="/doc/ohd-banner-inpage.png" alt="">
+					</div>
 				</div><!-- /container-fluid-->
 			</section><!--Section Blog ends -->
 						<!-- Section Services -->

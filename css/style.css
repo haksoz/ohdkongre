@@ -391,7 +391,11 @@ img {
 ============================ */
 
 #testimonials {
-    background: linear-gradient(to bottom, #2f7692 18%, rgba(255, 255, 255, 0) 120%);
+    background: linear-gradient(to bottom, #111d35 83%, rgb(190 232 55) 0%);
+}
+#testimonials.small-section {
+    position: relative;
+    padding: 70px 0px 0 0 !important;
 }
 
 .testimonial {
@@ -1954,11 +1958,11 @@ blockquote:before {
 /* Wells */
 
 .well {
-    box-shadow: 10px 0px 0px 0px rgba(153, 153, 153, 0.22);
+    box-shadow: 10px 0px 0px 0px rgb(16 28 53);
     background: #fff;
     border-radius: 55px 160px;
     padding: 60px;
-    border: 0;
+    border: 2px solid #101c35 !important;
 }
 
 .well .list-unstyled {
@@ -2036,14 +2040,15 @@ blockquote:before {
 }
 
 .jumbo-heading {
-    background-image: url(../img/linedpaper.png), url(../img/linedpaper.png);
-    background-position: center left, center right;
+    /*background-image: url(../doc/ohd-banner-inpage.png), url(../doc/ohd-banner-inpage.png);*/
+    /*background-position: center left, center right;*/
     /*background-repeat: no-repeat;*/
-    padding: 50px 0px 20px 0px;
+    padding: 25px 0px 0px 0px;
     text-align: center;
     margin: 0 auto;
     margin-top: -38px;
     /* margin-bottom: 60px; */
+    background-color: #111d35;
 }
 
 .jumbo-heading h1 {
@@ -3105,7 +3110,7 @@ footer .img-responsive {
 }
 
 .single-fun-fact.bg-1 {
-    background-color: #e9aa52;
+    background-color: #dbbf88;
 }
 
 .single-fun-fact.bg-2 {
@@ -3113,7 +3118,7 @@ footer .img-responsive {
 }
 
 .single-fun-fact.bg-3 {
-    background-color: #cf645d;
+    background-color: rgb(216 43 21);
 }
 
 .flex-row{
@@ -3274,4 +3279,26 @@ footer .img-responsive {
 .home .relative {
     text-align: center;
     background-color: #2e7792;
+}
+.fs-18{
+    font-size: 18px;
+}
+.mr-2{
+    margin-right: 0.5rem;
+}
+.ohd-table thead{
+    background-color: #111d35;
+    color: #ffffff;
+}
+.ohd-table thead th{
+    font-size: 18px;
+}
+.ohd-table.table-striped>tbody>tr:nth-of-type(odd){
+    background-color: #faf5ed;
+}
+.ohd-table.table>tbody>tr>td{
+    border-color: #111d35;
+    font-size: 16px;
+    color: #000000;
+    font-weight:400;
 }

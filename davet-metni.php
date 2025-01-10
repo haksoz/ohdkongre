@@ -1,10 +1,9 @@
 <div class="col-md-12 col-md-12 res-margin" style="padding-bottom: 60px;">
-	<p><b>Sevgili Meslektaşlarımız,</b></p>
-    <p>Bu yıl, Çocuk Beslenme ve Metabolizma Derneği’nin IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi, 27 Nisan – 02 Mayıs 2025 tarihleri arasında Concorde Luxury Resort Hotel, KKTC’de düzenlenecektir.
-    <p>Ülkemizde de lizozomal hastalıklar, çocuk metabolizma uzmanlarının yanı sıra, birinci basamakta çalışan çocuk doktorlarının ve aile hekimlerinin günlük pratiklerinde önemli bir yer tutmaya devam etmektedir.
-    <p>Bilgi ve deneyimlerimizi paylaşacağımız, dostluklarımızı pekiştireceğimiz IX. Kongremizde sizlerle buluşmayı arz ediyoruz. 27 Nisan – 02 Mayıs 2025 sizleri de aramızda görmekten büyük mutluluk duyacağımızı belirterek, sevgi ve saygılarımızı sunuyoruz. 
-    <p><b>Saygılarımızla,<br>
-    Çocuk Beslenme ve Metabolizma Derneği</b></p>
+	<p><b>Lorem İpsum,</b></p>
+    <p>Lorem ipsum odor amet, consectetuer adipiscing elit. Aliquet ante pharetra himenaeos platea porta a egestas. Pellentesque ac scelerisque risus rhoncus condimentum. Porta purus mattis aptent bibendum nam consectetur quisque. Luctus sed nisl et interdum pellentesque bibendum sed. Phasellus morbi vitae molestie porttitor nibh neque. Senectus ullamcorper mauris ridiculus class augue netus. Rutrum curae risus dui sit dignissim netus sed lacus.</p>
+    <p>Molestie duis malesuada luctus, mi dignissim per. Potenti morbi ligula fringilla luctus sagittis dui. Dui laoreet porttitor aliquam nostra in eleifend magnis. Facilisi praesent hac, curae pharetra sapien semper. Habitasse per erat dapibus praesent tempor eget dis auctor. Senectus maximus justo varius; urna dictum senectus laoreet aliquam. Mi iaculis ex rhoncus; facilisi nullam suspendisse.</p>
+     <p><b>Lorem İpsum,<br>
+    Onkoloji Hemşireleri Derneği</b></p>
 </div>
 <!--<div class="w-100 row justify-content-md-center" style="padding-bottom: 50px;margin-right: 0;">-->
 <!--	<div class="col-md-2"></div>-->

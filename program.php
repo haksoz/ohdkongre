@@ -3,7 +3,7 @@
 <?php $page = 'program'; ?>
 
 <head>
-    <title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Bilimsel Program</title>
+    <title>1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi | Bilimsel Program</title>
     <?php include("head.php") ?>
 </head>
 
@@ -22,22 +22,23 @@
     <div id="page-section">
         <section id="blog">
             <div class="container-fluid">
-                <div class="jumbotron"></div><!-- /jumbotron-->
-                <div class="jumbo-heading" style="background-color: transparent;">
-                    <!-- Heading -->
-                    <h1>9. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi</h1><!-- Breadcrumb -->
-                </div><!-- /jumbo-heading -->
-            </div><!-- /container-fluid-->
-        </section><!--Section Blog ends -->
-        <!-- Section about -->
+                <div class="jumbotron"></div>
+                <div class="jumbo-heading">
+                    <img src="/doc/ohd-banner-inpage.png" alt="">
+                </div>
+            </div>
+        </section>
         <section class="container-fluid" id="about">
             <!-- Section heading -->
             <div class="section-heading">
                 <h2 class="mt-5">BİLİMSEL PROGRAM</h2><!-- divider -->
                 <div class="hr"></div>
             </div><!-- Parallax object -->
-            <h4 class="text-center">Yapım Aşamasında</h4>
-
+            <div class="row justify-content-center" style="padding-top: 10%;padding-bottom: 10%;">
+                <div class="text-center">
+                    <h4 class="text-center">Yapım Aşamasında</h4>
+                </div>
+            </div>
         </section><!-- /section ends-->
     </div><!--/page-section-->
     <?php include("footer.php") ?>

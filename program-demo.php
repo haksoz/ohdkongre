@@ -3,7 +3,7 @@
 <?php $page = 'program'; ?>
 
 <head>
-    <title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Bilimsel Program</title>
+    <title>1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi | Bilimsel Program</title>
     <?php include("head.php") ?>
 </head>
 

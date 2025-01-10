@@ -3,7 +3,7 @@
 <?php $page = 'genel-bilgiler'; ?>
 
 <head>
-    <title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Genel Bilgiler</title>
+    <title>1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi | Genel Bilgiler</title>
     <?php include("head.php") ?>
 </head>
 
@@ -23,14 +23,12 @@
         <div id="page-section">
             <section id="blog">
                 <div class="container-fluid">
-                    <div class="jumbotron"></div><!-- /jumbotron-->
-                    <div class="jumbo-heading" style="background-color: transparent;">
-                        <!-- Heading -->
-                        <h1>9. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi</h1>
-                    </div><!-- /jumbo-heading -->
-                </div><!-- /container-fluid-->
-            </section><!--Section Blog ends -->
-            <!-- Section Services -->
+                    <div class="jumbotron"></div>
+                    <div class="jumbo-heading">
+                        <img src="/doc/ohd-banner-inpage.png" alt="">
+                    </div>
+                </div>
+            </section>
             <section class="container" id="services">
                 <!-- Section heading -->
                 <div class="section-heading">
@@ -38,10 +36,10 @@
                     <div class="hr"></div>
                 </div>
                 <div class="col-md-12 col-md-12 res-margin">
-                    <p><b>Toplantı Adı:</b> 9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</p>
-                    <p><b>Toplanı Yeri:</b> Concorde Luxury Hotel KKTC</p>
-                    <p><b>Toplantı Tarihi:</b> 27 Nisan - 02 Mayıs 2025</p>
-                    <p><b>Toplantı Konusu:</b> Lizozomal Depo Hastalıklarında İnovatif Yaklaşımlar</p><br>
+                    <p><b class="text-uppercase fs-18 mr-2" style="font-size: 18px;">Toplantı Adı: </b> 1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi</p>
+                    <p><b class="text-uppercase fs-18 mr-2">Toplanı Yeri: </b> Ankara Gazi Üniversitesi Rektörlüğü Mimar Kemalettin Salonu</p>
+                    <p><b class="text-uppercase fs-18 mr-2">Toplantı Tarihi: </b> 21 Mayıs - 23 Mayıs 2025</p>
+                    <p><b class="text-uppercase fs-18 mr-2">Toplantı Konusu: </b> Onkoloji Hemşireliğinde 35 Yıllık Miras Geçmişten Geleceğe</p><br>
                 </div>
 <!--                <div class="col-lg-12 col-md-12">-->
 <!--                    <ul class="custom no-margin">-->

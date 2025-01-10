@@ -3,7 +3,7 @@
 <?php $page = 'iletisim'; ?>
 
 <head>
-	<title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | İletişim</title>
+	<title>1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi | İletişim</title>
 	<?php include("head.php") ?>
 </head>
 
@@ -21,26 +21,15 @@
 		<!-- Blog Page -->
 		<!-- Blog Single Page  -->
 		<div id="page-section">
-			<section id="blog">
-				<div class="container-fluid">
-					<div class="jumbotron"></div><!-- /jumbotron-->
-					<div class="jumbo-heading" style="background-color: transparent;">
-						<!-- Heading -->
-						<h1>9. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi</h1><!-- Breadcrumb -->
-					</div>
-					<!-- /jumbo-heading -->
-				</div>
-				<!-- /container-fluid-->
-			</section>
-			<!--Section Blog ends -->
-
-			<!-- Section Contact -->
-			<section class="bg-lightcolor1 container-fluid nobg-small" style="min-height: 65vh;" id="contact">
-				<!-- Parallax object -->
-				<div class="parallax-object1 hidden-sm hidden-xs" data-0="opacity:1;" data-100="transform:translatex(-310%);" data-center-center="transform:translatex(30%);"><!-- Image -->
-					<img alt="" src="img/birdornament.png">
-				</div>
-				<!-- Section heading -->
+            <section id="blog">
+                <div class="container-fluid">
+                    <div class="jumbotron"></div>
+                    <div class="jumbo-heading">
+                        <img src="/doc/ohd-banner-inpage.png" alt="">
+                    </div>
+                </div>
+            </section>
+			<section class="container-fluid nobg-small" style="min-height: 65vh;" id="contact">
 				<div class="section-heading margin1">
 					<div class="hr"></div>
 				</div>
@@ -49,28 +38,29 @@
 				<div class="container">
 					<div class="res-margin">
 						<div class="col-lg-5 col-md-5 well text-center">
-							<img alt="" class="res-margin center-block img-responsive" src="/doc/cbmd-logo.png"><br>
-							<div class="contact-info">
-								<p><b>Kongre Sekretaryası</b></p>
+                            <img style="max-height: 100px;" src="/doc/onkoloji-hemsireligi-dernegi-logo.png" alt="">
+                            <div class="contact-info">
+                                <h5><b>Kongre Sekretaryası</b></h5>
 								<p><i class="fa fa-map-marker margin-icon"></i><b>Adres:</b>
-                                    Konutkent Mah. 3035 Cadde Dış Kapı No:74 A İç Kapı No:47
-                                    <br>Çankaya/Ankara/Türkiye
+                                    Ankara/Türkiye
                                 </p>
-								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:cbmdsekreter@gmail.com">cbmdsekreter@gmail.com</a></p>
+								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:info@onkohem.org.tr">info@onkohem.org.tr</a></p>
 							</div>
 						</div>
 						<div class="col-lg-2 col-md-2">
 
 						</div>
 						<div class="col-lg-5 col-md-5 well text-center">
-							<img alt="" class="res-margin center-block img-responsive" src="doc/solo.png">
-							<div class="contact-info">
-								<p><b>Organizasyon Sekretaryası</b></p>
-								<p><i class="fa fa-map-marker margin-icon"></i><b>Adres:</b> Esentepe Mah. Yazarlar Sok. No:16<br>
-									Şişli, 34394, İstanbul</p>
-								<p><i class="fa fa-phone margin-icon"></i><b>Tel:</b> +90 212 279 00 20</p>
-								<p><i class="fa fa-fax margin-icon"></i><b>Faks:</b> +90 212 279 00 35</p>
-								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:lizozomal@soloevent.net">lizozomal@soloevent.net</a></p>
+                            <img style="max-height: 100px;" src="https://momentosevent.com/wp-content/uploads/2023/03/logo-color.webp" alt="">
+
+                            <div class="contact-info">
+								<h5><b>Organizasyon Sekretaryası</b></h5>
+								<p><i class="fa fa-map-marker margin-icon"></i><b>Adres:</b>
+                                    Kozyatağı Mah. Çardak Sok. Şaşmaz Sitesi B2 Blok
+                                    No:4 D:10 Kadıköy/İstanbul
+                                </p>
+								<p><i class="fa fa-phone margin-icon"></i><b>Tel:</b> +90 (216) 766 18 70</p>
+								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:salih@momentosevent.com">salih@momentosevent.com</a></p>
 							</div>
 						</div>
 					</div>
@@ -85,7 +75,7 @@
 			<div class="container">
 				<div class="credits col-md-12 text-center">
 					<hr>
-					Copyright © 2024 - <a href="https://ko.com.tr" target="_blank">Kapital Online</a> <!-- Go To Top Link -->
+                    <a href="https://ko.com.tr" target="_blank"> Copyright © 2024 - Kapital Online</a> <!-- Go To Top Link -->
 					<div class="page-scroll hidden-sm hidden-xs">
 						<a class="back-to-top" href="#page-top"><i class="fa fa-angle-up"></i></a>
 					</div>

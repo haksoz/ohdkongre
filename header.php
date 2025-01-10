@@ -1,29 +1,5 @@
 <!-- Navbar -->
 <nav class="navbar navbar-custom navbar-fixed-top" id="navbar-custom">
-	<div class="header-top">
-		<div class="container">
-			<div class="flex-row justify-end">
-<!--				<div class="" style="padding-right:10px;">-->
-<!--					<a href="/">-->
-<!--						<div class="serviceBox bg-color1" style="margin-top:0; padding:10px 10px; border-radius: 6px;">-->
-<!--							<div class="service-content text-light">-->
-<!--								<h4 class="title top-bar-button">Bildiri Özetleri Kitabı</h4>-->
-<!--							</div>-->
-<!--						</div>-->
-<!--					</a>-->
-<!--				</div>-->
-<!--				<div class="">-->
-<!--					<a href="/">-->
-<!--						<div class="serviceBox bg-color1" style="margin-top:0; padding:10px 10px; border-radius: 6px; background-color:#68bee5;">-->
-<!--							<div class="service-content text-light">-->
-<!--								<h4 class="title top-bar-button">Sertifikanız için tıklayınız</h4>-->
-<!--							</div>-->
-<!--						</div>-->
-<!--					</a>-->
-<!--				</div>-->
-			</div>
-		</div>
-	</div>
 	<div class="container">
 		<!-- Logo and toggle get grouped for better mobile display -->
 		<div class="navbar-header">

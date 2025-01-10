@@ -27,7 +27,6 @@
 .label.default,
 .btn-primary.focus,
 .btn-primary:focus,
-.bg-color2,
 .dropdown-menu,
 .img-description,
 .btn:focus,
@@ -56,6 +55,9 @@
 .blog-prev .blog-caption,
 .header-text{
     background-color: rgb(207 100 93 / 90%);
+}
+.bg-color2{
+    background-color: rgb(216 43 21);
 }
 .smaller.social-media a i:hover,
 .back-to-top i:hover,
@@ -108,7 +110,7 @@ blockquote:before,
 .social-media a i:hover,
 ul.custom li:before,
 .pricingTable .price-value {
-    color: #AA3A3C;
+    color: #d72a15;
 }
 a.list-group-item:focus,
 a.list-group-item:hover,
@@ -137,16 +139,22 @@ button.list-group-item:hover,
 .spinner > div,
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover,
-.bg-color1,
 .navbar-custom .nav a:hover,
 .navbar-custom .nav > .active > a,
 .nav-tabs li a:before,
 .navbar-custom ul li a:after,
 .our-team:hover .team-info,
-.jumbo-heading,
 .btn.btn-primary,
 .btn {
-    background-color: #007a8d;
+    background-color: #ffffff;
+    color: #111d35;
+}
+.bg-color1{
+background-color: #dbbf88;
+}
+.jumbo-heading{
+    background-color: #111d35;
+    color: #ffffff;
 }
 .elements h5,
 .open>.dropdown-toggle.btn-default:focus,
@@ -183,7 +191,7 @@ blockquote,
 .btn-primary:active:focus,
 .btn-primary:active:hover,
 .nav-tabs li.active a:before {
-    background-color: #004e68;
+    background-color: #111d35;
 }
 .jumbotron,
 #elements h5.sub-header,
@@ -202,7 +210,7 @@ blockquote,
 
 .bg-color4,
 footer {
-    background-color: #376079;
+    background-color: #101c35;
 }
 /*________  Light Pink ________  */
 
