@@ -199,7 +199,7 @@ img {
 }
 
 .navbar-nav > li > a {
-    padding: 32px 8px;
+    padding: 32px 14px;
 }
 
 .navbar-custom ul.nav li a {
@@ -291,10 +291,11 @@ img {
     margin: auto;
     position: absolute;
     transition: all .2s ease-in-out;
+    padding: 4px 4px !important;
 }
 
 .navbar-brand img {
-    max-width: 260px;
+    max-width: 106px;
     position: absolute;
     left: 0;
     right: 0;
@@ -391,7 +392,7 @@ img {
 ============================ */
 
 #testimonials {
-    background: linear-gradient(to bottom, #111d35 83%, rgb(190 232 55) 0%);
+    background: linear-gradient(to bottom, #a7aabc 83%, #a7aabc 0%);
 }
 #testimonials.small-section {
     position: relative;
@@ -2251,7 +2252,7 @@ button.list-group-item:hover {
 /************ max width 991px *************/
 .banner-img {
     width: 80%;
-    padding-top: 130px;
+    padding-top: 110px;
 }
 
 @media (max-width: 991px) {
@@ -3278,7 +3279,7 @@ footer .img-responsive {
 
 .home .relative {
     text-align: center;
-    background-color: #2e7792;
+    background-color: #e8efff;
 }
 .fs-18{
     font-size: 18px;

@@ -5,7 +5,7 @@
 		<div class="navbar-header">
 			<button class="navbar-toggle" data-target="#navbar-brand" data-toggle="collapse" type="button"><i class="fa fa-bars"></i></button> <!-- Logo -->
 			<div class="navbar-brand page-scroll">
-				<a href="index.php"><img alt="" class="img-responsive" src="/doc/onkoloji-hemsireligi-dernegi-logo.png"></a>
+				<a href="index-demo.php"><img alt="" class="img-responsive" src="/doc/onkoloji-hemsireligi-dernegi-logo.png"></a>
 			</div>
 		</div><!-- /.navbar-header -->
 
@@ -13,7 +13,7 @@
 		<div class="collapse navbar-collapse" id="navbar-brand">
 			<ul class="nav navbar-nav page-scroll navbar-right">
 				<li class="<?php echo $page == 'index' ? 'active' : '' ?>">
-					<a href="index.php">Anasayfa</a>
+					<a href="index-demo.php">Anasayfa</a>
 				</li>
 				<li class="<?php echo $page == 'davet' ? 'active' : '' ?>">
 					<a href="davet.php">Davet</a>

@@ -146,7 +146,7 @@ button.list-group-item:hover,
 .our-team:hover .team-info,
 .btn.btn-primary,
 .btn {
-    background-color: #ffffff;
+    background-color: #e8efff;
     color: #111d35;
 }
 .bg-color1{
@@ -191,7 +191,7 @@ blockquote,
 .btn-primary:active:focus,
 .btn-primary:active:hover,
 .nav-tabs li.active a:before {
-    background-color: #111d35;
+    background-color: #404763;
 }
 .jumbotron,
 #elements h5.sub-header,
@@ -210,7 +210,7 @@ blockquote,
 
 .bg-color4,
 footer {
-    background-color: #101c35;
+    background-color: #404763;
 }
 /*________  Light Pink ________  */
 
