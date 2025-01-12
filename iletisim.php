@@ -51,16 +51,16 @@
 
 						</div>
 						<div class="col-lg-5 col-md-5 well text-center">
-                            <img style="max-height: 100px;" src="https://momentosevent.com/wp-content/uploads/2023/03/logo-color.webp" alt="">
+                            <img style="max-height: 100px;" src="/doc/bosphorusmice.jpeg" alt="">
 
                             <div class="contact-info">
 								<h5><b>Organizasyon Sekretaryası</b></h5>
+                                <p><b>Bosphorus Kongre Organizasyon Etkinlik ve Danışmanlık Hiz. Tic. Ltd. Şti.</b></p>
 								<p><i class="fa fa-map-marker margin-icon"></i><b>Adres:</b>
-                                    Kozyatağı Mah. Çardak Sok. Şaşmaz Sitesi B2 Blok
-                                    No:4 D:10 Kadıköy/İstanbul
+                                    Koşuyolu Mah. İsmailpaşa Sok, No:42/1, Kadıköy, İstanbul
                                 </p>
-								<p><i class="fa fa-phone margin-icon"></i><b>Tel:</b> +90 (216) 766 18 70</p>
-								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:salih@momentosevent.com">salih@momentosevent.com</a></p>
+								<p><i class="fa fa-phone margin-icon"></i><b>Tel:</b> <a href="tel:+905343366908">+90 534 336 69 08</a></p>
+								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a></p>
 							</div>
 						</div>
 					</div>
