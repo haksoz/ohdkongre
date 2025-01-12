@@ -31,8 +31,8 @@
 
 			</div>-->
             <div class="relative">
-                <img class="banner-img banner-desktop" src="/doc/ohd-slider-v3.png" alt="">
-                <img class="banner-img banner-mobil" src="/doc/ohd-slider-v3.png" alt="">
+                <img class="banner-img banner-desktop" src="/doc/ohd-slider-v4.png" alt="">
+                <img class="banner-img banner-mobil" src="/doc/ohd-slider-v4.png" alt="">
                 <div class="px-0 py-0 md-absolute bottom-0 w-100">
 	                <div class="container">
 	                    <div class="flex-row justify-content-center">

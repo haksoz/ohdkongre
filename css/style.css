@@ -2252,7 +2252,7 @@ button.list-group-item:hover {
 /************ max width 991px *************/
 .banner-img {
     width: 80%;
-    padding-top: 110px;
+    padding-top: 118px;
 }
 
 @media (max-width: 991px) {
