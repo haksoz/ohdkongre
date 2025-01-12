@@ -33,7 +33,7 @@
             </div>
             <div class="col-md-12 col-md-12 res-margin">
                 <p>
-                    <b class="text-uppercase fs-18 mr-2" style="font-size: 18px;">Toplantı Adı: </b><br>
+                    <b class="text-uppercase fs-18 mr-2">Toplantı Adı: </b><br>
                     1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi
                 </p>
                 <p>

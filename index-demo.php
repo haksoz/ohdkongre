@@ -120,19 +120,8 @@
 				<?php include("davet-metni.php") ?>
 
             </section><!-- /section  -->
-		
-			<!-- Clouds divider -->
-<!--			<svg class="colored hidden-xs hidden-sm" height="100" id="cloud1" preserveaspectratio="none" version="1.1" viewbox="0 0 100 100" width="100%" xmlns="http://www.w3.org/2000/svg">-->
-<!--			<path d="M-5 100 Q 0 20 5 100 Z M0 100 Q 5 0 10 100 M5 100 Q 10 30 15 100 M10 100 Q 15 10 20 100 M15 100 Q 20 30 25 100 M20 100 Q 25 -10 30 100 M25 100 Q 30 10 35 100 M30 100 Q 35 30 40 100 M35 100 Q 40 10 45 100 M40 100 Q 45 50 50 100 M45 100 Q 50 20 55 100 M50 100 Q 55 40 60 100 M55 100 Q 60 60 65 100 M60 100 Q 65 50 70 100 M65 100 Q 70 20 75 100 M70 100 Q 75 45 80 100 M75 100 Q 80 30 85 100 M80 100 Q 85 20 90 100 M85 100 Q 90 50 95 100 M90 100 Q 95 25 100 100 M95 100 Q 100 15 105 100 Z"></path>-->
-<!--            </svg> -->
-            <!-- /Clouds divider -->
-			 <!-- Section Testimonials -->
-			<section class="container-fluid small-section" id="testimonials">
-				<!-- Parallax object -->
-<!--				<div class="parallax-object1 hidden-sm hidden-xs" data-0="opacity:1;" data-100="transform:translatey(40%);" data-center-center="transform:translatey(-60%);">-->
-<!--				    <img alt="" src="img/sunbg.png">-->
-<!--                </div>-->
 
+			<section class="container-fluid small-section" id="testimonials">
 				<div class="section-heading">
 					<h2 class="text-light">Genel Bilgiler</h2><!-- divider -->
 					<div class="hr"></div>
@@ -141,36 +130,75 @@
 					<div class="owl-carousel" id="testimonial-slider">
 						<!-- Testimonial 1 -->
 						<div class="testimonial">
-							<div class="description">
-								<p><b>Toplantı Adı:<br>1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi</b></p>
-							</div>
+                            <div class="description">
+                            <p>
+                                <b>Toplantı Adı: </b><br>
+                                1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi
+                            </p>
+                            </div>
 						</div><!-- /Testimonial 1 -->
 						<!-- Testimonial 2 -->
 						<div class="testimonial">
 							<div class="description">
-								<p><b>Toplantı Yeri:<br>Ankara Gazi Üniversitesi Rektörlüğü Mimar Kemalettin Salonu</b></p>
-							</div>
+                                <p>
+                                    <b>Toplanı Yeri ve Tarihi: </b> <br>
+                                    1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi, 21 - 23 Mayıs 2025 tarihleri arasında Ankara
+                                    Gazi Üniversitesi Rektörlüğü Mimar Kemalettin Salonu’nda düzenlenecektir.
+                                </p>
+                            </div>
 						</div><!-- /Testimonial 2 -->
 						<!-- Testimonial 3 -->
 						<div class="testimonial">
 							<div class="description">
-								<p><b>Toplantı Tarihi:<br>21 Mayıs - 23 Mayıs 2025</b></p>
+                                <p>
+                                    <b>Toplantı Dili: </b><br>
+                                    Kongrenin resmi dili Türkçe’dir.
+                                </p>
 							</div>
 						</div><!-- /Testimonial 3 -->
                         <div class="testimonial">
 							<div class="description">
-								<p><b>Toplantı Konusu:<br> Onkoloji Hemşireliğinde 35 Yıllık Miras Geçmişten Geleceğe</b></p>
+                                <p>
+                                    <b>Kayıt ve Danışma Masaları: </b><br>
+                                    Ankara Gazi Üniversitesi Rektörlüğü’ndeki kayıt ve danışma masaları 21 Mayıs tarihinden itibaren
+                                    çalışmaya başlayacaktır. Bu masalar 21 – 23 Mayıs tarihleri arasında 08:00 – 18:00 saatleri arasında
+                                    açık kalacaktır.
+                                </p>
 							</div>
 						</div><!-- /Testimonial 3 -->
-						
+                        <div class="testimonial">
+							<div class="description">
+                                <p>
+                                    <b>Yaka Kartı: </b><br>
+                                    Tüm katılımcılara yaka kartı verilecektir. Kongre düzeninin sağlanabilmesi için yaka kartlarının
+                                    sürekli takılması rica olunur.
+                                </p>
+							</div>
+						</div><!-- /Testimonial 3 -->
+						<div class="testimonial">
+							<div class="description">
+                                <p>
+                                    <b>Katılım Sertifikası: </b><br>
+                                    Tüm katılımcılar katılım sertifikalarını 23 Mayıs 2025 tarihinde saat 12:00 itibariyle kayıt
+                                    deskinden alabileceklerdir.
+                                </p>
+							</div>
+						</div><!-- /Testimonial 3 -->
+                        <div class="testimonial">
+							<div class="description">
+                                <p>
+                                    <b>İzinler: </b><br>
+                                    Kongre katılımı için kurumlara verilmek üzere talep edilecek kongre davet yazıları Kongre
+                                    Sekreterliği aracılığı ile isteyen katılımcılara gönderilecektir. Bu tür davet yazıları sadece izin
+                                    amacı ile kullanılabilir. Bu tür davet mektubu sahibi misafirlerin kayıt ve konaklama ücretleri
+                                    kendilerine aittir.
+                                </p>
+							</div>
+						</div><!-- /Testimonial 3 -->
+
 					</div><!--/Testimonial Slider -->
 				</div><!--/container -->
 			</section><!-- /Section -->
-			<!-- Clouds divider -->
-<!--			<svg class="hidden-xs hidden-sm" height="100" id="cloud2" preserveaspectratio="none" version="1.1" viewbox="0 0 100 100" width="100%" xmlns="http://www.w3.org/2000/svg">-->
-<!--			<path d="M-5 100 Q 0 20 5 100 Z M0 100 Q 5 0 10 100 M5 100 Q 10 30 15 100 M10 100 Q 15 10 20 100 M15 100 Q 20 30 25 100 M20 100 Q 25 -10 30 100 M25 100 Q 30 10 35 100 M30 100 Q 35 30 40 100 M35 100 Q 40 10 45 100 M40 100 Q 45 50 50 100 M45 100 Q 50 20 55 100 M50 100 Q 55 40 60 100 M55 100 Q 60 60 65 100 M60 100 Q 65 50 70 100 M65 100 Q 70 20 75 100 M70 100 Q 75 45 80 100 M75 100 Q 80 30 85 100 M80 100 Q 85 20 90 100 M85 100 Q 90 50 95 100 M90 100 Q 95 25 100 100 M95 100 Q 100 15 105 100 Z"></path>-->
-<!--            </svg>-->
-            <!-- /clouds divider -->
 		</div><!-- /main-->
 
     <?php include("footer.php") ?>
