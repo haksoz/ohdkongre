@@ -1,15 +1,9 @@
-/*
-Template Name: Little Ones
-Author: Ingrid Kuhn
-Author URI: themeforest/user/ingridk
-Version: 1.0
-*/
 
 "use strict";
 $(document).ready(function() {
 
     function makeTimer() {
-        var endTime = new Date("april 27, 2025 00:00:00");
+        var endTime = new Date("may 21, 2025 00:00:00");
         var endTime = (Date.parse(endTime)) / 1000;
         var now = new Date();
         var now = (Date.parse(now) / 1000);
