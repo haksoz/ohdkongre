@@ -21,16 +21,16 @@
 		<!-- Blog Page -->
 		<!-- Blog Single Page  -->
 		<div id="page-section" class="abstract">
-			<section id="blog">
-				<div class="container-fluid">
-					<div class="jumbotron"></div><!-- /jumbotron-->
-					<div class="jumbo-heading" style="background-color: transparent;">
-						<!-- Heading -->
-						<h1>9. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi</h1>
-					</div><!-- /jumbo-heading -->
-				</div><!-- /container-fluid-->
-			</section><!--Section Blog ends -->
-			<!-- Section Services -->
+            <section id="blog">
+                <div class="container-fluid">
+                    <div class="jumbotron"></div>
+                    <div class="jumbo-heading">
+                        <div class="container">
+                            <img src="/doc/slider-banner2.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </section>
 			<section class="container" id="services">
 
                 <div class="section-heading">

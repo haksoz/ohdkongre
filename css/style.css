@@ -2907,7 +2907,7 @@ button.list-group-item:hover {
     }
 
     .jumbo-heading {
-        padding: 70px 0px 4px 0px;
+        padding: 25px 0px 4px 0px;
     }
     .single-fun-fact {
     padding: 10px 18px !important;
@@ -3374,4 +3374,7 @@ footer .img-responsive {
 }
 .footer-logo{
     max-height: 100px;
+}
+.jumbo-heading img{
+    width: 100%;
 }

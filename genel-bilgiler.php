@@ -22,7 +22,9 @@
             <div class="container-fluid">
                 <div class="jumbotron"></div>
                 <div class="jumbo-heading">
-                    <img src="/doc/slider-banner2.png" alt="">
+                    <div class="container">
+                        <img src="/doc/slider-banner2.png" alt="">
+                    </div>
                 </div>
             </div>
         </section>
