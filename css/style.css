@@ -2171,6 +2171,12 @@ button.list-group-item:hover {
 /*===========================
   Media Queries
 ============================ */
+
+.banner-img {
+    width: 64%;
+    padding-top: 118px;
+}
+
 /************ min width 1900px *************/
 
 @media (min-width: 1900px) {
@@ -2188,27 +2194,35 @@ button.list-group-item:hover {
     }
 }
 
-/************ max width 1200px *************/
+/************ max width 1800px *************/
 
-@media (max-width: 1200px) {
-    .navbar-nav > li > a {
-        padding: 32px 4px;
+@media (max-width: 1800px) {
+    .relative .banner-img {
+    width: 76% !important;
+    padding-top: 118px;
     }
 }
 
-@media (min-width: 991px) and (max-width: 1200px) {
-            .navbar-brand img {
-    max-width: 200px;
-    }
-    .navbar-custom ul.nav li a {
-    font-size: 15px;
+/************ max width 1500px *************/
+
+@media (max-width: 1500px) {
+    .relative .banner-img {
+    width: 86% !important;
+    padding-top: 118px;
     }
 }
+
+
 
 /************ max width 1300px *************/
 
 @media (max-width: 1300px) {
     /* Slider */
+    .relative .banner-img {
+    width: 90% !important;
+    padding-top: 118px;
+    }
+
     .header-text h1 {
         font-size: 30px;
         margin: 0;
@@ -2249,11 +2263,28 @@ button.list-group-item:hover {
     }
 }
 
-/************ max width 991px *************/
-.banner-img {
-    width: 64%;
-    padding-top: 118px;
+/************ max width 1200px *************/
+
+@media (max-width: 1200px) {
+    .navbar-nav > li > a {
+        padding: 32px 14px;
+    }
+    .relative .banner-img {
+    width: 100% !important;
+    padding-top: 111px;
+    }
 }
+
+@media (min-width: 991px) and (max-width: 1200px) {
+            .navbar-brand img {
+    max-width: 200px;
+    }
+    .navbar-custom ul.nav li a {
+    font-size: 15px;
+    }
+}
+
+/************ max width 991px *************/
 
 @media (max-width: 991px) {
     /* Slider */
