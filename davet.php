@@ -23,7 +23,7 @@
 				<div class="container-fluid">
 					<div class="jumbotron"></div>
 					<div class="jumbo-heading">
-                        <img src="/doc/ohd-banner-inpage.png" alt="">
+                        <img src="/doc/slider-banner2.png" alt="">
 					</div>
 				</div><!-- /container-fluid-->
 			</section><!--Section Blog ends -->

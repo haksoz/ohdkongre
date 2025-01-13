@@ -3,10 +3,14 @@
 	<div class="container">
 		<!-- Logo and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
-			<button class="navbar-toggle" data-target="#navbar-brand" data-toggle="collapse" type="button"><i class="fa fa-bars"></i></button> <!-- Logo -->
+			<button class="navbar-toggle" data-target="#navbar-brand" data-toggle="collapse" type="button"><i class="fa fa-bars"></i></button> 
+			<!-- 
 			<div class="navbar-brand page-scroll">
-				<a href="index-demo.php"><img alt="" class="img-responsive" src="/doc/onkoloji-hemsireligi-dernegi-logo.png"></a>
+				<a href="index-demo.php">
+					<img alt="" class="img-responsive" src="/doc/onkoloji-hemsireligi-dernegi-logo.png">
+				</a>
 			</div>
+		-->
 		</div><!-- /.navbar-header -->
 
 		<!-- Collect the nav links, forms, and other content for toggling -->
