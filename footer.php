@@ -4,22 +4,18 @@
         <div class="d-flex justify-content-around flex-wrap">
             <div class="col-md-4 res-margin">
                 <ul class="list-unstyled footer-icons">
-                    <img alt="" class="res-margin center-block footer-logo"
-                         src="/doc/onkoloji-hemsireligi-dernegi-logo.png">
-                    <li>
-                        <i class="fa fa-map-marker"></i><b>Adres:</b>
-                        Ankara/Türkiye
-                    </li>
-                    <li>
-                        <i class="fa fa-envelope"></i><b>E-Mail:</b>
-                        <a href="mailto:info@onkohem.org.tr"> info@onkohem.org.tr</a>
+                    <img alt="" class="res-margin center-block footer-logo" src="/doc/onkoloji-hemsireligi-dernegi-logo.png">
+                    <li style="margin-top: 10px">
+                        <i class="fa fa-globe"></i><b>Website</b>
+                        <a href="www.onkohem.org.tr" target="_blank">www.onkohem.org.tr</a>
+
                     </li>
                 </ul>
             </div><!-- /.col-md-4 -->
             <div class="col-md-4 res-margin">
                 <ul class="list-unstyled footer-icons">
                     <img alt="" class="res-margin center-block footer-logo" src="/doc/bosphorusmice.jpeg">
-                    <li>
+                    <li style="margin-top: 10px">
                         <i class="fa fa-map-marker"></i><b>Adres:</b>
                         Koşuyolu Mah. İsmailpaşa Sok, No:42/1, Kadıköy, İstanbul
                     </li>

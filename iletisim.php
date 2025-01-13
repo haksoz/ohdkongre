@@ -43,10 +43,11 @@
                             <img style="max-height: 100px;" src="/doc/onkoloji-hemsireligi-dernegi-logo.png" alt="">
                             <div class="contact-info">
                                 <h5><b>Kongre Sekretaryası</b></h5>
-								<p><i class="fa fa-map-marker margin-icon"></i><b>Adres:</b>
-                                    Ankara/Türkiye
+								<p>
+                                    <i class="fa fa-globe margin-icon text-black"></i>
+                                    <b>Website: </b>
+                                    <a href="www.onkohem.org.tr" target="_blank">www.onkohem.org.tr</a>
                                 </p>
-								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:info@onkohem.org.tr">info@onkohem.org.tr</a></p>
 							</div>
 						</div>
 						<div class="col-lg-2 col-md-2">
@@ -58,11 +59,11 @@
                             <div class="contact-info">
 								<h5><b>Organizasyon Sekretaryası</b></h5>
                                 <p><b>Bosphorus Kongre Organizasyon Etkinlik ve Danışmanlık Hiz. Tic. Ltd. Şti.</b></p>
-								<p><i class="fa fa-map-marker margin-icon"></i><b>Adres:</b>
+								<p><i class="fa fa-map-marker margin-icon text-black"></i><b>Adres:</b>
                                     Koşuyolu Mah. İsmailpaşa Sok, No:42/1, Kadıköy, İstanbul
                                 </p>
-								<p><i class="fa fa-phone margin-icon"></i><b>Tel:</b> <a href="tel:+905343366908">+90 534 336 69 08</a></p>
-								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a></p>
+								<p><i class="fa fa-phone margin-icon text-black"></i><b>Tel:</b> <a href="tel:+905343366908">+90 534 336 69 08</a></p>
+								<p><i class="fa fa-envelope margin-icon text-black"></i><b>E-Mail:</b> <a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a></p>
 							</div>
 						</div>
 					</div>
