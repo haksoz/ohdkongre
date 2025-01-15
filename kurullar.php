@@ -43,11 +43,13 @@
                         Prof. Dr. Nurgün PLATİN <br>
                         Prof. Dr. Gülşen TERAKYE
                     </p>
+
                     <h4>KONGRE BAŞKANLARI</h4>
                     <p>
                         Prof. Dr. Perihan GÜNER <br>
                         Prof. Dr. Sultan AYAZ ALKAYA
                     </p>
+
                     <h4>ONKOLOJİ HEMŞİRELİĞİ DERNEĞİ GEÇMİŞ BAŞKANLARI</h4>
                     <p>
                         Prof. Dr. Leman BİROL <br>
@@ -60,17 +62,20 @@
                         Doç. Dr. Sevcan ATAY <br>
                         Prof. Dr. Sevinç KUTLUTÜRKAN <br>
                         Uzm. Hem. Figen BAY <br>
+
                         <span class="text-red">
                             *Başkanlık dönemine göre sıralanmıştır.
                         </span>
                     </p>
+
                     <h4>KONGRE SEKRETERYASI</h4>
                     <p>
                         Dr. Öğr. Üyesi Elif SÖZERİ ÖZTÜRK <br>
-                        Dr. Öğr. Üyesi Fatma GÜNDOGDU<br>
-                        Dr. Öğr. Üyesi Özlem CANBOLAT<br>
-                        Hem. Ferhan ÇETİN ŞEREF
+                        Dr. Öğr. Üyesi Fatma GÜNDOGDU <br>
+                        Dr. Öğr. Üyesi Özlem CANBOLAT <br>
+                        Hem. Ferhan ÇETİN ŞEREF <br>
                     </p>
+
                     <h4>KONGRE DÜZENLEME KURULU</h4>
                     <p>
                         Prof. Dr. Ayşe OKANLI <br>
