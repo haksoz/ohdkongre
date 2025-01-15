@@ -25,7 +25,7 @@
         zenginleşeceğine inanıyoruz. Hep birlikte onkoloji hemşireliği alanında yeni ufuklar açacağımız bu önemli
         buluşmada sizleri aramızda görmekten büyük mutluluk duyacağız.
     </p>
-    <p>Birlikte daha ileriye! br
+    <p>Birlikte daha ileriye! <br>
         Kongremizde görüşmek dileğiyle,
     </p>
 </div>
