@@ -39,7 +39,7 @@
                 </div>
                 <div class="d-flex flex-column justify-content-center align-items-center" style="padding-bottom:30px;">
                     <p class="text-center"><b>Bildiri Özet Son Gönderim Tarihi: <span class="text-red">15 Nisan 2025</span></b></p>
-                    <a href="#" target="_blank" class="abstract-button">
+                    <a href="https://www.abstractmodule.com/2025ohdkongre/?plng=tur" target="_blank" class="abstract-button">
                         <img src="/doc/abs.png">
                     </a>
                 </div>
