@@ -23,7 +23,7 @@
 
 	<link href="css\style.css?v=559" rel="stylesheet"><!-- Plugins CSS -->
 	<link href="css\plugins.css?v=559" rel="stylesheet"><!-- Color Style CSS -->
-	<link href="styles\pinkandblue.css?v=559" rel="stylesheet"><!-- LayerSlider stylesheet -->
+	<link href="styles\pinkandblue.css?v=560" rel="stylesheet"><!-- LayerSlider stylesheet -->
 	<link href="layerslider\css\layerslider.css?v=552" rel="stylesheet"><!-- Favicons-->
 	<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 	<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">

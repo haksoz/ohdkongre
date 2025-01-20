@@ -57,7 +57,7 @@
     background-color: rgb(207 100 93 / 90%);
 }
 .bg-color2{
-    background-color: rgb(216 43 21);
+    background-color: rgb(216 43 21 / 60%);
 }
 .smaller.social-media a i:hover,
 .back-to-top i:hover,
@@ -191,7 +191,7 @@ blockquote,
 .btn-primary:active:focus,
 .btn-primary:active:hover,
 .nav-tabs li.active a:before {
-    background-color: #012b4b;
+    background-color: rgb(1 43 75 / 60%)
 }
 .jumbotron,
 #elements h5.sub-header,
