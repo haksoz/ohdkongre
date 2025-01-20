@@ -3,8 +3,8 @@
       <![endif]-->
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 
-	<meta content="" name="keywords">
-	<meta content="" name="description">
+	<meta content="Onkoloji Hemşireliği Kongresi 2025, Uluslararası Onkoloji Hemşireliği, Onkoloji Hemşireliği Derneği, Kanser Hemşireliği, Onkoloji Bakımı, Hemşirelik Eğitimi, Ankara Kongresi, Onkoloji Semineri, Kanser Tedavisi, Hemşirelikte Yenilikler" name="keywords">
+	<meta content="Onkoloji Hemşireliği Derneği'nin 35 yıllık birikimiyle, 21-23 Mayıs 2025 tarihlerinde Ankara'da düzenlenecek I. Uluslararası Onkoloji Hemşireliği Derneği Kongresi'ne davetlisiniz. Kongremiz, onkoloji hemşireliğinde yenilikçi yaklaşımlar ve teknolojik gelişmelerin paylaşılacağı uluslararası bir platform sunmaktadır." name="description">
 
 	<meta content="Kapital Online" name="author">
 	<!--[if lt IE 9]>
