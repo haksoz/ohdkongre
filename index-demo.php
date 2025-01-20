@@ -80,9 +80,9 @@
             	</div>
             </div>
 			<!-- Section Services -->
-			<section class="container">
-	            <div class="theme_container">
-	                <div class="row">
+			<section >
+                <div class="container">
+                    <div class="row">
 	                    <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInLeft news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInLeft;">
 	                        <a href="kayit-konaklama.php">
                         <div class="serviceBox bg-color2">
@@ -114,7 +114,7 @@
 	                    </div>
 
 	                </div>
-            	</div>
+                </div>
        	 	</section>
 
 
