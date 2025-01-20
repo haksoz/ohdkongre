@@ -1195,7 +1195,7 @@ section {
 }
 
 #main section {
-    padding: 80px 0px;
+    padding: 40px 0px;
 }
 
 /* Sections heading */
@@ -2047,7 +2047,7 @@ blockquote:before {
     padding: 25px 0px 0px 0px;
     text-align: center;
     margin: 0 auto;
-    margin-top: -38px;
+    margin-top: -58px;
     /* margin-bottom: 60px; */
     background-color: #111d35;
 }
@@ -2271,7 +2271,7 @@ button.list-group-item:hover {
     }
     .relative .banner-img {
     width: 100% !important;
-    padding-top: 111px;
+    padding-top: 78px;
     }
 }
 
@@ -2394,7 +2394,7 @@ button.list-group-item:hover {
 
     .navbar-toggle {
         display: block;
-        line-height: 74px;
+        line-height: 44px;
     }
 
     .navbar-toggle i {
@@ -2604,6 +2604,15 @@ button.list-group-item:hover {
     .nav-tabs {
         margin-left: 0px !important;
     }
+
+    .serviceBox {
+    margin-top: 0px;
+    text-align: center;
+    padding: 8px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 0px;
+}
 }
 
 /************ max width 640px *************/
@@ -2644,7 +2653,7 @@ button.list-group-item:hover {
 
     /* jumbotron */
     .jumbotron {
-        height: 100px;
+        height: 74px;
     }
 
     /* slider */

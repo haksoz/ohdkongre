@@ -32,7 +32,7 @@
 			</div>-->
             <div class="relative">
                 <img class="banner-img banner-desktop" src="/doc/ohd-slider-v4.png" alt="">
-                <img class="banner-img banner-mobil" src="/doc/ohd-slider-v4.png" alt="">
+                <img class="banner-img banner-mobil" src="/doc/slider-banner-mobil.png" alt="">
                 <div class="px-0 py-0 md-absolute bottom-0 w-100">
 	                <div class="container">
 	                    <div class="flex-row justify-content-center">
@@ -80,10 +80,11 @@
             	</div>
             </div>
 			<!-- Section Services -->
-            <section class="container" style="padding: 0px 0px;">
-                <!-- Services Boxes -->
-                <div class="owl-carousel margin1 col-lg-12" id="services-slider">
-                    <a href="kayit-konaklama.php">
+			<section class="container">
+	            <div class="theme_container">
+	                <div class="row">
+	                    <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInLeft news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInLeft;">
+	                        <a href="kayit-konaklama.php">
                         <div class="serviceBox bg-color2">
                             <!-- service image-->
                             <div class="service-content text-light">
@@ -91,7 +92,9 @@
                             </div>
                         </div>
                     </a>
-                    <a href="program.php">
+	                    </div>
+	                    <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInRight news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInRight;">
+	                       <a href="program.php">
                         <div class="serviceBox bg-color1">
                             <!-- service image-->
                             <div class="service-content text-light">
@@ -99,16 +102,21 @@
                             </div>
                         </div>
                     </a>
-                    <a href="bildiri-gonderimi.php">
+	                    </div>
+	                    <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInLeft news-addon-one animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInLeft;">
+	                        <a href="bildiri-gonderimi.php">
                         <div class="serviceBox bg-color3">
                             <div class="service-content text-light">
                                 <h4 class="title">Bildiri Gönderimi</h4>
                             </div>
                         </div>
                     </a>
-                </div>
-                <!-- /service box -->
-            </section>
+	                    </div>
+
+	                </div>
+            	</div>
+       	 	</section>
+
 
 			<section class="container">
 				<!-- Section heading -->
