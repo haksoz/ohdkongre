@@ -31,7 +31,7 @@
                     </div>
                 </div>
             </section>
-			<section class="container" id="services">
+			<div class="container" id="services">
 
                 <div class="section-heading">
                     <h2 class="mt-5">BİLDİRİ GÖNDERİMİ</h2><!-- divider -->
@@ -197,7 +197,7 @@
                     </ul>
                 </div>
 
-            </section><!-- /section  -->
+            </div><!-- /section  -->
 		</div><!--/page-section-->
 
 		<?php include("footer.php") ?>
