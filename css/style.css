@@ -1685,7 +1685,7 @@ ul.custom li:before {
     content: "\f126";
 }
 .abstract ul.custom li ul li:before{
-    content: "";
+    content: ""!important;
 }
 
 /* Buttons */

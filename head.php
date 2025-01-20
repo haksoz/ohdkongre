@@ -21,10 +21,10 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
-	<link href="css\style.css?v=559" rel="stylesheet"><!-- Plugins CSS -->
-	<link href="css\plugins.css?v=559" rel="stylesheet"><!-- Color Style CSS -->
+	<link href="css\style.css?v=561" rel="stylesheet"><!-- Plugins CSS -->
+	<link href="css\plugins.css?v=561" rel="stylesheet"><!-- Color Style CSS -->
 	<link href="styles\pinkandblue.css?v=561" rel="stylesheet"><!-- LayerSlider stylesheet -->
-	<link href="layerslider\css\layerslider.css?v=552" rel="stylesheet"><!-- Favicons-->
+	<link href="layerslider\css\layerslider.css?v=561" rel="stylesheet"><!-- Favicons-->
 	<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 	<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
 	<link href="doc/favicon.png" rel="shortcut icon" type="image/x-icon"><!-- Switcher Only -->
