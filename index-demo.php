@@ -187,8 +187,8 @@
 							<div class="description">
                                 <p>
                                     <b>Katılım Sertifikası: </b><br>
-                                    Tüm katılımcılar katılım sertifikalarını 23 Mayıs 2025 tarihinde saat 12:00 itibariyle kayıt
-                                    deskinden alabileceklerdir.
+                                    Tüm katılımcılar katılım sertifikalarını 23 Mayıs 2025 tarihinde saat 12:00 itibariyle
+                                    online gönderilmeye başlanacaktır
                                 </p>
 							</div>
 						</div><!-- /Testimonial 3 -->
