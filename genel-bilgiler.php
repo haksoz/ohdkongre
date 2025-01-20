@@ -60,8 +60,7 @@
                 </p>
                 <p>
                     <b class="text-uppercase fs-18 mr-2">Katılım Sertifikası: </b><br>
-                    Tüm katılımcılar katılım sertifikalarını 23 Mayıs 2025 tarihinde saat 12:00 itibariyle kayıt
-                    deskinden alabileceklerdir.
+                    Tüm katılımcılar katılım sertifikalarını 23 Mayıs 2025 tarihinde saat 12:00 itibariyle online gönderilmeye başlanacaktır
                 </p>
                 <p>
                     <b class="text-uppercase fs-18 mr-2">İzinler: </b><br>
