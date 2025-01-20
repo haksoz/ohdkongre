@@ -77,7 +77,7 @@
                     <ul class="custom no-margin">
                         <li>Kayıt konaklama paket ücretlerinde KDV dahil değildir. KDV oranı %20'dir.</li>
                         <li>Kongre genel alanları ve bilimsel toplantılara katılım için herkesin kayıt yaptırması zorunludur.</li>
-                        <li>Kayıt ücretine bilimsel aktivitelere katılım, yaka kartı, yaka kartı programı ve katılım sertifikası dahildir.</li>
+                        <li>Kayıt ücretine bilimsel aktivitelere katılım, yaka kartı, yaka kartı programı, katılım sertifikası ve 22 -23 Mayıs öğle yemekleri dahildir.</li>
                         <li>Organizasyon muhtemel vergi, harç, rusum tutarlarındaki değişikliği fiyatlara yansıtma hakkını saklı tutar.</li>
 
                     </ul>
