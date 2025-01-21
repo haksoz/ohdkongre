@@ -22,9 +22,17 @@
 				<li class="<?php echo $page == 'davet' ? 'active' : '' ?>">
 					<a href="/davet.php">Davet</a>
 				</li>
-				<li class="<?php echo $page == 'kurullar' ? 'active' : '' ?>">
-					<a href="/kurullar.php">Kurullar</a>
-				</li>
+                <li class="dropdown <?php echo $page == 'kurullar' ? 'active' : '' ?>">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Kurullar<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="bilimsel-kurul.php">Bilimsel Kurul</a>
+                        </li>
+                        <li>
+                            <a href="duzenleme-kurulu.php">Düzenleme Kurulu</a>
+                        </li>
+                    </ul>
+                </li>
 				<li class="<?php echo $page == 'genel-bilgiler' ? 'active' : '' ?>">
 					<a href="/genel-bilgiler.php">Genel Bilgiler</a>
 				</li>
@@ -40,19 +48,6 @@
 				<li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
 					<a href="/bildiri-gonderimi.php">Bildiri Gönderimi</a>
 				</li>
-				<!--
-                  		<li class="dropdown <?php echo $page == 'program' ? 'active' : '' ?>">
-							<a class="dropdown-toggle" data-toggle="dropdown" href="#">Bilimsel<b class="caret"></b></a>
-							<ul class="dropdown-menu">
-								<li>
-									<a href="program.php">Bilimsel Program</a>
-								</li>
-								<li>
-									<a href="bildiri-gonderimi.php">Bildiri Gönderimi</a>
-								</li>
-							</ul>
-						</li>
-						-->
 				<li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>">
 					<a href="iletisim.php">İletişim</a>
 				</li>
