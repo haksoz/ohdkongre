@@ -26,10 +26,10 @@
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Kurullar<b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="bilimsel-kurul.php">Bilimsel Kurul</a>
+                            <a href="duzenleme-kurulu.php">Düzenleme Kurulu</a>
                         </li>
                         <li>
-                            <a href="duzenleme-kurulu.php">Düzenleme Kurulu</a>
+                            <a href="bilimsel-kurul.php">Bilimsel Kurul</a>
                         </li>
                     </ul>
                 </li>
