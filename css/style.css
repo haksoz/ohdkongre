@@ -3405,3 +3405,9 @@ footer .img-responsive {
 .mb-5{
     margin-bottom: 5rem;
 }
+@media screen and (min-width: 768px){
+    .navbar-right .dropdown-menu{
+        right: -5px;
+        margin-top: -30px;
+    }
+}
