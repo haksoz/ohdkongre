@@ -3402,3 +3402,6 @@ footer .img-responsive {
     transform: scale(1.02); /* Eleman hafifçe büyür */
     box-shadow: 5px 6px 12px 7px rgba(153, 153, 153, 0.22); /* Gölge efekti */
 }
+.mb-5{
+    margin-bottom: 5rem;
+}
