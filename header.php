@@ -17,25 +17,28 @@
 		<div class="collapse navbar-collapse" id="navbar-brand">
 			<ul class="nav navbar-nav page-scroll navbar-right">
 				<li class="<?php echo $page == 'index' ? 'active' : '' ?>">
-					<a href="index-demo.php">Anasayfa</a>
+					<a href="/index-demo.php">Anasayfa</a>
 				</li>
 				<li class="<?php echo $page == 'davet' ? 'active' : '' ?>">
-					<a href="davet.php">Davet</a>
+					<a href="/davet.php">Davet</a>
 				</li>
 				<li class="<?php echo $page == 'kurullar' ? 'active' : '' ?>">
-					<a href="kurullar.php">Kurullar</a>
+					<a href="/kurullar.php">Kurullar</a>
 				</li>
 				<li class="<?php echo $page == 'genel-bilgiler' ? 'active' : '' ?>">
-					<a href="genel-bilgiler.php">Genel Bilgiler</a>
+					<a href="/genel-bilgiler.php">Genel Bilgiler</a>
 				</li>
 				<li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>">
-					<a href="kayit-konaklama.php">Kayıt & Konaklama</a>
+					<a href="/kayit-konaklama.php">Kayıt & Konaklama</a>
 				</li>
 				<li class="<?php echo $page == 'program' ? 'active' : '' ?>">
-					<a href="program.php">Bilimsel Program</a>
+					<a href="/program.php">Bilimsel Program</a>
+				</li>
+                <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>">
+					<a href="/kurslar.php">Kurslar</a>
 				</li>
 				<li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
-					<a href="bildiri-gonderimi.php">Bildiri Gönderimi</a>
+					<a href="/bildiri-gonderimi.php">Bildiri Gönderimi</a>
 				</li>
 				<!--
                   		<li class="dropdown <?php echo $page == 'program' ? 'active' : '' ?>">
