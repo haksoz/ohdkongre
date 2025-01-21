@@ -46,7 +46,7 @@
 								<p>
                                     <i class="fa fa-globe margin-icon text-black"></i>
                                     <b>Website: </b>
-                                    <a href="www.onkohem.org.tr" target="_blank">www.onkohem.org.tr</a>
+                                    <a href="mailto:onkohem1989@yahoo.com" target="_blank">onkohem1989@yahoo.com</a>
                                 </p>
 							</div>
 						</div>
