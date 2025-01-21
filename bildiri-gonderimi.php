@@ -51,25 +51,40 @@
                             <br>
                            &nbsp;&nbsp;&nbsp;&nbsp; E-posta, faks veya posta yoluyla gönderilen bildiriler kabul edilmeyecektir.</li>
                         <li> Bildiri göndermeden önce, online sisteme kayıt yaptırılması gerekmektedir. Daha önce bir üyelik hesabınız yoksa, sistem üzerinden yeni bir hesap oluşturabilirsiniz.</li>
-                        <li> Her katılımcı <b>en fazla iki bildiri</b> gönderebilir. Daha fazla sayıda bildiri gönderilmesi durumunda her bir bildiri için bildiri ücreti alınacaktır.</li>
-                        <li> Bildiriler özet bildiri ya da tam metin bildiri olarak kabul edilecektir.</li>
+                        <li> Her katılımcı <b>en fazla iki bildiri</b> gönderebilir. Daha fazla sayıda bildiri gönderilmesi durumunda her bir bildiri için <b>500 TL</b> bildiri ücreti alınacaktır.</li>
                         <li> Bildiriler, sistem üzerinden gönderildiği şekilde yayınlanacağı için yazım hatalarına dikkat edilmelidir. Tüm yazım hatalarından yazarlar sorumludur.</li>
                         <li> Bildirinin kabul edilmesi durumunda, bildiriyi sunacak yazarın kongre kaydını tamamlaması zorunludur. Aksi takdirde, bildiri kongre özet kitabında yayınlanmayacaktır.</li>
-                        <li> Bildiri gönderimi sırasında, sistem üzerinden <b>davet mektubu</b> otomatik olarak oluşturulacaktır.</li>
 
                     </ul>
                 </div>
                 <div>
                     <h4>Bildiri Kategorileri</h4>
-                    <p>Kongreye aşağıdaki kategorilerde sözlü ve poster bildiri gönderimi yapılabilir:</p>
+                    <p>Kongreye aşağıdaki kategoriler başta olmak üzere onkoloji hemşireliğiyle ilgili tüm konularda sözlü ve poster bildiri gönderimi yapılabilir:</p>
                     <!-- Custom List -->
                     <ul class="custom no-margin" style="font-weight:normal;">
-                        <li> Kanserden Korunma ve Erken Tanı: Farkındalık ve Hayat Kurtaran Stratejiler</li>
-                        <li> 21.Yüzyılda Kanser Bakımında Yenilikçi ve Sürdürülebilir Hemşirelik Yaklaşımları</li>
-                        <li> Güncel Teknolojik Gelişimlerin Onkoloji Hemşireliğine Yansımaları</li>
-                        <li> Kanserle Yaşamak: Yeni Bir Denge</li>
-                        <li> Onkoloji Hemşireliğinde Yaşanan Sorunlar ve Çözüm Önerileri</li>
-                        <li> Onkoloji Hemşireliği Araştırmalarında Yeni Ufuklar</li>
+                        <li>Kanserden Korunma</li>
+                        <li>Kanserde Erken Tanı ve Tarama</li>
+                        <li>Kanser Cerrahisi</li>
+                        <li>Kemoterapi</li>
+                        <li>Hedefe Yönelik Tedavi</li>
+                        <li>İmmünoterapi</li>
+                        <li>Endokrin Tedavi</li>
+                        <li>Radyasyon Onkolojisi</li>
+                        <li>Hematopoetik Kök Hücre Nakli</li>
+                        <li>Tamamlayıcı ve Bütüncül Bakım Yaklaşımları</li>
+                        <li>Pediatrik Onkoloji</li>
+                        <li>Jineonkoloji</li>
+                        <li>Meme Bakım Hemşireliği</li>
+                        <li>Sağkalım ve Rehabilitasyon</li>
+                        <li>Psikoonkoloji</li>
+                        <li>Geriatrik Onkoloji</li>
+                        <li>Palyatif Bakım</li>
+                        <li>Hasta ve Ailesinin Eğitimi</li>
+                        <li>Semptom Yönetimi</li>
+                        <li>Hasta ve Çalışan Güvenliği</li>
+                        <li>Yönetim, Liderlik ve Savunuculuk</li>
+                        <li>Araştırma</li>
+                        <li>Teknolojik Gelişmeler ve İnovasyon</li>
 
                     </ul>
                 </div>
@@ -96,7 +111,7 @@
                                 <li><b>Derleme:</b> Derlemenin amacı ve içeriği düz metin olarak belirtilmelidir.</li>
                             </ul>
                         </li>
-                        * Kongrede olgu sunumu ve derlemeler sadece poster bildiri olarak değerlendirilmeye alınacaktır.
+                        <span class="text-red">* </span>Kongrede olgu sunumu ve derlemeler sadece poster bildiri olarak değerlendirilmeye alınacaktır.
                         <li> Anahtar kelimeler:
                             <ul>
                                 <li>En az <b>3</b>, en fazla <b>5 kelime</b> olmalıdır.</li>
@@ -150,7 +165,7 @@
                                 </li>
                             </ul>
                         </li>
-                        <li>Kaynaklar, APA 7 stiline uygun olarak yazılmalıdır.</li>
+                        <li>Kaynaklar, <b>APA 7</b> stiline uygun olarak yazılmalıdır.</li>
                     </ul>
                 </div>
                 <div>
@@ -168,7 +183,7 @@
                     <ul class="custom no-margin" style="font-weight:normal;">
 
                         <li>Sözlü bildiriler Türkçe veya İngilizce olarak sunulabilir.</li>
-                        <li>Sunum süresi, tartışma dahil toplam <b>10 dakika</b> ile sınırlıdır.</li>
+                        <li>Sunum süresi, tartışma dahil toplam <b>5 dakika</b> ile sınırlıdır.</li>
                         <li>Sunumlar, kongre programında belirtilen gün, saat ve salonda yapılmalıdır. Belirtilen zamanda sunum yapmayanlar kongreye katılmamış sayılacaktır.</li>
                         <li>Başkasının adına bildiri sunulamaz. Sunum yapacak kişi mutlaka yazar veya ortak yazar olmalıdır.</li>
 
@@ -187,8 +202,12 @@
                         <li>Posterler, kongre süresince belirlenen alanda sergilenmelidir.</li>
                     </ul>
                 </div>
-
                 <div>
+                    <h4>Önemli Tarihler</h4>
+                    <p><b>Bildiri Özet Son Gönderim Tarihi:</b> 15 Nisan 2025</p>
+                </div>
+
+                <div class="mb-5">
                     <h4>Bildirilerin Yayınlanması</h4>
                     <ul class="custom no-margin" style="font-weight:normal;">
                         <li>Kongrede sunulan tüm bildiriler kongre özet kitabında elektronik olarak yayınlanacaktır.</li>
