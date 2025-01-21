@@ -199,7 +199,7 @@ img {
 }
 
 .navbar-nav > li > a {
-    padding: 32px 25px;
+    padding: 30px 15px;
 }
 
 .navbar-custom ul.nav li a {
@@ -2270,7 +2270,7 @@ button.list-group-item:hover {
 
 @media (max-width: 1200px) {
     .navbar-nav > li > a {
-        padding: 32px 14px;
+        padding: 30px 8px;
     }
     .relative .banner-img {
     width: 100% !important;
