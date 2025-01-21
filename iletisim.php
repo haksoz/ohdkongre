@@ -54,7 +54,7 @@
 
 						</div>
 						<div class="col-lg-5 col-md-5 well text-center">
-                            <img style="max-height: 100px;" src="/doc/bosphorusmice.jpeg" alt="">
+                            <img style="max-height: 100px;width: 100%;" src="/doc/bosphorusmice.jpeg" alt="">
 
                             <div class="contact-info">
 								<h5><b>Organizasyon Sekretaryası</b></h5>
