@@ -26,10 +26,10 @@
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Kurullar<b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="duzenleme-kurulu.php">Düzenleme Kurulu</a>
+                            <a href="/duzenleme-kurulu.php">Düzenleme Kurulu</a>
                         </li>
                         <li>
-                            <a href="bilimsel-kurul.php">Bilimsel Kurul</a>
+                            <a href="/bilimsel-kurul.php">Bilimsel Kurul</a>
                         </li>
                     </ul>
                 </li>
@@ -49,7 +49,7 @@
 					<a href="/bildiri-gonderimi.php">Bildiri Gönderimi</a>
 				</li>
 				<li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>">
-					<a href="iletisim.php">İletişim</a>
+					<a href="/iletisim.php">İletişim</a>
 				</li>
 			</ul>
 		</div><!-- /.navbar-collapse -->
