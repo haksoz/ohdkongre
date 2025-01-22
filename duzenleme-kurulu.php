@@ -97,7 +97,7 @@
                             Dr. Öğr. Üyesi Özlem CANBOLAT <br>
                             Dr. Öğr. Üyesi Yasemin KARACAN <br>
                             Arş. Gör. Hazal ÖZDEMİR KOYU <br>
-                            Arş. Gör. Neslihan KÖSE KABAKÇIOĞLU <br>
+                            Arş. Gör. Neslihan KÖSE KABAKCIOĞLU <br>
                             Uzm. Hem. Ayşin KAYIŞ <br>
                             Uzm. Hem. Canan PÖRÜCÜ <br>
                             Uzm. Hem. Figen BAY <br>
