@@ -61,7 +61,7 @@
                             Dr. Öğr. Üyesi Fatma GÜNDOGDU <br>
                             Doç. Dr. Sevcan ATAY <br>
                             Prof. Dr. Sevinç KUTLUTÜRKAN <br>
-                            Uzm. Hem. Figen BAY <br>
+                            Uzm. Hem. Figen BAY
 
                             <span class="text-red">
                             *Başkanlık dönemine göre sıralanmıştır.
@@ -73,7 +73,8 @@
                             Dr. Öğr. Üyesi Elif SÖZERİ ÖZTÜRK <br>
                             Dr. Öğr. Üyesi Fatma GÜNDOGDU <br>
                             Dr. Öğr. Üyesi Özlem CANBOLAT <br>
-                            Hem. Ferhan ÇETİN ŞEREF <br>
+                            Hem. Ferhan ÇETİN ŞEREF
+
                         </p>
 
                         <h4>KONGRE DÜZENLEME KURULU</h4>
@@ -89,15 +90,20 @@
                             Doç. Dr. Fatma ARIKAN <br>
                             Doç. Dr. Figen ŞENGÜN İNAN <br>
                             Doç. Dr. Vildan KOCATEPE <br>
+                            Dr. Öğr. Üyesi Elif SÖZERİ ÖZTÜRK <br>
+                            Dr. Öğr. Üyesi Fatma GÜNDOGDU <br>
                             Dr. Öğr. Üyesi Miray AKSU <br>
                             Dr. Öğr. Üyesi Nevra KALKAN <br>
+                            Dr. Öğr. Üyesi Özlem CANBOLAT <br>
                             Dr. Öğr. Üyesi Yasemin KARACAN <br>
                             Arş. Gör. Hazal ÖZDEMİR KOYU <br>
                             Arş. Gör. Neslihan KÖSE KABAKÇIOĞLU <br>
                             Uzm. Hem. Ayşin KAYIŞ <br>
                             Uzm. Hem. Canan PÖRÜCÜ <br>
                             Uzm. Hem. Figen BAY <br>
+                            Hem. Ferhan ÇETİN ŞEREF <br>
                             Hem. Hale SÜNBÜL <br>
+                            Hem. Kadriye SANCI <br>
                             Hem. Pınar YILMAZ <br>
                             Hem. Şerife KARACA <br>
                             <span class="text-red">*İsimler alfabetik sıraya göre düzenlenmiştir.</span>
