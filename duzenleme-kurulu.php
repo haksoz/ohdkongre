@@ -61,7 +61,7 @@
                             Dr. Öğr. Üyesi Fatma GÜNDOGDU <br>
                             Doç. Dr. Sevcan ATAY <br>
                             Prof. Dr. Sevinç KUTLUTÜRKAN <br>
-                            Uzm. Hem. Figen BAY
+                            Uzm. Hem. Figen BAY <br>
 
                             <span class="text-red">
                             *Başkanlık dönemine göre sıralanmıştır.
