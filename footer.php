@@ -1,4 +1,3 @@
-<!-- Footer starts -->
 <footer>
     <div class="container">
         <div class="d-flex justify-content-around flex-wrap">
@@ -8,10 +7,9 @@
                     <li style="margin-top: 10px">
                         <i class="fa fa-globe"></i><b>Website</b>
                         <a href="mailto:onkohem1989@yahoo.com" target="_blank">onkohem1989@yahoo.com</a>
-
                     </li>
                 </ul>
-            </div><!-- /.col-md-4 -->
+            </div>
             <div class="col-md-4 res-margin">
                 <ul class="list-unstyled footer-icons">
                     <img alt="" class="res-margin center-block footer-logo" src="/doc/bosphorusmice.jpeg">
@@ -29,15 +27,15 @@
                     </li>
                 </ul>
 
-            </div><!-- /.col-md-4 -->
-        </div><!-- /.container -->
+            </div>
+        </div>
     </div>
     <div class="credits text-center">
         <hr>
-        <span class="text-white">Copyright © 2024 -</span> <a href="https://ko.com.tr" target="_blank">Kapital
-            Online</a> <!-- Go To Top Link -->
+        <span class="text-white">Copyright © 2024 -</span>
+        <a href="https://ko.com.tr" target="_blank">Kapital Online</a>
         <div class="page-scroll hidden-sm hidden-xs">
             <a class="back-to-top" href="#page-top"><i class="fa fa-angle-up"></i></a>
         </div>
-    </div><!-- /credits -->
-</footer><!-- /footer ends -->
+    </div>
+</footer>
