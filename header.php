@@ -17,7 +17,7 @@
 		<div class="collapse navbar-collapse" id="navbar-brand">
 			<ul class="nav navbar-nav page-scroll navbar-right">
 				<li class="<?php echo $page == 'index' ? 'active' : '' ?>">
-					<a href="/index-demo.php">Anasayfa</a>
+					<a href="/index.php">Anasayfa</a>
 				</li>
 				<li class="<?php echo $page == 'davet' ? 'active' : '' ?>">
 					<a href="/davet.php">Davet</a>
