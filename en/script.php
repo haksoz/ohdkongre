@@ -1,6 +1,6 @@
 <script src="/js/jquery.min.js?v=7123523"></script>
 <script src="/js/bootstrap.min.js?v=7123523"></script>
-<script src="/js/main.js?v=7123523"></script>
+<script src="/js/main-en.js?v=7123523"></script>
 <script src="/js/contact.js?v=7123523"></script>
 <script src="/js/plugins.js?v=7123523"></script>
  

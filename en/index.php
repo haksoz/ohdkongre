@@ -71,32 +71,32 @@
         <!-- Section Services -->
         <section >
             <div class="container">
-                <div class="row">
+                <div class="d-flex justify-content-center align-items-center">
                     <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInLeft news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInLeft;">
                         <a href="/en/registration-accommodation.php">
-                            <div class="serviceBox bg-color2">
+                            <div class="serviceBox bg-color2" style="padding:4px 0 4px 0; margin-top: 0px;">
                                 <!-- service image-->
                                 <div class="service-content text-light">
-                                    <h4 class="title">Registration & Accommodation</h4>
+                                    <h4 class="title" style="padding-left: 0px; padding-right: 0px;">Registration & Accommodation</h4>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInRight news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInRight;">
                         <a href="/en/program.php">
-                            <div class="serviceBox bg-color1">
+                            <div class="serviceBox bg-color1" style="padding-right: 0px; padding-left: 0px; margin-top: 0px;">
                                 <!-- service image-->
                                 <div class="service-content text-light">
-                                    <h4 class="title">Scientific Program</h4>
+                                    <h4 class="title" style="padding-left: 0px; padding-right: 0px;">Scientific Program</h4>
                                 </div>
                             </div>
                         </a>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInLeft news-addon-one animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInLeft;">
                         <a href="/en/abstract-submission.php">
-                            <div class="serviceBox bg-color3">
+                            <div class="serviceBox bg-color3" style="padding-right: 0px; padding-left: 0px; margin-top: 0px;">
                                 <div class="service-content text-light">
-                                    <h4 class="title">Abstract Submission</h4>
+                                    <h4 class="title" style="padding-left: 0px; padding-right: 0px;">Abstract Submission</h4>
                                 </div>
                             </div>
                         </a>

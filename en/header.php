@@ -1,6 +1,6 @@
 <!-- Navbar -->
 <nav class="navbar navbar-custom navbar-fixed-top" id="navbar-custom">
-	<div class="container">
+	<div class="header-container">
 		<!-- Logo and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
 			<button class="navbar-toggle" data-target="#navbar-brand" data-toggle="collapse" type="button"><i class="fa fa-bars"></i></button> 
@@ -34,19 +34,30 @@
                     </ul>
                 </li>
 				<li class="<?php echo $page == 'general-information' ? 'active' : '' ?>">
-					<a href="/en/general-info.php">General İnformation</a>
+					<a href="/en/general-info.php" style="line-height: 25px;">General <br> İnformation</a>
 				</li>
 				<li class="<?php echo $page == 'registration-accommodation' ? 'active' : '' ?>">
-					<a href="/en/registration-accommodation.php">Registration & Accommodation</a>
+					<a href="/en/registration-accommodation.php" style="line-height: 25px;">Registration <br> Accommodation</a>
 				</li>
-				<li class="<?php echo $page == 'program' ? 'active' : '' ?>">
-					<a href="/en/program.php">Scientific Program</a>
-				</li>
-                <li class="<?php echo $page == 'courses' ? 'active' : '' ?>">
-					<a href="/en/courses.php">Courses</a>
-				</li>
+                <li class="dropdown <?php echo $page == 'program' ? 'active' : '' ?>">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Program<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="/en/program.php">Scientific Program</a>
+                        </li>
+                        <li>
+                            <a href="/en/courses.php">Courses</a>
+                        </li>
+                    </ul>
+                </li>
+<!--				<li class="--><?php //echo $page == 'program' ? 'active' : '' ?><!--">-->
+<!--					<a href="/en/program.php" style="line-height: 25px;">Scientific <br> Program</a>-->
+<!--				</li>-->
+<!--                <li class="--><?php //echo $page == 'courses' ? 'active' : '' ?><!--">-->
+<!--					<a href="/en/courses.php">Courses</a>-->
+<!--				</li>-->
 				<li class="<?php echo $page == 'abstract' ? 'active' : '' ?>">
-					<a href="/en/abstract-submission.php">Abstract Submission</a>
+					<a href="/en/abstract-submission.php" style="line-height: 25px;">Abstract <br> Submission</a>
 				</li>
 				<li class="<?php echo $page == 'contact' ? 'active' : '' ?>">
 					<a href="/en/contact.php">Contact</a>
