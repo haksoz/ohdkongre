@@ -3414,17 +3414,9 @@ footer .img-responsive {
 
 .header-container{
     width: 100%;
-    padding-right: 10%;
-    padding-left: 10%;
+    padding-right: 2%;
+    padding-left: 2%;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-@media screen and (max-width: 1280px){
-    .header-container {
-        padding-right: 2%;
-        padding-left: 2%;
-
-    }
 }

@@ -34,10 +34,10 @@
                     </ul>
                 </li>
 				<li class="<?php echo $page == 'general-information' ? 'active' : '' ?>">
-					<a href="/en/general-info.php" style="line-height: 25px;">General <br> İnformation</a>
+					<a href="/en/general-info.php">General İnformation</a>
 				</li>
 				<li class="<?php echo $page == 'registration-accommodation' ? 'active' : '' ?>">
-					<a href="/en/registration-accommodation.php" style="line-height: 25px;">Registration <br> Accommodation</a>
+					<a href="/en/registration-accommodation.php">Registration & Accommodation</a>
 				</li>
                 <li class="dropdown <?php echo $page == 'program' ? 'active' : '' ?>">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Program<b class="caret"></b></a>
@@ -50,14 +50,9 @@
                         </li>
                     </ul>
                 </li>
-<!--				<li class="--><?php //echo $page == 'program' ? 'active' : '' ?><!--">-->
-<!--					<a href="/en/program.php" style="line-height: 25px;">Scientific <br> Program</a>-->
-<!--				</li>-->
-<!--                <li class="--><?php //echo $page == 'courses' ? 'active' : '' ?><!--">-->
-<!--					<a href="/en/courses.php">Courses</a>-->
-<!--				</li>-->
+
 				<li class="<?php echo $page == 'abstract' ? 'active' : '' ?>">
-					<a href="/en/abstract-submission.php" style="line-height: 25px;">Abstract <br> Submission</a>
+					<a href="/en/abstract-submission.php">Abstract Submission</a>
 				</li>
 				<li class="<?php echo $page == 'contact' ? 'active' : '' ?>">
 					<a href="/en/contact.php">Contact</a>
