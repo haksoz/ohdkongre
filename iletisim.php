@@ -44,8 +44,8 @@
                             <div class="contact-info">
                                 <h5><b>Kongre Sekretaryası</b></h5>
 								<p>
-                                    <i class="fa fa-globe margin-icon text-black"></i>
-                                    <b>Website: </b>
+                                    <i class="fa fa-envelope margin-icon text-black"></i>
+                                    <b>E-Mail: </b>
                                     <a href="mailto:onkohem1989@yahoo.com" target="_blank">onkohem1989@yahoo.com</a>
                                 </p>
 							</div>

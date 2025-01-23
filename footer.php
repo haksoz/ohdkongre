@@ -5,7 +5,7 @@
                 <ul class="list-unstyled footer-icons">
                     <img alt="" class="res-margin center-block footer-logo" src="/doc/onkoloji-hemsireligi-dernegi-logo.png">
                     <li style="margin-top: 10px">
-                        <i class="fa fa-globe"></i><b>Website</b>
+                        <i class="fa fa-envelope"></i><b>E-Mail:</b>
                         <a href="mailto:onkohem1989@yahoo.com" target="_blank">onkohem1989@yahoo.com</a>
                     </li>
                 </ul>
