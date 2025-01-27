@@ -213,5 +213,6 @@
 
 	</div><!-- /page-width -->
     <?php include("script.php") ?>
+    <?php include("popup.php") ?>
 </body>
 </html>
