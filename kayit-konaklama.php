@@ -54,18 +54,18 @@
                             <tbody>
                             <tr>
                                 <td>Lisans ve Lisansüstü Öğrenciler</td>
-                                <td>5.000 TL</td>
                                 <td>6.000 TL</td>
+                                <td>7.200 TL</td>
                             </tr>
                             <tr>
                                 <td>Dernek Üyesi</td>
-                                <td>5.500 TL</td>
-                                <td>6.500 TL</td>
+                                <td>6.600 TL</td>
+                                <td>7.800 TL</td>
                             </tr>
                             <tr>
                                 <td>Dernek Üyesi Olmayan</td>
-                                <td>6.000 TL</td>
-                                <td>7.000 TL</td>
+                                <td>7.200 TL</td>
+                                <td>8.400 TL</td>
                             </tr>
                             </tbody>
                         </table>
@@ -75,7 +75,7 @@
 
                 <div class="col-lg-12 col-md-12">
                     <ul class="custom no-margin">
-                        <li>Kayıt ücretlerine KDV dahil değildir. KDV oranı %20'dir.</li>
+                        <li>Kayıt ücretlerine KDV dahildir.</li>
                         <li>Kongre genel alanları ve bilimsel toplantılara katılım için herkesin kayıt yaptırması zorunludur.</li>
                         <li>Kayıt ücretine bilimsel aktivitelere katılım, yaka kartı, yaka kartı programı, katılım sertifikası ve 22 -23 Mayıs öğle yemekleri dahildir.</li>
                         <li>Organizasyon muhtemel vergi, harç, rusum tutarlarındaki değişikliği fiyatlara yansıtma hakkını saklı tutar.</li>
