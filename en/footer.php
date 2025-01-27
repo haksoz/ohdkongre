@@ -6,7 +6,7 @@
                     <img alt="" class="res-margin center-block footer-logo" src="/doc/onkoloji-hemsireligi-dernegi-logo.png">
                     <li style="margin-top: 10px">
                         <i class="fa fa-envelope"></i><b>Email</b>
-                        <a href="mailto:onkohem1989@yahoo.com" target="_blank">onkohem1989@yahoo.com</a>
+                        <a href="mailto:ohdkongre@gmail.com" target="_blank">ohdkongre@gmail.com</a>
                     </li>
                 </ul>
             </div>
