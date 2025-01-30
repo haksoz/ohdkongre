@@ -54,6 +54,7 @@
                         Prof. Dr. Ebru KILÇARSLAN<br>
                         Prof. Dr. Ebru AKGÜN ÇITAK<br>
                         Prof. Dr. Emine EFE<br>
+                        Prof. Dr. Emine İYİGÜN <br>
                         Prof. Dr. Ezgi KARADAĞ<br>
                         Prof. Dr. Fatma İlknur ÇINAR<br>
                         Prof. Dr. Fatma TAŞ ARSLAN<br>
