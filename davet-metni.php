@@ -31,19 +31,7 @@
 </div>
 <div class="w-100 row justify-content-md-center" style="padding-bottom: 50px;margin-right: 0;">
 	<div class="col-md-2"></div>
-	<div class="col-md-4">
-		<div class="our-team" style="padding-bottom: 30px;">
-			<div class="pic">
-				<div class="" style="text-align: center;">
-                    <div style="width: 120px;border: 2px solid;height: auto;margin: 0 auto;border-radius: 20%;border-color: #fc8c76;"></div>
-					<h6 style="text-transform: inherit;">Prof. Dr. Sultan Ayaz	Alkaya</h6>
-                    <span class="">
-                        <b>Kongre Başkanı</b>
-                    </span>
-				</div>
-			</div>
-		</div>
-	</div>
+
 	<div class="col-md-4">
 		<div class="our-team" style="padding-bottom: 30px;">
 			<div class="pic">
@@ -57,4 +45,17 @@
 			</div>
 		</div>
 	</div>
+    <div class="col-md-4">
+        <div class="our-team" style="padding-bottom: 30px;">
+            <div class="pic">
+                <div class="" style="text-align: center;">
+                    <div style="width: 120px;border: 2px solid;height: auto;margin: 0 auto;border-radius: 20%;border-color: #fc8c76;"></div>
+                    <h6 style="text-transform: inherit;">Prof. Dr. Sultan Ayaz	Alkaya</h6>
+                    <span class="">
+                        <b>Kongre Başkanı</b>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
