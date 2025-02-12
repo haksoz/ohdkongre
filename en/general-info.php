@@ -40,7 +40,8 @@
                 </p>
                 <p>
                     <b class="text-uppercase fs-18 mr-2">Badge: </b> <br>
-                    All participants and accompanying persons are required to wear their badges at the entrance to the congress centre, during scientific sessions, stand areas and other social programmes in order to ensure the healthy running and safety of the congress. Guests without badges will not be able to participate in congress activities.                </p>
+                    All participants and accompanying persons are required to wear their badges at the entrance to the congress centre, during scientific sessions, stand areas and other social programmes in order to ensure the healthy running and safety of the congress. Guests without badges will not be able to participate in congress activities.
+                </p>
                 <p>
                     <b class="text-uppercase fs-18 mr-2">Certificate of Participation: </b><br>
                     PartiParticipation certificates will be sent digitally to all participants of the scientific programme to those who complete and submit the online questionnaire after the Congress.

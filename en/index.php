@@ -128,62 +128,51 @@
                     <div class="testimonial">
                         <div class="description">
                             <p>
-                                <b>Event Name: </b><br>
-                                1st International Oncology Nursing Association Congress
+                                <b>Congress Date and Place:</b><br>
+                                It will take place between 21-23 May 2025 in Ankara.
                             </p>
                         </div>
-                    </div><!-- /Testimonial 1 -->
-                    <!-- Testimonial 2 -->
+                    </div>
                     <div class="testimonial">
                         <div class="description">
                             <p>
-                                <b>Event Venue and Date: </b> <br>
-                                1st International Oncology Nursing Association Congress will be held on May 21 - 23, 2025, at
-                                Gazi University Rectorate Mimar Kemaleddin Hall in Ankara.
+                                <b>Badge: </b> <br>
+                                All participants and accompanying persons are required to wear their badges at the entrance to the congress centre, during scientific sessions, stand areas and other social programmes in order to ensure the healthy running and safety of the congress. Guests without badges will not be able to participate in congress activities.
                             </p>
                         </div>
-                    </div><!-- /Testimonial 2 -->
-                    <!-- Testimonial 3 -->
+                    </div>
                     <div class="testimonial">
                         <div class="description">
                             <p>
-                                <b>Event Language: </b><br>
-                                The official language of the congress is Turkish.
+                                <b>Certificate of Participation: </b><br>
+                                PartiParticipation certificates will be sent digitally to all participants of the scientific programme to those who complete and submit the online questionnaire after the Congress.
                             </p>
                         </div>
-                    </div><!-- /Testimonial 3 -->
+                    </div>
                     <div class="testimonial">
                         <div class="description">
                             <p>
-                                <b>Registration and Information Desks: </b><br>
-                                The registration and information desks at Gazi University Rectorate will be operational from May 21. These desks will remain open from 08:00 to 18:00 on May 21 - 23.
+                                <b>Letter of Invitation: </b><br>
+                                An invitation letter will be sent to the congress participants who have completed the registration process upon request. This invitation letter is only intended to help the participants to obtain permission from the institutions to which they are affiliated and will not provide any financial support to the participant.
                             </p>
                         </div>
-                    </div><!-- /Testimonial 3 -->
+                    </div>
                     <div class="testimonial">
                         <div class="description">
                             <p>
-                                <b>Name Badges: </b><br>
-                                All participants will be provided with name badges. Participants are kindly requested to wear their name badges at all times for the smooth running of the congress.
+                                <b>Exhibition Area: </b><br>
+                                During the congress, pharmaceutical and medical device companies will be able to exhibit their products in the area reserved for them in the symposium centre. The exhibition area will be open throughout the congress.
                             </p>
                         </div>
-                    </div><!-- /Testimonial 3 -->
+                    </div>
                     <div class="testimonial">
                         <div class="description">
                             <p>
-                                <b>Certificate of Attendance: </b><br>
-                                Certificates of attendance will be sent online to all participants starting from May 23, 2025, at 12:00.
+                                <b>Organiser: </b><br>
+                                The Organising Committee has appointed Bosphorus Mice as the Official Agent of the Meeting. We kindly ask you to contact Bosphorus Mice for any request within the framework of the meeting.
                             </p>
                         </div>
-                    </div><!-- /Testimonial 3 -->
-                    <div class="testimonial">
-                        <div class="description">
-                            <p>
-                                <b>Permissions: </b><br>
-                                Letters of invitation for congress participation for submission to institutions can be provided to participants upon request through the Congress Secretariat. These letters are intended solely for obtaining leave permission. Registration and accommodation fees of participants requesting invitation letters are to be borne by themselves.
-                            </p>
-                        </div>
-                    </div><!-- /Testimonial 3 -->
+                    </div>
 
                 </div><!--/Testimonial Slider -->
             </div><!--/container -->
