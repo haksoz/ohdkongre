@@ -53,19 +53,19 @@
                         </thead>
                         <tbody>
                         <tr>
-                            <td>Undergraduate and Graduate Students</td>
-                            <td>5,000 TRY</td>
-                            <td>6,000 TRY</td>
+                            <td>Undergraduate and graduate students</td>
+                            <td>6.000 TL</td>
+                            <td>7.200 TL</td>
                         </tr>
                         <tr>
-                            <td>Association Member</td>
-                            <td>5,500 TRY</td>
-                            <td>6,500 TRY</td>
+                            <td>Member of the Association</td>
+                            <td>6.600 TL</td>
+                            <td>7.800 TL</td>
                         </tr>
                         <tr>
-                            <td>Non-Member</td>
-                            <td>6,000 TRY</td>
-                            <td>7,000 TRY</td>
+                            <td>Non-Member of the Association</td>
+                            <td>7.200 TL</td>
+                            <td>8.400 TL</td>
                         </tr>
                         </tbody>
                     </table>
@@ -75,11 +75,10 @@
 
             <div class="col-lg-12 col-md-12">
                 <ul class="custom no-margin">
-                    <li>VAT is not included in the registration and accommodation package fees. The VAT rate is 20%.</li>
-                    <li>Registration is mandatory for participation in the congress general areas and scientific meetings.</li>
-                    <li>The registration fee includes participation in scientific activities, name badge, name badge program, participation certificate, and lunch on May 22-23.</li>
-                    <li>The organization reserves the right to reflect any changes in tax, fee, or other amounts on the prices.</li>
-                    <!--                        <li>Oral presenters may present online at the congress, but they will not have access to the sessions. Online Presentation Registration is 3,000 TRY + VAT.</li>-->
+                    <li> VAT included. VAT rate is 20%.	</li>
+                    <li> Registration is nurses and company representatives to participate in the general areas of the congress and scientific meetings. Participation in scientific activities, name badge, name badge programme and participation certificate are included in the registration fee.	</li>
+                    <li> Bosphorus Mice reserves the right to reflect the change in the amount of taxes, fees and charges that may arise in the prices.	</li>
+                    <li> We kindly ask you to contact us regarding your early check-in or late check-out requests within the scope of the congress dates.	</li>
                 </ul>
             </div>
             <div class="col-md-12 col-md-12 res-margin">

@@ -79,7 +79,7 @@
                         <li>Kongre genel alanları ve bilimsel toplantılara katılım için herkesin kayıt yaptırması zorunludur.</li>
                         <li>Kayıt ücretine bilimsel aktivitelere katılım, yaka kartı, yaka kartı programı, katılım sertifikası ve 22 -23 Mayıs öğle yemekleri dahildir.</li>
                         <li>Organizasyon muhtemel vergi, harç, rusum tutarlarındaki değişikliği fiyatlara yansıtma hakkını saklı tutar.</li>
-<!--                        <li>Dileyen Sözlü Bildiri sahipleri çevrim içi olarak kongremizde sunum yapabilirler ama oturumları izleme hakları olmayacaktır. Çevrim içi Bildiri Sunma Kaydı 3.000 TL + Kdv dir.</li>-->
+                        <li>İptal iade hakkı; 1 Mayıs 2025 tarihine kadar geçerlidir, bu tarihten sonra iptal iade hakkı yoktur. Tüm ücret iadeleri kongre sonrasında yapılacaktır.</li>
                     </ul>
 				</div>
 				<div class="col-md-12 col-md-12 res-margin">
