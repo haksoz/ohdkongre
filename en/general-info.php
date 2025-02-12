@@ -35,32 +35,27 @@
             </div>
             <div class="col-md-12 col-md-12 res-margin">
                 <p>
-                    <b class="text-uppercase fs-18 mr-2">Meeting Name: </b><br>
-                    1st International Oncology Nursing Association Congress
+                    <b class="text-uppercase fs-18 mr-2">Congress Date and Place:</b><br>
+                    It will take place between 21-23 May 2025 in Ankara.
                 </p>
                 <p>
-                    <b class="text-uppercase fs-18 mr-2">Meeting Venue and Date: </b> <br>
-                    The 1st International Oncology Nursing Association Congress will be held on May 21-23, 2025, at Gazi University Rectorate Mimar Kemaleddin Hall in Ankara.
+                    <b class="text-uppercase fs-18 mr-2">Badge: </b> <br>
+                    All participants and accompanying persons are required to wear their badges at the entrance to the congress centre, during scientific sessions, stand areas and other social programmes in order to ensure the healthy running and safety of the congress. Guests without badges will not be able to participate in congress activities.                </p>
+                <p>
+                    <b class="text-uppercase fs-18 mr-2">Certificate of Participation: </b><br>
+                    PartiParticipation certificates will be sent digitally to all participants of the scientific programme to those who complete and submit the online questionnaire after the Congress.
                 </p>
                 <p>
-                    <b class="text-uppercase fs-18 mr-2">Meeting Language: </b><br>
-                    The official language of the congress is Turkish.
+                    <b class="text-uppercase fs-18 mr-2">Letter of Invitation: </b><br>
+                    An invitation letter will be sent to the congress participants who have completed the registration process upon request. This invitation letter is only intended to help the participants to obtain permission from the institutions to which they are affiliated and will not provide any financial support to the participant.
                 </p>
                 <p>
-                    <b class="text-uppercase fs-18 mr-2">Registration and Information Desks: </b><br>
-                    Registration and information desks at Gazi University Rectorate in Ankara will start operating from May 21. These desks will remain open between 08:00 – 18:00 on May 21 – 23.
+                    <b class="text-uppercase fs-18 mr-2">Exhibition Area: </b><br>
+                    During the congress, pharmaceutical and medical device companies will be able to exhibit their products in the area reserved for them in the symposium centre. The exhibition area will be open throughout the congress.
                 </p>
                 <p>
-                    <b class="text-uppercase fs-18 mr-2">Name Badge: </b><br>
-                    Name badges will be provided to all participants. To maintain the order of the congress, it is kindly requested that badges are worn at all times.
-                </p>
-                <p>
-                    <b class="text-uppercase fs-18 mr-2">Participation Certificate: </b><br>
-                    Participation certificates will be sent online to all participants starting at 12:00 on May 23, 2025.
-                </p>
-                <p>
-                    <b class="text-uppercase fs-18 mr-2">Permissions: </b><br>
-                    Letters of invitation for congress participation, which may be requested for submission to institutions, will be sent to participants upon request via the Congress Secretariat. Such invitation letters can only be used for permission purposes. Registration and accommodation fees of guests receiving such invitation letters are their own responsibility.
+                    <b class="text-uppercase fs-18 mr-2">Organiser: </b><br>
+                    The Organising Committee has appointed Bosphorus Mice as the Official Agent of the Meeting. We kindly ask you to contact Bosphorus Mice for any request within the framework of the meeting.
                 </p>
             </div>
         </section>
