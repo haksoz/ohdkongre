@@ -72,7 +72,7 @@
                         <p>
                             Dr. Öğr. Üyesi Elif SÖZERİ ÖZTÜRK <br>
                             Dr. Öğr. Üyesi Fatma GÜNDOGDU <br>
-                            Dr. Öğr. Üyesi Özlem CANBOLAT <br>
+                            Doç. Dr. Özlem CANBOLAT <br>
                             Hem. Ferhan ÇETİN ŞEREF
 
                         </p>
@@ -89,12 +89,12 @@
                             Doç. Dr. Dilek YILDIRIM <br>
                             Doç. Dr. Fatma ARIKAN <br>
                             Doç. Dr. Figen ŞENGÜN İNAN <br>
+                            Doç. Dr. Özlem CANBOLAT <br>
                             Doç. Dr. Vildan KOCATEPE <br>
                             Dr. Öğr. Üyesi Elif SÖZERİ ÖZTÜRK <br>
                             Dr. Öğr. Üyesi Fatma GÜNDOGDU <br>
                             Dr. Öğr. Üyesi Miray AKSU <br>
                             Dr. Öğr. Üyesi Nevra KALKAN <br>
-                            Dr. Öğr. Üyesi Özlem CANBOLAT <br>
                             Dr. Öğr. Üyesi Yasemin KARACAN <br>
                             Arş. Gör. Hazal ÖZDEMİR KOYU <br>
                             Arş. Gör. Neslihan KÖSE KABAKCIOĞLU <br>
