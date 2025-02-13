@@ -79,12 +79,13 @@
                     <li> Registration is nurses and company representatives to participate in the general areas of the congress and scientific meetings. Participation in scientific activities, name badge, name badge programme and participation certificate are included in the registration fee.	</li>
                     <li> Bosphorus Mice reserves the right to reflect the change in the amount of taxes, fees and charges that may arise in the prices.	</li>
                     <li> We kindly ask you to contact us regarding your early check-in or late check-out requests within the scope of the congress dates.	</li>
+                    <li>The cancellation and refund right is valid until May 1, 2025. After this date, no cancellations or refunds will be accepted. All refunds will be processed after the congress.</li>
                 </ul>
             </div>
             <div class="col-md-12 col-md-12 res-margin">
                 <h3 class="text-center mt-5">ACCOMMODATION</h3>
                 <p><b>Please contact us for accommodation requests.</b></p>
-                <p><b>Phone:</b><a href="tel:+905343366908">+90 534 336 69 08</a></p>
+                <p><b>Phone:</b><a href="tel:+902162350686">+90 216 235 06 86</a></p>
                 <p><b>Email:</b><a href="mailto:salih.gonca@bosphorusmice.net "> salih.gonca@bosphorusmice.net </a></p>
             </div>
             <div class="d-flex w-100 justify-content-center">
