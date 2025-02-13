@@ -26,7 +26,7 @@
                     <div class="jumbotron"></div>
                     <div class="jumbo-heading">
                         <div class="container">
-                            <img src="/doc/slider-banner2.png" alt="">
+                            <img src="/doc/slider-banner-en.png" alt="">
                         </div>
                     </div>
                 </div>
