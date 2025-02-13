@@ -60,9 +60,9 @@
 								<h5><b>Organizasyon Sekretaryası</b></h5>
                                 <p><b>Bosphorus Kongre Organizasyon Etkinlik ve Danışmanlık Hiz. Tic. Ltd. Şti.</b></p>
 								<p><i class="fa fa-map-marker margin-icon text-black"></i><b>Adres:</b>
-                                    Koşuyolu Mah. İsmailpaşa Sok, No:42/1, Kadıköy, İstanbul
+                                    Koşuyolu Mah. İsmailpaşa Sok, No:42/1, 34718, Kadıköy, İstanbul, Türkiye
                                 </p>
-								<p><i class="fa fa-phone margin-icon text-black"></i><b>Tel:</b> <a href="tel:+905343366908">+90 534 336 69 08</a></p>
+								<p><i class="fa fa-phone margin-icon text-black"></i><b>Tel:</b> <a href="tel:+902162350686">+90 216 235 06 86 </a></p>
 								<p><i class="fa fa-envelope margin-icon text-black"></i><b>E-Mail:</b> <a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a></p>
 							</div>
 						</div>

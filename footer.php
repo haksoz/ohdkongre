@@ -15,11 +15,11 @@
                     <img alt="" class="res-margin center-block footer-logo" src="/doc/bosphorusmice.jpeg">
                     <li style="margin-top: 10px">
                         <i class="fa fa-map-marker"></i><b>Adres:</b>
-                        Koşuyolu Mah. İsmailpaşa Sok, No:42/1, Kadıköy, İstanbul
+                        Koşuyolu Mah. İsmailpaşa Sok, No:42/1, 34718, Kadıköy, İstanbul, Türkiye
                     </li>
                     <li>
                         <i class="fa fa-phone"></i><b>Tel:</b>
-                        <a href="tel:+905343366908"> +90 534 336 69 08</a>
+                        <a href="tel:+902162350686"> +90 216 235 06 86 </a>
                     </li>
                     <li>
                         <i class="fa fa-envelope"></i><b>E-Mail:</b>
