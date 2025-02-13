@@ -3396,6 +3396,7 @@ footer .img-responsive {
 .abstract-button {
     display: inline-block; /* Elemanın görünümünü optimize eder */
     transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out; /* Geçiş sürelerini optimize ettik */
+    border-radius: 35px;
 }
 
 .abstract-button:hover {
