@@ -168,7 +168,7 @@
                     <li> Oral presentations can be presented in <b>Turkish or English</b>. </li>
                     <li> Presentation time is limited to a total of <b>5 minutes</b>, including discussion. </li>
                     <li> Presentations must be made on the day and time specified in the congress program and in the hall. Those who do not make a presentation at the specified time will be deemed not to have participated in the congress. </li>
-                    <li> A manuscript cannot be presented on behalf of someone else. The presenter must be the author or co-author.	</li>
+                    <li> A submission cannot be made on behalf of someone else. The presenter must be the author or co-author.</li>
                 </ul>
                 <p style="font-weight: bold;">Poster Presentation</p>
                 <ul class="custom no-margin" style="font-weight:normal;">

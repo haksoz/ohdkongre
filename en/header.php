@@ -34,7 +34,7 @@
                     </ul>
                 </li>
 				<li class="<?php echo $page == 'general-information' ? 'active' : '' ?>">
-					<a href="/en/general-info.php">General İnformation</a>
+					<a href="/en/general-info.php">General Information</a>
 				</li>
 				<li class="<?php echo $page == 'registration-accommodation' ? 'active' : '' ?>">
 					<a href="/en/registration-accommodation.php">Registration & Accommodation</a>
