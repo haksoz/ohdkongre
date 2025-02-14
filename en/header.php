@@ -57,6 +57,16 @@
 				<li class="<?php echo $page == 'contact' ? 'active' : '' ?>">
 					<a href="/en/contact.php">Contact</a>
 				</li>
+				
+                     <li>
+                         <a href="/en/index.php">
+                         	<img alt="" src="/doc/united-kingdom.png" style="max-width: 30px;"></a>
+                     </li>
+                     <li>
+                         <a href="/index.php">
+                         	<img alt="" src="/doc/square.png" style="max-width: 30px;"></a>
+                     </li>
+                 
 			</ul>
 		</div><!-- /.navbar-collapse -->
 	</div><!-- /container -->
