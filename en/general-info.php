@@ -23,7 +23,7 @@
                 <div class="jumbotron"></div>
                 <div class="jumbo-heading">
                     <div class="container">
-                        <img src="/doc/slider-banner2.png" alt="">
+                        <img src="/doc/slider-banner-en.png" alt="">
                     </div>
                 </div>
             </div>
@@ -36,7 +36,7 @@
             <div class="col-md-12 col-md-12 res-margin">
                 <p>
                     <b class="text-uppercase fs-18 mr-2">Congress Date and Place:</b><br>
-                    It will take place between 21-23 May 2025 in Ankara.
+                    The 1st International Oncology Nursing Association Congress will be held between 21-25 May 2025 at Ankara Gazi University Rectorate Mimar Kemaleddin Hall.
                 </p>
                 <p>
                     <b class="text-uppercase fs-18 mr-2">Badge: </b> <br>

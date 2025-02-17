@@ -24,7 +24,7 @@
                 <div class="jumbotron"></div>
                 <div class="jumbo-heading">
                     <div class="container">
-                        <img src="/doc/slider-banner2.png" alt="">
+                        <img src="/doc/slider-banner-en.png" alt="">
                     </div>
                 </div>
             </div>
@@ -41,70 +41,74 @@
                         <p>
                             Prof. Dr. Uğur ÜNAL <br>
                             Prof. Dr. Nurgün PLATİN <br>
-                            Prof. Dr. Gülşen TERAKYE
+                            Prof. Dr. Gülşen TERAKYE<br>
                         </p>
-
+                        <br>
                         <h4>CONGRESS CHAIRS</h4>
                         <p>
                             Prof. Dr. Perihan GÜNER <br>
                             Prof. Dr. Sultan AYAZ ALKAYA
                         </p>
-
+                        <br>
                         <h4>PAST PRESIDENTS OF THE ONCOLOGY NURSING ASSOCIATION</h4>
                         <p>
-                            Prof. Dr. Leman BİROL <br>
-                            Prof. Dr. Nurgün PLATİN <br>
-                            Prof. Dr. Lale TAŞKIN <br>
-                            Prof. Dr. Gülşen TERAKYE <br>
-                            Prof. Dr. Yurdagül ERDEM <br>
-                            Prof. Dr. Sultan KAV <br>
-                            Dr. Lecturer Fatma GÜNDOGDU <br>
-                            Assoc. Prof. Sevcan ATAY <br>
-                            Prof. Dr. Sevinç KUTLUTÜRKAN <br>
-                            Specialist Nurse Figen BAY <br>
+Prof. Dr. Leman BİROL<br>
+Prof. Dr. Nurgün PLATİN<br>
+Prof. Dr. Lale TAŞKIN<br>
+Prof. Dr. Gülşen TERAKYE<br>
+Prof. Dr. Yurdagül ERDEM<br>
+Prof. Dr. Sultan KAV<br>
+Assistant Prof. Dr. Fatma GÜNDOGDU<br>
+Assoc Prof Dr. Sevcan ATAY<br>
+Prof. Dr. Sevinç KUTLUTÜRKAN<br>
+Specialist Nurse Figen BAY<br>
 
                             <span class="text-red">
                             *Listed in chronological order of presidency.
                         </span>
                         </p>
-
+                        <br>
                         <h4>CONGRESS SECRETARIAT</h4>
                         <p>
-                            Dr. Lecturer Elif SÖZERİ ÖZTÜRK <br>
-                            Dr. Lecturer Fatma GÜNDOGDU <br>
-                            Dr. Lecturer Özlem CANBOLAT <br>
+Assistant Prof. Dr. Elif SÖZERİ ÖZTÜRK<br>
+Assistant Prof. Dr. Fatma GÜNDOGDU<br>
+Assoc Prof Dr. Özlem CANBOLAT<br>
+
                             Nurse Ferhan ÇETİN ŞEREF
                         </p>
-
+                        <br>
                         <h4>CONGRESS ORGANIZING COMMITTEE</h4>
                         <p>
-                            Prof. Dr. Ayşe OKANLI <br>
-                            Prof. Dr. Gülbeyaz CAN <br>
-                            Prof. Dr. Gülten GÜVENÇ <br>
-                            Prof. Dr. Özlem UĞUR <br>
-                            Prof. Dr. Sevil GÜLER <br>
-                            Prof. Dr. Sevinç KUTLUTÜRKAN <br>
-                            Assoc. Prof. Betül TOSUN <br>
-                            Assoc. Prof. Dilek YILDIRIM <br>
-                            Assoc. Prof. Fatma ARIKAN <br>
-                            Assoc. Prof. Figen ŞENGÜN İNAN <br>
-                            Assoc. Prof. Vildan KOCATEPE <br>
-                            Dr. Lecturer Elif SÖZERİ ÖZTÜRK <br>
-                            Dr. Lecturer Fatma GÜNDOGDU <br>
-                            Dr. Lecturer Miray AKSU <br>
-                            Dr. Lecturer Nevra KALKAN <br>
-                            Dr. Lecturer Özlem CANBOLAT <br>
-                            Dr. Lecturer Yasemin KARACAN <br>
-                            Research Assistant Hazal ÖZDEMİR KOYU <br>
-                            Research Assistant Neslihan KÖSE KABAKCIOĞLU <br>
-                            Specialist Nurse Ayşin KAYIŞ <br>
-                            Specialist Nurse Canan PÖRÜCÜ <br>
-                            Specialist Nurse Figen BAY <br>
-                            Nurse Ferhan ÇETİN ŞEREF <br>
-                            Nurse Hale SÜNBÜL <br>
-                            Nurse Kadriye SANCI <br>
-                            Nurse Pınar YILMAZ <br>
-                            Nurse Şerife KARACA <br>
+
+Prof. Dr. Ayşe OKANLI<br>
+Prof. Dr. Gülbeyaz CAN<br>
+Prof. Dr. Gülten GÜVENÇ<br>
+Prof. Dr. Özlem UĞUR<br>
+Prof. Dr. Sevil GÜLER<br>
+Prof. Dr. Sevinç KUTLUTÜRKAN<br>
+Assoc Prof Dr. Betül TOSUN<br>
+Assoc Prof Dr. Dilek YILDIRIM<br>
+Assoc Prof Dr. Fatma ARIKAN<br>
+Assoc Prof Dr. Figen ŞENGÜN İNAN<br>
+Assoc Prof Dr. Özlem CANBOLAT<br>
+Assoc Prof Dr. Vildan KOCATEPE<br>
+Assistant Prof. Dr. Elif SÖZERİ ÖZTÜRK<br>
+Assistant Prof. Dr. Fatma GÜNDOGDU<br>
+Assistant Prof. Dr. Miray AKSU<br>
+Assistant Prof. Dr. Nevra KALKAN<br>
+Assistant Prof. Dr. Yasemin KARACAN<br>
+Research Assistant Hazal ÖZDEMİR KOYU<br>
+Research Assistant Neslihan KÖSE KABAKCIOĞLU<br>
+Specialist Nurse Ayşin KAYIŞ<br>
+Specialist Nurse Canan PÖRÜCÜ<br>
+Specialist Nurse Figen BAY<br>
+Nurse Ferhan ÇETİN ŞEREF<br>
+Nurse Hale SÜNBÜL<br>
+Nurse Kadriye SANCI<br>
+Nurse Pınar YILMAZ<br>
+Nurse Şerife KARACA<br>
+
+
                             <span class="text-red">*Names are listed alphabetically.</span>
                         </p>
 

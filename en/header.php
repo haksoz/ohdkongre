@@ -34,7 +34,7 @@
                     </ul>
                 </li>
 				<li class="<?php echo $page == 'general-information' ? 'active' : '' ?>">
-					<a href="/en/general-info.php">General İnformation</a>
+					<a href="/en/general-info.php">General Information</a>
 				</li>
 				<li class="<?php echo $page == 'registration-accommodation' ? 'active' : '' ?>">
 					<a href="/en/registration-accommodation.php">Registration & Accommodation</a>
@@ -57,6 +57,16 @@
 				<li class="<?php echo $page == 'contact' ? 'active' : '' ?>">
 					<a href="/en/contact.php">Contact</a>
 				</li>
+				
+                     <li>
+                         <a href="/en/index.php">
+                         	<img alt="" src="/doc/united-kingdom.png" style="max-width: 30px;"></a>
+                     </li>
+                     <li>
+                         <a href="/index.php">
+                         	<img alt="" src="/doc/square.png" style="max-width: 30px;"></a>
+                     </li>
+                 
 			</ul>
 		</div><!-- /.navbar-collapse -->
 	</div><!-- /container -->
