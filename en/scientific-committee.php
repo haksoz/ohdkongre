@@ -139,6 +139,7 @@
                         Assoc. Prof. Dr. Neşe UYSAL<br>
                         Assoc. Prof. Dr. Nurhan DOĞAN<br>
                         Assoc. Prof. Dr. Nurten TERKEŞ<br>
+                        Assoc. Prof. Dr. Özlem CANBOLAT<br>
                         Assoc. Prof. Dr. Pınar TEKİNSOY KARTIN<br>
                         Assoc. Prof. Dr. Remziye SEMERCİ<br>
                         Assoc. Prof. Dr. Runida DOĞAN<br>

@@ -140,6 +140,7 @@
                         Doç. Dr. Neşe UYSAL<br>
                         Doç. Dr. Nurhan DOĞAN<br>
                         Doç. Dr. Nurten TERKEŞ<br>
+                        Doç. Dr. Özlem CANBOLAT<br>
                         Doç. Dr. Pınar TEKİNSOY KARTIN<br>
                         Doç. Dr. Remziye SEMERCİ<br>
                         Doç. Dr. Runida DOĞAN<br>
