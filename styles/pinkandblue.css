@@ -141,12 +141,15 @@ button.list-group-item:hover,
 .dropdown-menu>li>a:hover,
 .navbar-custom .nav a:hover,
 .navbar-custom .nav > .active > a,
-.nav-tabs li a:before,
 .navbar-custom ul li a:after,
 .our-team:hover .team-info,
 .btn.btn-primary,
 .btn {
     background-color: #e8efff;
+    color: #111d35;
+}
+.nav-tabs li a:before{
+    background-color: #5da7bd;
     color: #111d35;
 }
 .bg-color1{
