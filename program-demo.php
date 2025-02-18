@@ -220,14 +220,14 @@
                                                 </thead>
                                                 <tbody>
                                                 <tr>
-                                                    <td class="oturum_baslik"><b>08:00–08:30</b></td>
-                                                    <td class="oturum_baslik">
+                                                    <td class="oturum sub_clock"><b>08:00–08:30</b></td>
+                                                    <td class="oturum">
                                                         <b>KONGRE KAYIT </b>
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="oturum_baslik"><b>08:30–09:00</b></td>
-                                                    <td class="oturum_baslik">
+                                                    <td class="oturum sub_clock"><b>08:30–09:00</b></td>
+                                                    <td class="oturum">
                                                         <b>KONGRE AÇILIŞI</b> <br>
                                                         Prof. Dr. Sultan AYAZ ALKAYA – Gazi Üniversitesi Hemşirelik Fakültesi <br>
                                                         Prof. Dr. Perihan GÜNER 	– Onkoloji Hemşireliği Derneği Başkanı <br>
@@ -741,20 +741,19 @@
                                     vertical-align: middle !important;
                                 }
 
-                                .panel-baslik {
-                                    background-color: #5da7bd;
-                                    color: #ffffff;
-                                    vertical-align: middle !important;
-                                }
-
                                 .oturum { 
-                                    background-color: #dbbf8873;
-                                    color: #000000;
+                                    background-color: transparent;
                                 }
 
                                 .oturum_baslik { 
-                                    background-color: #5da7bd;
-                                    color: #ffffff;
+                                    background-color: #5b93b0;
+                                    color: white;
+                                    vertical-align: middle !important;
+                                }
+
+                                .panel-baslik { 
+                                    background-color: #5b93b0;
+                                    color: white;
                                     vertical-align: middle !important;
                                 }
 
@@ -762,14 +761,18 @@
                                     font-weight: bold;
                                 }
 
-                                .breaktime {
+                                .breaktime{
                                     font-weight: bold;
+                                    background: #99aebb;
+                                    color: #ffffff;
+                                    text-transform: uppercase;
                                 }
 
                                 .sub_clock {
-                                    text-align: center !important;
+                                    text-align: left !important;
                                     font-size: 14px !important;
                                     vertical-align: middle !important;
+                                    font-weight: bold;
                                     
                                 }
 
@@ -798,8 +801,15 @@
                                     /*
                                     border: 3px solid #fff;
                                     */
-                                    border: 2px solid #A1ACBD;
+                                    border: 2px solid #fff;
                                     
+                                }
+
+                                .tab-content h4 {
+                                    border: 2px solid #103856;
+                                    border-radius: 10px 10px 0 0;
+                                    padding: 10px;
+                                    margin-bottom: 0px !important;
                                 }
 
 
@@ -833,28 +843,19 @@
                                 }
                                     
                                 }
-                                .breaktime{
-                					background: #fc8c76;
-                					color: #ffffff;
-                				}
-                				.breaktime b{
-                					color: #ffffff;
-                				}
+
+                                .breaktime b{
+                                    color: #ffffff;
+                                }
                                 .breaktime i{
                                     color: #ffffff;
                                 }
-                				.tabletitle{
-                					color: #ffffff;
-                					background: #133855;
-                				}
-                				.mr-1{
-                					margin-right: 5px;
-                				}
-                                .table-striped>tbody>tr:nth-of-type(odd){
-                                    background-color: #dbbf88;
+                                .tabletitle{
+                                    color: #ffffff;
+                                    background: #004e68;
                                 }
-                                tbody{
-                                    background-color: #ffffff;
+                                .mr-1{
+                                    margin-right: 5px;
                                 }
                         </style>
                     </div><!-- /tab -->
