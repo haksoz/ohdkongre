@@ -88,6 +88,159 @@
                     <p><b>GSM:</b><a href="tel:+905343366908">+90 534 336 69 08</a></p>
                     <p><b>Mail:</b><a href="mailto:salih.gonca@bosphorusmice.net "> salih.gonca@bosphorusmice.net </a></p>
                 </div>
+                <style>
+                    tbody.courses tr td{
+                        vertical-align: middle;
+                    }
+                </style>
+                <center>
+                    <h3 class="text-center mt-5">KURSLAR</h3>
+                    <table class="table table-bordered table-striped table-hover ohd-table">
+                            <thead>
+                            <tr>
+                                <th style="">SAAT</th>
+                                <th>KURS ADI</th>
+                                <th>KİŞİ SAYISI</th>
+                                <th>ÜCRET </th>
+                            </tr>
+                            </thead>
+                            <tbody class="courses">
+                            <tr>
+                                <td class="text-center"><b>09:00-17:00</b></td>
+                                <td>
+                                    <b>Bilimsel Araştırma Makalesi Yazma Kursu</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Ayla GÜRSOY
+                                </td>
+                                <td class="text-center">Min:30 Max:50</td>
+                                <td class="text-center">2000 TL</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>09:00-12:00</b></td>
+                                <td>
+                                    <b>Farkındalık Temelli Öz Şefkat Becerilerinin Onkoloji Hemşirelerine</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Behice Belkıs ÇALIŞKAN
+                                </td>
+                                <td class="text-center">Min:15 Max:30</td>
+                                <td class="text-center">1000 TL</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>09:00-16:50</b></td>
+                                <td>
+                                    <b>İmmünoterapi Kursu</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Gülbeyaz CAN, Dilek YILDIRIM
+                                </td>
+                                <td class="text-center">Min:15 Max:100</td>
+                                <td class="text-center">2000 TL</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>09:00-12:30</b></td>
+                                <td>
+                                    <b>Jineonkoloji Hemşireliği Kursu</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Gülşen VURAL, Gülten GÜVENÇ
+                                </td>
+                                <td class="text-center">Min:15 Max:30</td>
+                                <td class="text-center">1000 TL</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>09:00-13:10</b></td>
+                                <td>
+                                    <b>Meme Kanseri Sağ Kalım Sürecinde Bütüncül Yaklaşım Kursu</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Fatma ARIKAN, Yasemin USLU
+                                </td>
+                                <td class="text-center">Min:15 Max:30</td>
+                                <td class="text-center">1000 TL</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>09:00-13:00</b></td>
+                                <td>
+                                    <b>Onkolojide Ağrı Yönetimi</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Sevinç KUTLUTÜRKAN
+                                </td>
+                                <td class="text-center">Min:15 Max:30</td>
+                                <td class="text-center">1000 TL</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>09:00-17:30</b></td>
+                                <td>
+                                    <b>Onkoloji Hemşireliğinde Temel Kanser Eğitimi</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Ayşin KAYIŞ
+                                </td>
+                                <td class="text-center">Min:15 Max:50</td>
+                                <td class="text-center">2000 TL</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>09:00-17:30</b></td>
+                                <td>
+                                    <b>Palyatif Bakımda Semptom Yönetimi</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Hanife ÖZÇELİK
+                                </td>
+                                <td class="text-center">Min:15 Max:30</td>
+                                <td class="text-center">2000 TL</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>09:00-13:30</b></td>
+                                <td>
+                                    <b>Pediatrik Onkoloji Hemşireliğinde Kanıta Dayalı Uygulamalar</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Sevil ÖZKAN
+                                </td>
+                                <td class="text-center">Min:15 Max:50</td>
+                                <td class="text-center">1000 TL</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>09:00-17:30</b></td>
+                                <td>
+                                    <b>Radyoterapi Kursu</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Vildan KOCATEPE, Ülkü SAYGILI DÜZOVA, Gülbeyaz CAN
+                                </td>
+                                <td class="text-center">Min:15 Max:100</td>
+                                <td class="text-center">2000 TL</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>09:00-17:00</b></td>
+                                <td>
+                                    <b>Temel Düzey Kök Hücre Nakli Hemşireliği Kursu</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Dilek URTEKİN
+                                </td>
+                                <td class="text-center">Min:15 Max:100</td>
+                                <td class="text-center">2000 TL</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>10:30-12:00</b></td>
+                                <td>
+                                    <b>Umutlu Kutu (Sanat Terapisi Uygulaması)</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Yağmur ÖZCAN, Handenur KALAY
+                                </td>
+                                <td class="text-center">Min:10 Max:20</td>
+                                <td class="text-center">Ücretsiz</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>13:00-14:30</b></td>
+                                <td>
+                                    <b>Umutlu Kutu (Sanat Terapisi Uygulaması)</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Yağmur ÖZCAN, Handenur KALAY
+                                </td>
+                                <td class="text-center">Min:10 Max:20</td>
+                                <td class="text-center">Ücretsiz</td>
+                            </tr>
+                            <tr>
+                                <td class="text-center"><b>14:00-15:30</b></td>
+                                <td>
+                                    <b>Kahkaha Yogası</b><br>
+                                    <b>Kurs Yürütücüsü:</b> Aysel ENABOİFO
+                                </td>
+                                <td class="text-center">Min:15 Max:100</td>
+                                <td class="text-center">Ücretsiz</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                </center>
+                <p>
+                    <span class="text-red">*</span>
+                    Kurslara kayıt ödemesini aşağıdaki hesaba yaptıktan sonra lütfen dekontunuzu
+                    <a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a> adresine gönderebilirsiniz.
+                    <br>
+                    Kurs kaydı olabilmek için kongre kaydıda yapılması zorunludur.
+                </p>
 				<div class="d-flex w-100 justify-content-center">
                     <div class="col-md-8 mt-5" style="float: none">
                         <!-- Tables -->
