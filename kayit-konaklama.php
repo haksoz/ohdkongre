@@ -109,7 +109,7 @@
                                 <td class="text-center"><b>09:00-17:00</b></td>
                                 <td>
                                     <b>Bilimsel Araştırma Makalesi Yazma Kursu</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Ayla GÜRSOY
+                                    <b>Kurs Koordinatörü:</b> Ayla GÜRSOY
                                 </td>
                                 <td class="text-center">Min:30 Max:50</td>
                                 <td class="text-center">2000 TL</td>
@@ -118,7 +118,7 @@
                                 <td class="text-center"><b>09:00-12:00</b></td>
                                 <td>
                                     <b>Farkındalık Temelli Öz Şefkat Becerilerinin Onkoloji Hemşirelerine</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Behice Belkıs ÇALIŞKAN
+                                    <b>Kurs Koordinatörü:</b> Behice Belkıs ÇALIŞKAN
                                 </td>
                                 <td class="text-center">Min:15 Max:30</td>
                                 <td class="text-center">1000 TL</td>
@@ -127,7 +127,7 @@
                                 <td class="text-center"><b>09:00-16:50</b></td>
                                 <td>
                                     <b>İmmünoterapi Kursu</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Gülbeyaz CAN, Dilek YILDIRIM
+                                    <b>Kurs Koordinatörü:</b> Gülbeyaz CAN, Dilek YILDIRIM
                                 </td>
                                 <td class="text-center">Min:15 Max:100</td>
                                 <td class="text-center">2000 TL</td>
@@ -136,7 +136,7 @@
                                 <td class="text-center"><b>09:00-12:30</b></td>
                                 <td>
                                     <b>Jineonkoloji Hemşireliği Kursu</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Gülşen VURAL, Gülten GÜVENÇ
+                                    <b>Kurs Koordinatörü:</b> Gülşen VURAL, Gülten GÜVENÇ
                                 </td>
                                 <td class="text-center">Min:15 Max:30</td>
                                 <td class="text-center">1000 TL</td>
@@ -145,7 +145,7 @@
                                 <td class="text-center"><b>09:00-13:10</b></td>
                                 <td>
                                     <b>Meme Kanseri Sağ Kalım Sürecinde Bütüncül Yaklaşım Kursu</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Fatma ARIKAN, Yasemin USLU
+                                    <b>Kurs Koordinatörü:</b> Fatma ARIKAN, Yasemin USLU
                                 </td>
                                 <td class="text-center">Min:15 Max:30</td>
                                 <td class="text-center">1000 TL</td>
@@ -154,7 +154,7 @@
                                 <td class="text-center"><b>09:00-13:00</b></td>
                                 <td>
                                     <b>Onkolojide Ağrı Yönetimi</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Sevinç KUTLUTÜRKAN
+                                    <b>Kurs Koordinatörü:</b> Sevinç KUTLUTÜRKAN
                                 </td>
                                 <td class="text-center">Min:15 Max:30</td>
                                 <td class="text-center">1000 TL</td>
@@ -163,7 +163,7 @@
                                 <td class="text-center"><b>09:00-17:30</b></td>
                                 <td>
                                     <b>Onkoloji Hemşireliğinde Temel Kanser Eğitimi</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Ayşin KAYIŞ
+                                    <b>Kurs Koordinatörü:</b> Ayşin KAYIŞ
                                 </td>
                                 <td class="text-center">Min:15 Max:50</td>
                                 <td class="text-center">2000 TL</td>
@@ -172,7 +172,7 @@
                                 <td class="text-center"><b>09:00-17:30</b></td>
                                 <td>
                                     <b>Palyatif Bakımda Semptom Yönetimi</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Hanife ÖZÇELİK
+                                    <b>Kurs Koordinatörü:</b> Hanife ÖZÇELİK
                                 </td>
                                 <td class="text-center">Min:15 Max:30</td>
                                 <td class="text-center">2000 TL</td>
@@ -181,7 +181,7 @@
                                 <td class="text-center"><b>09:00-13:30</b></td>
                                 <td>
                                     <b>Pediatrik Onkoloji Hemşireliğinde Kanıta Dayalı Uygulamalar</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Sevil ÖZKAN
+                                    <b>Kurs Koordinatörü:</b> Sevil ÖZKAN
                                 </td>
                                 <td class="text-center">Min:15 Max:50</td>
                                 <td class="text-center">1000 TL</td>
@@ -190,7 +190,7 @@
                                 <td class="text-center"><b>09:00-17:30</b></td>
                                 <td>
                                     <b>Radyoterapi Kursu</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Vildan KOCATEPE, Ülkü SAYGILI DÜZOVA, Gülbeyaz CAN
+                                    <b>Kurs Koordinatörü:</b> Vildan KOCATEPE, Ülkü SAYGILI DÜZOVA, Gülbeyaz CAN
                                 </td>
                                 <td class="text-center">Min:15 Max:100</td>
                                 <td class="text-center">2000 TL</td>
@@ -199,7 +199,7 @@
                                 <td class="text-center"><b>09:00-17:00</b></td>
                                 <td>
                                     <b>Temel Düzey Kök Hücre Nakli Hemşireliği Kursu</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Dilek URTEKİN
+                                    <b>Kurs Koordinatörü:</b> Dilek URTEKİN
                                 </td>
                                 <td class="text-center">Min:15 Max:100</td>
                                 <td class="text-center">2000 TL</td>
@@ -208,7 +208,7 @@
                                 <td class="text-center"><b>10:30-12:00</b></td>
                                 <td>
                                     <b>Umutlu Kutu (Sanat Terapisi Uygulaması)</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Yağmur ÖZCAN, Handenur KALAY
+                                    <b>Kurs Koordinatörü:</b> Yağmur ÖZCAN, Handenur KALAY
                                 </td>
                                 <td class="text-center">Min:10 Max:20</td>
                                 <td class="text-center">Ücretsiz</td>
@@ -217,7 +217,7 @@
                                 <td class="text-center"><b>13:00-14:30</b></td>
                                 <td>
                                     <b>Umutlu Kutu (Sanat Terapisi Uygulaması)</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Yağmur ÖZCAN, Handenur KALAY
+                                    <b>Kurs Koordinatörü:</b> Yağmur ÖZCAN, Handenur KALAY
                                 </td>
                                 <td class="text-center">Min:10 Max:20</td>
                                 <td class="text-center">Ücretsiz</td>
@@ -226,7 +226,7 @@
                                 <td class="text-center"><b>14:00-15:30</b></td>
                                 <td>
                                     <b>Kahkaha Yogası</b><br>
-                                    <b>Kurs Yürütücüsü:</b> Aysel ENABOİFO
+                                    <b>Kurs Koordinatörü:</b> Aysel ENABOİFO
                                 </td>
                                 <td class="text-center">Min:15 Max:100</td>
                                 <td class="text-center">Ücretsiz</td>

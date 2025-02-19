@@ -73,7 +73,7 @@
                                                     <td class="oturum"><b>09:00-17:00</b></td>
                                                     <td class="oturum">
                                                         <b>Bilimsel Araştırma Makalesi Yazma Kursu</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Ayla GÜRSOY
+                                                        <b>Kurs Koordinatörü:</b> Ayla GÜRSOY
                                                     </td>
                                                     <td class="oturum text-center">Min:30 Max:50</td>
                                                     <td class="oturum text-center">
@@ -84,7 +84,7 @@
                                                     <td class="oturum"><b>09:00-12:00</b></td>
                                                     <td class="oturum">
                                                         <b>Farkındalık Temelli Öz Şefkat Becerilerinin Onkoloji Hemşirelerine</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Behice Belkıs ÇALIŞKAN
+                                                        <b>Kurs Koordinatörü:</b> Behice Belkıs ÇALIŞKAN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
                                                     <td class="oturum text-center">
@@ -95,7 +95,7 @@
                                                     <td class="oturum"><b>09:00-16:50</b></td>
                                                     <td class="oturum">
                                                         <b>İmmünoterapi Kursu</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Gülbeyaz CAN, Dilek YILDIRIM
+                                                        <b>Kurs Koordinatörü:</b> Gülbeyaz CAN, Dilek YILDIRIM
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
                                                     <td class="oturum text-center">
@@ -106,7 +106,7 @@
                                                     <td class="oturum"><b>09:00-12:30</b></td>
                                                     <td class="oturum">
                                                         <b>Jineonkoloji Hemşireliği Kursu</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Gülşen VURAL, Gülten GÜVENÇ
+                                                        <b>Kurs Koordinatörü:</b> Gülşen VURAL, Gülten GÜVENÇ
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
                                                     <td class="oturum text-center">
@@ -117,7 +117,7 @@
                                                     <td class="oturum"><b>09:00-13:10</b></td>
                                                     <td class="oturum">
                                                         <b>Meme Kanseri Sağ Kalım Sürecinde Bütüncül Yaklaşım Kursu</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Fatma ARIKAN, Yasemin USLU
+                                                        <b>Kurs Koordinatörü:</b> Fatma ARIKAN, Yasemin USLU
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
                                                     <td class="oturum text-center">
@@ -128,7 +128,7 @@
                                                     <td class="oturum"><b>09:00-13:00</b></td>
                                                     <td class="oturum">
                                                         <b>Onkolojide Ağrı Yönetimi</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Sevinç KUTLUTÜRKAN
+                                                        <b>Kurs Koordinatörü:</b> Sevinç KUTLUTÜRKAN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
                                                     <td class="oturum text-center">
@@ -139,7 +139,7 @@
                                                     <td class="oturum"><b>09:00-17:30</b></td>
                                                     <td class="oturum">
                                                         <b>Onkoloji Hemşireliğinde Temel Kanser Eğitimi</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Ayşin KAYIŞ
+                                                        <b>Kurs Koordinatörü:</b> Ayşin KAYIŞ
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:50</td>
                                                     <td class="oturum text-center">
@@ -150,7 +150,7 @@
                                                     <td class="oturum"><b>09:00-17:30</b></td>
                                                     <td class="oturum">
                                                         <b>Palyatif Bakımda Semptom Yönetimi</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Hanife ÖZÇELİK
+                                                        <b>Kurs Koordinatörü:</b> Hanife ÖZÇELİK
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
                                                     <td class="oturum text-center">
@@ -161,7 +161,7 @@
                                                     <td class="oturum"><b>09:00-13:30</b></td>
                                                     <td class="oturum">
                                                         <b>Pediatrik Onkoloji Hemşireliğinde Kanıta Dayalı Uygulamalar</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Sevil ÖZKAN
+                                                        <b>Kurs Koordinatörü:</b> Sevil ÖZKAN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:50</td>
                                                     <td class="oturum text-center">
@@ -172,7 +172,7 @@
                                                     <td class="oturum"><b>09:00-17:30</b></td>
                                                     <td class="oturum">
                                                         <b>Radyoterapi Kursu</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Vildan KOCATEPE, Ülkü SAYGILI DÜZOVA, Gülbeyaz CAN
+                                                        <b>Kurs Koordinatörü:</b> Vildan KOCATEPE, Ülkü SAYGILI DÜZOVA, Gülbeyaz CAN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
                                                     <td class="oturum text-center">
@@ -183,7 +183,7 @@
                                                     <td class="oturum"><b>09:00-17:00</b></td>
                                                     <td class="oturum">
                                                         <b>Temel Düzey Kök Hücre Nakli Hemşireliği Kursu</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Dilek URTEKİN
+                                                        <b>Kurs Koordinatörü:</b> Dilek URTEKİN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
                                                     <td class="oturum text-center">
@@ -194,7 +194,7 @@
                                                     <td class="oturum"><b>10:30-12:00</b></td>
                                                     <td class="oturum">
                                                         <b>Umutlu Kutu (Sanat Terapisi Uygulaması)</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Yağmur ÖZCAN, Handenur KALAY
+                                                        <b>Kurs Koordinatörü:</b> Yağmur ÖZCAN, Handenur KALAY
                                                     </td>
                                                     <td class="oturum text-center">Min:10 Max:20</td>
                                                     <td class="oturum text-center">
@@ -205,7 +205,7 @@
                                                     <td class="oturum"><b>13:00-14:30</b></td>
                                                     <td class="oturum">
                                                         <b>Umutlu Kutu (Sanat Terapisi Uygulaması)</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Yağmur ÖZCAN, Handenur KALAY
+                                                        <b>Kurs Koordinatörü:</b> Yağmur ÖZCAN, Handenur KALAY
                                                     </td>
                                                     <td class="oturum text-center">Min:10 Max:20</td>
                                                     <td class="oturum text-center">
@@ -216,7 +216,7 @@
                                                     <td class="oturum"><b>14:00-15:30</b></td>
                                                     <td class="oturum">
                                                         <b>Kahkaha Yogası</b><br>
-                                                        <b>Kurs Yürütücüsü:</b> Aysel ENABOİFO
+                                                        <b>Kurs Koordinatörü:</b> Aysel ENABOİFO
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
                                                     <td class="oturum text-center">
@@ -488,7 +488,7 @@
                                                     <td class="oturum sub_clock">12:30–13:00</td>
                                                     <td class="oturum">
                                                         <b>Nöropati</b><br>
-                                                        Hatice GÜZE
+                                                        Hatice GÜZEL
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -688,7 +688,7 @@
                                                     <td class="oturum sub_clock">12:00–12:15</td>
                                                     <td class="oturum">
                                                         <b>Jinekolojik Kanserlerde Farkındalığın Önemi ve Hemşire Olarak Rollerimiz</b><br>
-                                                        Uzm. Hem. Nazlı ÖZBEK
+                                                        Nazlı ÖZBEK
                                                     </td>
                                                 </tr>
                                                 <tr>
