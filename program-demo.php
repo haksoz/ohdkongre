@@ -65,8 +65,7 @@
                                                 <tr>
                                                     <th class="tabletitle" style="text-align:center">SAAT</th>
                                                     <th class="tabletitle" style="text-align:center">KURS ADI</th>
-                                                    <th class="tabletitle" style="text-align:center">KİŞİ SAYISI</th>
-                                                    <th class="tabletitle" style="text-align:center">ÜCRET</th>
+                                                    <th class="tabletitle" colspan="2" style="text-align:center">KİŞİ SAYISI</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
@@ -77,7 +76,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Ayla GÜRSOY
                                                     </td>
                                                     <td class="oturum text-center">Min:30 Max:50</td>
-                                                    <td class="oturum text-center">2000 TL</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-12:00</b></td>
@@ -86,7 +87,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Behice Belkıs ÇALIŞKAN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
-                                                    <td class="oturum text-center">1000 TL</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-16:50</b></td>
@@ -95,7 +98,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Gülbeyaz CAN, Dilek YILDIRIM
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
-                                                    <td class="oturum text-center">2000 TL</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-12:30</b></td>
@@ -104,7 +109,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Gülşen VURAL, Gülten GÜVENÇ
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
-                                                    <td class="oturum text-center">1000 TL</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-13:10</b></td>
@@ -113,7 +120,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Fatma ARIKAN, Yasemin USLU
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
-                                                    <td class="oturum text-center">1000 TL</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-13:00</b></td>
@@ -122,7 +131,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Sevinç KUTLUTÜRKAN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
-                                                    <td class="oturum text-center">1000 TL</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-17:30</b></td>
@@ -131,7 +142,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Ayşin KAYIŞ
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:50</td>
-                                                    <td class="oturum text-center">2000 TL</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-17:30</b></td>
@@ -140,7 +153,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Hanife ÖZÇELİK
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
-                                                    <td class="oturum text-center">2000 TL</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-13:30</b></td>
@@ -149,7 +164,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Sevil ÖZKAN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:50</td>
-                                                    <td class="oturum text-center">1000 TL</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-17:30</b></td>
@@ -158,7 +175,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Vildan KOCATEPE, Ülkü SAYGILI DÜZOVA, Gülbeyaz CAN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
-                                                    <td class="oturum text-center">2000 TL</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-17:00</b></td>
@@ -167,7 +186,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Dilek URTEKİN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
-                                                    <td class="oturum text-center">2000 TL</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>10:30-12:00</b></td>
@@ -176,7 +197,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Yağmur ÖZCAN, Handenur KALAY
                                                     </td>
                                                     <td class="oturum text-center">Min:10 Max:20</td>
-                                                    <td class="oturum text-center">Ücretsiz</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>13:00-14:30</b></td>
@@ -185,7 +208,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Yağmur ÖZCAN, Handenur KALAY
                                                     </td>
                                                     <td class="oturum text-center">Min:10 Max:20</td>
-                                                    <td class="oturum text-center">Ücretsiz</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>14:00-15:30</b></td>
@@ -194,7 +219,9 @@
                                                         <b>Kurs Yürütücüsü:</b> Aysel ENABOİFO
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
-                                                    <td class="oturum text-center">Ücretsiz</td>
+                                                    <td class="oturum text-center">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                    </td>
                                                 </tr>
                                                 </tbody>
                                             </table>
@@ -743,6 +770,7 @@
 
                                 .oturum { 
                                     background-color: transparent;
+                                    vertical-align: middle!important;
                                 }
 
                                 .oturum_baslik { 
