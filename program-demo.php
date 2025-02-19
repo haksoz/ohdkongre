@@ -598,7 +598,7 @@
                                                     <td class="oturum sub_clock">10:30–10:45</td>
                                                     <td class="oturum">
                                                         <b>Cinsel Sorunların Yönetimi</b><br>
-                                                        Yeter YILDIRIM
+                                                        Ayla BOZ
                                                     </td>
                                                 </tr>
                                                 <tr>
