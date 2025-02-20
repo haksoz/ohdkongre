@@ -72,56 +72,56 @@
                                                 <tr>
                                                     <td class="oturum"><b>09:00-17:00</b></td>
                                                     <td class="oturum">
-                                                        <b>Bilimsel Araştırma Makalesi Yazma Kursu</b><br>
+                                                        <b>Bilimsel Araştırma Makalesi Yazma</b><br>
                                                         <b>Kurs Koordinatörü:</b> Ayla GÜRSOY
                                                     </td>
                                                     <td class="oturum text-center">Min:30 Max:50</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="bilimsel-arastirma-3" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-12:00</b></td>
                                                     <td class="oturum">
-                                                        <b>Farkındalık Temelli Öz Şefkat Becerilerinin Onkoloji Hemşirelerine</b><br>
+                                                        <b>Farkındalık Temelli Öz Şefkat Becerilerinin Onkoloji Hemşirelerine Kazandırılması</b><br>
                                                         <b>Kurs Koordinatörü:</b> Behice Belkıs ÇALIŞKAN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="farkindalik" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-16:50</b></td>
                                                     <td class="oturum">
-                                                        <b>İmmünoterapi Kursu</b><br>
+                                                        <b>İmmünoterapi</b><br>
                                                         <b>Kurs Koordinatörü:</b> Gülbeyaz CAN, Dilek YILDIRIM
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="immunoterapi" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-12:30</b></td>
                                                     <td class="oturum">
-                                                        <b>Jineonkoloji Hemşireliği Kursu</b><br>
+                                                        <b>Jineonkoloji Hemşireliği</b><br>
                                                         <b>Kurs Koordinatörü:</b> Gülşen VURAL, Gülten GÜVENÇ
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="jineonkoloji" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-13:10</b></td>
                                                     <td class="oturum">
-                                                        <b>Meme Kanseri Sağ Kalım Sürecinde Bütüncül Yaklaşım Kursu</b><br>
+                                                        <b>Meme Kanseri Sağ Kalım Sürecinde Bütüncül Yaklaşım</b><br>
                                                         <b>Kurs Koordinatörü:</b> Fatma ARIKAN, Yasemin USLU
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="meme-kanseri-1" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -132,7 +132,7 @@
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="agri-yonetimi" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -143,7 +143,7 @@
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:50</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="temel-kanser" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -154,7 +154,7 @@
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:30</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="palyatif" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -165,29 +165,29 @@
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:50</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="pediatrik-onkoloji-hemşireliğinde-kanıta-dayalı-uygulamalar" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-17:30</b></td>
                                                     <td class="oturum">
-                                                        <b>Radyoterapi Kursu</b><br>
+                                                        <b>Radyoterapi</b><br>
                                                         <b>Kurs Koordinatörü:</b> Vildan KOCATEPE, Ülkü SAYGILI DÜZOVA, Gülbeyaz CAN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="radyoterapi-kursu" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum"><b>09:00-17:00</b></td>
                                                     <td class="oturum">
-                                                        <b>Temel Düzey Kök Hücre Nakli Hemşireliği Kursu</b><br>
+                                                        <b>Temel Düzey Kök Hücre Nakli Hemşireliği</b><br>
                                                         <b>Kurs Koordinatörü:</b> Dilek URTEKİN
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="kok-hucre" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -198,7 +198,7 @@
                                                     </td>
                                                     <td class="oturum text-center">Min:10 Max:20</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="umutlu-kutu-1" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -209,7 +209,7 @@
                                                     </td>
                                                     <td class="oturum text-center">Min:10 Max:20</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="umutlu-kutu-2" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -220,7 +220,7 @@
                                                     </td>
                                                     <td class="oturum text-center">Min:15 Max:100</td>
                                                     <td class="oturum text-center">
-                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="">
+                                                        <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="kahkaha-yogasi" class="course-detail-btn">
                                                     </td>
                                                 </tr>
                                                 </tbody>
@@ -303,14 +303,14 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">11:00–11:30</td>
                                                     <td class="oturum">
-                                                        <b>Türkiye’de Kanser Tarama Çalışmaları</b><br>
+                                                        <b>Türkiye'de Kanser Tarama Çalışmaları</b><br>
                                                         Fahriye ÜNLÜ
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">11:30–12:00</td>
                                                     <td class="oturum">
-                                                        <b>Umman’da Kanser Tarama Çalışmaları</b><br>
+                                                        <b>Umman'da Kanser Tarama Çalışmaları</b><br>
                                                         Manal AL-ZADJALİ
                                                     </td>
                                                 </tr>
@@ -894,6 +894,46 @@
     <?php include("footer.php") ?>
 </div><!-- /page-width -->
 <?php include("script.php") ?>
+<div class="modal micromodal-slide" id="modal-1" aria-hidden="false" style="position:relative;z-index:99999;">
+    <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+        <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title" style="width:80%;">
+            <header class="modal__header" style="height: 20px;">
+                <h2 class="modal__title" id="modal-1-title">
+                    Kurs Detayı
+                </h2>
+                <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
+            </header>
+            <main class="modal__content" id="modal-1-content" style="margin-top:1rem;">
+                <!-- Görsel buraya dinamik olarak yüklenecek -->
+            </main>
+        </div>
+    </div>
+</div>
+<script src="/js/micromodal.min.js?v=43543"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const courseButtons = document.querySelectorAll('.course-detail-btn');
+    
+    courseButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            const courseName = this.getAttribute('data-course');
+            const modalContent = document.getElementById('modal-1-content');
+            modalContent.innerHTML = `<img src="/doc/kurslar/${courseName}.jpg" class="w-100" alt="Kurs Detayı">`;
+            
+            MicroModal.show('modal-1', {
+                onShow: modal => console.info(`${modal.id} is shown`),
+                openClass: 'is-open',
+                disableScroll: true,
+                disableFocus: false,
+                awaitOpenAnimation: false,
+                awaitCloseAnimation: false,
+                debugMode: true
+            });
+        });
+    });
+});
+</script>
+<link rel="stylesheet" href="/css/modal.css??v=01327">
 </body>
 
 </html>
