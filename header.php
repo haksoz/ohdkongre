@@ -43,7 +43,7 @@
 					<a href="/program.php">Bilimsel Program</a>
 				</li>
                 <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>">
-					<a href="/kurslar.php">Kurslar</a>
+					<a href="/program.php">Kurslar</a>
 				</li>
 				<li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
 					<a href="/bildiri-gonderimi.php">Bildiri Gönderimi</a>
