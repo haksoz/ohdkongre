@@ -165,7 +165,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:50</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="pediatrik-onkoloji-hemşireliğinde-kanıta-dayalı-uygulamalar" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="pediatrik-onkoloji" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
