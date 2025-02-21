@@ -238,8 +238,6 @@
                     <span class="text-red">*</span>
                     Kurslara kayıt ödemesini aşağıdaki hesaba yaptıktan sonra lütfen dekontunuzu
                     <a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a> adresine gönderebilirsiniz.
-                    <br>
-                    Kurs kaydı olabilmek için kongre kaydıda yapılması zorunludur.
                 </p>
 				<div class="d-flex w-100 justify-content-center">
                     <div class="col-md-8 mt-5" style="float: none">
