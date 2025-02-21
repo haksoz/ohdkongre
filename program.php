@@ -539,7 +539,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="panel-baslik"></td>
+                                                <td class="panel-baslik"><b>16:00-17:00</b></td>
                                                 <td class="panel-baslik">
                                                     <b>PANEL VIII : ONKOLOJİ HEMŞİRELİĞİNDE YAŞANAN SORUNLAR VE ÇÖZÜM ÖNERİLERİ </b> <br>
                                                     <b>Panel Başkanları: </b> Perihan GÜNER, Figen BAY, Azize ATLI ÖZBAŞ, Erkan SANMAK
