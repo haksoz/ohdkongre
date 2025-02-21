@@ -389,7 +389,7 @@
                                             <td class="oturum sub_clock">16:50–17:20</td>
                                             <td class="oturum">
                                                 <b>Yas Sürecinde Yeni Yaklaşımlar</b><br>
-                                                Meryem RASSOU
+                                                Meryem RASSOULI
                                             </td>
                                         </tr>
                                         </tbody>
