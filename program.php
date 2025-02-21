@@ -701,7 +701,7 @@
                                             <tr>
                                                 <td class="panel-baslik"></td>
                                                 <td class="panel-baslik">
-                                                    <b>PANEL XV : Palyatif Bakım Hemşireliğinde Semptom Yönetimi ve Dijital Teknolojilerin Kullanımı </b> <br>
+                                                    <b>PANEL XV : PALYATİF BAKIM HEMŞİRELİĞİNDE SEMPTOM YÖNETİMİ VE DİJİTAL TEKNOLOJİLERİN KULLANIMI </b> <br>
                                                     <b>Panel Başkanları: </b>Özlem UĞUR, Şerife KARACA
                                                 </td>
                                             </tr>
