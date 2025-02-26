@@ -88,6 +88,157 @@
                 <p><b>Phone:</b><a href="tel:+902162350686">+90 216 235 06 86</a></p>
                 <p><b>Email:</b><a href="mailto:salih.gonca@bosphorusmice.net "> salih.gonca@bosphorusmice.net </a></p>
             </div>
+            <style>
+                tbody.courses tr td{
+                    vertical-align: middle;
+                }
+            </style>
+            <center>
+                <h3 class="text-center mt-5">COURSES</h3>
+                <table class="table table-bordered table-striped table-hover ohd-table">
+                    <thead>
+                    <tr>
+                        <th style="">TIME</th>
+                        <th>COURSE NAME</th>
+                        <th>NUMBER OF PARTICIPANTS</th>
+                        <th>FEE </th>
+                    </tr>
+                    </thead>
+                    <tbody class="courses">
+                    <tr>
+                        <td class="text-center"><b>09:00-17:00</b></td>
+                        <td>
+                            <b>	Scientific Research Article Writing Course </b><br>
+                            <b>Course Instructor:</b> Ayla GÜRSOY
+                        </td>
+                        <td class="text-center">Min:30 Max:50</td>
+                        <td class="text-center">2000 TL</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>09:00-12:00</b></td>
+                        <td>
+                            <b> Teaching Mindfulness-Based Self-Compassion Skills to Oncology Nurses </b><br>
+                            <b>Course Instructor:</b> Behice Belkıs ÇALIŞKAN
+                        </td>
+                        <td class="text-center">Min:15 Max:30</td>
+                        <td class="text-center">1000 TL</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>09:00-16:50</b></td>
+                        <td>
+                            <b>	Immunotherapy Course	</b><br>
+                            <b>Course Instructor:</b>	Gülbeyaz CAN, Dilek YILDIIRM
+                        </td>
+                        <td class="text-center">Min:15 Max:100</td>
+                        <td class="text-center">2000 TL</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>09:00-12:30</b></td>
+                        <td>
+                            <b>	Gyne-Oncology Nursing Course	</b><br>
+                            <b>Course Instructor:</b>	Gülşen VURAL, Gülten GÜVENÇ
+                        </td>
+                        <td class="text-center">Min:15 Max:30</td>
+                        <td class="text-center">1000 TL</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>09:00-13:10</b></td>
+                        <td>
+                            <b> Holistic Approach in Breast Cancer Survivorship Course </b><br>
+                            <b>Course Instructor:</b> Fatma ARIKAN, Yasemin USLU
+                        </td>
+                        <td class="text-center">Min:15 Max:30</td>
+                        <td class="text-center">1000 TL</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>09:00-13:00</b></td>
+                        <td>
+                            <b> Pain Management in Oncology </b><br>
+                            <b>Course Instructor:</b> Sevinç KUTLUTÜRKAN
+                        </td>
+                        <td class="text-center">Min:15 Max:30</td>
+                        <td class="text-center">1000 TL</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>09:00-17:30</b></td>
+                        <td>
+                            <b> Basic Cancer Education in Oncology Nursing </b><br>
+                            <b>Course Instructor:</b> Ayşin KAYIŞ
+                        </td>
+                        <td class="text-center">Min:15 Max:50</td>
+                        <td class="text-center">2000 TL</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>09:00-17:30</b></td>
+                        <td>
+                            <b> Symptom Management in Palliative Care </b><br>
+                            <b>Course Instructor:</b> Hanife ÖZÇELİK
+                        </td>
+                        <td class="text-center">Min:15 Max:30</td>
+                        <td class="text-center">2000 TL</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>09:00-13:30</b></td>
+                        <td>
+                            <b> Evidence-Based Practices in Pediatric Oncology Nursing </b><br>
+                            <b>Course Instructor:</b> Sevil ÖZKAN
+                        </td>
+                        <td class="text-center">Min:15 Max:50</td>
+                        <td class="text-center">1000 TL</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>09:00-17:30</b></td>
+                        <td>
+                            <b> Radiotherapy Course </b><br>
+                            <b>Course Instructor:</b> Vildan KOCATEPE, Ülkü SAYGILI DÜZOVA, Gülbeyaz CAN
+                        </td>
+                        <td class="text-center">Min:15 Max:100</td>
+                        <td class="text-center">2000 TL</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>09:00-17:00</b></td>
+                        <td>
+                            <b>Basic Level Stem Cell Transplantation Nursing Course</b><br>
+                            <b>Course Instructor:</b> Dilek URTEKİN
+                        </td>
+                        <td class="text-center">Min:15 Max:100</td>
+                        <td class="text-center">2000 TL</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>10:30-12:00</b></td>
+                        <td>
+                            <b> Hopeful Box (Art Therapy Practice) </b><br>
+                            <b>Course Instructor:</b> Yağmur ÖZCAN, Handenur KALAY
+                        </td>
+                        <td class="text-center">Min:10 Max:20</td>
+                        <td class="text-center">Free</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>13:00-14:30</b></td>
+                        <td>
+                            <b> Hopeful Box (Art Therapy Practice) </b><br>
+                            <b>Course Instructor:</b> Yağmur ÖZCAN, Handenur KALAY
+                        </td>
+                        <td class="text-center">Min:10 Max:20</td>
+                        <td class="text-center">Free</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center"><b>14:00-15:30</b></td>
+                        <td>
+                            <b> Laughter Yoga </b><br>
+                            <b>Course Instructor:</b> Aysel ENABOİFO
+                        </td>
+                        <td class="text-center">Min:15 Max:100</td>
+                        <td class="text-center">Free</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </center>
+            <p>
+                <span class="text-red">*</span>
+                After making the course registration payment to the account below, please send your receipt to
+                <a href="mailto:salih.gonca@bosphorusmice.net" target="_blank">salih.gonca@bosphorusmice.net</a> .
+            </p>
             <div class="d-flex w-100 justify-content-center">
                 <div class="col-md-8 mt-5" style="float: none">
                     <!-- Tables -->
