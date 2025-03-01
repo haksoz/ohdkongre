@@ -2069,6 +2069,13 @@ blockquote:before {
     padding: 50px;
     color: #fff;
 }
+.bubble h5{
+    font-size: 24px;
+    font-family: 'Lato', serif;
+}
+.course-modal.modal__container{
+    width: 80%;
+}
 
 /* Sidebar */
 
@@ -2618,6 +2625,11 @@ button.list-group-item:hover {
 }
 }
 
+.course-modal.modal__container .ohd-table{
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 8px 0px 0px rgba(153, 153, 153, 0.22);
+}
 /************ max width 640px *************/
 
 @media (max-width: 640px) {
@@ -2638,7 +2650,25 @@ button.list-group-item:hover {
     .jumbo-heading {
         background-image: none;
     }
-    
+    .bubble{
+        padding: 15px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .bubble h5{
+        font-size: 18px;
+    }
+    .bubble ul li {
+        font-size: 12px!important;
+        line-height: 21px!important;
+    }
+    .ohd-table.table>tbody>tr>td{
+        font-size: 12px!important;
+    }
+    .course-modal.modal__container{
+        width: 95%;
+    }
+
 }
 
 /************ max width 480px *************/
@@ -3406,6 +3436,19 @@ footer .img-responsive {
 .mb-5{
     margin-bottom: 5rem;
 }
+.mb-3{
+    margin-bottom: 3rem;
+}
+.mb-0{
+    margin-bottom: 0!important;
+}
+.m-0{
+    margin: 0 0 0 0!important;
+}
+.p-0{
+    padding: 0 0 0 0!important;
+}
+
 @media screen and (min-width: 768px){
     .navbar-right .dropdown-menu{
         right: -5px;
