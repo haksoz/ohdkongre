@@ -77,7 +77,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:30 Max:50</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="bilimsel-arastirma" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-1" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -88,7 +88,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:30</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="farkindalik" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-2" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -121,7 +121,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:30</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="meme-kanseri-1" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-5" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -132,7 +132,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:30</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="agri-yonetimi" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-6" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -143,7 +143,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:50</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="temel-kanser" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-7" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -154,7 +154,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:30</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="palyatif" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-8" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -165,7 +165,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:50</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="pediatrik-onkoloji" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-9" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -176,7 +176,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:100</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="radyoterapi" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-10" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -187,7 +187,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:100</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="kok-hucre" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-11" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -198,7 +198,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:10 Max:20</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="umutlu-kutu-1" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-12" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -209,7 +209,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:10 Max:20</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="umutlu-kutu-2" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-13" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -220,7 +220,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:100</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="kahkaha-yogasi" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-14" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         </tbody>
@@ -892,14 +892,14 @@
         </section><!-- /section ends-->
     </div><!--/page-section-->
     <?php include("footer.php") ?>
+    <?php include("course-details.php") ?>
 </div><!-- /page-width -->
 <?php include("script.php") ?>
 <div class="modal micromodal-slide" id="modal-1" aria-hidden="false" style="position:relative;z-index:99999;">
     <div class="modal__overlay" tabindex="-1" data-micromodal-close>
-        <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title" style="width:80%;">
+        <div class="course-modal modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title" style="">
             <header class="modal__header" style="height: 20px;">
                 <h2 class="modal__title" id="modal-1-title">
-                    Kurs Detayı
                 </h2>
                 <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
             </header>
@@ -918,7 +918,8 @@
             button.addEventListener('click', function() {
                 const courseName = this.getAttribute('data-course');
                 const modalContent = document.getElementById('modal-1-content');
-                modalContent.innerHTML = `<img src="/doc/kurslar/${courseName}.jpg?v=2" class="w-100" alt="Kurs Detayı">`;
+                const courseTable = document.getElementById(courseName);
+                modalContent.innerHTML = courseTable.outerHTML;
 
                 MicroModal.show('modal-1', {
                     onShow: modal => console.info(`${modal.id} is shown`),
