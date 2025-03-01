@@ -171,7 +171,139 @@
         </div>
     </div>
 
+    <div class="" id="course-table-4">
+        <div class="alert alert-info m-0">
+            <h5 class="m-0 p-0">Gynooncology Nursing Course</h5>
+            <br>May 21, 2025 - 09:00-12:30
+        </div>
+        <div class="mb-3"></div>
+        <p class="text-left">
+            <b>Purpose and Importance of the Course:</b> Gynecologic cancers are among the most common female cancers. It is aimed for nurses working with gynecological cancer patients to have knowledge about the epidemiology, genetics, care practices, sexual health, fertilization of gynecological cancers, to learn their roles and responsibilities and to gain knowledge about current nursing care for gynecological cancer nursing.
+        </p>
+        <table class="table table-bordered table-striped table-hover ohd-table">
+            <thead>
+            <tr>
+                <th>Time</th>
+                <th>Topic</th>
+            </tr>
+            </thead>
+            <tbody class="courses">
+            <tr>
+                <td>09:00-09:15</td>
+                <td>
+                    <b>Opening Speeches</b><br>
+                    Purpose and Importance of the Course<br>
+                    <i>Course Coordinators:</i> <br>
+                    Professor Gülşen VURAL, Professor Gülten GÜVENÇ
+                </td>
+            </tr>
+            <tr>
+                <td>09:15-09:30</td>
+                <td>
+                    <b>Epidemiology and Risk Factors in Gynecologic Cancers</b><br>
+                    Professor Gülten GÜVENÇ
+                </td>
+            </tr>
+            <tr>
+                <td>09:30-09:45</td>
+                <td>
+                    <b>New Approaches in Prevention, Screening and Early Diagnosis of Gynecologic Cancers</b><br>
+                    Assistant Professor Gökçe Banu ACAR GÜL
+                </td>
+            </tr>
+            <tr>
+                <td>09:45-10:00</td>
+                <td>
+                    <b>Roles and Responsibilities of the Gynecologic Oncology Nurse in Care</b><br>
+                    Associate Professor Gönül KURT
+                </td>
+            </tr>
+            <tr>
+                <td>10:00-10:15</td>
+                <td><b>Break</b></td>
+            </tr>
+            <tr>
+                <td>10:15-10:30</td>
+                <td>
+                    <b>ERAS Protocol and the Role of the Nurse in Gynecologic Oncology</b><br>
+                    Specialist Nurse Nazlı ÖZBEK
+                </td>
+            </tr>
+            <tr>
+                <td>10:30-10:45</td>
+                <td>
+                    <b>Evidence-Based Symptom Management in Palliative Care in Gynecologic Cancer</b><br>
+                    Associate Professor Fatma USLU ŞAHAN
+                </td>
+            </tr>
+            <tr>
+                <td>10:45-11:00</td>
+                <td><b>Break</b></td>
+            </tr>
+            <tr>
+                <td>11:00-11:15</td>
+                <td>
+                    <b>Reproductive Counseling and Sexual Health in Gynecologic Oncology</b><br>
+                    Associate Professor Meltem UĞURLU
+                </td>
+            </tr>
+            <tr>
+                <td>11:15-11:30</td>
+                <td>
+                    <b>Technological Advances in the Care of Gynecologic Cancer Patients</b><br>
+                    Assistant Professor Sinem CEYLAN
+                </td>
+            </tr>
+            <tr>
+                <td>11:30-11:45</td>
+                <td>
+                    <b>Navigator Nursing in Gynecological Oncology</b><br>
+                    Associate Professor Filiz ÜNAL TOPRAK, Professor Gülşen VURAL
+                </td>
+            </tr>
+            <tr>
+                <td>11:45-12:00</td>
+                <td>
+                    <b>Complementary and Integrative Medicine Applications in Gynecologic Cancers</b><br>
+                    Lecturer Çisem BAŞTARCAN
+                </td>
+            </tr>
+            <tr>
+                <td>12:00-12:15</td>
+                <td>
+                    <b>A New Approach to the Care of Gynecologic Cancer Patients: Laughter Yoga</b><br>
+                    Research Assistant Esra Nur ERDOĞAN
+                </td>
+            </tr>
+            <tr>
+                <td>12:15-12:30</td>
+                <td>
+                    <b>Questions, Evaluation of Course Outcomes and Closing</b><br>
+                    Professor Gülşen VURAL, Professor Gülten GÜVENÇ, Research Assistant Esra Nur ERDOĞAN
+                </td>
+            </tr>
+            </tbody>
+        </table>
 
+        <div class="bubble">
+            <h5>Course Details</h5>
+            <ul class="text-left" style="list-style-type: none; font-size: 14px;">
+                <li><strong>Number of Participant Capacity:</strong> Min:15 Max:30</li>
+                <li><strong>Course Coordinators:</strong>Professor Gülşen VURAL, Professor Gülten GÜVENÇ</li>
+                <li><strong>Course Trainers:</strong>Professor Gülşen VURAL, Professor Gülten GÜVENÇ, Associate Professor Gönül KURT,  Associate Professor Fatma USLU ŞAHAN, Associate Professor Meltem UĞURLU, Associate Professor Filiz ÜNAL TOPRAK, Assistant Professor Gökçe Banu ACAR GÜL, Assistant Professor Sinem CEYLAN, Specialist Nurse Nazlı ÖZBEK,
+                    Lecturer Çisem BAŞTARCAN, Research Assistant Esra Nur ERDOĞAN
+                </li>
+                <li><strong>Organizing Committee :</strong> Gynecologic Oncology Nursing Committee Members</li>
+            </ul>
+
+            <h5>Contact Information</h5>
+            <ul class="text-left" style="list-style-type: none; font-size: 14px;">
+                <li><strong>Gülşen VURAL</strong> <br>
+                    <b>Email: </b> gulsen.vural@atilim.edu.tr<br>
+                </li>
+            </ul>
+        </div>
+    </div>
     <div class="" id="course-table-5">
         <div class="alert alert-info m-0">
             <h5 class="m-0 p-0">Holistic Approach In Breast Cancer Survivors Course</h5>
