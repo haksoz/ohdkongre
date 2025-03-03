@@ -1,6 +1,6 @@
 <!-- Navbar -->
 <nav class="navbar navbar-custom navbar-fixed-top" id="navbar-custom">
-	<div class="container">
+	<div class="header-container">
 		<!-- Logo and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
 			<button class="navbar-toggle" data-target="#navbar-brand" data-toggle="collapse" type="button"><i class="fa fa-bars"></i></button> 
@@ -19,9 +19,9 @@
 				<li class="<?php echo $page == 'index' ? 'active' : '' ?>">
 					<a href="/index.php">Anasayfa</a>
 				</li>
-				<li class="<?php echo $page == 'davet' ? 'active' : '' ?>">
-					<a href="/davet.php">Davet</a>
-				</li>
+<!--				<li class="--><?php //echo $page == 'davet' ? 'active' : '' ?><!--">-->
+<!--					<a href="/davet.php">Davet</a>-->
+<!--				</li>-->
                 <li class="dropdown <?php echo $page == 'kurullar' ? 'active' : '' ?>">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Kurullar<b class="caret"></b></a>
                     <ul class="dropdown-menu">
@@ -44,6 +44,9 @@
 				</li>
                 <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>">
 					<a href="/program.php">Kurslar</a>
+				</li>
+                <li class="<?php echo $page == 'uluslararasi-konusmacilar' ? 'active' : '' ?>">
+					<a href="/uluslararasi-konusmacilar.php">Uluslararası Konuşmacılar</a>
 				</li>
 				<li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
 					<a href="/bildiri-gonderimi.php">Bildiri Gönderimi</a>

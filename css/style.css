@@ -199,7 +199,12 @@ img {
 }
 
 .navbar-nav > li > a {
-    padding: 30px 12px;
+    padding: 30px 6px;
+}
+@media screen and (min-width: 1350px){
+    .navbar-nav > li > a {
+        padding: 30px 12px;
+    }
 }
 
 .navbar-custom ul.nav li a {

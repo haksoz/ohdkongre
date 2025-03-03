@@ -19,9 +19,9 @@
 				<li class="<?php echo $page == 'index' ? 'active' : '' ?>">
 					<a href="/en/index.php">Homepage</a>
 				</li>
-				<li class="<?php echo $page == 'invitation' ? 'active' : '' ?>">
-					<a href="/en/invitation.php">Invitation</a>
-				</li>
+<!--				<li class="--><?php //echo $page == 'invitation' ? 'active' : '' ?><!--">-->
+<!--					<a href="/en/invitation.php">Invitation</a>-->
+<!--				</li>-->
                 <li class="dropdown <?php echo $page == 'committees' ? 'active' : '' ?>">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Committees<b class="caret"></b></a>
                     <ul class="dropdown-menu">
@@ -34,7 +34,7 @@
                     </ul>
                 </li>
 				<li class="<?php echo $page == 'general-information' ? 'active' : '' ?>">
-					<a href="/en/general-info.php">General Information</a>
+					<a href="/en/general-info.php">Information</a>
 				</li>
 				<li class="<?php echo $page == 'registration-accommodation' ? 'active' : '' ?>">
 					<a href="/en/registration-accommodation.php">Registration & Accommodation</a>
@@ -50,7 +50,9 @@
                         </li>
                     </ul>
                 </li>
-
+                <li class="<?php echo $page == 'international-speakers' ? 'active' : '' ?>">
+                    <a href="/en/international-speakers.php">International Speakers</a>
+                </li>
 				<li class="<?php echo $page == 'abstract' ? 'active' : '' ?>">
 					<a href="/en/abstract-submission.php">Abstract Submission</a>
 				</li>
