@@ -593,7 +593,7 @@
                                                 <td class="panel-baslik"></td>
                                                 <td class="panel-baslik">
                                                     <b>PANEL X : KÖK HÜCRE NAKİL HEMŞİRELİĞİ VE İNOVATİF YAKLAŞIMLAR </b> <br>
-                                                    <b>Panel Başkanları: </b> Yasemin KARACAN, Sevgül ÖZDEMİR
+                                                    <b>Panel Başkanları: </b>  Ülkü POLAT, Yasemin KARACAN, Sevgül ÖZDEMİR
                                                 </td>
                                             </tr>
                                             <tr>

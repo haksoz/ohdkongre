@@ -593,7 +593,7 @@
                                                 <td class="panel-baslik"></td>
                                                 <td class="panel-baslik">
                                                     <b> SESSION X :  STEM CELL TRANSPLANTATION NURSING AND INNOVATIVE APPROACHES </b> <br>
-                                                    <b> Session Chair: </b> Yasemin KARACAN, Sevgül ÖZDEMİR
+                                                    <b> Session Chair: </b> Ülkü POLAT, Yasemin KARACAN, Sevgül ÖZDEMİR
                                                 </td>
                                             </tr>
                                             <tr>
