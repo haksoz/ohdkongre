@@ -650,7 +650,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="oturum sub_clock">11:15–12:00</td>
+                                                <td class="oturum sub_clock">11:15–11:30</td>
                                                 <td class="oturum">
                                                     <b> Patient education in symptom management in geriatric oncology patients: Clinical experiences </b><br>
                                                     Betül YÜCELKAN
