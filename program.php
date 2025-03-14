@@ -918,7 +918,7 @@
             button.addEventListener('click', function() {
                 const courseName = this.getAttribute('data-course');
                 const modalContent = document.getElementById('modal-1-content');
-                modalContent.innerHTML = `<img src="/doc/kurslar/${courseName}.jpg?v=3" class="w-100" alt="Kurs Detayı">`;
+                modalContent.innerHTML = `<img src="/doc/kurslar/${courseName}.jpg?v=4" class="w-100" alt="Kurs Detayı">`;
 
                 MicroModal.show('modal-1', {
                     onShow: modal => console.info(`${modal.id} is shown`),
