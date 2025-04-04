@@ -53,7 +53,12 @@
                             </thead>
                             <tbody>
                             <tr>
-                                <td>Lisans ve Lisansüstü Öğrenciler</td>
+                                <td>Lisans Öğrencileri</td>
+                                <td>3.300 TL</td>
+                                <td>4.500 TL</td>
+                            </tr>
+                            <tr>
+                                <td>Lisansüstü Öğrenciler</td>
                                 <td>6.000 TL</td>
                                 <td>7.200 TL</td>
                             </tr>
