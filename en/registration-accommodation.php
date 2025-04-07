@@ -52,11 +52,7 @@
                         </tr>
                         </thead>
                         <tbody>
-                        <tr>
-                            <td>Undergraduate and graduate students</td>
-                            <td>6.000 TL</td>
-                            <td>7.200 TL</td>
-                        </tr>
+
                         <tr>
                             <td>Member of the Association</td>
                             <td>6.600 TL</td>
@@ -66,6 +62,11 @@
                             <td>Non-Member of the Association</td>
                             <td>7.200 TL</td>
                             <td>8.400 TL</td>
+                        </tr>
+                        <tr>
+                            <td>Undergraduate students</td>
+                            <td>3.300 TL</td>
+                            <td>4.500 TL</td>
                         </tr>
                         </tbody>
                     </table>

@@ -53,17 +53,7 @@
                             </thead>
                             <tbody>
                             <tr>
-                                <td>Lisans Öğrencileri</td>
-                                <td>3.300 TL</td>
-                                <td>4.500 TL</td>
-                            </tr>
-                            <tr>
-                                <td>Lisansüstü Öğrenciler</td>
-                                <td>6.000 TL</td>
-                                <td>7.200 TL</td>
-                            </tr>
-                            <tr>
-                                <td>Dernek Üyesi</td>
+                                <td>Dernek Üyesi </td>
                                 <td>6.600 TL</td>
                                 <td>7.800 TL</td>
                             </tr>
@@ -72,6 +62,31 @@
                                 <td>7.200 TL</td>
                                 <td>8.400 TL</td>
                             </tr>
+                            <tr>
+                                <td>Öğrenci (Lisans Öğrencisi)</td>
+                                <td>3.300 TL</td>
+                                <td>4.500 TL</td>
+                            </tr>
+<!--                            <tr>-->
+<!--                                <td>Lisans Öğrencileri</td>-->
+<!--                                <td>3.300 TL</td>-->
+<!--                                <td>4.500 TL</td>-->
+<!--                            </tr>-->
+<!--                            <tr>-->
+<!--                                <td>Lisansüstü Öğrenciler</td>-->
+<!--                                <td>6.000 TL</td>-->
+<!--                                <td>7.200 TL</td>-->
+<!--                            </tr>-->
+<!--                            <tr>-->
+<!--                                <td>Dernek Üyesi</td>-->
+<!--                                <td>6.600 TL</td>-->
+<!--                                <td>7.800 TL</td>-->
+<!--                            </tr>-->
+<!--                            <tr>-->
+<!--                                <td>Dernek Üyesi Olmayan</td>-->
+<!--                                <td>7.200 TL</td>-->
+<!--                                <td>8.400 TL</td>-->
+<!--                            </tr>-->
                             </tbody>
                         </table>
                         <!-- /table -->
