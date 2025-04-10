@@ -503,21 +503,31 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="oturum sub_clock">14:00–14:20</td>
+                                                <td class="oturum sub_clock">14:00–14:15</td>
                                                 <td class="oturum">
-                                                    <b>Başarı Hikayesi I</b><br>
+                                                    <b>Hemşirelik Alanında Ekip Çalışmasıyla Hematoloji Kliniğinde Yaşanan Dönüşüm  </b><br>
+                                                    Hatice İMECE
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="oturum sub_clock">14:20–14:40</td>
+                                                <td class="oturum sub_clock">14:15–14:30</td>
                                                 <td class="oturum">
-                                                    <b>Başarı Hikayesi II</b><br>
+                                                    <b>Hayata Dokunmak </b><br>
+                                                    Dilşad CİNAL
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="oturum sub_clock">14:40–15:00</td>
+                                                <td class="oturum sub_clock">14:30–14:45</td>
                                                 <td class="oturum">
-                                                    <b>Başarı Hikayesi III</b><br>
+                                                    <b>Klinik Uygulamada Fark Yaratanlar  </b><br>
+                                                    Ayşin KAYIŞ
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="oturum sub_clock">14:45–15:00</td>
+                                                <td class="oturum">
+                                                    <b>Hematoloji Onkoloji Hastalarında Tümör Lizis Sendromu Değerlendirme Projesi   </b><br>
+                                                    Özlem TOPKAYA
                                                 </td>
                                             </tr>
                                             <tr>
