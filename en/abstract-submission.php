@@ -42,6 +42,7 @@
                 <a href="https://www.abstractmodule.com/2025ohdkongre/?plng=eng" target="_blank" class="abstract-button">
                     <img src="/doc/abs.png">
                 </a>
+                <p style="margin-top: 20px;"><b><span class="text-red">*</span>At our congress, first, second and third place awards will be given for oral and poster presentations.</b></p>
             </div>
             <div>
                 <h4>Abstract Submission Guidelines</h4>

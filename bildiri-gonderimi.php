@@ -42,6 +42,7 @@
                     <a href="https://www.abstractmodule.com/2025ohdkongre/?plng=tur" target="_blank" class="abstract-button">
                         <img src="/doc/abs.png">
                     </a>
+                    <p style="margin-top: 20px;"><b><span class="text-red">*</span> Kongremizde sözel ve poster bildiriler için  birincilik, ikincilik ve üçüncülük ödülleri verilecektir.</b></p>
                 </div>
                 <div>
                     <h4>Bildiri Gönderim Kuralları</h4>
