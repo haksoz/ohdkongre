@@ -66,7 +66,7 @@
                         <tr>
                             <td>Undergraduate students</td>
                             <td>3.300 TL</td>
-                            <td>4.500 TL</td>
+                            <td>3.300 TL</td>
                         </tr>
                         </tbody>
                     </table>

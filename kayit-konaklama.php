@@ -65,7 +65,7 @@
                             <tr>
                                 <td>Öğrenci (Lisans Öğrencisi)</td>
                                 <td>3.300 TL</td>
-                                <td>4.500 TL</td>
+                                <td>3.300 TL</td>
                             </tr>
 <!--                            <tr>-->
 <!--                                <td>Lisans Öğrencileri</td>-->
