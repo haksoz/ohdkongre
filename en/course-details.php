@@ -524,7 +524,7 @@
                 <td>09:30-10:00</td>
                 <td>
                     <b>Carcinogenesis, Cancer Epidemiology</b><br>
-                    Fatma Gündogdu
+                    Fatma Gündoğdu
                 </td>
             </tr>
             <tr>

@@ -499,7 +499,7 @@
                                                 <td class="panel-baslik"></td>
                                                 <td class="panel-baslik">
                                                     <b>PANEL VII : KLİNİK UYGULAMADA FARK YARATANLAR: BAŞARI HİKAYELERİ </b> <br>
-                                                    <b>Panel Başkanları: </b> Fatma GÜNDOGDU, Semra ERCİVAN
+                                                    <b>Panel Başkanları: </b> Fatma GÜNDOĞDU, Semra ERCİVAN
                                                 </td>
                                             </tr>
                                             <tr>

@@ -499,7 +499,7 @@
                                                 <td class="panel-baslik"></td>
                                                 <td class="panel-baslik">
                                                     <b> SESSION VII : THOSE WHO MAKE A DIFFERENCE IN CLINICAL PRACTICE: SUCCESS STORIES </b> <br>
-                                                    <b> Session Chair: </b> Fatma GÜNDOGDU, Semra ERCİVAN
+                                                    <b> Session Chair: </b> Fatma GÜNDOĞDU, Semra ERCİVAN
                                                 </td>
                                             </tr>
                                             <tr>
