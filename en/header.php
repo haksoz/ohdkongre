@@ -46,7 +46,7 @@
                             <a href="/en/program.php">Scientific Program</a>
                         </li>
                         <li>
-                            <a href="/en/courses.php">Courses</a>
+                            <a href="/en/program.php">Courses</a>
                         </li>
                     </ul>
                 </li>
