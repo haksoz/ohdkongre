@@ -99,7 +99,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:100</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="immunoterapi" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-3" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <tr>
@@ -902,14 +902,15 @@
         </section><!-- /section ends-->
     </div><!--/page-section-->
     <?php include("footer.php") ?>
+    <?php include("course-details.php") ?>
+
 </div><!-- /page-width -->
 <?php include("script.php") ?>
 <div class="modal micromodal-slide" id="modal-1" aria-hidden="false" style="position:relative;z-index:99999;">
     <div class="modal__overlay" tabindex="-1" data-micromodal-close>
-        <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title" style="width:80%;">
+        <div class="course-modal modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title" style="">
             <header class="modal__header" style="height: 20px;">
                 <h2 class="modal__title" id="modal-1-title">
-                    Kurs Detayı
                 </h2>
                 <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
             </header>
@@ -928,7 +929,8 @@
             button.addEventListener('click', function() {
                 const courseName = this.getAttribute('data-course');
                 const modalContent = document.getElementById('modal-1-content');
-                modalContent.innerHTML = `<img src="/doc/kurslar/${courseName}.jpg?v=2" class="w-100" alt="Kurs Detayı">`;
+                const courseTable = document.getElementById(courseName);
+                modalContent.innerHTML = courseTable.outerHTML;
 
                 MicroModal.show('modal-1', {
                     onShow: modal => console.info(`${modal.id} is shown`),
