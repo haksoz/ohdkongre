@@ -2673,7 +2673,9 @@ button.list-group-item:hover {
     .course-modal.modal__container{
         width: 95%;
     }
-
+    .ohd-table thead th {
+        font-size: 13px !important;
+    }
 }
 
 /************ max width 480px *************/
