@@ -41,9 +41,14 @@
                     <h3 class="text-center mt-5">KAYIT</h3>
                 </div>
                 <center>
-                    <div class="col-md-10" style="float: none;">
+                    <div class="col-md-12" style="float: none;">
                         <!-- Tables -->
                         <table class="table table-bordered table-striped table-hover ohd-table">
+                            <colgroup>
+                                <col span="1" style="width: 70%;">
+                                <col span="1" style="width: 15%;">
+                                <col span="1" style="width: 15%;">
+                            </colgroup>
                             <thead>
                             <tr>
                                 <th style="">Kayıt Tipi</th>
@@ -63,7 +68,7 @@
                                 <td>8.400 TL</td>
                             </tr>
                             <tr>
-                                <td>Öğrenci (Lisans Öğrencisi)</td>
+                                <td>Öğrenci (Lisans Öğrencisi, herhangi bir yerde çalışmadığını bir dilekçe ile beyan eden yüksek lisans ve doktora öğrencileri)</td>
                                 <td>3.300 TL</td>
                                 <td>3.300 TL</td>
                             </tr>
