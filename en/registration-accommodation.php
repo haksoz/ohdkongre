@@ -37,6 +37,14 @@
                 <h2 class="mt-5">REGISTRATION & ACCOMMODATION</h2><!-- divider -->
                 <div class="hr"></div>
             </div>
+            <p>
+                <b>
+                    Final registration is finalized with payment; registration fees must be deposited into the congress
+                    account and the document regarding the payment must be sent to the congress organization secretariat
+                    via e-mail (<a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a>)
+                    or Whatsapp (<a href="https://wa.me/+905343366908">+90 534 336 69 08</a>).
+                </b>
+            </p>
             <div class="col-md-12 col-md-12 res-margin">
                 <h3 class="text-center mt-5">REGISTRATION</h3>
             </div>
@@ -47,8 +55,8 @@
                         <thead>
                         <tr>
                             <th style="">Registration Type</th>
-                            <th>Prices Before April 20, 2025</th>
-                            <th>Prices After April 20, 2025</th>
+                            <th>Prices Before April 28, 2025</th>
+                            <th>Prices After April 28, 2025</th>
                         </tr>
                         </thead>
                         <tbody>
