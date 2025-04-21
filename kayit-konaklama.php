@@ -37,6 +37,13 @@
 					<h2 class="mt-5">KAYIT & KONAKLAMA</h2><!-- divider -->
 					<div class="hr"></div>
 				</div>
+                <p>
+                    <b>
+                        Kesin kayıt, ödeme ile kesinlik kazanır; kayıt ücretlerinin kongre hesabına yatırılması ve
+                        ödemeye dair belgenin kongre organizasyon sekretaryasına e-posta (<a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a>)
+                        ya da Whatsapp kanalıyla (<a href="https://wa.me/+905343366908">+90 534 336 69 08</a>) gönderilmesi gerekmektedir.
+                    </b>
+                </p>
                  <div class="col-md-12 col-md-12 res-margin">
                     <h3 class="text-center mt-5">KAYIT</h3>
                 </div>
@@ -52,8 +59,8 @@
                             <thead>
                             <tr>
                                 <th style="">Kayıt Tipi</th>
-                                <th>20 Nisan 2025 <br> Öncesi Fiyatlar</th>
-                                <th>20 Nisan 2025 <br> Sonrası Fiyatlar</th>
+                                <th>28 Nisan 2025 <br> Öncesi Fiyatlar</th>
+                                <th>28 Nisan 2025 <br> Sonrası Fiyatlar</th>
                             </tr>
                             </thead>
                             <tbody>
