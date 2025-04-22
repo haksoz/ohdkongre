@@ -37,7 +37,7 @@
                 <h2 class="mt-5">REGISTRATION & ACCOMMODATION</h2><!-- divider -->
                 <div class="hr"></div>
             </div>
-            <p>
+            <p class="container">
                 <b>
                     Final registration is finalized with payment; registration fees must be deposited into the congress
                     account and the document regarding the payment must be sent to the congress organization secretariat
@@ -93,9 +93,16 @@
             </div>
             <div class="col-md-12 col-md-12 res-margin">
                 <h3 class="text-center mt-5">ACCOMMODATION</h3>
-                <p><b>Please contact us for accommodation requests.</b></p>
-                <p><b>Phone:</b><a href="tel:+902162350686">+90 216 235 06 86</a></p>
-                <p><b>Email:</b><a href="mailto:salih.gonca@bosphorusmice.net "> salih.gonca@bosphorusmice.net </a></p>
+<!--                <p><b>Please contact us for accommodation requests.</b></p>-->
+<!--                <p><b>Phone:</b><a href="tel:+902162350686">+90 216 235 06 86</a></p>-->
+<!--                <p><b>Email:</b><a href="mailto:salih.gonca@bosphorusmice.net "> salih.gonca@bosphorusmice.net </a></p>-->
+                <p>
+                    <b>
+                        You can contact Başkent Teacher's House for accommodation. <br>
+                        Baskent Teachers' Home is approximately 1 kilometer away from Gazi University central campus. <br>
+                        You can contact them at <a href="https://baskentogretmenevi.com.tr/" target="_blank">https://baskentogretmenevi.com.tr/</a>.
+                    </b>
+                </p>
             </div>
             <style>
                 tbody.courses tr td{

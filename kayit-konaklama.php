@@ -37,7 +37,7 @@
 					<h2 class="mt-5">KAYIT & KONAKLAMA</h2><!-- divider -->
 					<div class="hr"></div>
 				</div>
-                <p>
+                <p class="container">
                     <b>
                         Kesin kayıt, ödeme ile kesinlik kazanır; kayıt ücretlerinin kongre hesabına yatırılması ve
                         ödemeye dair belgenin kongre organizasyon sekretaryasına e-posta (<a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a>)
@@ -116,9 +116,16 @@
 				</div>
 				<div class="col-md-12 col-md-12 res-margin">
                     <h3 class="text-center mt-5">KONAKLAMA</h3>
-                    <p><b>Konaklama talepleriniz için lütfen iletişime geçiniz.</b></p>
-                    <p><b>GSM:</b><a href="tel:+905343366908">+90 534 336 69 08</a></p>
-                    <p><b>Mail:</b><a href="mailto:salih.gonca@bosphorusmice.net "> salih.gonca@bosphorusmice.net </a></p>
+<!--                    <p><b>Konaklama talepleriniz için lütfen iletişime geçiniz.</b></p>-->
+<!--                    <p><b>GSM:</b><a href="tel:+905343366908">+90 534 336 69 08</a></p>-->
+<!--                    <p><b>Mail:</b><a href="mailto:salih.gonca@bosphorusmice.net "> salih.gonca@bosphorusmice.net </a></p>-->
+                    <p>
+                        <b>
+                        Konaklama için Başkent Öğretmenevi ile irtibata geçebilirsiniz. <br>
+                        Başkent Öğretmenevi, Gazi Üniversitesi merkez kampüse yaklaşık olarak 1 kilometre uzaklıktadır.<br>
+                        <a href="https://baskentogretmenevi.com.tr/" target="_blank">https://baskentogretmenevi.com.tr/</a> adresinden irtibata geçebilirsiniz.
+                        </b>
+                    </p>
                 </div>
                 <style>
                     tbody.courses tr td{
