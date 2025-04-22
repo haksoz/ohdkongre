@@ -3476,3 +3476,23 @@ footer .img-responsive {
     justify-content: center;
     align-items: center;
 }
+.mobile-float{
+    display: none;
+}
+@media screen and (max-width: 991px){
+    .header-container {
+        display: block;
+    }
+    .mobile-float{
+        position: absolute !important;
+        left: 10px !important;
+        top: 20px !important;
+        display: block;
+    }
+    .mobile-float.tr{
+        left: 50px !important;
+    }
+    .mobile-hidden{
+        display: none !important;
+    }
+}

@@ -3,6 +3,16 @@
 	<div class="header-container">
 		<!-- Logo and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
+            <div class="mobile-float">
+                <a href="/en/index.php">
+                    <img alt="" src="doc/united-kingdom.png" style="max-width: 30px;">
+                </a>
+            </div>
+            <div class="mobile-float tr">
+                <a href="/index.php">
+                    <img alt="" src="doc/square.png" style="max-width: 30px;">
+                </a>
+            </div>
 			<button class="navbar-toggle" data-target="#navbar-brand" data-toggle="collapse" type="button"><i class="fa fa-bars"></i></button> 
 			<!-- 
 			<div class="navbar-brand page-scroll">
@@ -54,14 +64,16 @@
 				<li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>">
 					<a href="/iletisim.php">İletişim</a>
 				</li>
-				<li>
-                         <a href="/en/index.php">
-                         	<img alt="" src="doc/united-kingdom.png" style="max-width: 30px;"></a>
-                     </li>
-                     <li>
-                         <a href="/index.php">
-                         	<img alt="" src="doc/square.png" style="max-width: 30px;"></a>
-                     </li>
+                <li class="mobile-hidden">
+                    <a href="/en/index.php">
+                        <img alt="" src="doc/united-kingdom.png" style="max-width: 30px;">
+                    </a>
+                </li>
+                <li class="mobile-hidden">
+                    <a href="/index.php">
+                        <img alt="" src="doc/square.png" style="max-width: 30px;">
+                    </a>
+                </li>
 			</ul>
 		</div><!-- /.navbar-collapse -->
 	</div><!-- /container -->
