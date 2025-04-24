@@ -69,6 +69,8 @@
                                         </tr>
                                         </thead>
                                         <tbody>
+
+                                        <!--
                                         <tr>
                                             <td class="oturum"><b>09:00-17:00</b></td>
                                             <td class="oturum">
@@ -80,6 +82,8 @@
                                                 <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-1" class="course-detail-btn">
                                             </td>
                                         </tr>
+                                            -->
+                                        
                                         <tr>
                                             <td class="oturum"><b>09:00-12:00</b></td>
                                             <td class="oturum">
@@ -91,6 +95,8 @@
                                                 <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-2" class="course-detail-btn">
                                             </td>
                                         </tr>
+                                        
+                                        
                                         <tr>
                                             <td class="oturum"><b>09:00-16:50</b></td>
                                             <td class="oturum">
@@ -102,6 +108,7 @@
                                                 <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-3" class="course-detail-btn">
                                             </td>
                                         </tr>
+                                        <!--
                                         <tr>
                                             <td class="oturum"><b>09:00-12:30</b></td>
                                             <td class="oturum">
@@ -113,6 +120,7 @@
                                                 <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-4" class="course-detail-btn">
                                             </td>
                                         </tr>
+                                        -->
                                         <tr>
                                             <td class="oturum"><b>09:00-13:10</b></td>
                                             <td class="oturum">
@@ -124,6 +132,7 @@
                                                 <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-5" class="course-detail-btn">
                                             </td>
                                         </tr>
+                                        <!--
                                         <tr>
                                             <td class="oturum"><b>09:00-13:00</b></td>
                                             <td class="oturum">
@@ -135,6 +144,7 @@
                                                 <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-6" class="course-detail-btn">
                                             </td>
                                         </tr>
+                                        -->
                                         <tr>
                                             <td class="oturum"><b>09:00-17:30</b></td>
                                             <td class="oturum">
@@ -146,6 +156,7 @@
                                                 <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-7" class="course-detail-btn">
                                             </td>
                                         </tr>
+                                        <!--
                                         <tr>
                                             <td class="oturum"><b>09:00-17:30</b></td>
                                             <td class="oturum">
@@ -179,6 +190,7 @@
                                                 <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-10" class="course-detail-btn">
                                             </td>
                                         </tr>
+                                        -->
                                         <tr>
                                             <td class="oturum"><b>09:00-17:00</b></td>
                                             <td class="oturum">
@@ -190,6 +202,7 @@
                                                 <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-11" class="course-detail-btn">
                                             </td>
                                         </tr>
+                                        <!--
                                         <tr>
                                             <td class="oturum"><b>10:30-12:00</b></td>
                                             <td class="oturum">
@@ -223,6 +236,7 @@
                                                 <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="course-table-14" class="course-detail-btn">
                                             </td>
                                         </tr>
+                                        -->
                                         </tbody>
                                     </table>
 

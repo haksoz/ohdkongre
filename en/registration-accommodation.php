@@ -121,6 +121,7 @@
                     </tr>
                     </thead>
                     <tbody class="courses">
+                        <!--
                     <tr>
                         <td class="text-center"><b>09:00-17:00</b></td>
                         <td>
@@ -130,6 +131,7 @@
                         <td class="text-center">Min:30 Max:50</td>
                         <td class="text-center">2000 TL</td>
                     </tr>
+                        -->
                     <tr>
                         <td class="text-center"><b>09:00-12:00</b></td>
                         <td>
@@ -148,6 +150,7 @@
                         <td class="text-center">Min:15 Max:100</td>
                         <td class="text-center">2000 TL</td>
                     </tr>
+                    <!--
                     <tr>
                         <td class="text-center"><b>09:00-12:30</b></td>
                         <td>
@@ -157,6 +160,7 @@
                         <td class="text-center">Min:15 Max:30</td>
                         <td class="text-center">1000 TL</td>
                     </tr>
+                    -->
                     <tr>
                         <td class="text-center"><b>09:00-13:10</b></td>
                         <td>
@@ -166,6 +170,7 @@
                         <td class="text-center">Min:15 Max:30</td>
                         <td class="text-center">1000 TL</td>
                     </tr>
+                    <!--
                     <tr>
                         <td class="text-center"><b>09:00-13:00</b></td>
                         <td>
@@ -175,6 +180,7 @@
                         <td class="text-center">Min:15 Max:30</td>
                         <td class="text-center">1000 TL</td>
                     </tr>
+                    -->
                     <tr>
                         <td class="text-center"><b>09:00-17:30</b></td>
                         <td>
@@ -184,6 +190,7 @@
                         <td class="text-center">Min:15 Max:50</td>
                         <td class="text-center">2000 TL</td>
                     </tr>
+                    <!--
                     <tr>
                         <td class="text-center"><b>09:00-17:30</b></td>
                         <td>
@@ -211,6 +218,7 @@
                         <td class="text-center">Min:15 Max:100</td>
                         <td class="text-center">2000 TL</td>
                     </tr>
+                    -->
                     <tr>
                         <td class="text-center"><b>09:00-17:00</b></td>
                         <td>
@@ -220,6 +228,7 @@
                         <td class="text-center">Min:15 Max:100</td>
                         <td class="text-center">2000 TL</td>
                     </tr>
+                    <!--
                     <tr>
                         <td class="text-center"><b>10:30-12:00</b></td>
                         <td>
@@ -247,6 +256,7 @@
                         <td class="text-center">Min:15 Max:100</td>
                         <td class="text-center">Free</td>
                     </tr>
+                    -->
                     </tbody>
                 </table>
             </center>
