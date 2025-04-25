@@ -345,6 +345,21 @@
                                             </td>
                                         </tr>
                                         <tr>
+                                                <td class="oturum sub_clock"></td>
+                                                <td class="oturum">
+                                                    <b>KONFERANS II : GÜNCEL TEKNOLOJİK GELİŞMELERİN ONKOLOJİ HEMŞİRELİĞİNE YANSIMALARI  </b> <br>
+                                                    <b>Panel Başkanları: </b> Sevinç KUTLUTÜRKAN, Miray AKSU
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="oturum sub_clock">12:30–13:00</td>
+                                                <td class="oturum">
+                                                    <b>Yeni Nesil Teknolojilerin Onkoloji Hastalarında Kullanımı</b><br>
+                                                    Aydanur AYDIN
+                                                </td>
+                                            </tr>
+
+                                        <tr>
                                             <td class="breaktime">13:00-14:00</td>
                                             <td class="breaktime"><i class="fa fa-cutlery mr-1"></i><b>ÖĞLE YEMEĞİ</b></td>
                                         </tr>
@@ -550,8 +565,9 @@
                                                 <td class="breaktime">15:00-15:30</td>
                                                 <td class="breaktime"><i class="fa fa-coffee"></i> <b>ARA</b></td>
                                             </tr>
+                                            <!--
                                             <tr>
-                                                <td class="panel-baslik"></td>
+                                                <td class="panel-baslik">xxxx</td>
                                                 <td class="panel-baslik">
                                                     <b>KONFERANS II : GÜNCEL TEKNOLOJİK GELİŞMELERİN ONKOLOJİ HEMŞİRELİĞİNE YANSIMALARI  </b> <br>
                                                     <b>Panel Başkanları: </b> Sevinç KUTLUTÜRKAN, Miray AKSU
@@ -564,6 +580,7 @@
                                                     Aydanur AYDIN
                                                 </td>
                                             </tr>
+                                            -->
                                             <tr>
                                                 <td class="panel-baslik"><b>16:00-17:00</b></td>
                                                 <td class="panel-baslik">
