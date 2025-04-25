@@ -85,7 +85,7 @@
                                             -->
                                         
                                         <tr>
-                                            <td class="oturum"><b>09:00-12:00</b></td>
+                                            <td class="oturum"><b>13:00-16:00</b></td>
                                             <td class="oturum">
                                                 <b>Farkındalık Temelli Öz Şefkat Becerilerinin Onkoloji Hemşirelerine Kazandırılması</b><br>
                                                 <b>Kurs Koordinatörü:</b> Behice Belkıs ÇALIŞKAN
