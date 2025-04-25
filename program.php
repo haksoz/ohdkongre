@@ -530,7 +530,7 @@
                                                 <td class="panel-baslik"></td>
                                                 <td class="panel-baslik">
                                                     <b>PANEL VII : KLİNİK UYGULAMADA FARK YARATANLAR: BAŞARI HİKAYELERİ </b> <br>
-                                                    <b>Panel Başkanları: </b> Fatma GÜNDOĞDU, Semra ERCİVAN
+                                                    <b>Panel Başkanları: </b> Fatma GÜNDOĞDU, Ayşin KAYIŞ, Semra ERCİVAN
                                                 </td>
                                             </tr>
                                             <tr>
@@ -582,7 +582,7 @@
                                             </tr>
                                             -->
                                             <tr>
-                                                <td class="panel-baslik"><b>16:00-17:00</b></td>
+                                                <td class="panel-baslik"><b>15:30-17:00</b></td>
                                                 <td class="panel-baslik">
                                                     <b>PANEL VIII : ONKOLOJİ HEMŞİRELİĞİNDE YAŞANAN SORUNLAR VE ÇÖZÜM ÖNERİLERİ </b> <br>
                                                     <b>Panel Başkanları: </b> Perihan GÜNER, Figen BAY, Azize ATLI ÖZBAŞ, Erkan SANMAK
@@ -615,7 +615,7 @@
                                                 <td class="panel-baslik"></td>
                                                 <td class="panel-baslik">
                                                     <b>PANEL IX : PEDİATRİK ONKOLOJİ HEMŞİRESİ OLMAK </b> <br>
-                                                    <b>Panel Başkanları: </b> Pınar YILMAZ, Kadriye SANCI
+                                                    <b>Panel Başkanları: </b> Pınar YILMAZ, Kadriye SANCI, Ayşe AY
                                                 </td>
                                             </tr>
                                             <tr>
@@ -778,10 +778,10 @@
                                                 <td class="breaktime"><i class="fa fa-coffee"></i> <b>ARA</b></td>
                                             </tr>
                                             <tr>
-                                                <td class="oturum sub_clock">16:15–17:00</td>
+                                                <td class="oturum sub_clock">16:00–17:00</td>
                                                 <td class="oturum">
-                                                    <b>Atölye Çalışması: İnovatif Düşünme Becerisini Geliştirme Atölyesi</b><br>
-                                                    Aydanur AYDIN
+                                                    <b>Umutlu Kutu (Sanat Terapisi Uygulaması)</b><br>
+                                                     Handenur KALAY, Yağmu ÖZCAN
                                                 </td>
                                             </tr>
                                             </tbody>

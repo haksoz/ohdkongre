@@ -527,7 +527,7 @@
                                                 <td class="panel-baslik"></td>
                                                 <td class="panel-baslik">
                                                     <b> SESSION VII : THOSE WHO MAKE A DIFFERENCE IN CLINICAL PRACTICE: SUCCESS STORIES </b> <br>
-                                                    <b> Session Chair: </b> Fatma GÜNDOĞDU, Semra ERCİVAN
+                                                    <b> Session Chair: </b> Fatma GÜNDOĞDU, Ayşin KAYIŞ, Semra ERCİVAN
                                                 </td>
                                             </tr>
                                             <tr>
@@ -579,7 +579,7 @@
                                             </tr>
                                             -->
                                             <tr>
-                                                <td class="panel-baslik"><b>16:00-17:00</b></td>
+                                                <td class="panel-baslik"><b>15:30-17:00</b></td>
                                                 <td class="panel-baslik">
                                                     <b> SESSION VIII : PROBLEMS AND SOLUTION SUGGESTIONS IN ONCOLOGY NURSING </b> <br>
                                                     <b> Session Chair: </b> Perihan GÜNER, Figen BAY, Azize ATLI ÖZBAŞ, Erkan SANMAK
@@ -612,7 +612,7 @@
                                                 <td class="panel-baslik"></td>
                                                 <td class="panel-baslik">
                                                     <b> SESSION IX : BEING A PEDIATRIC ONCOLOGY NURSE </b> <br>
-                                                    <b> Session Chair: </b> Pınar YILMAZ, Kadriye SANCI
+                                                    <b> Session Chair: </b> Pınar YILMAZ, Kadriye SANCI, Ayşe AY
                                                 </td>
                                             </tr>
                                             <tr>
@@ -775,7 +775,7 @@
                                                 <td class="breaktime"><i class="fa fa-coffee"></i> <b>BREAK TIME</b></td>
                                             </tr>
                                             <tr>
-                                                <td class="oturum sub_clock">16:15–17:00</td>
+                                                <td class="oturum sub_clock">16:00–17:00</td>
                                                 <td class="oturum">
                                                     <b>Workshop: </b>Innovative Thinking Skill Development Workshopi<br>
                                                     Aydanur AYDIN
