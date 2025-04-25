@@ -263,13 +263,13 @@
                                         </thead>
                                         <tbody>
                                         <tr>
-                                            <td class="oturum sub_clock"><b>08:00–08:30</b></td>
+                                            <td class="oturum sub_clock"><b>08:30–09:00</b></td>
                                             <td class="oturum">
                                                 <b>KONGRE KAYIT </b>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock"><b>08:30–09:00</b></td>
+                                            <td class="oturum sub_clock"><b>09:00–09:15</b></td>
                                             <td class="oturum">
                                                 <b>KONGRE AÇILIŞI</b> <br>
                                                 Prof. Dr. Sultan AYAZ ALKAYA – Gazi Üniversitesi Hemşirelik Fakültesi <br>
@@ -278,6 +278,13 @@
                                             </td>
                                         </tr>
                                         <tr>
+                                            <td class="oturum sub_clock"><b>09:15–09:30</b></td>
+                                            <td class="oturum">
+                                                <b>Müzik Dinletisi</b>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
                                             <td class="panel-baslik"></td>
                                             <td class="panel-baslik">
                                                 <b>PANEL I : GEÇMİŞTEN GELECEĞE ONKOLOJİ HEMŞİRELİĞİ</b> <br>
@@ -285,7 +292,7 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">09:00–10:00</td>
+                                            <td class="oturum sub_clock">09:30–10:00</td>
                                             <td class="oturum">
                                                 <b>Geçmişten Geleceğe 35 Yıllık Miras</b><br>
                                                 Perihan GÜNER
@@ -299,7 +306,7 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">10:00-10:30</td>
+                                            <td class="oturum sub_clock">10:10-10:30</td>
                                             <td class="oturum">
                                                 <b>Küresel Perspektiften Onkoloji Hemşireliği</b> <br>
                                                 Jeannine M.BRANT

@@ -261,18 +261,24 @@
                                         </thead>
                                         <tbody>
                                         <tr>
-                                            <td class="oturum sub_clock"><b>08:00–08:30</b></td>
+                                            <td class="oturum sub_clock"><b>08:30–09:00</b></td>
                                             <td class="oturum">
                                                 <b> REGISTRATION </b>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock"><b>08:30–09:00</b></td>
+                                            <td class="oturum sub_clock"><b>09:00–09:15</b></td>
                                             <td class="oturum">
                                                 <b> OPENING CEREMONY </b> <br>
                                                 Prof. Dr. Sultan AYAZ ALKAYA – Dean, Faculty of Nursing, Gazi University <br>
                                                 Prof. Dr. Perihan GÜNER 	– Oncology Nursing Association President <br>
                                                 Prof. Dr. Uğur ÜNAL	– Rector of Gazi University
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="oturum sub_clock"><b>09:15–09:30</b></td>
+                                            <td class="oturum">
+                                                <b>Music Concert</b>
                                             </td>
                                         </tr>
                                         <tr>
@@ -283,7 +289,7 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">09:00–10:00</td>
+                                            <td class="oturum sub_clock">09:30–10:00</td>
                                             <td class="oturum">
                                                 <b> 35 Years of Heritage from the Past to the Future</b><br>
                                                 Perihan GÜNER
@@ -297,7 +303,7 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">10:00-10:30</td>
+                                            <td class="oturum sub_clock">10:10-10:30</td>
                                             <td class="oturum">
                                                 <b> Oncology Nursing from a Global Perspective </b> <br>
                                                 Jeannine M.BRANT
