@@ -315,28 +315,28 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">11:00–11:30</td>
+                                            <td class="oturum sub_clock">11:00–11:20</td>
                                             <td class="oturum">
                                                 <b> Cancer Screening Studies in Turkey </b><br>
                                                 Fahriye ÜNLÜ
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">11:30–12:00</td>
+                                            <td class="oturum sub_clock">11:20–11:40</td>
                                             <td class="oturum">
                                                 <b> Cancer Screening Studies in Oman </b><br>
                                                 Manal AL-ZADJALİ
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">12:00–12:30</td>
+                                            <td class="oturum sub_clock">11:40–12:10</td>
                                             <td class="oturum">
                                                 <b> Obstacles and Solutions in Cancer Screening </b><br>
                                                 Ayşe ÇAL
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">12:30–13:00</td>
+                                            <td class="oturum sub_clock">12:10–12:30</td>
                                             <td class="oturum">
                                                 <b> The Effect of Cancer Screening on Survival </b><br>
                                                 Betül TOSUN

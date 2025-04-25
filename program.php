@@ -317,28 +317,28 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">11:00–11:30</td>
+                                            <td class="oturum sub_clock">11:00–11:20</td>
                                             <td class="oturum">
                                                 <b>Türkiye’de Kanser Tarama Çalışmaları</b><br>
                                                 Fahriye ÜNLÜ
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">11:30–12:00</td>
+                                            <td class="oturum sub_clock">11:20–11:40</td>
                                             <td class="oturum">
                                                 <b>Umman’da Kanser Tarama Çalışmaları</b><br>
                                                 Manal AL-ZADJALİ
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">12:00–12:30</td>
+                                            <td class="oturum sub_clock">11:40–12:10</td>
                                             <td class="oturum">
                                                 <b>Kanser Taramasında Yaşanan Engeller ve Çözüm Önerileri</b><br>
                                                 Ayşe ÇAL
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">12:30–13:00</td>
+                                            <td class="oturum sub_clock">12:10–12:30</td>
                                             <td class="oturum">
                                                 <b>Kanserde Taramanın Sağkalıma Etkisi</b><br>
                                                 Betül TOSUN
