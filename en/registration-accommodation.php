@@ -55,8 +55,8 @@
                         <thead>
                         <tr>
                             <th style="">Registration Type</th>
-                            <th>Prices Before April 28, 2025</th>
-                            <th>Prices After April 28, 2025</th>
+                            <th>Prices Before May 5, 2025</th>
+                            <th>Prices After May 5, 2025</th>
                         </tr>
                         </thead>
                         <tbody>

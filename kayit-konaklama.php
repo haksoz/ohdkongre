@@ -59,8 +59,8 @@
                             <thead>
                             <tr>
                                 <th style="">Kayıt Tipi</th>
-                                <th>28 Nisan 2025 <br> Öncesi Fiyatlar</th>
-                                <th>28 Nisan 2025 <br> Sonrası Fiyatlar</th>
+                                <th>5 Mayıs 2025 <br> Öncesi Fiyatlar</th>
+                                <th>5 Mayıs 2025 <br> Sonrası Fiyatlar</th>
                             </tr>
                             </thead>
                             <tbody>
