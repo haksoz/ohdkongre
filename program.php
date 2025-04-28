@@ -331,14 +331,14 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">11:20–11:40</td>
+                                            <td class="oturum sub_clock">11:20–11:50</td>
                                             <td class="oturum">
                                                 <b>Umman’da Kanser Tarama Çalışmaları</b><br>
                                                 Manal AL-ZADJALİ
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">11:40–12:10</td>
+                                            <td class="oturum sub_clock">11:50–12:10</td>
                                             <td class="oturum">
                                                 <b>Kanser Taramasında Yaşanan Engeller ve Çözüm Önerileri</b><br>
                                                 Ayşe ÇAL
@@ -361,7 +361,7 @@
                                             <tr>
                                                 <td class="oturum sub_clock">12:30–13:00</td>
                                                 <td class="oturum">
-                                                    <b>Yeni Nesil Teknolojilerin Onkoloji Hastalarında Kullanımı</b><br>
+                                                    <b>Yeni Nesil Teknolojilerin Onkoloji Hastalarındaki Uygulama Örnekleri</b><br>
                                                     Aydanur AYDIN
                                                 </td>
                                             </tr>
@@ -410,21 +410,21 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">15:50–16:20</td>
+                                            <td class="oturum sub_clock">15:50–16:10</td>
                                             <td class="oturum">
                                                 <b>Kanser Cerrahi Sürecinde Yeni Yaklaşımlar</b><br>
                                                 Arzu TUNA
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">16:20–16:50</td>
+                                            <td class="oturum sub_clock">16:10–16:30</td>
                                             <td class="oturum">
                                                 <b>Palyatif Bakım Sürecinde Yeni Yaklaşımlar</b><br>
                                                 Funda ROHDE
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">16:50–17:20</td>
+                                            <td class="oturum sub_clock">16:30–16:50</td>
                                             <td class="oturum">
                                                 <b>Yas Sürecinde Yeni Yaklaşımlar</b><br>
                                                 Meryem RASSOULI
@@ -537,7 +537,7 @@
                                                 <td class="panel-baslik"></td>
                                                 <td class="panel-baslik">
                                                     <b>PANEL VII : KLİNİK UYGULAMADA FARK YARATANLAR: BAŞARI HİKAYELERİ </b> <br>
-                                                    <b>Panel Başkanları: </b> Fatma GÜNDOĞDU, Ayşin KAYIŞ, Semra ERCİVAN
+                                                    <b>Panel Başkanları: </b> Fatma GÜNDOĞDU, Semra ERCİVAN
                                                 </td>
                                             </tr>
                                             <tr>
@@ -649,7 +649,7 @@
                                             <tr>
                                                 <td class="oturum sub_clock">09:30–09:45</td>
                                                 <td class="oturum">
-                                                    <b>Kök Hücre Bankacılığı ve Bireyselleştirilmiş Tedavi Hemşireler İçin Biyobankalarının Yönetimi ve Etik Sorunlar</b><br>
+                                                    <b>Biyobankalarının Yönetimi ve Etik Sorunlar … Hemşirelik Perspektifi</b><br>
                                                     Suzan BERKİTEN
                                                 </td>
                                             </tr>

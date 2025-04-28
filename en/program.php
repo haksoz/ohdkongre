@@ -328,14 +328,14 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">11:20–11:40</td>
+                                            <td class="oturum sub_clock">11:20–11:50</td>
                                             <td class="oturum">
                                                 <b> Cancer Screening Studies in Oman </b><br>
                                                 Manal AL-ZADJALİ
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">11:40–12:10</td>
+                                            <td class="oturum sub_clock">11:50–12:10</td>
                                             <td class="oturum">
                                                 <b> Obstacles and Solutions in Cancer Screening </b><br>
                                                 Ayşe ÇAL
@@ -406,21 +406,21 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">15:50–16:20</td>
+                                            <td class="oturum sub_clock">15:50–16:10</td>
                                             <td class="oturum">
                                                 <b> New Approaches in Cancer Surgery Process </b><br>
                                                 Arzu TUNA
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">16:20–16:50</td>
+                                            <td class="oturum sub_clock">16:10–16:30</td>
                                             <td class="oturum">
                                                 <b> New Approaches in Palliative Care Process </b><br>
                                                 Funda ROHDE
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">16:50–17:20</td>
+                                            <td class="oturum sub_clock">16:30–16:50</td>
                                             <td class="oturum">
                                                 <b> New Approaches in Grief Process </b><br>
                                                 Meryem RASSOULI
@@ -533,7 +533,7 @@
                                                 <td class="panel-baslik"></td>
                                                 <td class="panel-baslik">
                                                     <b> SESSION VII : THOSE WHO MAKE A DIFFERENCE IN CLINICAL PRACTICE: SUCCESS STORIES </b> <br>
-                                                    <b> Session Chair: </b> Fatma GÜNDOĞDU, Ayşin KAYIŞ, Semra ERCİVAN
+                                                    <b> Session Chair: </b> Fatma GÜNDOĞDU, Semra ERCİVAN
                                                 </td>
                                             </tr>
                                             <tr>
