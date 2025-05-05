@@ -564,7 +564,7 @@
                                             <tr>
                                                 <td class="oturum sub_clock">14:45–15:00</td>
                                                 <td class="oturum">
-                                                    <b>Hematoloji Onkoloji Hastalarında Tümör Lizis Sendromu Değerlendirme Projesi   </b><br>
+                                                    <b>Sessiz Tehlikeyi Aşmak; Hizmette Fark Yaratmak </b><br>
                                                     Özlem TOPKAYA
                                                 </td>
                                             </tr>
