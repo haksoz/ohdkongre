@@ -306,7 +306,7 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">10:10-10:30</td>
+                                            <td class="oturum sub_clock">10:00-10:30</td>
                                             <td class="oturum">
                                                 <b>Küresel Perspektiften Onkoloji Hemşireliği</b> <br>
                                                 Jeannine M.BRANT
@@ -550,14 +550,14 @@
                                             <tr>
                                                 <td class="oturum sub_clock">14:15–14:30</td>
                                                 <td class="oturum">
-                                                    <b>Hayata Dokunmak </b><br>
+                                                    <b>Hastaya Dokunmak </b><br>
                                                     Dilşad CİNAL
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td class="oturum sub_clock">14:30–14:45</td>
                                                 <td class="oturum">
-                                                    <b>Klinik Uygulamada Fark Yaratanlar  </b><br>
+                                                    <b>Kanser Yolculuğunda Sanat ve Uğraş Terapisi</b><br>
                                                     Ayşin KAYIŞ
                                                 </td>
                                             </tr>
