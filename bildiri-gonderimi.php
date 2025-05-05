@@ -38,7 +38,7 @@
                     <div class="hr"></div>
                 </div>
                 <div class="d-flex flex-column justify-content-center align-items-center" style="padding-bottom:30px;">
-                    <p class="text-center"><b>Bildiri Özet Son Gönderim Tarihi: <span class="text-red">5 Mayıs 2025</span></b></p>
+                    <p class="text-center"><b>Bildiri Özet Son Gönderim Tarihi: <span class="text-red">10 Mayıs 2025</span></b></p>
                     <a href="https://www.abstractmodule.com/2025ohdkongre/?plng=tur" target="_blank" class="abstract-button">
                         <img src="/doc/abs.png">
                     </a>
@@ -205,7 +205,7 @@
                 </div>
                 <div>
                     <h4>Önemli Tarihler</h4>
-                    <p><b>Bildiri Özet Son Gönderim Tarihi:</b> 5 Mayıs 2025</p>
+                    <p><b>Bildiri Özet Son Gönderim Tarihi:</b> 10 Mayıs 2025</p>
                 </div>
 
                 <div class="mb-5">
