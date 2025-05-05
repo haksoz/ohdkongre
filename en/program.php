@@ -303,7 +303,7 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">10:10-10:30</td>
+                                            <td class="oturum sub_clock">10:00-10:30</td>
                                             <td class="oturum">
                                                 <b> Oncology Nursing from a Global Perspective </b> <br>
                                                 Jeannine M.BRANT
@@ -546,14 +546,14 @@
                                             <tr>
                                                 <td class="oturum sub_clock">14:15–14:30</td>
                                                 <td class="oturum">
-                                                    <b> Touching Lives </b><br>
+                                                    <b> Touching Patient </b><br>
                                                     Dilşad CİNAL
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td class="oturum sub_clock">14:30–14:45</td>
                                                 <td class="oturum">
-                                                    <b> Making a Difference in Clinical Practice </b><br>
+                                                    <b> Art and Occupational Therapy in the Cancer Journey </b><br>
                                                     Ayşin KAYIŞ
                                                 </td>
                                             </tr>
