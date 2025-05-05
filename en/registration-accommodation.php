@@ -49,31 +49,37 @@
                 <h3 class="text-center mt-5">REGISTRATION</h3>
             </div>
             <center>
-                <div class="col-md-10" style="float: none;">
+                <div class="col-md-8" style="float: none;">
                     <!-- Tables -->
                     <table class="table table-bordered table-striped table-hover ohd-table">
+                        <colgroup>
+                            <col span="1" style="width: 70%;">
+                            <col span="1" style="width: 15%;">
+                            <!--                                <col span="1" style="width: 15%;">-->
+                        </colgroup>
                         <thead>
                         <tr>
                             <th style="">Registration Type</th>
-                            <th>Prices Before May 5, 2025</th>
-                            <th>Prices After May 5, 2025</th>
+                            <th style="">Registration Fee</th>
+<!--                            <th>Prices Before May 5, 2025</th>-->
+<!--                            <th>Prices After May 5, 2025</th>-->
                         </tr>
                         </thead>
                         <tbody>
 
                         <tr>
                             <td>Member of the Association</td>
-                            <td>6.600 TL</td>
+<!--                            <td>6.600 TL</td>-->
                             <td>7.800 TL</td>
                         </tr>
                         <tr>
                             <td>Non-Member of the Association</td>
-                            <td>7.200 TL</td>
+<!--                            <td>7.200 TL</td>-->
                             <td>8.400 TL</td>
                         </tr>
                         <tr>
                             <td>Undergraduate students</td>
-                            <td>3.300 TL</td>
+<!--                            <td>3.300 TL</td>-->
                             <td>3.300 TL</td>
                         </tr>
                         </tbody>

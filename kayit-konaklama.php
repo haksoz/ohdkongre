@@ -48,35 +48,36 @@
                     <h3 class="text-center mt-5">KAYIT</h3>
                 </div>
                 <center>
-                    <div class="col-md-12" style="float: none;">
+                    <div class="col-md-8" style="float: none;">
                         <!-- Tables -->
                         <table class="table table-bordered table-striped table-hover ohd-table">
                             <colgroup>
                                 <col span="1" style="width: 70%;">
                                 <col span="1" style="width: 15%;">
-                                <col span="1" style="width: 15%;">
+<!--                                <col span="1" style="width: 15%;">-->
                             </colgroup>
                             <thead>
                             <tr>
                                 <th style="">Kayıt Tipi</th>
-                                <th>5 Mayıs 2025 <br> Öncesi Fiyatlar</th>
-                                <th>5 Mayıs 2025 <br> Sonrası Fiyatlar</th>
+                                <th style="">Kayıt Ücreti</th>
+<!--                                <th>5 Mayıs 2025 <br> Öncesi Fiyatlar</th>-->
+<!--                                <th>5 Mayıs 2025 <br> Sonrası Fiyatlar</th>-->
                             </tr>
                             </thead>
                             <tbody>
                             <tr>
                                 <td>Dernek Üyesi </td>
-                                <td>6.600 TL</td>
+<!--                                <td>6.600 TL</td>-->
                                 <td>7.800 TL</td>
                             </tr>
                             <tr>
                                 <td>Dernek Üyesi Olmayan</td>
-                                <td>7.200 TL</td>
+<!--                                <td>7.200 TL</td>-->
                                 <td>8.400 TL</td>
                             </tr>
                             <tr>
                                 <td>Öğrenci (Lisans Öğrencisi, herhangi bir yerde çalışmadığını bir dilekçe ile beyan eden yüksek lisans ve doktora öğrencileri)</td>
-                                <td>3.300 TL</td>
+<!--                                <td>3.300 TL</td>-->
                                 <td>3.300 TL</td>
                             </tr>
 <!--                            <tr>-->
