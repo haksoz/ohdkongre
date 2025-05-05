@@ -38,7 +38,7 @@
                 <div class="hr"></div>
             </div>
             <div class="d-flex flex-column justify-content-center align-items-center" style="padding-bottom:30px;">
-                <p class="text-center"><b>Abstract Submission Deadline: <span class="text-red">May 5, 2025</span></b></p>
+                <p class="text-center"><b>Abstract Submission Deadline: <span class="text-red">May 10, 2025</span></b></p>
                 <a href="https://www.abstractmodule.com/2025ohdkongre/?plng=eng" target="_blank" class="abstract-button">
                     <img src="/doc/abs.png">
                 </a>
@@ -187,7 +187,7 @@
             </div>
             <div>
                 <h4>Important Dates</h4>
-                <p><b>Abstract Submission Deadline:</b> May 5, 2025</p>
+                <p><b>Abstract Submission Deadline:</b> May 10, 2025</p>
             </div>
 
             <div class="mb-5">
