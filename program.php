@@ -92,7 +92,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:30</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="farkindalik" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;cursor:pointer;" alt="" data-micromodal-trigger="modal-1" data-course="farkindalik" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         
@@ -105,7 +105,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:100</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="immunoterapi" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;cursor:pointer;" alt="" data-micromodal-trigger="modal-1" data-course="immunoterapi" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <!--
@@ -130,7 +130,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:30</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="meme-kanseri-1" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;cursor:pointer;" alt="" data-micromodal-trigger="modal-1" data-course="meme-kanseri-1" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <!--
@@ -154,7 +154,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:50</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="temel-kanser" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;cursor:pointer;" alt="" data-micromodal-trigger="modal-1" data-course="temel-kanser" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <!--
@@ -201,7 +201,7 @@
                                             </td>
                                             <td class="oturum text-center">Min:15 Max:100</td>
                                             <td class="oturum text-center">
-                                                <img src="/doc/ico-show.svg" style="width: 20px;" alt="" data-micromodal-trigger="modal-1" data-course="kok-hucre" class="course-detail-btn">
+                                                <img src="/doc/ico-show.svg" style="width: 20px;cursor:pointer;" alt="" data-micromodal-trigger="modal-1" data-course="kok-hucre" class="course-detail-btn">
                                             </td>
                                         </tr>
                                         <!--
@@ -968,7 +968,7 @@
             button.addEventListener('click', function() {
                 const courseName = this.getAttribute('data-course');
                 const modalContent = document.getElementById('modal-1-content');
-                modalContent.innerHTML = `<img src="/doc/kurslar/${courseName}.jpg?v=4" class="w-100" alt="Kurs Detayı">`;
+                modalContent.innerHTML = `<img src="/doc/kurslar/${courseName}.jpg?v=44" class="w-100" alt="Kurs Detayı">`;
 
                 MicroModal.show('modal-1', {
                     onShow: modal => console.info(`${modal.id} is shown`),
