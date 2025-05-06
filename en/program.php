@@ -560,7 +560,7 @@
                                             <tr>
                                                 <td class="oturum sub_clock">14:45–15:00</td>
                                                 <td class="oturum">
-                                                    <b> Evaluation Project of Tumor Lysis Syndrome in Hematology-Oncology Patients </b><br>
+                                                    <b> Overcoming the Silent Threat; Making a Difference in Service </b><br>
                                                     Özlem TOPKAYA
                                                 </td>
                                             </tr>
