@@ -788,7 +788,7 @@
                                                 <td class="oturum sub_clock">16:00–17:00</td>
                                                 <td class="oturum">
                                                     <b>Umutlu Kutu (Sanat Terapisi Uygulaması)</b><br>
-                                                     Handenur KALAY, Yağmu ÖZCAN
+                                                     Handenur KALAY, Yağmur ÖZCAN
                                                 </td>
                                             </tr>
                                             </tbody>
