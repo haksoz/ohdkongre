@@ -9,7 +9,7 @@
             <main class="modal__content" id="modal-1-content" style="margin-top:1rem;">
 <!--                <img src="/doc/ohd-popup.jpeg" class="w-100" alt="">-->
                 <h3 style="color: #123755;">Duyuru</h3>
-                <h6>Kongremiz Gazi Üniversitesi Rektörlük Kampüsü Teknoloji Fakültesi Taşkent Binası Kongre Salonları'nda gerçekleşecektir.</h6>
+                <h6>Kongremiz Gazi Üniversitesi Rektörlük Kampüsü <br> Teknoloji Fakültesi Taşkent Binası Kongre Salonları'nda gerçekleşecektir.</h6>
             </main>
 <!--            <footer class="modal__footer text-center">-->
 <!--            </footer>-->
