@@ -1,13 +1,15 @@
 <div class="modal micromodal-slide" id="modal-1" aria-hidden="false" style="position:relative;z-index:99999;">
     <div class="modal__overlay" tabindex="-1" data-micromodal-close>
-        <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title" style="width:80%;">
+        <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-1-title" style="max-width: 600px;">
             <header class="modal__header" style="height: 20px;">
                 <h2 class="modal__title" id="modal-1-title">
                 </h2>
                 <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
             </header>
             <main class="modal__content" id="modal-1-content" style="margin-top:1rem;">
-                <img src="/doc/ohd-popup.jpeg" class="w-100" alt="">
+<!--                <img src="/doc/ohd-popup.jpeg" class="w-100" alt="">-->
+                <h3 style="color: #123755;">Duyuru</h3>
+                <h6>Kongremiz Gazi Üniversitesi Rektörlük Kampüsü Teknoloji Fakültesi Taşkent Binası Kongre Salonları'nda gerçekleşecektir.</h6>
             </main>
 <!--            <footer class="modal__footer text-center">-->
 <!--            </footer>-->
