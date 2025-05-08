@@ -41,7 +41,7 @@
                 <p>
                     <b class="text-uppercase fs-18 mr-2">Toplanı Yeri ve Tarihi: </b> <br>
                     1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi, 21 - 23 Mayıs 2025 tarihleri arasında Ankara
-                    Gazi Üniversitesi Rektörlüğü Mimar Kemaleddin Salonu’nda düzenlenecektir.
+                    Gazi Üniversitesi Rektörlük Kampüsü Teknoloji Fakültesi Taşkent Binası Kongre Salonlarında gerçekleşecektir.
                 </p>
                 <p>
                     <b class="text-uppercase fs-18 mr-2">Toplantı Dili: </b><br>

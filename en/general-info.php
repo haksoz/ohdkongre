@@ -36,7 +36,7 @@
             <div class="col-md-12 col-md-12 res-margin">
                 <p>
                     <b class="text-uppercase fs-18 mr-2">Congress Date and Place:</b><br>
-                    The 1st International Oncology Nursing Association Congress will be held between 21-25 May 2025 at Ankara Gazi University Rectorate Mimar Kemaleddin Hall.
+                    The 1st International Oncology Nursing Association Congress will be held between 21-25 May 2025 at Ankara Gazi University Rectorate Campus Technology Faculty Tashkent Building Congress Halls.
                 </p>
                 <p>
                     <b class="text-uppercase fs-18 mr-2">Badge: </b> <br>
