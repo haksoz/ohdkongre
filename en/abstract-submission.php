@@ -173,7 +173,7 @@
                 </ul>
                 <p style="font-weight: bold;">Poster Presentation</p>
                 <ul class="custom no-margin" style="font-weight:normal;">
-                    <li> Posters should be <b>70 cm x 90 cm</b> in size and prepared as e-posters.	</li>
+                    <li> Posters must be <b>70(wide) x 90(long) cm</b> and prepared to be readable from a distance of at least 1 meter. </li>
                     <li> Posters will be uploaded to the system as PDF files.	</li>
                     <li> The following sections should be included in the posters:
                         <ul>

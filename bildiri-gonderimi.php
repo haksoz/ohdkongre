@@ -191,7 +191,7 @@
                     </ul>
                     <p style="font-weight: bold;">Poster Bildiri</p>
                     <ul class="custom no-margin" style="font-weight:normal;">
-                        <li>Posterler, <b>70cm x 90cm</b> boyutunda ve e-poster olarak hazırlanmalıdır.</li>
+                        <li>Posterler, <b>70 cm eninde 90 cm boyunda</b> olmalı ve en az 1 metre mesafeden okunabilecek şekilde hazırlanmalıdır.</li>
                         <li>Posterler sisteme pdf dosyası olarak yüklenecektir.</li>
                         <li>Posterlerde şu bölümler yer almalıdır:
                             <ul>
