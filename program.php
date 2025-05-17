@@ -292,24 +292,10 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">09:30–10:00</td>
+                                            <td class="oturum sub_clock">09:30–10:30</td>
                                             <td class="oturum">
                                                 <b>Geçmişten Geleceğe 35 Yıllık Miras</b><br>
                                                 Perihan GÜNER
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="oturum sub_clock"></td>
-                                            <td class="oturum">
-                                                <b>KONFERANS I</b><br>
-                                                <b>Oturum Başkanı:</b>Sultan KAV
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="oturum sub_clock">10:00-10:30</td>
-                                            <td class="oturum">
-                                                <b>Küresel Perspektiften Onkoloji Hemşireliği</b> <br>
-                                                Jeannine M.BRANT
                                             </td>
                                         </tr>
                                         <tr>
@@ -354,7 +340,7 @@
                                         <tr>
                                                 <td class="oturum sub_clock"></td>
                                                 <td class="oturum">
-                                                    <b>KONFERANS II : GÜNCEL TEKNOLOJİK GELİŞMELERİN ONKOLOJİ HEMŞİRELİĞİNE YANSIMALARI  </b> <br>
+                                                    <b>KONFERANS I : GÜNCEL TEKNOLOJİK GELİŞMELERİN ONKOLOJİ HEMŞİRELİĞİNE YANSIMALARI  </b> <br>
                                                     <b>Panel Başkanları: </b> Sevinç KUTLUTÜRKAN, Miray AKSU
                                                 </td>
                                             </tr>
@@ -428,6 +414,20 @@
                                             <td class="oturum">
                                                 <b>Yas Sürecinde Yeni Yaklaşımlar</b><br>
                                                 Meryem RASSOULI
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="oturum sub_clock"></td>
+                                            <td class="oturum">
+                                                <b>KONFERANS II</b><br>
+                                                <b>Oturum Başkanı:</b>Sultan KAV
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="oturum sub_clock">17:00-17:30</td>
+                                            <td class="oturum">
+                                                <b>Küresel Perspektiften Onkoloji Hemşireliği</b> <br>
+                                                Jeannine M.BRANT
                                             </td>
                                         </tr>
                                         </tbody>
