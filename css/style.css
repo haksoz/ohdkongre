@@ -2988,6 +2988,16 @@ button.list-group-item:hover {
         padding-right: 0;
         width: calc(100% / 12);
     }
+    .program ul.poster{
+        margin-left:auto !important;
+        width: 100% !important;
+    }
+    /*.program ul.nav.nav-tabs.poster li a{*/
+    /*    margin-right: 10px;*/
+    /*}*/
+    /*.program ul.nav.nav-tabs.poster li a:before{*/
+    /*    border-radius: 10px 10px 0 0;*/
+    /*}*/
 
     .program ul li {
         margin-right: 0px;
@@ -3495,4 +3505,15 @@ footer .img-responsive {
     .mobile-hidden{
         display: none !important;
     }
+}
+.btn.modal__btn-primary.poster-btn{
+    margin: auto;
+    margin-top: 15px;
+    width: 100%;
+    max-width: 350px;
+    background-color: #133855;
+    color: #ffffff;
+}
+.btn.modal__btn-primary.poster-btn:hover {
+    background-color: #404763;
 }

@@ -49,6 +49,9 @@
                         <li role="presentation">
                             <a data-toggle="tab" href="#Section3" role="tab" style="text-align: center;">23 Mayıs Cuma<br>Bilimsel Program</a>
                         </li>
+                        <li role="presentation">
+                            <a data-toggle="tab" href="#Section4" role="tab" style="text-align: center;">Sözlü ve Poster Bildiriler <br> Sunum Detayları</a>
+                        </li>
                     </ul><!-- Tab panes -->
                     <div class="tab-content">
                         <div class="tab-pane active in fade" id="Section1" role="tabpanel">
@@ -798,6 +801,14 @@
                                 </div>
                             </div>
                         </div><!-- /tab-panel -->
+                        <div class="tab-pane fade" id="Section4" role="tabpanel">
+                            <h4 class="text-center">Sözlü ve Poster Bildiriler Sunum Detayları</h4>
+                            <div class="d-flex flex-column" style="padding-bottom: 30px; ">
+                                <a href="/doc/sozel-bildiriler.pdf" target="_blank" class="btn modal__btn-primary poster-btn">Sözel Bildiri Oturumları</a>
+                                <a href="/doc/poster-bildiriler-1.pdf" target="_blank" class="btn modal__btn-primary poster-btn">22 MAYIS PERŞEMBE POSTER BİLGİLERİ</a>
+                                <a href="/doc/poster-bildiriler-2.pdf" target="_blank" class="btn modal__btn-primary poster-btn">23 MAYIS CUMA POSTER BİLGİLERİ</a>
+                            </div>
+                        </div>
                     </div><!-- /tab-content -->
                     <style type="text/css">
 
