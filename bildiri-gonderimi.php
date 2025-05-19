@@ -40,9 +40,9 @@
                 <div class="d-flex flex-column justify-content-center align-items-center" style="padding-bottom:30px;">
 <!--                    <p class="text-center"><b>Bildiri Özet Son Gönderim Tarihi: <span class="text-red">10 Mayıs 2025</span></b></p>-->
                     <div class="d-flex flex-column" style="padding-bottom: 30px; ">
-                        <a href="/doc/sozel-bildiriler.pdf" target="_blank" class="btn modal__btn-primary poster-btn">Sözel Bildiri Oturumları</a>
-                        <a href="/doc/poster-bildiriler-1.pdf" target="_blank" class="btn modal__btn-primary poster-btn">22 MAYIS PERŞEMBE POSTER BİLGİLERİ</a>
-                        <a href="/doc/poster-bildiriler-2.pdf" target="_blank" class="btn modal__btn-primary poster-btn">23 MAYIS CUMA POSTER BİLGİLERİ</a>
+                        <a href="/doc/sozel-bildiriler.pdf?v=23" target="_blank" class="btn modal__btn-primary poster-btn">Sözel Bildiri Oturumları</a>
+                        <a href="/doc/poster-bildiriler-1.pdf?v=23" target="_blank" class="btn modal__btn-primary poster-btn">22 MAYIS PERŞEMBE POSTER BİLGİLERİ</a>
+                        <a href="/doc/poster-bildiriler-2.pdf?v=23" target="_blank" class="btn modal__btn-primary poster-btn">23 MAYIS CUMA POSTER BİLGİLERİ</a>
                     </div>
                     <a href="https://www.abstractmodule.com/2025ohdkongre/?plng=tur" target="_blank" class="abstract-button">
                         <img src="/doc/abs.png">

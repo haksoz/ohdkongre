@@ -804,9 +804,9 @@
                         <div class="tab-pane fade" id="Section4" role="tabpanel">
                             <h4 class="text-center">Sözlü ve Poster Bildiriler Sunum Detayları</h4>
                             <div class="d-flex flex-column" style="padding-bottom: 30px; ">
-                                <a href="/doc/sozel-bildiriler.pdf" target="_blank" class="btn modal__btn-primary poster-btn">Sözel Bildiri Oturumları</a>
-                                <a href="/doc/poster-bildiriler-1.pdf" target="_blank" class="btn modal__btn-primary poster-btn">22 MAYIS PERŞEMBE POSTER BİLGİLERİ</a>
-                                <a href="/doc/poster-bildiriler-2.pdf" target="_blank" class="btn modal__btn-primary poster-btn">23 MAYIS CUMA POSTER BİLGİLERİ</a>
+                                <a href="/doc/sozel-bildiriler.pdf?v=23" target="_blank" class="btn modal__btn-primary poster-btn">Sözel Bildiri Oturumları</a>
+                                <a href="/doc/poster-bildiriler-1.pdf?v=23" target="_blank" class="btn modal__btn-primary poster-btn">22 MAYIS PERŞEMBE POSTER BİLGİLERİ</a>
+                                <a href="/doc/poster-bildiriler-2.pdf?v=23" target="_blank" class="btn modal__btn-primary poster-btn">23 MAYIS CUMA POSTER BİLGİLERİ</a>
                             </div>
                         </div>
                     </div><!-- /tab-content -->
