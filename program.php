@@ -652,7 +652,7 @@
                                             <tr>
                                                 <td class="oturum sub_clock">09:30–09:45</td>
                                                 <td class="oturum">
-                                                    <b>Biyobankalarının Yönetimi ve Etik Sorunlar … Hemşirelik Perspektifi</b><br>
+                                                    <b>Kök Hücre Bankacılığı ve Bireyselleştirilmiş Tedavi Hemşireler İçin Biyobankalarının Yönetimi ve Etik Sorunlar</b><br>
                                                     Suzan BERKİTEN
                                                 </td>
                                             </tr>
