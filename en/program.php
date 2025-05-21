@@ -289,26 +289,13 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="oturum sub_clock">09:30–10:00</td>
+                                            <td class="oturum sub_clock">09:30–10:30</td>
                                             <td class="oturum">
                                                 <b> 35 Years of Heritage from the Past to the Future</b><br>
                                                 Perihan GÜNER
                                             </td>
                                         </tr>
-                                        <tr>
-                                            <td class="oturum sub_clock"></td>
-                                            <td class="oturum">
-                                                <b> CONFERENCE I</b><br>
-                                                <b> Conference Chair:</b>Sultan KAV
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="oturum sub_clock">10:00-10:30</td>
-                                            <td class="oturum">
-                                                <b> Oncology Nursing from a Global Perspective </b> <br>
-                                                Jeannine M.BRANT
-                                            </td>
-                                        </tr>
+
                                         <tr>
                                             <td class="breaktime">10:30-11:00</td>
                                             <td class="breaktime"><i class="fa fa-coffee"></i> <b>BREAK TIME</b></td>
@@ -351,7 +338,7 @@
                                          <tr>
                                                 <td class="oturum sub_clock"></td>
                                                 <td class="oturum">
-                                                    <b> CONFERENCE II : REFLECTIONS OF CURRENT TECHNOLOGICAL DEVELOPMENTS ON ONCOLOGY NURSING  </b> <br>
+                                                    <b> CONFERENCE I : REFLECTIONS OF CURRENT TECHNOLOGICAL DEVELOPMENTS ON ONCOLOGY NURSING  </b> <br>
                                                     <b> Conference Chair: </b> Sevinç KUTLUTÜRKAN, Miray AKSU
                                                 </td>
                                             </tr>
@@ -424,6 +411,20 @@
                                             <td class="oturum">
                                                 <b> New Approaches in Grief Process </b><br>
                                                 Meryem RASSOULI
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="oturum sub_clock"></td>
+                                            <td class="oturum">
+                                                <b> CONFERENCE II</b><br>
+                                                <b> Conference Chair:</b>Sultan KAV
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="oturum sub_clock">17:00-17:30</td>
+                                            <td class="oturum">
+                                                <b> Oncology Nursing from a Global Perspective </b> <br>
+                                                Jeannine M.BRANT
                                             </td>
                                         </tr>
                                         </tbody>
