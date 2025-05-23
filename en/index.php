@@ -26,8 +26,8 @@
         <!-- Section Services -->
         <section >
             <div class="container">
-                <div class="d-flex justify-content-center align-items-center">
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInLeft news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInLeft;">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-12 wow fadeInLeft news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInLeft;">
                         <a href="/en/registration-accommodation.php">
                             <div class="serviceBox bg-color2" style="padding:4px 0 4px 0; margin-top: 0px;">
                                 <!-- service image-->
@@ -37,7 +37,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInRight news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInRight;">
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-12 wow fadeInRight news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInRight;">
                         <a href="/en/program.php">
                             <div class="serviceBox bg-color1" style="padding-right: 0px; padding-left: 0px; margin-top: 0px;">
                                 <!-- service image-->
@@ -47,7 +47,7 @@
                             </div>
                         </a>
                     </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInLeft news-addon-one animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInLeft;">
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 wow fadeInLeft news-addon-one animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInLeft;">
                         <a href="/en/abstract-submission.php">
                             <div class="serviceBox bg-color3" style="padding-right: 0px; padding-left: 0px; margin-top: 0px;">
                                 <div class="service-content text-light">
