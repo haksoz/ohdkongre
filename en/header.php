@@ -5,12 +5,12 @@
 		<div class="navbar-header">
             <div class="mobile-float">
                 <a href="/en/index.php">
-                    <img alt="" src="doc/united-kingdom.png" style="max-width: 30px;">
+                    <img alt="" src="/doc/united-kingdom.png" style="max-width: 30px;">
                 </a>
             </div>
             <div class="mobile-float tr">
                 <a href="/index.php">
-                    <img alt="" src="doc/square.png" style="max-width: 30px;">
+                    <img alt="" src="/doc/square.png" style="max-width: 30px;">
                 </a>
             </div>
 			<button class="navbar-toggle" data-target="#navbar-brand" data-toggle="collapse" type="button"><i class="fa fa-bars"></i></button> 
