@@ -55,11 +55,14 @@
                 <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>">
 					<a href="/program.php">Kurslar</a>
 				</li>
-                <li class="<?php echo $page == 'uluslararasi-konusmacilar' ? 'active' : '' ?>">
-					<a href="/uluslararasi-konusmacilar.php">Uluslararası Konuşmacılar</a>
-				</li>
+<!--                <li class="--><?php //echo $page == 'uluslararasi-konusmacilar' ? 'active' : '' ?><!--">-->
+<!--					<a href="/uluslararasi-konusmacilar.php">Uluslararası Konuşmacılar</a>-->
+<!--				</li>-->
 				<li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
 					<a href="/bildiri-gonderimi.php">Bildiri Gönderimi</a>
+				</li>
+                <li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>" style="background-color: #ee2a2c;border-radius:0px 0px 5px 5px;">
+					<a href="/doc/ohd-abstract-book.pdf">Bildiri Kitabı</a>
 				</li>
 				<li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>">
 					<a href="/iletisim.php">İletişim</a>

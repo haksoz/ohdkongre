@@ -59,10 +59,10 @@
                     </a>
 	                    </div>
 	                    <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInLeft news-addon-one animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInLeft;">
-	                        <a href="bildiri-gonderimi.php">
+	                        <a href="/doc/ohd-abstract-book.pdf" target="_blank">
                         <div class="serviceBox bg-color3">
                             <div class="service-content text-light">
-                                <h4 class="title">Bildiri Gönderimi</h4>
+                                <h4 class="title">Bildiri Kitabı</h4>
                             </div>
                         </div>
                     </a>
