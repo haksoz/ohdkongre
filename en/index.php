@@ -48,10 +48,10 @@
                         </a>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 wow fadeInLeft news-addon-one animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInLeft;">
-                        <a href="/en/abstract-submission.php">
+                        <a href="/doc/ohd-abstract-book.pdf" target="_blank">
                             <div class="serviceBox bg-color3" style="padding-right: 0px; padding-left: 0px; margin-top: 0px;">
                                 <div class="service-content text-light">
-                                    <h4 class="title" style="padding-left: 0px; padding-right: 0px;">Abstract Submission</h4>
+                                    <h4 class="title" style="padding-left: 0px; padding-right: 0px;">Abstract Book</h4>
                                 </div>
                             </div>
                         </a>

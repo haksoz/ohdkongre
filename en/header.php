@@ -60,12 +60,15 @@
                         </li>
                     </ul>
                 </li>
-                <li class="<?php echo $page == 'international-speakers' ? 'active' : '' ?>">
-                    <a href="/en/international-speakers.php">International Speakers</a>
-                </li>
+<!--                <li class="--><?php //echo $page == 'international-speakers' ? 'active' : '' ?><!--">-->
+<!--                    <a href="/en/international-speakers.php">International Speakers</a>-->
+<!--                </li>-->
 				<li class="<?php echo $page == 'abstract' ? 'active' : '' ?>">
 					<a href="/en/abstract-submission.php">Abstract Submission</a>
 				</li>
+                <li class="<?php echo $page == 'abstract' ? 'active' : '' ?>" style="background-color: #ee2a2c;border-radius:0px 0px 5px 5px;">
+                    <a href="/doc/ohd-abstract-book.pdf" target="_blank">Abstract Book</a>
+                </li>
 				<li class="<?php echo $page == 'contact' ? 'active' : '' ?>">
 					<a href="/en/contact.php">Contact</a>
 				</li>
