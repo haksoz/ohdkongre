@@ -168,6 +168,6 @@
 
 	</div><!-- /page-width -->
     <?php include("script.php") ?>
-<!--    --><?php //include("popup.php") ?>
+    <?php include("popup.php") ?>
 </body>
 </html>
