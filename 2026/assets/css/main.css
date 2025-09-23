@@ -2262,7 +2262,7 @@ Location:
 }
 @media (max-width: 767px) {
   .hero2-slider-area .her2-section-area {
-    padding: 96px 0 100px;
+    padding: 130px 0 80px;
   }
 }
 .hero2-slider-area .her2-section-area .elements9 {
@@ -5938,7 +5938,7 @@ Location:
   position: relative;
   z-index: 1;
   background: #FBF9F4;
-  padding: 200px 0 32px;
+  padding: 40px 0 32px;
 }
 .footer1-sertion-area .footer-logo-area p {
   color: #544E51;
