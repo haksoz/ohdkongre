@@ -517,6 +517,7 @@ img {
   --ztc-bg-bg-12: #FF2D55;
   --ztc-bg-bg-13: #0D0400;
   --ztc-bg-bg-14: #4AF8BA;
+  --ztc-bg-bg-mobile: #3e3f51;
   --ztc-border-border-1: #E5E7EB;
   --ztc-border-border-2: #dfdcdc;
   --ztc-font-size-font-s10: 10px;
@@ -4304,7 +4305,7 @@ Location:
 }
 
 .mobile-header.mobile-haeder2 {
-  background: var(--ztc-bg-bg-4);
+  background: var(--ztc-bg-bg-mobile);
   position: fixed;
 }
 .mobile-header.mobile-haeder2 .mobile-logo {
@@ -6481,6 +6482,21 @@ Location:
   display: inline-block;
   transition: all 0.4s;
   padding-top: 24px;
+}
+.footer1-sertion-area .copyright a {
+  color: var(--ztc-text-text-2);
+  font-family: var(--ztc-family-font1);
+  font-size: var(--ztc-font-size-font-s16);
+  font-style: normal;
+  font-weight: var(--ztc-weight-medium);
+  line-height: 16px;
+  display: inline-block;
+  transition: all 0.4s;
+  padding-top: 24px;
+}
+.footer1-sertion-area .copyright a:hover {
+  color: var(--ztc-text-text-4);
+  transition: all 0.4s;
 }
 .footer3-sertion-area .link-content2 ul li a img {
   margin: 0 8px 0 0;
@@ -9015,7 +9031,7 @@ html {
 }
 .homepage2-body .header-area.homepage2 .header-elements .main-menu ul li:hover > a {
   transition: all 0.4s;
-  color: var(--ztc-text-text-6) !important;
+  color: var(--ztc-text-text-4) !important;
   font-weight: var(--ztc-weight-medium);
 }
 .homepage2-body .header-area.homepage2 .header-elements .main-menu ul li .tp-submenu {
@@ -15341,9 +15357,10 @@ html {
   font-size: var(--ztc-font-size-font-s24);
   font-style: normal;
   font-weight: var(--ztc-weight-bold);
-  line-height: 24px; /* 100% */
+  line-height: 30px; /* 100% */
   display: inline-block;
   transition: all 0.4s;
+  margin-bottom: 10px;
 }
 .team-sperkers-section-area .our-team-boxarea .content-area p {
   color: var(--ztc-text-text-3);
@@ -15352,7 +15369,7 @@ html {
   font-size: var(--ztc-font-size-font-s18);
   font-style: normal;
   font-weight: var(--ztc-weight-medium);
-  line-height: 18px;
+  line-height: 26px;
 }
 .team-sperkers-section-area .our-team-boxarea .team-widget-area {
   position: relative;
@@ -17272,7 +17289,8 @@ html {
 .contact2-bg-section {
   position: relative;
   z-index: 1;
-  background-image: url(../img/bg/others-bg3.png);
+  /*background-image: url(../img/bg/others-bg3.png);*/
+  background-color: #ff2353;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
