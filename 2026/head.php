@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="assets/css/vendor/slick-slider.css" />
     <link rel="stylesheet" href="assets/css/vendor/nice-select.css" />
     <link rel="stylesheet" href="assets/css/vendor/odometer.css" />
-    <link rel="stylesheet" href="assets/css/main.css?v=55235" />
+    <link rel="stylesheet" href="assets/css/main.css?v=552354" />
 
     <!--=====  JS SCRIPT LINK =======-->
     <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
