@@ -24288,5 +24288,8 @@ html {
   display: inline-block;
   transition: all 0.4s;
 }
+.text-red{
+  color: #F00 !important;
+}
 
 
