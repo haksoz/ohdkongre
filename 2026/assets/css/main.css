@@ -2263,7 +2263,7 @@ Location:
 }
 @media (max-width: 767px) {
   .hero2-slider-area .her2-section-area {
-    padding: 100px 0 40px;
+    padding: 100px 0 20px;
   }
   .hero2-slider-area .her2-section-area .container {
     background-color: rgb(41 37 31 / 54%);
@@ -2332,7 +2332,7 @@ Location:
     display: none;
   }
   .hero2-slider-area .her2-section-area {
-  background-image: url(/doc/mobil-slider-01.jpg);
+  background-image: url(../../doc/mobil-slider-01.jpg);
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2340,7 +2340,7 @@ Location:
     display: none;
   }
   .hero2-slider-area .her2-section-area {
-  background-image: url(/doc/mobil-slider-01.jpg);
+  background-image: url(../../doc/mobil-slider-01.jpg);
   }
   .hero2-slider-area .her2-section-area .container {
     background-color: rgb(41 37 31 / 54%);
@@ -2493,6 +2493,21 @@ Location:
     top: 0;
     left: 20px;
     margin-top: 20px;
+  }
+  .hero2-slider-area .her2-section-area .hero2-header .timer .time-box{
+    width: 50px;
+    padding: 5px 5px;
+  }
+  .hero2-slider-area .her2-section-area .hero2-header .timer .time-box .space8{
+  display: none;
+  }
+  .hero2-slider-area .her2-section-area .hero2-header .timer .time-value{
+    font-size: var(--ztc-font-size-font-s14);
+    line-height: 20px;
+  }
+  .hero2-slider-area .her2-section-area .hero2-header .timer .time-value span{
+    font-size: var(--ztc-font-size-font-s12) !important;
+    line-height: 14px !important;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
