@@ -33,7 +33,16 @@
                             <ul>
                                 <li><a href="index.php">Anasayfa</a></li>
                                 <li><a href="davet.php">Davet</a></li>
-                                <li><a href="kurullar.php">Kurullar</a></li>
+                                <li>
+                                    <a href="#">
+                                        Kurullar
+                                        <i class="fa-solid fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-padding">
+                                        <li><a href="bilimsel-kurul.php">Bilimsel Kurul</a></li>
+                                        <li><a href="duzenleme-kurulu.php">Düzenleme Kurulu</a></li>
+                                    </ul>
+                                </li>
                                 <li><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
                                 <li><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
                                 <li><a href="bilimsel-program.php">Bilimsel Program</a></li>
@@ -80,7 +89,13 @@
 
             <li><a href="index.php">Anasayfa</a></li>
             <li><a href="davet.php">Davet</a></li>
-            <li><a href="kurullar.php">Kurullar</a></li>
+            <li>
+                <a href="#">Kurullar</a>
+                <ul class="sub-menu">
+                    <li><a href="bilimsel-kurul.php">Bilimsel Kurul</a></li>
+                    <li><a href="duzenleme-kurulu.php">Düzenleme Kurulu</a></li>
+                </ul>
+            </li>
             <li><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
             <li><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
             <li><a href="bilimsel-program.php">Bilimsel Program</a></li>

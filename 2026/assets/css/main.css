@@ -9055,7 +9055,7 @@ html {
   transition: all 0.5s ease-in-out;
   opacity: 1;
   z-index: 9;
-  top: 201.3%;
+  top: 100%;
   transform: scale(1);
   position: absolute;
   transition: all 0.4s;
@@ -9155,7 +9155,7 @@ html {
   display: inline-block;
   visibility: hidden;
   opacity: 0;
-  background: var(--ztc-text-text-6);
+  background: var(--ztc-text-text-4);
 }
 .homepage2-body .header-area.homepage2 .header-elements .main-menu ul li ul.dropdown-padding li a:hover {
   padding-left: 15px;
