@@ -8818,7 +8818,7 @@ html {
 .homepage2-body .header-area.homepage2 .menu-top-area .top-menu-area {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   background: var(--ztc-bg-bg-1);
   padding: 10px 20px;
   visibility: visible;

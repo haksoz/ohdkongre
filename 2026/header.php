@@ -18,7 +18,7 @@
 
                                 </ul>
                             </div>
-                            <ul>
+                            <ul style="padding-right: 20px;">
                                 <li>
                                     <a href="mailto:salih.gonca@bosphorusmice.net"><img src="assets/img/icons/mail1.svg" alt="" />salih.gonca@bosphorusmice.net <span> | </span></a>
                                 </li>
