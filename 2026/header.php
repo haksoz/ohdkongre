@@ -26,6 +26,19 @@
                                     <a href="tel:+902162350686"><img src="assets/img/icons/phn1.svg" alt="" />+90 (216) 235 06 86</a>
                                 </li>
                             </ul>
+                            <ul>
+                                <li class="mobile-hidden">
+                                    <a href="/en/index.php">
+                                        <img alt="" src="doc/united-kingdom.png" style="max-width: 30px;">
+                                    </a>
+                                </li>
+                                <li class="mobile-hidden">
+                                    <a href="/index.php">
+                                        <img alt="" src="doc/square.png" style="max-width: 30px;">
+                                    </a>
+                                </li>
+                            </ul>
+
                         </div>
                     </div>
                     <div class="header-elements">
@@ -64,10 +77,22 @@
     <div class="container-fluid">
         <div class="col-12">
             <div class="mobile-header-elements">
-                <div class="mobile-logo">
+                <div class="mobile-logo" style="flex-grow: 1">
                     <a href="#"><img src="doc/ohd-logo.png" alt="" /></a>
                 </div>
-                <div class="mobile-nav-icon dots-menu">
+                <div class="bayrak" style="display: flex; flex-grow: 4; justify-content: flex-end;">
+                    <div class="mobile-float" style="padding-right: 20px;">
+                        <a href="/en/index.php">
+                            <img alt="" src="doc/united-kingdom.png" style="max-width: 30px;">
+                        </a>
+                    </div>
+                    <div class="mobile-float tr" style="padding-right: 20px;">
+                        <a href="/index.php">
+                            <img alt="" src="doc/square.png" style="max-width: 30px;">
+                        </a>
+                    </div>
+                </div>
+                <div class="mobile-nav-icon dots-menu" style="flex-grow: 1">
                     <i class="fa-solid fa-bars-staggered"></i>
                 </div>
             </div>
