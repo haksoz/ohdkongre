@@ -5,7 +5,7 @@
                 <div class="link-content2">
 
                     <div class="space12"></div>
-                    <img src="doc/ohd-logo.png" alt="" style="max-height: 126px;" />
+                    <img src="/2026/doc/ohd-logo.png" alt="" style="max-height: 126px;" />
                     <div class="space12"></div>
                     <ul>
 
@@ -18,7 +18,7 @@
             <div class="col-lg-4 col-md-6">
                 <div class="link-content2">
                     <div class="space12"></div>
-                    <img src="doc/bosphorusmice.jpeg" alt="" />
+                    <img src="/2026/doc/bosphorusmice.jpeg" alt="" />
                     <div class="space12"></div>
                     <ul>
                         <li>

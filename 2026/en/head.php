@@ -11,13 +11,13 @@
     <link rel="stylesheet" href="../assets/css/vendor/aos.css" />
     <link rel="stylesheet" href="../assets/css/vendor/fontawesome.css" />
     <link rel="stylesheet" href="../assets/css/vendor/magnific-popup.css" />
-    <link rel="stylesheet" href="../assets/css/vendor/mobile.css" />
+    <link rel="stylesheet" href="../assets/css/vendor/mobile.css?v=5" />
     <link rel="stylesheet" href="../assets/css/vendor/owlcarousel.min.css" />
     <link rel="stylesheet" href="../assets/css/vendor/sidebar.css" />
     <link rel="stylesheet" href="../assets/css/vendor/slick-slider.css" />
     <link rel="stylesheet" href="../assets/css/vendor/nice-select.css" />
     <link rel="stylesheet" href="../assets/css/vendor/odometer.css" />
-    <link rel="stylesheet" href="../assets/css/main.css?v=552355" />
+    <link rel="stylesheet" href="../assets/css/main.css?v=5" />
 
     <!--=====  JS SCRIPT LINK =======-->
     <script src="../assets/js/vendor/jquery-3.7.1.min.js"></script>

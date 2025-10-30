@@ -102,19 +102,55 @@
 							<h2 class="text-anime-style-3">Invitation</h2>
 							<div class="space18"></div>
 							<p data-aos="fade-left" data-aos-duration="900">
+Dear Colleagues,
+</p>
+<div class="space12"></div>
+<p data-aos="fade-left" data-aos-duration="900">
+It is my great pleasure and honour to invite you to the 2nd International Oncology Nursing Association Congress, which will be held on May 7-9, 2026, and hosted by Istanbul Bilgi University.
+</p>
+<div class="space12"></div>
+<p data-aos="fade-left" data-aos-duration="900">
+The 1st International Oncology Nursing Association Congress, held last year in Ankara, created a significant impact in the field of oncology nursing through your strong interest and invaluable contributions. Building on the experience and insight gained from that remarkable gathering, we are moving forward this year with broader participation and enriched scientific content.
+</p>
+<div class="space12"></div>
+<p data-aos="fade-left" data-aos-duration="900">
+This year, we are organising our congress around a theme that best reflects the essence of oncology nursing: “Strength, Science, and Compassion: Oncology Nursing.”
+</p>
+<div class="space12"></div>
+<p data-aos="fade-left" data-aos-duration="900">
+This theme brings together three universal values at the core of our profession-empowerment through scientific knowledge, compassionate and humane care, and the strengthening of professional identity. In advancing cancer care guided by science, we also aim to reaffirm the essential value that compassion brings to human life. Throughout the congress, we will provide a strong platform for sharing knowledge, discussion, and collaboration under the following subthemes:
+</p>
+<div class="space12"></div>
+<p data-aos="fade-left" data-aos-duration="900">
+	<ul>
+		<li>•	Scientific Innovations and Integration into Clinical Practice</li>
+		<li>•	Empathy, Meaning, and Compassion-Based Care</li>
+		<li>•	Digital Transformation, Innovative Technologies, and Clinical Decision Support Systems</li>
+		<li>•	Multidisciplinary Collaboration and Holistic Patient-Centred Care</li>
+		<li>•	Global Collaborations in Oncology Nursing</li>
+		<li>•	Leadership, Empowerment, and Professional Identity</li>
+	</ul>
+</p>
+<div class="space12"></div>
+<p data-aos="fade-left" data-aos-duration="900">
+The congress will bring together oncology nurses, academicians, patient associations, multidisciplinary healthcare teams, young researchers, and students to exchange knowledge and experiences. Through inspiring “Success Stories” sessions, we will witness how nurses touch the lives of individuals living with cancer. By integrating scientific innovation, digital transformation, cultural sensitivity, and compassion-centred approaches, this congress will serve as a significant milestone in shaping the future of oncology nursing.
+</p>
+<div class="space12"></div>
+<p data-aos="fade-left" data-aos-duration="900">
+We would be truly delighted to welcome you to this meaningful event, where you can learn, share, and grow together. Let us build the future of oncology nursing, guided by science and inspired by compassion.
+</p>
+<div class="space12"></div>
+<p data-aos="fade-left" data-aos-duration="900">
+With warm regards,
+</p>
+<div class="space12"></div>
+<p data-aos="fade-left" data-aos-duration="900">
+Prof. Perihan GÜNER<br>
+Congress President</p>
 
 
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultrices ante sed arcu laoreet, non tempor nisl varius. Sed mollis neque vitae interdum hendrerit. Nulla vel pulvinar lectus. Proin quis commodo nunc. Vivamus mollis urna ex, quis condimentum ipsum condimentum non. Etiam condimentum semper orci, ac fermentum magna iaculis ac. Fusce purus leo, condimentum ut erat vel, scelerisque facilisis sapien. Vivamus in iaculis orci.
-							</p>
-							<div class="space12"></div>
-							<p data-aos="fade-left" data-aos-duration="900">
-								Proin finibus vehicula molestie. Duis mattis, nunc et vestibulum tempor, ipsum ipsum sodales ex, eget dignissim augue mi convallis massa. Vivamus sagittis orci et condimentum tempus. In nisl sapien, consectetur eu mattis eget, semper nec velit. Aliquam vitae magna enim. Donec vel velit neque. Vestibulum nec neque erat. Duis non rutrum sem. Donec pharetra maximus augue, eget tincidunt tellus. Donec porta, ligula nec vestibulum consequat, odio dolor vehicula lorem, quis aliquam eros mi ornare mauris. Suspendisse semper ullamcorper elementum.
-							</p>
-							<div class="space12"></div>
-							<p data-aos="fade-left" data-aos-duration="900">
-								Pellentesque dignissim imperdiet arcu id eleifend. Donec vitae sollicitudin ante. Sed aliquet risus ut nibh imperdiet, at viverra leo suscipit. Duis sapien diam, condimentum eget justo ac, rutrum posuere nisl. Vestibulum id efficitur est. In vel ultricies massa. In maximus bibendum orci vitae laoreet. Nulla facilisi. Cras et rutrum nisl, vitae fringilla tellus. Suspendisse non nibh est. Pellentesque tincidunt finibus faucibus.
-							</p>
-							<div class="space12"></div>
+
+
 
 						</div>
 					</div>
