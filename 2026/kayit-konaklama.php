@@ -69,7 +69,7 @@
                 <div class="row">
                     <div class="col-lg-4 m-auto">
                         <div class="heading2 text-center space-margin60">
-                            <h2> Kayıt Konaklama</h2>
+                            <h2> Kayıt & Konaklama</h2>
                         </div>
                     </div>
                 </div>
