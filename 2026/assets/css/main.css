@@ -21,6 +21,10 @@ ul li {
   list-style: none;
 }
 
+ul li i {
+  padding-right: 6px;
+  }
+
 h2, p {
   margin-bottom: 0;
 }
@@ -728,7 +732,8 @@ Location:
   font-family: var(--ztc-family-font1);
   font-size: var(--ztc-font-size-font-s18);
   font-style: normal;
-  font-weight: var(--ztc-weight-medium);
+  /*
+  font-weight: var(--ztc-weight-medium);*/
   line-height: 26px;
 }
 
@@ -802,7 +807,8 @@ Location:
   font-family: var(--ztc-family-font1);
   font-size: var(--ztc-font-size-font-s18);
   font-style: normal;
-  font-weight: var(--ztc-weight-medium);
+  /*
+  font-weight: var(--ztc-weight-medium);*/
   line-height: 26px;
 }
 
@@ -9067,7 +9073,7 @@ html {
   color: var(--ztc-text-text-5);
   display: block;
   transition: all 0.4s;
-  padding: 0 20px;
+  padding: 0 18px;
 }
 .homepage2-body .header-area.homepage2 .header-elements .main-menu ul li a i.fa-solid.fa-angle-down {
   font-size: var(--ztc-font-size-font-s12) !important;
@@ -13186,7 +13192,9 @@ html {
   font-family: var(--ztc-family-font2);
   font-size: var(--ztc-font-size-font-s18);
   font-style: normal;
+  /*
   font-weight: var(--ztc-weight-medium);
+  */
   line-height: 26px;
 }
 .choose-section-area .choose-widget-boxarea .content-area .readmore {
@@ -15411,7 +15419,8 @@ html {
   font-family: var(--ztc-family-font1);
   font-size: var(--ztc-font-size-font-s18);
   font-style: normal;
-  font-weight: var(--ztc-weight-medium);
+  /*
+  font-weight: var(--ztc-weight-medium);*/
   line-height: 26px;
 }
 .team-sperkers-section-area .our-team-boxarea .team-widget-area {

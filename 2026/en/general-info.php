@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="TR">
     <?php $page = 'index'; ?>
-    <?php $pageTitle = 'invitation'; ?>
+    <?php $pageTitle = 'general-info'; ?>
 
 	<?php include('head.php') ?>
 	<body class="homepage2-body">
@@ -42,7 +42,7 @@
                         <div class="col-lg-4">
                             <div class="hero2-header">
 
-                                <img src="../doc/slider-01-metin.png" alt="" />
+                                <img src="../doc/slider-01-metin-en.png" alt="" />
 
 
 
@@ -70,7 +70,7 @@
                 <div class="row">
                     <div class="col-lg-4 m-auto">
                         <div class="heading2 text-center space-margin60">
-                            <h2>Invitation</h2>
+                            <h2>General Information</h2>
                         </div>
                     </div>
                 </div>

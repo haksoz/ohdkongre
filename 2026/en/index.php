@@ -99,7 +99,7 @@
 					<div class="col-lg-12">
 						<div class="about-header heading5">
 							<div class="space18"></div>
-							<h2 class="text-anime-style-3">Davet</h2>
+							<h2 class="text-anime-style-3">Invitation</h2>
 							<div class="space18"></div>
 							<p data-aos="fade-left" data-aos-duration="900">
 

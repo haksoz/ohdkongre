@@ -55,7 +55,7 @@
                                         <li><a href="scientific-committee.php">Scientific Committee</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="invitation.php">Invitation</a></li>
+                                <li><a href="general-info.php">Information</a></li>
                                 <li><a href="registration-accommodation.php">Registration Accommodation</a></li>
                                 <li><a href="program.php">Scientific Program</a></li>
                                 <li><a href="abstract-submission.php">Abstract Submission</a></li>
@@ -113,13 +113,13 @@
 
             <li><a href="index.php">Homepage</a></li>
             <li>
-                <a href="#">Kurullar</a>
+                <a href="#">Committees</a>
                 <ul class="sub-menu">
                     <li><a href="organizing-committee.php">Organizing Committee</a></li>
                     <li><a href="scientific-committee.php">Scientific Committee</a></li>
                 </ul>
             </li>
-            <li><a href="invitation.php">Invitation</a></li>
+            <li><a href="general-info.php">Information</a></li>
             <li><a href="registration-accommodation.php">Registration Accommodation</a></li>
             <li><a href="program.php">Scientific Program</a></li>
             <li><a href="abstract-submission.php">Abstract Submission</a></li>

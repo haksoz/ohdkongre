@@ -42,7 +42,7 @@
                         <div class="col-lg-4">
                             <div class="hero2-header">
 
-                                <img src="../doc/slider-01-metin.png" alt="" />
+                                <img src="../doc/slider-01-metin-en.png" alt="" />
 
 
 
@@ -74,10 +74,40 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-12 ">
                         <div class="our-team-boxarea">
                             <div class="content-area">
-                                <a href="">Yapım Aşamasında</a>
+                                <table class="table table-bordered table-striped table-hover">
+                                    <colgroup>
+                                        <col span="1" style="width: 50%;">
+                                        <col span="1" style="width: 25%;">
+                                        <col span="1" style="width: 25%;">
+                                    </colgroup>
+                                    <thead>
+                                        <tr>
+                                            <th style="">Kayıt Tipi</th>
+                                            <th>xxx 2026 <br> Öncesi Fiyatlar <br>Erken Kayıt Ücreti</th>
+                                            <th>xxx 2026 <br> Sonrası Fiyatlar <br>Kayıt Ücreti</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Dernek Üyesi </td>
+                                            <td>9.500 TL</td>
+                                            <td>10.500 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Dernek Üyesi Olmayan</td>
+                                            <td>10.500 TL</td>
+                                            <td>11.500 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Öğrenci (Lisans Öğrencisi, herhangi bir yerde çalışmadığını bir dilekçe ile beyan eden yüksek lisans ve doktora öğrencileri)</td>
+                                            <td>3.000 TL</td>
+                                            <td>4.000 TL</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
                             </div>
                         </div>
                     </div>

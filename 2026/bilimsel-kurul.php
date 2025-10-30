@@ -84,126 +84,126 @@
                     <div class="col-md-6">
                         <div class="our-team-boxarea">
                             <div class="content-area">
-                                <p> Prof. Dr. Alex MOLASSIOTIS</p>
-                                <p> Prof. Dr. Arzu TUNA</p>
-                                <p> Prof. Dr. Ayfer AYDIN</p>
-                                <p> Prof. Dr. Ayfer KARADAKOVAN</p>
-                                <p> Prof. Dr. Ayla GÜRSOY</p>
-                                <p> Prof. Dr. Ayşe KILIÇ UÇAR</p>
-                                <p> Prof. Dr. Ayşe OKANLI</p>
-                                <p> Prof. Dr. Ayşe ÖZKARAMAN</p>
-                                <p> Prof. Dr. Azize KARAHAN</p>
-                                <p> Prof. Dr. Besti ÜSTÜN</p>
-                                <p> Prof. Dr. Duygu HİÇDURMAZ</p>
-                                <p> Prof. Dr. Ebru KILÇARSLAN</p>
-                                <p> Prof. Dr. Ebru AKGÜN ÇITAK</p>
-                                <p> Prof. Dr. Emine EFE</p>
-                                <p> Prof. Dr. Emine İYİGÜN</p>
-                                <p> Prof. Dr. Ezgi KARADAĞ</p>
-                                <p> Prof. Dr. Fatma İlknur ÇINAR</p>
-                                <p> Prof. Dr. Fatma TAŞ ARSLAN</p>
-                                <p> Prof. Dr. Figen İNCİ</p>
-                                <p> Prof. Dr. Gülcan BAGCİVAN</p>
-                                <p> Prof. Dr. Gülsüm Nihal ÇÜRÜK</p>
-                                <p> Prof. Dr. Gülşen TERAKYE</p>
-                                <p> Prof. Dr. Gülşen VURAL</p>
-                                <p> Prof. Dr. Gülten GÜVENÇ</p>
-                                <p> Prof. Dr. Hanife ÖZÇELİK</p>
-                                <p> Prof. Dr. Hatice YANGIN</p>
-                                <p> Prof. Dr. Hicran BEKTAŞ</p>
-                                <p> Prof. Dr. Hicran YILDIZ</p>
-                                <p> Prof. Dr. Hülya BULUT</p>
-                                <p> Prof. Dr. İlknur AYDIN AVCI</p>
-                                <p> Prof. Dr. Maryam RASSOULİ</p>
-                                <p> Prof. Dr. Melahat AKGÜN KOSTAK</p>
-                                <p> Prof. Dr. Mevlüde KARADAĞ</p>
-                                <p> Prof. Dr. Naile BİLGİLİ</p>
-                                <p> Prof. Dr. Naime ALTAY</p>
-                                <p> Prof. Dr. Nazmiye KOCAMAN YILDIRIM</p>
-                                <p> Prof. Dr. Neslihan GÜNÜŞEN</p>
-                                <p> Prof. Dr. Nimet OVAYOLU</p>
-                                <p> Prof. Dr. Nuran AKDEMİR</p>
-                                <p> Prof. Dr. Nurcan ÇALIŞKAN</p>
-                                <p> Prof. Dr. Nurgün PLATİN</p>
-                                <p> Prof. Dr. Özlem UĞUR</p>
-                                <p> Prof. Dr. Özgül EROL</p>
-                                <p> Prof. Dr. Özgül KARAYURT</p>
-                                <p> Prof. Dr. Özlem OVAYOLU</p>
-                                <p> Prof. Dr. Öznur USTA YEŞİLBALKAN</p>
-                                <p> Prof. Dr. Perihan GÜNER</p>
-                                <p> Prof. Dr. Rukiye AYLAZ</p>
-                                <p> Prof. Dr. Satı DEMİR</p>
-                                <p> Prof. Dr. Selda RIZALAR</p>
-                                <p> Prof. Dr. Semiha AKIN EROĞLU</p>
-                                <p> Prof. Dr. Sevgisun KAPUCU</p>
-                                <p> Prof. Dr. Sevil GÜLER</p>
-                                <p> Prof. Dr. Sevil ŞAHİN</p>
-                                <p> Prof. Dr. Sevinç KUTLUTÜRKAN</p>
-                                <p> Prof. Dr. Sultan AYAZ ALKAYA</p>
-                                <p> Prof. Dr. Sultan KAV</p>
-                                <p> Prof. Dr. Sultan TAŞÇI</p>
+                                 Prof. Dr. Alex MOLASSIOTIS<br>
+                                 Prof. Dr. Arzu TUNA<br>
+                                 Prof. Dr. Ayfer AYDIN<br>
+                                 Prof. Dr. Ayfer KARADAKOVAN<br>
+                                 Prof. Dr. Ayla GÜRSOY<br>
+                                 Prof. Dr. Ayşe KILIÇ UÇAR<br>
+                                 Prof. Dr. Ayşe OKANLI<br>
+                                 Prof. Dr. Ayşe ÖZKARAMAN<br>
+                                 Prof. Dr. Azize KARAHAN<br>
+                                 Prof. Dr. Besti ÜSTÜN<br>
+                                 Prof. Dr. Duygu HİÇDURMAZ<br>
+                                 Prof. Dr. Ebru KILÇARSLAN<br>
+                                 Prof. Dr. Ebru AKGÜN ÇITAK<br>
+                                 Prof. Dr. Emine EFE<br>
+                                 Prof. Dr. Emine İYİGÜN<br>
+                                 Prof. Dr. Ezgi KARADAĞ<br>
+                                 Prof. Dr. Fatma İlknur ÇINAR<br>
+                                 Prof. Dr. Fatma TAŞ ARSLAN<br>
+                                 Prof. Dr. Figen İNCİ<br>
+                                 Prof. Dr. Gülcan BAGCİVAN<br>
+                                 Prof. Dr. Gülsüm Nihal ÇÜRÜK<br>
+                                 Prof. Dr. Gülşen TERAKYE<br>
+                                 Prof. Dr. Gülşen VURAL<br>
+                                 Prof. Dr. Gülten GÜVENÇ<br>
+                                 Prof. Dr. Hanife ÖZÇELİK<br>
+                                 Prof. Dr. Hatice YANGIN<br>
+                                 Prof. Dr. Hicran BEKTAŞ<br>
+                                 Prof. Dr. Hicran YILDIZ<br>
+                                 Prof. Dr. Hülya BULUT<br>
+                                 Prof. Dr. İlknur AYDIN AVCI<br>
+                                 Prof. Dr. Maryam RASSOULİ<br>
+                                 Prof. Dr. Melahat AKGÜN KOSTAK<br>
+                                 Prof. Dr. Mevlüde KARADAĞ<br>
+                                 Prof. Dr. Naile BİLGİLİ<br>
+                                 Prof. Dr. Naime ALTAY<br>
+                                 Prof. Dr. Nazmiye KOCAMAN YILDIRIM<br>
+                                 Prof. Dr. Neslihan GÜNÜŞEN<br>
+                                 Prof. Dr. Nimet OVAYOLU<br>
+                                 Prof. Dr. Nuran AKDEMİR<br>
+                                 Prof. Dr. Nurcan ÇALIŞKAN<br>
+                                 Prof. Dr. Nurgün PLATİN<br>
+                                 Prof. Dr. Özlem UĞUR<br>
+                                 Prof. Dr. Özgül EROL<br>
+                                 Prof. Dr. Özgül KARAYURT<br>
+                                 Prof. Dr. Özlem OVAYOLU<br>
+                                 Prof. Dr. Öznur USTA YEŞİLBALKAN<br>
+                                 Prof. Dr. Perihan GÜNER<br>
+                                 Prof. Dr. Rukiye AYLAZ<br>
+                                 Prof. Dr. Satı DEMİR<br>
+                                 Prof. Dr. Selda RIZALAR<br>
+                                 Prof. Dr. Semiha AKIN EROĞLU<br>
+                                 Prof. Dr. Sevgisun KAPUCU<br>
+                                 Prof. Dr. Sevil GÜLER<br>
+                                 Prof. Dr. Sevil ŞAHİN<br>
+                                 Prof. Dr. Sevinç KUTLUTÜRKAN<br>
+                                 Prof. Dr. Sultan AYAZ ALKAYA<br>
+                                 Prof. Dr. Sultan KAV<br>
+                                 Prof. Dr. Sultan TAŞÇI<br>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="our-team-boxarea">
                             <div class="content-area">
-                                <p> Prof. Dr. Şengül YAMAN SÖZBİR </p>
-                                <p> Prof. Dr. Ülkü POLAT </p>
-                                <p> Prof. Dr. Yeter KİTİŞ </p>
-                                <p> Prof. Dr. Yurdagül ERDEM </p>
-                                <p> Prof. Dr. Zehra GÖÇMEN BAYKARA </p>
-                                <p> Doç. Dr. Aslı AKDENİZ KUDUBEŞ </p>
-                                <p> Doç. Dr. Aydanur AYDIN </p>
-                                <p> Doç. Dr. Ayşe ARIKAN DÖNMEZ </p>
-                                <p> Doç. Dr. Ayşe ÇAL </p>
-                                <p> Doç. Dr. Banu ÇEVİK </p>
-                                <p> Doç. Dr. Bedriye AK </p>
-                                <p> Doç. Dr. Betül TOSUN </p>
-                                <p> Doç. Dr. Çiğdem SARI ÖZTÜRK </p>
-                                <p> Doç. Dr. Demet AKTAŞ </p>
-                                <p> Doç. Dr. Derya ÇINAR </p>
-                                <p> Doç. Dr. Dilek EFE ARSLAN </p>
-                                <p> Doç. Dr. Dilek YILDIRIM </p>
-                                <p> Doç. Dr. Eda ŞAHİN </p>
-                                <p> Doç. Dr. Elif DÖNMEZ </p>
-                                <p> Doç. Dr. Fatma ARIKAN </p>
-                                <p> Doç. Dr. Fatma USLU ŞAHAN </p>
-                                <p> Doç. Dr. Figen ŞENGÜN İNAN </p>
-                                <p> Doç. Dr. Filiz ÜNAL TOPRAK </p>
-                                <p> Doç. Funda ROHDE </p>
-                                <p> Doç. Dr. Gamze TEMİZ </p>
-                                <p> Doç. Dr. Gönül KURT </p>
-                                <p> Doç. Dr. Gülçin ÖZALP GERÇEKER </p>
-                                <p> Doç. Dr. Gülşah KÖK </p>
-                                <p> Doç. Dr. Gülyeter ERDOĞAN YÜCE </p>
-                                <p> Doç. Dr. Hatice KARABUĞA YAKAR </p>
-                                <p> Doç. Dr. İlknur YEŞİL ÇINAR </p>
-                                <p> Doç. Dr. İmatullah AKYAR </p>
-                                <p> Doç. Dr. Meltem UĞURLU </p>
-                                <p> Doç. Dr. Mine YURDAKUL </p>
-                                <p> Doç. Dr. Neşe UYSAL </p>
-                                <p> Doç. Dr. Nurhan DOĞAN </p>
-                                <p> Doç. Dr. Nurten TERKEŞ </p>
-                                <p> Doç. Dr. Özlem CANBOLAT </p>
-                                <p> Doç. Dr. Pınar TEKİNSOY KARTIN </p>
-                                <p> Doç. Dr. Remziye SEMERCİ </p>
-                                <p> Doç. Dr. Runida DOĞAN </p>
-                                <p> Doç. Dr. Ruveyde AYDIN </p>
-                                <p> Doç. Dr. Sebahat ATEŞ </p>
-                                <p> Doç. Dr. Seda KURT </p>
-                                <p> Doç. Dr. Selda ARSLAN </p>
-                                <p> Doç. Dr. Sema KOÇAN </p>
-                                <p> Doç. Dr. Sevcan ATAY TURAN </p>
-                                <p> Doç. Dr. Songül KAMIŞLI </p>
-                                <p> Doç. Dr. Tuğba MENEKLİ </p>
-                                <p> Doç. Dr. Ülkü ÖZDEMİR </p>
-                                <p> Doç. Dr. Vildan KOCATEPE </p>
-                                <p> Doç. Dr. Yasemin USLU </p>
-                                <p> Doç. Dr. Yeter Sinem ÜZAR ÇETİN </p>
-                                <p> Uzm. Dr. Eran BEN AYRE </p>
-                                <p> Dr. Jeannine M. BRANT </p>
-                                <p> Dr. Manal AL-ZADİALİ </p>
+                                 Prof. Dr. Şengül YAMAN SÖZBİR <br>
+                                 Prof. Dr. Ülkü POLAT <br>
+                                 Prof. Dr. Yeter KİTİŞ <br>
+                                 Prof. Dr. Yurdagül ERDEM <br>
+                                 Prof. Dr. Zehra GÖÇMEN BAYKARA <br>
+                                 Doç. Dr. Aslı AKDENİZ KUDUBEŞ <br>
+                                 Doç. Dr. Aydanur AYDIN <br>
+                                 Doç. Dr. Ayşe ARIKAN DÖNMEZ <br>
+                                 Doç. Dr. Ayşe ÇAL <br>
+                                 Doç. Dr. Banu ÇEVİK <br>
+                                 Doç. Dr. Bedriye AK <br>
+                                 Doç. Dr. Betül TOSUN <br>
+                                 Doç. Dr. Çiğdem SARI ÖZTÜRK <br>
+                                 Doç. Dr. Demet AKTAŞ <br>
+                                 Doç. Dr. Derya ÇINAR <br>
+                                 Doç. Dr. Dilek EFE ARSLAN <br>
+                                 Doç. Dr. Dilek YILDIRIM <br>
+                                 Doç. Dr. Eda ŞAHİN <br>
+                                 Doç. Dr. Elif DÖNMEZ <br>
+                                 Doç. Dr. Fatma ARIKAN <br>
+                                 Doç. Dr. Fatma USLU ŞAHAN <br>
+                                 Doç. Dr. Figen ŞENGÜN İNAN <br>
+                                 Doç. Dr. Filiz ÜNAL TOPRAK <br>
+                                 Doç. Funda ROHDE <br>
+                                 Doç. Dr. Gamze TEMİZ <br>
+                                 Doç. Dr. Gönül KURT <br>
+                                 Doç. Dr. Gülçin ÖZALP GERÇEKER <br>
+                                 Doç. Dr. Gülşah KÖK <br>
+                                 Doç. Dr. Gülyeter ERDOĞAN YÜCE <br>
+                                 Doç. Dr. Hatice KARABUĞA YAKAR <br>
+                                 Doç. Dr. İlknur YEŞİL ÇINAR <br>
+                                 Doç. Dr. İmatullah AKYAR <br>
+                                 Doç. Dr. Meltem UĞURLU <br>
+                                 Doç. Dr. Mine YURDAKUL <br>
+                                 Doç. Dr. Neşe UYSAL <br>
+                                 Doç. Dr. Nurhan DOĞAN <br>
+                                 Doç. Dr. Nurten TERKEŞ <br>
+                                 Doç. Dr. Özlem CANBOLAT <br>
+                                 Doç. Dr. Pınar TEKİNSOY KARTIN <br>
+                                 Doç. Dr. Remziye SEMERCİ <br>
+                                 Doç. Dr. Runida DOĞAN <br>
+                                 Doç. Dr. Ruveyde AYDIN <br>
+                                 Doç. Dr. Sebahat ATEŞ <br>
+                                 Doç. Dr. Seda KURT <br>
+                                 Doç. Dr. Selda ARSLAN <br>
+                                 Doç. Dr. Sema KOÇAN <br>
+                                 Doç. Dr. Sevcan ATAY TURAN <br>
+                                 Doç. Dr. Songül KAMIŞLI <br>
+                                 Doç. Dr. Tuğba MENEKLİ <br>
+                                 Doç. Dr. Ülkü ÖZDEMİR <br>
+                                 Doç. Dr. Vildan KOCATEPE <br>
+                                 Doç. Dr. Yasemin USLU <br>
+                                 Doç. Dr. Yeter Sinem ÜZAR ÇETİN <br>
+                                 Uzm. Dr. Eran BEN AYRE <br>
+                                 Dr. Jeannine M. BRANT <br>
+                                 Dr. Manal AL-ZADİALİ <br>
                             </div>
                         </div>
                     </div>
