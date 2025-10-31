@@ -81,12 +81,12 @@
                 </div>
                 <div class="bayrak" style="display: flex; flex-grow: 4; justify-content: flex-end;">
                     <div class="mobile-float" style="padding-right: 20px;">
-                        <a href="/en/index.php">
+                        <a href="../en/index.php">
                             <img alt="" src="../doc/united-kingdom.png" style="max-width: 30px;">
                         </a>
                     </div>
                     <div class="mobile-float tr" style="padding-right: 20px;">
-                        <a href="/index.php">
+                        <a href="../index.php">
                             <img alt="" src="../doc/square.png" style="max-width: 30px;">
                         </a>
                     </div>
