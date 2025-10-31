@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi - <?php echo $pageTitle; ?></title>
+    <title>2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?></title>
 
     <!--=====FAB ICON=======-->
     <link rel="shortcut icon" href="../doc/favicon.png" />

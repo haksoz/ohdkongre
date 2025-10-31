@@ -108,13 +108,13 @@
 Değerli Meslektaşlarım,</p>
 <div class="space12"></div>
 <p data-aos="fade-left" data-aos-duration="900">
-Sizleri, 7-9 Mayıs 2026 tarihlerinde İstanbul Bilgi Üniversitesi ev sahipliğinde gerçekleştireceğimiz II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi’ne davet etmekten büyük mutluluk ve onur duyuyorum.</p>
+Sizleri, 7-9 Mayıs 2026 tarihlerinde İstanbul Bilgi Üniversitesi ev sahipliğinde gerçekleştireceğimiz <b>II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi’ne</b> davet etmekten büyük mutluluk ve onur duyuyorum.</p>
 <div class="space12"></div>
 <p data-aos="fade-left" data-aos-duration="900">
-Geçtiğimiz yıl Ankara’da düzenlediğimiz I. Uluslararası Onkoloji Hemşireliği Derneği Kongresi, sizlerin yoğun ilgisi ve katkılarıyla onkoloji hemşireliği alanında önemli bir etki yaratmış, güçlü bir bilimsel paylaşım ortamı oluşturmuştur. Birinci kongremizdeki değerli buluşmanın deneyimi ve birikimiyle, daha geniş bir katılım beklentisi ve içerikle yolumuza devam ediyoruz.  Bu yıl kongremizi, onkoloji hemşireliğinin özünü en güçlü biçimde yansıtan bir tema ile düzenliyoruz: “Güç, Bilim ve Şefkat: Onkoloji Hemşireliği.”</p>
+Geçtiğimiz yıl Ankara’da düzenlediğimiz <b>I. Uluslararası Onkoloji Hemşireliği Derneği Kongresi,</b> sizlerin yoğun ilgisi ve katkılarıyla onkoloji hemşireliği alanında önemli bir etki yaratmış, güçlü bir bilimsel paylaşım ortamı oluşturmuştur. Birinci kongremizdeki değerli buluşmanın deneyimi ve birikimiyle, daha geniş bir katılım beklentisi ve içerikle yolumuza devam ediyoruz.  Bu yıl kongremizi, onkoloji hemşireliğinin özünü en güçlü biçimde yansıtan bir tema ile düzenliyoruz: <b>“Güç, Bilim ve Şefkat: Onkoloji Hemşireliği.”</b></p>
 <div class="space12"></div>
 <p data-aos="fade-left" data-aos-duration="900">
-Bu tema, hemşirelik mesleğinin temelinde yer alan üç evrensel değeri - bilimsel bilgiyle güçlenmeyi, insani duyarlılıkla bakım vermeyi ve mesleki kimliği güçlendirmeyi - bir araya getirmektedir. Kanser bakımında bilimin rehberliğinde ilerlerken, şefkatin insan yaşamına kattığı değeri yeniden hatırlamayı amaçlıyoruz.</p>
+Bu tema, hemşirelik mesleğinin temelinde yer alan üç evrensel değeri <b>- bilimsel bilgiyle güçlenmeyi, insani duyarlılıkla bakım vermeyi ve mesleki kimliği güçlendirmeyi -</b> bir araya getirmektedir. Kanser bakımında bilimin rehberliğinde ilerlerken, şefkatin insan yaşamına kattığı değeri yeniden hatırlamayı amaçlıyoruz.</p>
 <div class="space12"></div>
 <p data-aos="fade-left" data-aos-duration="900">
 Kongremiz boyunca aşağıdaki konular çerçevesinde bilgi paylaşımı, tartışma ve etkileşim için güçlü bir zemin oluşturacağız:</p>
@@ -131,7 +131,7 @@ Kongremiz boyunca aşağıdaki konular çerçevesinde bilgi paylaşımı, tartı
 </p>
 <div class="space12"></div>
 <p data-aos="fade-left" data-aos-duration="900">
-Kongremizde, onkoloji hemşireleri ve akademisyenlerle birlikte, hasta dernekleri, multidisipliner sağlık ekipleri, genç araştırmacılar ve öğrenciler bir araya gelerek bilgi ve deneyimlerini paylaşacaklardır. İlham verici “başarı hikâyeleri” oturumlarıyla, hemşirelerin kanserle yaşayan bireylerin yaşamına nasıl dokunduğunu hep birlikte göreceğiz. Bilimsel yenilikleri, dijital dönüşümü, kültürel duyarlılığı ve şefkat temelli yaklaşımı bir araya getiren bu kongre, onkoloji hemşireliğinin geleceğine yön verecek önemli bir buluşma olacaktır.</p>
+Kongremizde, onkoloji hemşireleri ve akademisyenlerle birlikte, hasta dernekleri, multidisipliner sağlık ekipleri, genç araştırmacılar ve öğrenciler bir araya gelerek bilgi ve deneyimlerini paylaşacaklardır. İlham verici <b>“başarı hikâyeleri”</b> oturumlarıyla, hemşirelerin kanserle yaşayan bireylerin yaşamına nasıl dokunduğunu hep birlikte göreceğiz. Bilimsel yenilikleri, dijital dönüşümü, kültürel duyarlılığı ve şefkat temelli yaklaşımı bir araya getiren bu kongre, onkoloji hemşireliğinin geleceğine yön verecek önemli bir buluşma olacaktır.</p>
 <div class="space12"></div>
 <p data-aos="fade-left" data-aos-duration="900">
 Sizleri bu anlamlı kongrede görmek, birlikte olmak, paylaşmak ve güçlenmek bizler için büyük bir mutluluk olacaktır. Geliniz, bilimin ışığında ve  şefkatin rehberliğinde onkoloji hemşireliğinin geleceğini birlikte inşa edelim.</p>
@@ -140,6 +140,7 @@ Sizleri bu anlamlı kongrede görmek, birlikte olmak, paylaşmak ve güçlenmek 
 Sevgi ve Saygılarımla,</p>
 <div class="space12"></div>
 <p data-aos="fade-left" data-aos-duration="900">
+	<br>
 Prof. Dr. Perihan GÜNER<br>
 Kongre Başkanı</p>
 

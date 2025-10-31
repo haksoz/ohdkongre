@@ -77,6 +77,7 @@
                             <p>Kesin kayıt, ödeme ile kesinlik kazanır; kayıt ücretlerinin kongre hesabına yatırılması ve ödemeye dair belgenin kongre organizasyon sekretaryasına e-posta (<a href="mail:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a>) ya da Whatsapp kanalıyla 
                                 <a href="https://wa.me/+905343366908">+90 534 336 69 08</a>
                                  gönderilmesi gerekmektedir.
+                             </p>
                         </div>
                     </div>
                 </div>

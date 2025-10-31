@@ -78,18 +78,17 @@
                         <div class="our-team-boxarea">
                             <div class="content-area">
                                 <a href="">HONORARY CHAIRS</a>
-                                <p> Prof. Dr. Uğur ÜNAL </p>
-                                <p> Prof. Dr. Nurgün PLATİN </p>
-                                <p> Prof. Dr. Gülşen TERAKYE </p>
+                                <p>Prof. Dr. M. Ege YAZGAN</p>
+                                <p>Prof. Dr. Nurgün PLATİN</p>
+                                <p>Prof. Dr. Gülşen TERAKYE</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="our-team-boxarea">
                             <div class="content-area">
-                                <a href="">CONGRESS CHAIRS</a>
-                                <p> Prof. Dr. Perihan GÜNER </p>
-                                <p> Prof. Dr. Sultan AYAZ ALKAYA </p>
+                                <a href="">CONGRESS CHAIR</a>
+                                <p>Prof. Dr. Perihan GÜNER </p>
                             </div>
                         </div>
                     </div>
@@ -97,19 +96,17 @@
                         <div class="our-team-boxarea">
                             <div class="content-area">
                                 <a href="">PAST PRESIDENTS OF THE ONCOLOGY NURSING ASSOCIATION</a>
-                                <p> Prof. Dr. Leman BİROL
-                                <p> Prof. Dr. Nurgün PLATİN </p>
-                                <p> Prof. Dr. Lale TAŞKIN </p>
-                                <p> Prof. Dr. Gülşen TERAKYE </p>
-                                <p> Prof. Dr. Yurdagül ERDEM </p>
-                                <p> Prof. Dr. Sultan KAV </p>
-                                <p> Doç. Dr. Fatma GÜNDOĞDU </p>
-                                <p> Doç. Dr. Sevcan ATAY </p>
-                                <p> Prof. Dr. Sevinç KUTLUTÜRKAN </p>
-                                <p> Uzm. Hem. Figen BAY </p>
-                                <span class="text-red">
-                            *Listed in chronological order of presidency.
-                        </span>
+                                <p>Prof. Dr. Leman BİROL
+                                <p>Prof. Dr. Nurgün PLATİN </p>
+                                <p>Prof. Dr. Lale TAŞKIN </p>
+                                <p>Prof. Dr. Gülşen TERAKYE </p>
+                                <p>Prof. Dr. Yurdagül ERDEM </p>
+                                <p>Prof. Dr. Sultan KAV </p>
+                                <p>Doç. Dr. Fatma GÜNDOĞDU </p>
+                                <p>Doç. Dr. Sevcan ATAY </p>
+                                <p>Prof. Dr. Sevinç KUTLUTÜRKAN </p>
+                                <p>Uzm. Hem. Figen BAY </p>
+                                <p class="text-red"> * Başkanlık dönemine göre sıralanmıştır. </p>
                             </div>
                         </div>
                     </div>
@@ -117,10 +114,10 @@
                         <div class="our-team-boxarea">
                             <div class="content-area">
                                 <a>CONGRESS SECRETARIAT</a>
-                                <p> Dr. Öğr. Üyesi Elif SÖZERİ ÖZTÜRK </p>
-                                <p> Doç. Dr. Fatma GÜNDOĞDU </p>
-                                <p> Doç. Dr. Özlem CANBOLAT </p>
-                                <p> Hem. Ferhan ÇETİN ŞEREF </p>
+                                <p>Doç. Dr. Fatma GÜNDOĞDU </p>
+                                <p>Doç. Dr. Sebahat ATEŞ</p>
+                                <p>Dr. Öğr. Üyesi Ebru TEMİZSOY</p>
+                                <p>Uzm. Hem. Ayşin KAYIŞ</p>
                             </div>
                         </div>
                     </div>
@@ -130,48 +127,47 @@
                                 <a>CONGRESS ORGANIZING COMMITTEE</a>
                                 <div class="row justify-content-center">
                                     <div class="col-md-6 col-lg-4">
-                                        <p> Prof. Dr. Ayşe OKANLI </p>
-                                        <p> Prof. Dr. Gülbeyaz CAN </p>
-                                        <p> Prof. Dr. Gülten GÜVENÇ </p>
-                                        <p> Prof. Dr. Özlem UĞUR </p>
-                                        <p> Prof. Dr. Sevil GÜLER </p>
-                                        <p> Prof. Dr. Sevinç KUTLUTÜRKAN </p>
-                                        <p> Doç. Dr. Betül TOSUN </p>
-                                        <p> Doç. Dr. Dilek YILDIRIM </p>
-                                        <p> Doç. Dr. Fatma ARIKAN </p>
-                                        <p> Doç. Dr. Fatma GÜNDOĞDU </p>
-                                        <p> Doç. Dr. Figen ŞENGÜN İNAN </p>
-                                        <p> Doç. Dr. Özlem CANBOLAT </p>
-                                        <p> Doç. Dr. Vildan KOCATEPE </p>
-                                        <p> Dr. Öğr. Üyesi Elif SÖZERİ ÖZTÜRK </p>
+                                        <p>Prof. Dr. Ayşe OKANLI</p>
+                                        <p>Prof. Dr. Gülbeyaz CAN</p>
+                                        <p>Prof. Dr. Gülten GÜVENÇ</p>
+                                        <p>Prof. Dr. Hanife ÖZÇELİK</p>
+                                        <p>Prof. Dr. Perihan GÜNER</p>
+                                        <p>Prof. Dr. Zeynep ŞİMŞEK</p>
+                                        <p>Doç. Dr. Aydanur AYDIN</p>
+                                        <p>Doç. Dr. Betül TOSUN</p>
+                                        <p>Doç. Dr. Fatma GÜNDOGDU</p>
+                                        <p>Doç. Dr. Remziye SEMERCİ</p>
+                                        <p>Doç. Dr. Sebahat ATEŞ</p>
+                                        <p>Dr. Öğr. Üyesi Ebru TEMİZSOY</p>
+                                        <p>Dr. Öğr. Üyesi Kamile KIRCA</p>
+                                        <p>Dr. Öğr. Üyesi Miray AKSU</p>
                                     </div>
                                     <div class="col-md-6 col-lg-4">
-                                        <p> Dr. Öğr. Üyesi Miray AKSU </p>
-                                        <p> Dr. Öğr. Üyesi Nevra KALKAN </p>
-                                        <p> Dr. Öğr. Üyesi Yasemin KARACAN </p>
-                                        <p> Arş. Gör. Hazal ÖZDEMİR KOYU </p>
-                                        <p> Arş. Gör. Neslihan KÖSE KABAKCIOĞLU </p>
-                                        <p> Uzm. Hem. Ayşin KAYIŞ </p>
-                                        <p> Uzm. Hem. Canan PÖRÜCÜ </p>
-                                        <p> Uzm. Hem. Figen BAY </p>
-                                        <p> Hem. Ferhan ÇETİN ŞEREF </p>
-                                        <p> Hem. Hale SÜNBÜL </p>
-                                        <p> Hem. Kadriye SANCI </p>
-                                        <p> Hem. Pınar YILMAZ </p>
-                                        <p> Hem. Şerife KARACA </p>
+                                        <p>Dr. Öğr. Üyesi Münevver ERKUL</p>
+                                        <p>Dr. Öğr. Üyesi Yasemin KARACAN</p>
+                                        <p>Öğr. Görevlisi Ünal ÖNSÜZ</p>
+                                        <p>Dr. Hem. Zeliha GENÇ</p>
+                                        <p>Dr. Hem. Canan PÖRÜCÜ</p>
+                                        <p>Araştırma Görevlisi Hilal ÖZENÇ</p>
+                                        <p>Araştırma Görevlisi İlknur YAZICIOĞLU</p>
+                                        <p>Uzm. Hem. Ayşin KAYIŞ</p>
+                                        <p>Uzm. Hem. Figen BAY</p>
+                                        <p>Uzm. Hem. Sevgül ÖZDEMİR</p>
+                                        <p>Hem. Hale SÜNBÜL</p>
+                                        <p>Hem. Ferhan Çetin ŞEREF</p>
+                                        <p>Hem. Şerife KARACA</p>
+                                        <p>Hem. Kadriye SANCI</p>
                                     </div>
                                     <div class="col-md-12 mt-2">
-                                        <span class="text-red">*Names are listed alphabetically.</span>
+                                        <p class="text-red">* Names are listed alphabetically.</p>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
         <?php include('footer.php') ?>
         <?php include('script.php') ?>
 	</body>

@@ -77,7 +77,7 @@
                     <div class="col-md-12">
                         <div class="our-team-boxarea">
                             <div class="content-area">
-                                <a href="">Yapım Aşamasında</a>
+                                <h4 class="text-center">Under Construction</h4>
                             </div>
                         </div>
                     </div>

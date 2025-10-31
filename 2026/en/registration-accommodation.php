@@ -67,13 +67,28 @@
         <div class="team-sperkers-section-area sp1">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 m-auto">
+                    <div class="col-lg-12 m-auto">
                         <div class="heading2 text-center space-margin60">
                             <h2> Registration Accommodation</h2>
                         </div>
                     </div>
+                    <div class="col-lg-12 m-auto">
+                        <div class="heading2 text-center space-margin60">
+                            <p>
+                                Final registration is finalized with payment; registration fees must be deposited into the congress
+                                account and the document regarding the payment must be sent to the congress organization secretariat
+                                via e-mail (<a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a>)
+                                or Whatsapp (<a href="https://wa.me/+905343366908">+90 534 336 69 08</a>).
+                            </p>
+                        </div>
+                    </div>
                 </div>
                 <div class="row">
+                    <div class="col-lg-12 m-auto">
+                        <div class="heading2 text-center space-margin60">
+                            <h3> Registration</h3>
+                        </div>
+                    </div>
                     <div class="col-md-12 ">
                         <div class="our-team-boxarea">
                             <div class="content-area">
@@ -85,30 +100,48 @@
                                     </colgroup>
                                     <thead>
                                         <tr>
-                                            <th style="">Kayıt Tipi</th>
-                                            <th>xxx 2026 <br> Öncesi Fiyatlar <br>Erken Kayıt Ücreti</th>
-                                            <th>xxx 2026 <br> Sonrası Fiyatlar <br>Kayıt Ücreti</th>
+                                            <th style="">Registration Type</th>
+                                            <th>Prices Before May X, 2026<br>Erken Kayıt Ücreti</th>
+                                            <th>Prices After May X, 2026 <br>Registration Fee</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>Dernek Üyesi </td>
+                                            <td>Member of the Association</td>
                                             <td>9.500 TL</td>
                                             <td>10.500 TL</td>
                                         </tr>
                                         <tr>
-                                            <td>Dernek Üyesi Olmayan</td>
+                                            <td>Non-Member of the Association</td>
                                             <td>10.500 TL</td>
                                             <td>11.500 TL</td>
                                         </tr>
                                         <tr>
-                                            <td>Öğrenci (Lisans Öğrencisi, herhangi bir yerde çalışmadığını bir dilekçe ile beyan eden yüksek lisans ve doktora öğrencileri)</td>
+                                            <td>Undergraduate students</td>
                                             <td>3.000 TL</td>
                                             <td>4.000 TL</td>
                                         </tr>
                                     </tbody>
                                 </table>
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 m-auto">
+                        <div class="heading2 space-margin60">
+                            <ul>
+                                <li><i class="fa-solid fa-arrow-right"></i> VAT included. VAT rate is 20%. </li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Registration is nurses and company representatives to participate in the general areas of the congress and scientific meetings. Participation in scientific activities, name badge, name badge programme and participation certificate are included in the registration fee.   </li>
+                                <li><i class="fa-solid fa-arrow-right"></i> Bosphorus Mice reserves the right to reflect the change in the amount of taxes, fees and charges that may arise in the prices. </li>
+                                <li><i class="fa-solid fa-arrow-right"></i> We kindly ask you to contact us regarding your early check-in or late check-out requests within the scope of the congress dates.   </li>
+                                <li><i class="fa-solid fa-arrow-right"></i> The cancellation and refund right is valid until May 1, 2025. After this date, no cancellations or refunds will be accepted. All refunds will be processed after the congress.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 m-auto">
+                        <div class="heading2 text-center space-margin60">
+                            <h3> Accommodation</h3>
                         </div>
                     </div>
                 </div>

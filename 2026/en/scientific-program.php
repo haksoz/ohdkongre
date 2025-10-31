@@ -83,8 +83,8 @@
                                     <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">
                                         <span class="calender"><img src="assets/img/icons/calender2.svg" alt="" /></span>
                                         <span class="pl-8 d-flex flex-column">
-											<span class="day">1. Gün</span>
-											<span class="date">7 Mayıs, 2026</span>
+											<span class="day">Day 1</span>
+											<span class="date">7 May Thursday, 2026</span>
 										</span>
                                     </button>
                                 </li>
@@ -92,8 +92,8 @@
                                     <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">
                                         <span class="calender"><img src="assets/img/icons/calender2.svg" alt="" /></span>
                                         <span class="pl-8 d-flex flex-column">
-											<span class="day">2. Gün</span>
-											<span class="date">8 Mayıs, 2026</span>
+											<span class="day">Day 2</span>
+											<span class="date">8 May Friday, 2026</span>
 										</span>
                                     </button>
                                 </li>
@@ -101,8 +101,8 @@
                                     <button class="nav-link m-0" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">
                                         <span class="calender"><img src="assets/img/icons/calender2.svg" alt="" /> </span>
                                         <span class="pl-8 d-flex flex-column">
-											<span class="day">3. Gün</span>
-											<span class="date">9 Mayıs, 2026</span>
+											<span class="day">Day 3</span>
+											<span class="date">9 May Saturday, 2026</span>
 										</span>
                                     </button>
                                 </li>
@@ -110,16 +110,16 @@
                         </div>
                         <div class="tab-content" id="pills-tabContent">
                             <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab" tabindex="0">
-                                <h3 class="text-center">7 Mayıs, 2026</h3>
-                                <h4 class="text-center">Yapım Aşamasında...</h4>
+                                <h3 class="text-center">7 may, 2026</h3>
+                                <h4 class="text-center">Under Construction</h4>
                             </div>
                             <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab" tabindex="0">
-                                <h3 class="text-center">8 Mayıs, 2026</h3>
-                                <h4 class="text-center">Yapım Aşamasında...</h4>
+                                <h3 class="text-center">8 May, 2026</h3>
+                                <h4 class="text-center">Under Construction</h4>
                             </div>
                             <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab" tabindex="0">
-                                <h3 class="text-center">9 Mayıs, 2026</h3>
-                                <h4 class="text-center">Yapım Aşamasında...</h4>
+                                <h3 class="text-center">9 May, 2026</h3>
+                                <h4 class="text-center">Under Construction</h4>
                             </div>
                         </div>
                     </div>

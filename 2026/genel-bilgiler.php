@@ -106,16 +106,6 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="col-md-6">
-                        <div class="choose-widget-boxarea">
-                            <div class="content-area">
-                                <a href="#">Toplantı Dili:</a>
-                                <div class="space16"></div>
-                                <p>Kongrenin resmi dili Türkçe’dir.</p>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>

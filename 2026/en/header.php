@@ -57,7 +57,7 @@
                                 </li>
                                 <li><a href="general-info.php">Information</a></li>
                                 <li><a href="registration-accommodation.php">Registration Accommodation</a></li>
-                                <li><a href="program.php">Scientific Program</a></li>
+                                <li><a href="scientific-program.php">Scientific Program</a></li>
                                 <li><a href="abstract-submission.php">Abstract Submission</a></li>
                                 <li><a href="contact.php">Contact</a></li>
                             </ul>
@@ -121,7 +121,7 @@
             </li>
             <li><a href="general-info.php">Information</a></li>
             <li><a href="registration-accommodation.php">Registration Accommodation</a></li>
-            <li><a href="program.php">Scientific Program</a></li>
+            <li><a href="scientific-program.php">Scientific Program</a></li>
             <li><a href="abstract-submission.php">Abstract Submission</a></li>
             <li><a href="contact.php">Contact</a></li>
 

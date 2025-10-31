@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="TR">
-    <?php $page = 'index'; ?>
-    <?php $pageTitle = 'general-info'; ?>
+    <?php $page = 'general-info'; ?>
+    <?php $pageTitle = 'General Information'; ?>
 
 	<?php include('head.php') ?>
 	<body class="homepage2-body">
@@ -78,9 +78,9 @@
                     <div class="col-md-6">
                         <div class="choose-widget-boxarea">
                             <div class="content-area">
-                                <a href="#">Toplantı Adı</a>
+                                <a href="#">Congress Name</a>
                                 <div class="space16"></div>
-                                <p>2. Uluslararası Onkoloji Hemşireliği Derneği Kongresi</p>
+                                <p>2nd International Oncology Nursing Association Congress</p>
                             </div>
                         </div>
                     </div>
@@ -88,10 +88,10 @@
                     <div class="col-md-6">
                         <div class="choose-widget-boxarea">
                             <div class="content-area">
-                                <a href="#">Toplantı Yeri</a>
+                                <a href="#">Congress Place</a>
                                 <div class="space16"></div>
                                 <p>
-                                    İstanbul Bilgi Üniversitesi Santral İstanbul Kampüsü
+                                    Istanbul Bilgi University
                                 </p>
                             </div>
                         </div>
@@ -100,22 +100,14 @@
                     <div class="col-md-6">
                         <div class="choose-widget-boxarea">
                             <div class="content-area">
-                                <a href="#">Toplantı Tarihi</a>
+                                <a href="#">Congress Date</a>
                                 <div class="space16"></div>
-                                <p>07 - 09 Mayıs 2026 </p>
+                                <p>May 7-9, 2026</p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-md-6">
-                        <div class="choose-widget-boxarea">
-                            <div class="content-area">
-                                <a href="#">Toplantı Dili:</a>
-                                <div class="space16"></div>
-                                <p>Kongrenin resmi dili Türkçe’dir.</p>
-                            </div>
-                        </div>
-                    </div>
+               
                 </div>
             </div>
         </div>

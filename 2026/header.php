@@ -51,8 +51,8 @@
                                         <i class="fa-solid fa-angle-down"></i>
                                     </a>
                                     <ul class="dropdown-padding">
-                                        <li><a href="/2026/bilimsel-kurul.php">Bilimsel Kurul</a></li>
                                         <li><a href="/2026/duzenleme-kurulu.php">Düzenleme Kurulu</a></li>
+                                        <li><a href="/2026/bilimsel-kurul.php">Bilimsel Kurul</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="/2026/genel-bilgiler.php">Genel Bilgiler</a></li>
@@ -115,8 +115,8 @@
             <li>
                 <a href="/2026/#">Kurullar</a>
                 <ul class="sub-menu">
-                    <li><a href="/2026/bilimsel-kurul.php">Bilimsel Kurul</a></li>
                     <li><a href="/2026/duzenleme-kurulu.php">Düzenleme Kurulu</a></li>
+                    <li><a href="/2026/bilimsel-kurul.php">Bilimsel Kurul</a></li>
                 </ul>
             </li>
             <li><a href="/2026/genel-bilgiler.php">Genel Bilgiler</a></li>
