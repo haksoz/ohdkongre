@@ -6,14 +6,6 @@
 	<?php include('head.php') ?>
 	<body class="homepage2-body">
 		
-		<!--===== PRELOADER STARTS =======-->
-		<div class="preloader">
-			<div class="loading-container">
-				<div class="loading"></div>
-				<div id="loading-icon"><img src="doc/ohd-logo.png" alt="" /></div>
-			</div>
-		</div>
-		<!--===== PRELOADER ENDS =======-->
 
 		<!--===== PAGE PROGRESS START=======-->
 		<div class="paginacontainer">
@@ -74,35 +66,57 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-6">
+                <div class="row justify-content-center">
+                    <div class="col-md-10">
                         <div class="choose-widget-boxarea">
                             <div class="content-area">
-                                <a href="#">Toplantı Adı</a>
+                                <a href="#">KONGRE TARİHLERİ</a>
                                 <div class="space16"></div>
-                                <p>2. Uluslararası Onkoloji Hemşireliği Derneği Kongresi</p>
+                                <p style="text-align: center;">7 – 9 Mayıs 2026</p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-md-6">
+                    <div class="col-md-10">
                         <div class="choose-widget-boxarea">
                             <div class="content-area">
-                                <a href="#">Toplantı Yeri</a>
+                                <a href="#">YAKA KARTI</a>
                                 <div class="space16"></div>
                                 <p>
-                                    İstanbul Bilgi Üniversitesi Santral İstanbul Kampüsü
+                                    Kayıt yaptıran tüm katılımcı ve refakatçilere yaka kartı dağıtılacaktır. Kongre düzeninin sağlanabilmesi için yaka kartlarının tüm bilimsel ve sosyal aktivitelerde takılması rica olunur.
                                 </p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-md-6">
+                    <div class="col-md-10">
                         <div class="choose-widget-boxarea">
                             <div class="content-area">
-                                <a href="#">Toplantı Tarihi</a>
+                                <a href="#">DAVET MEKTUBU / İZİN YAZISI</a>
                                 <div class="space16"></div>
-                                <p>07 - 09 Mayıs 2026 </p>
+                                <p>Kongre katılımı için kurumlara verilmek üzere talep edilecek olan davet yazıları kongre sekreterliği aracılığı ile isteyen katılımcılara gönderilecektir. Bu tür davet yazıları sadece izin amacı ile kullanılabilir. Davet mektubu sahibi misafirlerin kayıt ve konaklama ücretleri kendilerine aittir.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-10">
+                        <div class="choose-widget-boxarea">
+                            <div class="content-area">
+                                <a href="#">KAYIT VE KONAKLAMA HİZMETLERİ </a>
+                                <div class="space16"></div>
+                                <p>* İndirimli Erken kayıt ve konaklama fiyatları sadece 1 Nisan 2026 tarihinden önce ödeme gerçekleşmişse geçerli olacaktır. Bu tarihe kadar ödemesi yapılmayan rezervasyon geç fiyatlardan ücretlendirilecektir.</p>
+                                <p>* Toplantı tarihinden 30 gün öncesine kadar ödemesi yapılmayan sponsorlukların tüm rezervasyon ve talepleri iptal edilecektir.</p> 
+                                <p>* Kongre tarihinden sonra yapılacak ödemelerde her bir aylık gecikme toplam fatura tutarı üzerinden %10 faiz uygulanacaktır. Aksi takdirde talepler konfirme edilmeyecektir.</p>
+                                <p>* Kayıt ve konaklama iptalleri için yapılacak olan geri ödemeler, ilgili iptal iade şartlarına göre hesaplanıp  kongre bitiş tarihinden itibaren 20 iş günü içinde, banka ödemesi yolu ile bildirilen hesaplara ödenecektir.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-10">
+                        <div class="choose-widget-boxarea">
+                            <div class="content-area">
+                                <a href="#">DİĞER SPONSORLUK TALEPLERİ</a>
+                                <div class="space16"></div>
+                                <p>* Diğer sponsorluk taleplerinin son iptal tarihi 15 Nisan 2026'dir. Bu tarihten sonra gerçekleşecek olan iptallerde ücret geri ödemesi yapılmayacaktır.</p>
+                                <p>* Basılı sponsorluk talepleri için 15 Nisan 2026 tarihine kadar acentenin vermiş olduğu ölçü ve formatta logo/reklam vb. çalışmaların iletilmesi gerekmektedir. Bu tarihe kadar gönderilmeyen çalışmaların basılı ve görsel uygulaması yapılamayacaktır.</p>
                             </div>
                         </div>
                     </div>

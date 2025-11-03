@@ -5988,7 +5988,7 @@ Location:
   position: relative;
   z-index: 1;
   background: #FBF9F4;
-  padding: 40px 0 32px;
+  padding: 12px 0 20px;
 }
 .footer1-sertion-area .footer-logo-area p {
   color: #544E51;
@@ -6090,7 +6090,7 @@ Location:
   line-height: 16px;
   display: inline-block;
   transition: all 0.4s;
-  padding-top: 24px;
+  padding-top: 4px;
 }
 .footer1-sertion-area .link-content2 ul li a img {
   margin: 0 8px 0 0;
@@ -6541,7 +6541,7 @@ Location:
   line-height: 16px;
   display: inline-block;
   transition: all 0.4s;
-  padding-top: 24px;
+  padding-top: 2px;
 }
 .footer1-sertion-area .copyright a:hover {
   color: var(--ztc-text-text-4);
@@ -13188,7 +13188,7 @@ html {
 }
 .choose-section-area .choose-widget-boxarea .content-area p {
   color: var(--ztc-text-text-3);
-  text-align: center;
+  text-align: left;
   font-family: var(--ztc-family-font2);
   font-size: var(--ztc-font-size-font-s18);
   font-style: normal;

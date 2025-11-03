@@ -18,14 +18,16 @@
 
                                 </ul>
                             </div>
+                            <!--
                             <ul style="padding-right: 20px;">
                                 <li>
-                                    <a href="/2026/mailto:salih.gonca@bosphorusmice.net"><img src="/2026/assets/img/icons/mail1.svg" alt="" />salih.gonca@bosphorusmice.net <span> | </span></a>
+                                    <a href="mailto:ohdkongre@bosphorusmice.net"><img src="/2026/assets/img/icons/mail1.svg" alt="" />ohdkongre@bosphorusmice.net <span> | </span></a>
                                 </li>
                                 <li>
-                                    <a href="/2026/tel:+902162350686"><img src="/2026/assets/img/icons/phn1.svg" alt="" />+90 (216) 235 06 86</a>
+                                    <a href="tel:+902162350686"><img src="/2026/assets/img/icons/phn1.svg" alt="" />+90 (216) 235 06 86</a>
                                 </li>
                             </ul>
+                            -->
                             <ul>
                                 <li class="mobile-hidden">
                                     <a href="/2026/en/index.php">

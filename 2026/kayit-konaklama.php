@@ -6,14 +6,6 @@
 	<?php include('head.php') ?>
 	<body class="homepage2-body">
 		
-		<!--===== PRELOADER STARTS =======-->
-		<div class="preloader">
-			<div class="loading-container">
-				<div class="loading"></div>
-				<div id="loading-icon"><img src="doc/ohd-logo.png" alt="" /></div>
-			</div>
-		</div>
-		<!--===== PRELOADER ENDS =======-->
 
 		<!--===== PAGE PROGRESS START=======-->
 		<div class="paginacontainer">
@@ -74,7 +66,7 @@
                     </div>
                     <div class="col-lg-12 m-auto">
                         <div class="heading2 space-margin60">
-                            <p>Kesin kayıt, ödeme ile kesinlik kazanır; kayıt ücretlerinin kongre hesabına yatırılması ve ödemeye dair belgenin kongre organizasyon sekretaryasına e-posta (<a href="mail:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a>) ya da Whatsapp kanalıyla 
+                            <p>Kesin kayıt, ödeme ile kesinlik kazanır; kayıt ücretlerinin kongre hesabına yatırılması ve ödemeye dair belgenin kongre organizasyon sekretaryasına e-posta (<a href="mailto:ohdkongre@bosphorusmice.net">ohdkongre@bosphorusmice.net</a>) ya da Whatsapp kanalıyla 
                                 <a href="https://wa.me/+905343366908">+90 534 336 69 08</a>
                                  gönderilmesi gerekmektedir.
                              </p>
@@ -99,8 +91,8 @@
                                     <thead>
                                         <tr>
                                             <th style="">Kayıt Tipi</th>
-                                            <th>xxx 2026 <br> Öncesi Fiyatlar <br>Erken Kayıt Ücreti</th>
-                                            <th>xxx 2026 <br> Sonrası Fiyatlar <br>Kayıt Ücreti</th>
+                                            <th>Erken Kayıt Ücreti</th>
+                                            <th>Kayıt Ücreti</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -129,9 +121,9 @@
                             <ul>
                                 <li><i class="fa-solid fa-arrow-right"></i>Kayıt ücretlerine KDV dahildir.</li>
                                 <li><i class="fa-solid fa-arrow-right"></i>Kongre genel alanları ve bilimsel toplantılara katılım için herkesin kayıt yaptırması zorunludur.</li>
-                                <li><i class="fa-solid fa-arrow-right"></i>Kayıt ücretine bilimsel aktivitelere katılım, yaka kartı, yaka kartı programı, katılım sertifikası ve 22 -23 Mayıs öğle yemekleri dahildir.</li>
+                                <li><i class="fa-solid fa-arrow-right"></i>Kayıt ücretine bilimsel aktivitelere katılım, yaka kartı, yaka kartı programı, katılım sertifikası ve 8 -9 Mayıs öğle yemekleri dahildir.</li>
                                 <li><i class="fa-solid fa-arrow-right"></i>Organizasyon muhtemel vergi, harç, rusum tutarlarındaki değişikliği fiyatlara yansıtma hakkını saklı tutar.</li>
-                                <li><i class="fa-solid fa-arrow-right"></i>İptal iade hakkı; 1 Mayıs 2025 tarihine kadar geçerlidir, bu tarihten sonra iptal iade hakkı yoktur. Tüm ücret iadeleri kongre sonrasında yapılacaktır.</li>
+                                <li><i class="fa-solid fa-arrow-right"></i>İptal iade hakkı; 1 Nisan 2026 tarihine kadar geçerlidir, bu tarihten sonra iptal iade hakkı yoktur. Tüm ücret iadeleri kongre sonrasında yapılacaktır.</li>
                             </ul>
                         </div>
                     </div>
@@ -140,6 +132,13 @@
                     <div class="col-lg-12 m-auto">
                         <div class="heading2 text-center space-margin60">
                             <h3> Konaklama</h3>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 m-auto">
+                        <div class="heading2 space-margin60">
+                            <ul>
+                                <li><i class="fa-solid fa-arrow-right"></i>Lütfen konaklama taleplerinizi için <a href="mailto:ohdkongre@bosphorusmice.net">ohdkongre@bosphorusmice.net</a> adresine iletiniz.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
