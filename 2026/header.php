@@ -12,12 +12,9 @@
                 </div>
                 <div class="col-lg-11" style="padding-left:0px;">
                     <div class="menu-top-area">
-                        <div class="top-menu-area">
-                            <div class="btn-area">
-                                <ul>
-
-                                </ul>
-                            </div>
+                        <div class="top-menu-area tema-slogani">
+                            
+                            <p class="tema-slogani">Güç, Bilim ve Şefkat: Onkoloji Hemşireliği</p>
                             <!--
                             <ul style="padding-right: 20px;">
                                 <li>
@@ -97,6 +94,9 @@
                     <i class="fa-solid fa-bars-staggered"></i>
                 </div>
             </div>
+        </div>
+        <div class="col-12">
+            <p class="tema-slogani-mobil">Güç, Bilim ve Şefkat: Onkoloji Hemşireliği</p>
         </div>
     </div>
 </div>

@@ -241,6 +241,16 @@ img {
   height: 100px;
 }
 
+
+
+.dancing-script-<uniquifier> {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
 @keyframes animation-5 {
   0% {
     transform: scale(1);
@@ -2269,7 +2279,7 @@ Location:
 }
 @media (max-width: 767px) {
   .hero2-slider-area .her2-section-area {
-    padding: 100px 0 20px;
+    padding: 130px 0 20px;
   }
   .hero2-slider-area .her2-section-area .container {
     background-color: rgb(41 37 31 / 54%);
@@ -8824,9 +8834,9 @@ html {
 .homepage2-body .header-area.homepage2 .menu-top-area .top-menu-area {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: space-between;
   background: var(--ztc-bg-bg-1);
-  padding: 10px 20px;
+  padding: 10px 36px;
   visibility: visible;
   opacity: 1;
   transition: all 0.4s;
@@ -8842,7 +8852,7 @@ html {
   transition: all 0.4s;
   left: 0;
   top: 0;
-  background: #eab279;
+  background: #d3b380;
 }
 .homepage2-body .header-area.homepage2 .menu-top-area .top-menu-area p {
   color: var(--ztc-text-text-5);
@@ -8905,7 +8915,7 @@ html {
   transition: all 0.4s;
   left: 0;
   top: 0;
-  background: #eab279;
+  background: #d3b380;
 }
 .homepage2-body .header-area.homepage2 .header-elements .site-logo img {
   width: 150px;
@@ -24299,6 +24309,45 @@ html {
 }
 .text-red{
   color: #F00 !important;
+}
+
+.tema-slogani-mobil {
+  font-family:'Dancing Script', sans-serif !important;
+  font-weight: 700 !important;
+  font-size: 24px;
+  color: #d3b380 !important;
+  text-align: center !important;
+  padding-top: 10px !important;
+}
+
+@media (max-width: 340px) {
+
+  .tema-slogani-mobil {
+  font-size: 15px !important;
+  }
+}
+
+@media only screen and (min-width: 341px) and (max-width: 460px) {
+
+  .tema-slogani-mobil {
+  font-size: 19px !important;
+  }
+}
+
+@media (max-width: 1200px) {
+
+  .homepage2-body .header-area.homepage2 .header-elements .main-menu ul li a {
+    padding: 0 4px;
+  }
+}
+
+.tema-slogani {
+  font-family:'Dancing Script', sans-serif !important;
+  font-weight: 700 !important;
+  font-size: 24px !important;
+  color: #d3b380 !important;
+  text-align: center !important;
+  padding-top: 10px !important;
 }
 
 

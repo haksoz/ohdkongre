@@ -17,7 +17,11 @@
     <link rel="stylesheet" href="/2026/assets/css/vendor/slick-slider.css" />
     <link rel="stylesheet" href="/2026/assets/css/vendor/nice-select.css" />
     <link rel="stylesheet" href="/2026/assets/css/vendor/odometer.css" />
-    <link rel="stylesheet" href="/2026/assets/css/main.css?v=552358" />
+    <link rel="stylesheet" href="/2026/assets/css/main.css?v=552365" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
 
     <!--=====  JS SCRIPT LINK =======-->
     <script src="/2026/assets/js/vendor/jquery-3.7.1.min.js"></script>
