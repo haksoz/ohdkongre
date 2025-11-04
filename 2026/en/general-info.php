@@ -6,14 +6,6 @@
 	<?php include('head.php') ?>
 	<body class="homepage2-body">
 		
-		<!--===== PRELOADER STARTS =======-->
-		<div class="preloader">
-			<div class="loading-container">
-				<div class="loading"></div>
-				<div id="loading-icon"><img src="../doc/ohd-logo.png" alt="" /></div>
-			</div>
-		</div>
-		<!--===== PRELOADER ENDS =======-->
 
 		<!--===== PAGE PROGRESS START=======-->
 		<div class="paginacontainer">
@@ -74,40 +66,56 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-6">
+                <div class="row justify-content-center">
+                    <div class="col-md-10">
                         <div class="choose-widget-boxarea">
                             <div class="content-area">
-                                <a href="#">Congress Name</a>
+                                <a href="#">CONGRESS DATE</a>
                                 <div class="space16"></div>
-                                <p>2nd International Oncology Nursing Association Congress</p>
+                                <p style="text-align: center;">May 7-9, 2026</p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-md-6">
+                    <div class="col-md-10">
                         <div class="choose-widget-boxarea">
                             <div class="content-area">
-                                <a href="#">Congress Place</a>
+                                <a href="#">BADGE</a>
                                 <div class="space16"></div>
                                 <p>
-                                    Istanbul Bilgi University
+                                    
                                 </p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-md-6">
+                    <div class="col-md-10">
                         <div class="choose-widget-boxarea">
                             <div class="content-area">
-                                <a href="#">Congress Date</a>
+                                <a href="#">LETTER OF INVITATION</a>
                                 <div class="space16"></div>
-                                <p>May 7-9, 2026</p>
+                                <p></p>
                             </div>
                         </div>
                     </div>
-
-               
+                    <div class="col-md-10">
+                        <div class="choose-widget-boxarea">
+                            <div class="content-area">
+                                <a href="#">REGISTRATION AND ACCOMMODATION SERVICES </a>
+                                <div class="space16"></div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-10">
+                        <div class="choose-widget-boxarea">
+                            <div class="content-area">
+                                <a href="#">OTHER SPONSORSHIP REQUESTS</a>
+                                <div class="space16"></div>
+                                
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

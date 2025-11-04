@@ -25,17 +25,17 @@
                             <a href="#">Koşuyolu Mah. İsmailpaşa Sok, No:42/1, 34718, Kadıköy, İstanbul, Türkiye</a>
                         </li>
                         <li>
-                            <a href="mailto:salih.gonca@bosphorusmice.net"><img src="assets/img/icons/mail1.svg" alt="" />salih.gonca@bosphorusmice.net</a>
+                            <a href="mailto:ohdkongre@bosphorusmice.net"><img src="/2026/assets/img/icons/mail1.svg" alt="" />ohdkongre@bosphorusmice.net</a>
                         </li>
                         <li>
-                            <a href="tel:+902162350686"><img src="assets/img/icons/phn1.svg" alt="" /> +90 216 235 06 86</a>
+                            <a href="tel:+902162350686"><img src="/2026/assets/img/icons/phn1.svg" alt="" />+90 216 235 06 86</a>
                         </li>
 
                     </ul>
                 </div>
             </div>
         </div>
-        <div class="space60"></div>
+        <div class="space20"></div>
         <div class="row">
             <div class="col-lg-12">
                 <div class="copyright">

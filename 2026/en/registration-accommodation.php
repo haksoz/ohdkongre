@@ -77,7 +77,7 @@
                             <p>
                                 Final registration is finalized with payment; registration fees must be deposited into the congress
                                 account and the document regarding the payment must be sent to the congress organization secretariat
-                                via e-mail (<a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a>)
+                                via e-mail (<a href="mailto:ohdkongre@bosphorusmice.net">ohdkongre@bosphorusmice.net</a>)
                                 or Whatsapp (<a href="https://wa.me/+905343366908">+90 534 336 69 08</a>).
                             </p>
                         </div>
@@ -101,8 +101,8 @@
                                     <thead>
                                         <tr>
                                             <th style="">Registration Type</th>
-                                            <th>Prices Before May X, 2026<br>Erken Kayıt Ücreti</th>
-                                            <th>Prices After May X, 2026 <br>Registration Fee</th>
+                                            <th>Early Registration Fee</th>
+                                            <th>Registration Fee</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -133,7 +133,7 @@
                                 <li><i class="fa-solid fa-arrow-right"></i> Registration is nurses and company representatives to participate in the general areas of the congress and scientific meetings. Participation in scientific activities, name badge, name badge programme and participation certificate are included in the registration fee.   </li>
                                 <li><i class="fa-solid fa-arrow-right"></i> Bosphorus Mice reserves the right to reflect the change in the amount of taxes, fees and charges that may arise in the prices. </li>
                                 <li><i class="fa-solid fa-arrow-right"></i> We kindly ask you to contact us regarding your early check-in or late check-out requests within the scope of the congress dates.   </li>
-                                <li><i class="fa-solid fa-arrow-right"></i> The cancellation and refund right is valid until May 1, 2025. After this date, no cancellations or refunds will be accepted. All refunds will be processed after the congress.</li>
+                                
                             </ul>
                         </div>
                     </div>
@@ -142,6 +142,13 @@
                     <div class="col-lg-12 m-auto">
                         <div class="heading2 text-center space-margin60">
                             <h3> Accommodation</h3>
+                        </div>
+                    </div>
+                     <div class="col-lg-12 m-auto">
+                        <div class="heading2 space-margin60">
+                            <ul>
+                                <li><i class="fa-solid fa-arrow-right"></i>Please send your accommodation requests to <a href="mailto:ohdkongre@bosphorusmice.net">ohdkongre@bosphorusmice.net</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>

@@ -69,6 +69,16 @@
                     <div class="col-md-12">
                         <div class="our-team-boxarea">
                             <div class="content-area">
+                                <a href="">Yapım Aşamasında</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="our-team-boxarea">
+                            <div class="content-area">
                                 <a href="">Bilimsel Kurul</a>
                             </div>
                         </div>
@@ -203,6 +213,7 @@
                         <p class="text-red text-center">* İsimler alfabetik sıraya göre dizilmiştir.</p>
                     </div>
                 </div>
+                -->
             </div>
         </div>
 

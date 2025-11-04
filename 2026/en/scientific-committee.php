@@ -6,14 +6,6 @@
 	<?php include('head.php') ?>
 	<body class="homepage2-body">
 		
-		<!--===== PRELOADER STARTS =======-->
-		<div class="preloader">
-			<div class="loading-container">
-				<div class="loading"></div>
-				<div id="loading-icon"><img src="../doc/ohd-logo.png" alt="" /></div>
-			</div>
-		</div>
-		<!--===== PRELOADER ENDS =======-->
 
 		<!--===== PAGE PROGRESS START=======-->
 		<div class="paginacontainer">
@@ -73,6 +65,16 @@
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="our-team-boxarea">
+                            <div class="content-area">
+                                <h4 class="text-center">Under Construction</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--
                 <div class="row">
                     <div class="col-md-12">
                         <div class="our-team-boxarea">
@@ -211,6 +213,7 @@
                         <p class="text-center"><span class="text-red">* Names are listed alphabetically.</span></p>
                     </div>
                 </div>
+                -->
             </div>
         </div>
 

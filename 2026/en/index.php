@@ -6,14 +6,6 @@
 	<?php include('head.php') ?>
 	<body class="homepage2-body">
 		
-		<!--===== PRELOADER STARTS =======-->
-		<div class="preloader">
-			<div class="loading-container">
-				<div class="loading"></div>
-				<div id="loading-icon"><img src="../doc/ohd-logo.png" alt="" /></div>
-			</div>
-		</div>
-		<!--===== PRELOADER ENDS =======-->
 
 		<!--===== PAGE PROGRESS START=======-->
 		<div class="paginacontainer">
@@ -101,27 +93,27 @@
 							<div class="space18"></div>
 							<h2 class="text-anime-style-3">Invitation</h2>
 							<div class="space18"></div>
-							<p data-aos="fade-left" data-aos-duration="900">
+							<p>
 Dear Colleagues,
 </p>
 <div class="space12"></div>
-<p data-aos="fade-left" data-aos-duration="900">
+<p>
 It is my great pleasure and honour to invite you to <b>the 2nd International Oncology Nursing Association Congress,</b> which will be held on May 7-9, 2026, and hosted by Istanbul Bilgi University.
 </p>
 <div class="space12"></div>
-<p data-aos="fade-left" data-aos-duration="900">
+<p>
 <b>The 1st International Oncology Nursing Association Congress,</b> held last year in Ankara, created a significant impact in the field of oncology nursing through your strong interest and invaluable contributions. Building on the experience and insight gained from that remarkable gathering, we are moving forward this year with broader participation and enriched scientific content.
 </p>
 <div class="space12"></div>
-<p data-aos="fade-left" data-aos-duration="900">
+<p>
 This year, we are organising our congress around a theme that best reflects the essence of oncology nursing: <b>“Strength, Science, and Compassion: Oncology Nursing.”</b>
 </p>
 <div class="space12"></div>
-<p data-aos="fade-left" data-aos-duration="900">
+<p>
 This theme brings together three universal values at the core of our profession<b>-empowerment through scientific knowledge, compassionate and humane care, and the strengthening of professional identity.</b> In advancing cancer care guided by science, we also aim to reaffirm the essential value that compassion brings to human life. Throughout the congress, we will provide a strong platform for sharing knowledge, discussion, and collaboration under the following subthemes:
 </p>
 <div class="space12"></div>
-<p data-aos="fade-left" data-aos-duration="900">
+<p>
 	<ul>
 		<li>•	Scientific Innovations and Integration into Clinical Practice</li>
 		<li>•	Empathy, Meaning, and Compassion-Based Care</li>
@@ -132,19 +124,19 @@ This theme brings together three universal values at the core of our profession<
 	</ul>
 </p>
 <div class="space12"></div>
-<p data-aos="fade-left" data-aos-duration="900">
+<p>
 The congress will bring together oncology nurses, academicians, patient associations, multidisciplinary healthcare teams, young researchers, and students to exchange knowledge and experiences. Through inspiring <b>“Success Stories”</b> sessions, we will witness how nurses touch the lives of individuals living with cancer. By integrating scientific innovation, digital transformation, cultural sensitivity, and compassion-centred approaches, this congress will serve as a significant milestone in shaping the future of oncology nursing.
 </p>
 <div class="space12"></div>
-<p data-aos="fade-left" data-aos-duration="900">
+<p>
 We would be truly delighted to welcome you to this meaningful event, where you can learn, share, and grow together. Let us build the future of oncology nursing, guided by science and inspired by compassion.
 </p>
 <div class="space12"></div>
-<p data-aos="fade-left" data-aos-duration="900">
+<p>
 With warm regards,
 </p>
 <div class="space12"></div>
-<p data-aos="fade-left" data-aos-duration="900">
+<p>
 	<br>
 Prof. Perihan GÜNER<br>
 Congress President</p>

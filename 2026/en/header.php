@@ -18,6 +18,7 @@
 
                                 </ul>
                             </div>
+                            <!--
                             <ul style="padding-right: 20px;">
                                 <li>
                                     <a href="mailto:salih.gonca@bosphorusmice.net"><img src="../assets/img/icons/mail1.svg" alt="" />salih.gonca@bosphorusmice.net <span> | </span></a>
@@ -26,6 +27,7 @@
                                     <a href="tel:+902162350686"><img src="../assets/img/icons/phn1.svg" alt="" />+90 (216) 235 06 86</a>
                                 </li>
                             </ul>
+                            -->
                             <ul>
                                 <li class="mobile-hidden">
                                     <a href="../en/index.php">
