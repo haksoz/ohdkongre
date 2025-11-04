@@ -22,7 +22,6 @@
 		<div class="hero2-slider-area" style="background-color: #3d3f51">
 			<div class="her2-section-area">
 
-				<img src="../assets/img/elements/elements9.png" alt="" class="elements9" />
 				<img src="../assets/img/elements/elements10.png" alt="" class="elements10" />
 				<img src="../assets/img/elements/elements11.png" alt="" class="elements11" />
 
@@ -31,6 +30,8 @@
 				</div>
 				<div class="container">
 					<div class="row">
+						<div class="col-lg-1">
+						</div>
 						<div class="col-lg-6">
 							<div class="hero2-header">
 								
