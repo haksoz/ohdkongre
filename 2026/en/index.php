@@ -19,7 +19,7 @@
         <?php include('header.php') ?>
 
 		<!--===== HERO AREA STARTS =======-->
-		<div class="hero2-slider-area" style="background-color: #3d3f51">
+		<div class="hero2-slider-area" style="background-color: #4e4455">
 			<div class="her2-section-area">
 
 				<img src="../assets/img/elements/elements10.png" alt="" class="elements10" />
