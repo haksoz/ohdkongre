@@ -121,10 +121,12 @@ ul, li{
     font-size: 18px;
     line-height: 24px;
     color: #161616;
-    padding: 10px 0;
+    padding: 10px 10px;
     display: block;
     font-family: "Figtree", sans-serif;
     font-weight: 500 !important;
+    background-color: #d4b480;
+    margin-top: 10px;
 }
 
 
@@ -186,15 +188,15 @@ span.submenu-button:after, span.submenu-button:before {
     height: 20px;
     width: 2px;
     background: #161616;
-    top: 12px;
-    right: 9px;
+    top: 13px;
+    right: 31px;
     transition: all .3s;
 }
 
 span.submenu-button:before {
     height: 2px;
     width: 20px;
-    right: 0px;
+    right: 22px;
     top: 22px;
 }
 
@@ -225,4 +227,8 @@ span.multi-drop-icon {
 ul.mobile-nav-list {
     max-height: 500px;
     overflow-y: scroll;
+}
+
+.bayrak .mobile-float a {
+    color: #d4b480;
 }

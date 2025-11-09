@@ -12,12 +12,10 @@
                 </div>
                 <div class="col-lg-11" style="padding-left:0px;">
                     <div class="menu-top-area">
-                        <div class="top-menu-area">
-                            <div class="btn-area">
-                                <ul>
+                        <div class="top-menu-area tema-slogani">
 
-                                </ul>
-                            </div>
+                            <p class="tema-slogani">Strength, Science, and Compassion: Oncology Nursing.</p>
+
                             <!--
                             <ul style="padding-right: 20px;">
                                 <li>
@@ -29,14 +27,19 @@
                             </ul>
                             -->
                             <ul>
+                                <!--
                                 <li class="mobile-hidden">
                                     <a href="../en/index.php">
                                         <img alt="" src="../doc/united-kingdom.png" style="max-width: 30px;">
                                     </a>
                                 </li>
+                                -->
                                 <li class="mobile-hidden">
                                     <a href="../index.php">
+                                        Türkçe
+                                        <!--
                                         <img alt="" src="../doc/square.png" style="max-width: 30px;">
+                                        -->
                                     </a>
                                 </li>
                             </ul>
@@ -59,7 +62,7 @@
                                 </li>
                                 <li><a href="general-info.php">Information</a></li>
                                 <li><a href="registration-accommodation.php">Registration Accommodation</a></li>
-                                <li><a href="scientific-program.php">Scientific Program</a></li>
+                                <li><a href="scientific-program.php">Program</a></li>
                                 <li><a href="abstract-submission.php">Abstract Submission</a></li>
                                 <li><a href="contact.php">Contact</a></li>
                             </ul>
@@ -82,14 +85,19 @@
                     <a href="#"><img src="../doc/ohd-logo.png" alt="" /></a>
                 </div>
                 <div class="bayrak" style="display: flex; flex-grow: 4; justify-content: flex-end;">
+                    <!--
                     <div class="mobile-float" style="padding-right: 20px;">
                         <a href="../en/index.php">
                             <img alt="" src="../doc/united-kingdom.png" style="max-width: 30px;">
                         </a>
                     </div>
+                    -->
                     <div class="mobile-float tr" style="padding-right: 20px;">
                         <a href="../index.php">
+                            Türkçe
+                            <!--
                             <img alt="" src="../doc/square.png" style="max-width: 30px;">
+                            -->
                         </a>
                     </div>
                 </div>
@@ -98,7 +106,10 @@
                 </div>
             </div>
         </div>
+        
     </div>
+            <p class="tema-slogani-mobil">Strength, Science, and Compassion: Oncology Nursing.</p>
+
 </div>
 
 <div class="mobile-sidebar mobile-sidebar2">

@@ -9083,7 +9083,7 @@ html {
   color: var(--ztc-text-text-5);
   display: block;
   transition: all 0.4s;
-  padding: 0 18px;
+  padding: 0 26px;
 }
 .homepage2-body .header-area.homepage2 .header-elements .main-menu ul li a i.fa-solid.fa-angle-down {
   font-size: var(--ztc-font-size-font-s12) !important;
@@ -24338,6 +24338,13 @@ html {
 
   .homepage2-body .header-area.homepage2 .header-elements .main-menu ul li a {
     padding: 0 4px;
+  }
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1400px) {
+
+  .homepage2-body .header-area.homepage2 .header-elements .main-menu ul li a {
+    padding: 0 18px;
   }
 }
 

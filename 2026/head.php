@@ -11,13 +11,13 @@
     <link rel="stylesheet" href="/2026/assets/css/vendor/aos.css" />
     <link rel="stylesheet" href="/2026/assets/css/vendor/fontawesome.css" />
     <link rel="stylesheet" href="/2026/assets/css/vendor/magnific-popup.css" />
-    <link rel="stylesheet" href="/2026/assets/css/vendor/mobile.css?v=5" />
+    <link rel="stylesheet" href="/2026/assets/css/vendor/mobile.css?v=7" />
     <link rel="stylesheet" href="/2026/assets/css/vendor/owlcarousel.min.css" />
     <link rel="stylesheet" href="/2026/assets/css/vendor/sidebar.css" />
     <link rel="stylesheet" href="/2026/assets/css/vendor/slick-slider.css" />
     <link rel="stylesheet" href="/2026/assets/css/vendor/nice-select.css" />
     <link rel="stylesheet" href="/2026/assets/css/vendor/odometer.css" />
-    <link rel="stylesheet" href="/2026/assets/css/main.css?v=552365" />
+    <link rel="stylesheet" href="/2026/assets/css/main.css?v=7" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

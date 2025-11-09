@@ -28,14 +28,19 @@
                             <ul>
                                 <li class="mobile-hidden">
                                     <a href="/2026/en/index.php">
+                                        English
+                                        <!--
                                         <img alt="" src="/2026/doc/united-kingdom.png" style="max-width: 30px;">
+                                        -->
                                     </a>
                                 </li>
+                                <!--
                                 <li class="mobile-hidden">
                                     <a href="/2026/index.php">
                                         <img alt="" src="/2026/doc/square.png" style="max-width: 30px;">
                                     </a>
                                 </li>
+                                -->
                             </ul>
 
                         </div>
@@ -81,24 +86,28 @@
                 <div class="bayrak" style="display: flex; flex-grow: 4; justify-content: flex-end;">
                     <div class="mobile-float" style="padding-right: 20px;">
                         <a href="/2026/en/index.php">
+                            English
+                            <!--
                             <img alt="" src="/2026/doc/united-kingdom.png" style="max-width: 30px;">
+                            -->
                         </a>
                     </div>
+                    <!--
                     <div class="mobile-float tr" style="padding-right: 20px;">
                         <a href="/2026/index.php">
                             <img alt="" src="/2026/doc/square.png" style="max-width: 30px;">
                         </a>
                     </div>
+                    -->
                 </div>
                 <div class="mobile-nav-icon dots-menu" style="flex-grow: 1">
                     <i class="fa-solid fa-bars-staggered"></i>
                 </div>
             </div>
         </div>
-        <div class="col-12">
-            <p class="tema-slogani-mobil">Güç, Bilim ve Şefkat: Onkoloji Hemşireliği</p>
-        </div>
     </div>
+            <p class="tema-slogani-mobil">Güç, Bilim ve Şefkat: Onkoloji Hemşireliği</p>
+
 </div>
 
 <div class="mobile-sidebar mobile-sidebar2">
