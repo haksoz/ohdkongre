@@ -14,4 +14,4 @@
 <script src="/2026/assets/js/vendor/waypoints.js"></script>
 <script src="/2026/assets/js/vendor/slick-slider.js"></script>
 <script src="/2026/assets/js/vendor/circle-progress.js"></script>
-<script src="/2026/assets/js/main.js?v=55234"></script>
+<script src="/2026/assets/js/main.js?v=5523234"></script>
