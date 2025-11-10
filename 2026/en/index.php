@@ -39,22 +39,22 @@
 
 								<div class="timer">
 									<div class="time-box">
-										<span id="days" class="time-value">119</span>
+										<span id="days" class="time-value"></span>
 										<div class="space8"></div>
 									</div>
 									<div class="space14"></div>
 									<div class="time-box">
-										<span id="hours" class="time-value">22</span>
+										<span id="hours" class="time-value"></span>
 										<div class="space8"></div>
 									</div>
 									<div class="space14"></div>
 									<div class="time-box">
-										<span id="minutes" class="time-value">18</span>
+										<span id="minutes" class="time-value"></span>
 										<div class="space8"></div>
 									</div>
 									<div class="space14"></div>
 									<div class="time-box" style="margin: 0">
-										<span id="seconds" class="time-value">44</span>
+										<span id="seconds" class="time-value"></span>
 										<div class="space8"></div>
 									</div>
 								</div>

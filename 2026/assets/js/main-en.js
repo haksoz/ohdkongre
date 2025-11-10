@@ -651,14 +651,9 @@ function startCountdown(targetDate, daysId, hoursId, minutesId, secondsId) {
   }, 1000);
 }
 
-var targetDate = new Date();
-targetDate.setDate(targetDate.getDate() + 119);
-targetDate.setHours(targetDate.getHours() + 22);
-targetDate.setMinutes(targetDate.getMinutes() + 18);
-targetDate.setSeconds(targetDate.getSeconds() + 44);
+var targetDate = new Date("May 7, 2026 09:00:00");
 
 startCountdown(targetDate, "days", "hours", "minutes", "seconds");
-startCountdown(targetDate, "days1", "hours1", "minutes1", "seconds1");
 
 
 //========== GSAP AREA ============= //
