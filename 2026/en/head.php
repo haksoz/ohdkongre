@@ -1,10 +1,40 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?></title>
+
+    <!--===== META TAGS =======-->
+    <meta name="description" content="2nd International Oncology Nursing Association Congress - An international congress organized to share scientific developments in oncology nursing and strengthen international collaboration." />
+    <meta name="keywords" content="oncology nursing, congress, international congress, ONA, nursing congress, oncology, cancer care, nursing education, oncology nursing association" />
+    <meta name="author" content="Oncology Nursing Association" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="English" />
+
+    <!--===== OPEN GRAPH META TAGS =======-->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?>" />
+    <meta property="og:description" content="2nd International Oncology Nursing Association Congress - An international congress organized to share scientific developments in oncology nursing and strengthen international collaboration." />
+    <meta property="og:image" content="/2026/doc/ohd-2026.jpg" />
+    <meta property="og:url" content="https://ohdkongre.org/en/" />
+    <meta property="og:site_name" content="ONA Congress 2026" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale:alternate" content="tr_TR" />
+
+    <!--===== TWITTER CARD META TAGS =======-->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?>" />
+    <meta name="twitter:description" content="2nd International Oncology Nursing Association Congress - An international congress organized to share scientific developments in oncology nursing and strengthen international collaboration." />
+    <meta name="twitter:image" content="/2026/doc/ohd-2026.jpg" />
+
+    <!--===== ADDITIONAL META TAGS =======-->
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
     <!--=====FAB ICON=======-->
     <link rel="shortcut icon" href="../doc/favicon.png" />
+    <link rel="icon" type="image/png" href="../doc/favicon.png" />
 
     <!--===== CSS LINK =======-->
     <link rel="stylesheet" href="../assets/css/vendor/bootstrap.min.css" />
