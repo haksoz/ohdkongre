@@ -5,7 +5,7 @@
     <title>2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?></title>
 
     <!--===== META TAGS =======-->
-    <meta name="description" content="2nd International Oncology Nursing Association Congress - An international congress organized to share scientific developments in oncology nursing and strengthen international collaboration." />
+    <meta name="description" content="It is my great pleasure and honour to invite you to the 2nd International Oncology Nursing Association Congress, which will be held on May 7-9, 2026, and hosted by Istanbul Bilgi University." />
     <meta name="keywords" content="oncology nursing, congress, international congress, ONA, nursing congress, oncology, cancer care, nursing education, oncology nursing association" />
     <meta name="author" content="Oncology Nursing Association" />
     <meta name="robots" content="index, follow" />
@@ -14,7 +14,7 @@
     <!--===== OPEN GRAPH META TAGS =======-->
     <meta property="og:type" content="website" />
     <meta property="og:title" content="2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?>" />
-    <meta property="og:description" content="2nd International Oncology Nursing Association Congress - An international congress organized to share scientific developments in oncology nursing and strengthen international collaboration." />
+    <meta property="og:description" content="It is my great pleasure and honour to invite you to the 2nd International Oncology Nursing Association Congress, which will be held on May 7-9, 2026, and hosted by Istanbul Bilgi University." />
     <meta property="og:image" content="doc/ohd-2026.jpg" />
     <meta property="og:url" content="https://ohdkongre.org/en/" />
     <meta property="og:site_name" content="ONA Congress 2026" />
@@ -24,7 +24,7 @@
     <!--===== TWITTER CARD META TAGS =======-->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?>" />
-    <meta name="twitter:description" content="2nd International Oncology Nursing Association Congress - An international congress organized to share scientific developments in oncology nursing and strengthen international collaboration." />
+    <meta name="twitter:description" content="It is my great pleasure and honour to invite you to the 2nd International Oncology Nursing Association Congress, which will be held on May 7-9, 2026, and hosted by Istanbul Bilgi University." />
     <meta name="twitter:image" content="doc/ohd-2026.jpg" />
 
     <!--===== ADDITIONAL META TAGS =======-->
@@ -47,7 +47,7 @@
     <link rel="stylesheet" href="../assets/css/vendor/slick-slider.css" />
     <link rel="stylesheet" href="../assets/css/vendor/nice-select.css" />
     <link rel="stylesheet" href="../assets/css/vendor/odometer.css" />
-    <link rel="stylesheet" href="../assets/css/main.css?v=8" />
+    <link rel="stylesheet" href="../assets/css/main.css?v=10" />
     <link rel="stylesheet" href="../assets/css/main-en.css?v=10" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">

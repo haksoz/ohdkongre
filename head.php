@@ -5,7 +5,7 @@
     <title>II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi - <?php echo $pageTitle; ?></title>
 
     <!--===== META TAGS =======-->
-    <meta name="description" content="II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi - Onkoloji hemşireliği alanında bilimsel gelişmeleri paylaşmak ve uluslararası işbirliğini güçlendirmek için düzenlenen kongre." />
+    <meta name="description" content="Sizleri, 7-9 Mayıs 2026 tarihlerinde İstanbul Bilgi Üniversitesi ev sahipliğinde gerçekleştireceğimiz II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi’ne davet etmekten büyük mutluluk ve onur duyuyorum." />
     <meta name="keywords" content="onkoloji hemşireliği, kongre, uluslararası kongre, OHD, hemşirelik kongresi, onkoloji, kanser bakımı, hemşirelik eğitimi" />
     <meta name="author" content="Kapital Online" />
     <meta name="robots" content="index, follow" />
@@ -14,7 +14,7 @@
     <!--===== OPEN GRAPH META TAGS =======-->
     <meta property="og:type" content="website" />
     <meta property="og:title" content="II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi - <?php echo $pageTitle; ?>" />
-    <meta property="og:description" content="II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi - Onkoloji hemşireliği alanında bilimsel gelişmeleri paylaşmak ve uluslararası işbirliğini güçlendirmek için düzenlenen kongre." />
+    <meta property="og:description" content="Sizleri, 7-9 Mayıs 2026 tarihlerinde İstanbul Bilgi Üniversitesi ev sahipliğinde gerçekleştireceğimiz II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi’ne davet etmekten büyük mutluluk ve onur duyuyorum." />
     <meta property="og:image" content="/doc/ohd-2026.jpg" />
     <meta property="og:url" content="https://ohdkongre.org/" />
     <meta property="og:site_name" content="OHD Kongresi 2026" />
@@ -23,7 +23,7 @@
     <!--===== TWITTER CARD META TAGS =======-->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi - <?php echo $pageTitle; ?>" />
-    <meta name="twitter:description" content="II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi - Onkoloji hemşireliği alanında bilimsel gelişmeleri paylaşmak ve uluslararası işbirliğini güçlendirmek için düzenlenen kongre." />
+    <meta name="twitter:description" content="Sizleri, 7-9 Mayıs 2026 tarihlerinde İstanbul Bilgi Üniversitesi ev sahipliğinde gerçekleştireceğimiz II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi’ne davet etmekten büyük mutluluk ve onur duyuyorum." />
     <meta name="twitter:image" content="/doc/ohd-2026.jpg" />
 
     <!--===== ADDITIONAL META TAGS =======-->
@@ -46,7 +46,7 @@
     <link rel="stylesheet" href="/assets/css/vendor/slick-slider.css" />
     <link rel="stylesheet" href="/assets/css/vendor/nice-select.css" />
     <link rel="stylesheet" href="/assets/css/vendor/odometer.css" />
-    <link rel="stylesheet" href="/assets/css/main.css?v=7" />
+    <link rel="stylesheet" href="/assets/css/main.css?v=10" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
