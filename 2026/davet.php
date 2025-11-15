@@ -63,19 +63,45 @@
                         <div class="about-header heading5">
                             <h2 class="text-anime-style-3 text-center">Davet</h2>
                             <div class="space18"></div>
-                            <p data-aos="fade-left" data-aos-duration="900">
-
-
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultrices ante sed arcu laoreet, non tempor nisl varius. Sed mollis neque vitae interdum hendrerit. Nulla vel pulvinar lectus. Proin quis commodo nunc. Vivamus mollis urna ex, quis condimentum ipsum condimentum non. Etiam condimentum semper orci, ac fermentum magna iaculis ac. Fusce purus leo, condimentum ut erat vel, scelerisque facilisis sapien. Vivamus in iaculis orci.
+                            <p>
+                                Değerli Meslektaşlarım,</p>
+                            <div class="space12"></div>
+                            <p>
+                                Sizleri, 7-9 Mayıs 2026 tarihlerinde İstanbul Bilgi Üniversitesi ev sahipliğinde gerçekleştireceğimiz <b>II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi’ne</b> davet etmekten büyük mutluluk ve onur duyuyorum.</p>
+                            <div class="space12"></div>
+                            <p>
+                                Geçtiğimiz yıl Ankara’da düzenlediğimiz <b>I. Uluslararası Onkoloji Hemşireliği Derneği Kongresi,</b> sizlerin yoğun ilgisi ve katkılarıyla onkoloji hemşireliği alanında önemli bir etki yaratmış, güçlü bir bilimsel paylaşım ortamı oluşturmuştur. Birinci kongremizdeki değerli buluşmanın deneyimi ve birikimiyle, daha geniş bir katılım beklentisi ve içerikle yolumuza devam ediyoruz.  Bu yıl kongremizi, onkoloji hemşireliğinin özünü en güçlü biçimde yansıtan bir tema ile düzenliyoruz: <b>“Güç, Bilim ve Şefkat: Onkoloji Hemşireliği.”</b></p>
+                            <div class="space12"></div>
+                            <p>
+                                Bu tema, hemşirelik mesleğinin temelinde yer alan üç evrensel değeri <b>- bilimsel bilgiyle güçlenmeyi, insani duyarlılıkla bakım vermeyi ve mesleki kimliği güçlendirmeyi -</b> bir araya getirmektedir. Kanser bakımında bilimin rehberliğinde ilerlerken, şefkatin insan yaşamına kattığı değeri yeniden hatırlamayı amaçlıyoruz.</p>
+                            <div class="space12"></div>
+                            <p>
+                                Kongremiz boyunca aşağıdaki konular çerçevesinde bilgi paylaşımı, tartışma ve etkileşim için güçlü bir zemin oluşturacağız:</p>
+                            <div class="space12"></div>
+                            <p>
+                            <ul>
+                                <li>•	Bilimsel Yenilikler ve Klinik Uygulamalara Entegrasyonu</li>
+                                <li>•	Empati, Anlam ve Şefkat Temelli Bakım</li>
+                                <li>•	Dijital Dönüşüm, Yenilikçi Teknolojiler ve Klinik Karar Destek Sistemleri</li>
+                                <li>•	Multidisipliner İşbirliği ve Hastaya Bütüncül Yaklaşım</li>
+                                <li>•	Onkoloji Hemşireliğinde Küresel İşbirlikleri</li>
+                                <li>•	Liderlik, Güçlendirme ve Profesyonel Kimlik</li>
+                            </ul>
                             </p>
                             <div class="space12"></div>
-                            <p data-aos="fade-left" data-aos-duration="900">
-                                Proin finibus vehicula molestie. Duis mattis, nunc et vestibulum tempor, ipsum ipsum sodales ex, eget dignissim augue mi convallis massa. Vivamus sagittis orci et condimentum tempus. In nisl sapien, consectetur eu mattis eget, semper nec velit. Aliquam vitae magna enim. Donec vel velit neque. Vestibulum nec neque erat. Duis non rutrum sem. Donec pharetra maximus augue, eget tincidunt tellus. Donec porta, ligula nec vestibulum consequat, odio dolor vehicula lorem, quis aliquam eros mi ornare mauris. Suspendisse semper ullamcorper elementum.
-                            </p>
+                            <p>
+                                Kongremizde, onkoloji hemşireleri ve akademisyenlerle birlikte, hasta dernekleri, multidisipliner sağlık ekipleri, genç araştırmacılar ve öğrenciler bir araya gelerek bilgi ve deneyimlerini paylaşacaklardır. İlham verici <b>“başarı hikâyeleri”</b> oturumlarıyla, hemşirelerin kanserle yaşayan bireylerin yaşamına nasıl dokunduğunu hep birlikte göreceğiz. Bilimsel yenilikleri, dijital dönüşümü, kültürel duyarlılığı ve şefkat temelli yaklaşımı bir araya getiren bu kongre, onkoloji hemşireliğinin geleceğine yön verecek önemli bir buluşma olacaktır.</p>
                             <div class="space12"></div>
-                            <p data-aos="fade-left" data-aos-duration="900">
-                                Pellentesque dignissim imperdiet arcu id eleifend. Donec vitae sollicitudin ante. Sed aliquet risus ut nibh imperdiet, at viverra leo suscipit. Duis sapien diam, condimentum eget justo ac, rutrum posuere nisl. Vestibulum id efficitur est. In vel ultricies massa. In maximus bibendum orci vitae laoreet. Nulla facilisi. Cras et rutrum nisl, vitae fringilla tellus. Suspendisse non nibh est. Pellentesque tincidunt finibus faucibus.
-                            </p>
+                            <p>
+                                Sizleri bu anlamlı kongrede görmek, birlikte olmak, paylaşmak ve güçlenmek bizler için büyük bir mutluluk olacaktır. Geliniz, bilimin ışığında ve  şefkatin rehberliğinde onkoloji hemşireliğinin geleceğini birlikte inşa edelim.</p>
+                            <div class="space12"></div>
+                            <p>
+                                Sevgi ve Saygılarımla,</p>
+                            <div class="space12"></div>
+                            <p>
+                                <br>
+                                Prof. Dr. Perihan GÜNER<br>
+                                Kongre Başkanı
                             <div class="space12"></div>
 
                         </div>
