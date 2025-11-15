@@ -27,5 +27,5 @@
 	<link href="layerslider\css\layerslider.css?v=62345332323" rel="stylesheet"><!-- Favicons-->
 	<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
 	<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
-	<link href="doc/favicon.png" rel="shortcut icon" type="image/x-icon"><!-- Switcher Only -->
+	<link href="/doc/favicon.png" rel="shortcut icon" type="image/x-icon"><!-- Switcher Only -->
 <!--	<link href="switcher\css\switcher.css" id="switcher-css" media="all" rel="stylesheet" type="text/css">

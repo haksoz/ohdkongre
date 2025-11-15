@@ -6,7 +6,7 @@
                 <div class="col-lg-1" style="padding:0px;">
                     <div class="sol-logo" style="background-color: #ffffff; display: flex; align-items: center; height: 100%; border-radius: 0px 0px 0px 8px;">
                         <div class="site-logo" style="padding-right: 5px; padding-left: 5px;">
-                            <a href="/2026/#"><img src="/2026/doc/ohd-logo.png" alt="" /></a>
+                            <a href="#"><img src="doc/ohd-logo.png" alt="" /></a>
                         </div>
                     </div>
                 </div>
@@ -18,26 +18,26 @@
                             <!--
                             <ul style="padding-right: 20px;">
                                 <li>
-                                    <a href="mailto:ohdkongre@bosphorusmice.net"><img src="/2026/assets/img/icons/mail1.svg" alt="" />ohdkongre@bosphorusmice.net <span> | </span></a>
+                                    <a href="mailto:ohdkongre@bosphorusmice.net"><img src="assets/img/icons/mail1.svg" alt="" />ohdkongre@bosphorusmice.net <span> | </span></a>
                                 </li>
                                 <li>
-                                    <a href="tel:+902162350686"><img src="/2026/assets/img/icons/phn1.svg" alt="" />+90 (216) 235 06 86</a>
+                                    <a href="tel:+902162350686"><img src="assets/img/icons/phn1.svg" alt="" />+90 (216) 235 06 86</a>
                                 </li>
                             </ul>
                             -->
                             <ul>
                                 <li class="mobile-hidden">
-                                    <a href="/2026/en/index.php">
+                                    <a href="en/index.php">
                                         English
                                         <!--
-                                        <img alt="" src="/2026/doc/united-kingdom.png" style="max-width: 30px;">
+                                        <img alt="" src="doc/united-kingdom.png" style="max-width: 30px;">
                                         -->
                                     </a>
                                 </li>
                                 <!--
                                 <li class="mobile-hidden">
-                                    <a href="/2026/index.php">
-                                        <img alt="" src="/2026/doc/square.png" style="max-width: 30px;">
+                                    <a href="index.php">
+                                        <img alt="" src="doc/square.png" style="max-width: 30px;">
                                     </a>
                                 </li>
                                 -->
@@ -48,22 +48,22 @@
                     <div class="header-elements">
                         <div class="main-menu">
                             <ul>
-                                <li><a href="/2026/index.php">Anasayfa</a></li>
+                                <li><a href="index.php">Anasayfa</a></li>
                                 <li>
-                                    <a href="/2026/#">
+                                    <a href="#">
                                         Kurullar
                                         <i class="fa-solid fa-angle-down"></i>
                                     </a>
                                     <ul class="dropdown-padding">
-                                        <li><a href="/2026/duzenleme-kurulu.php">Düzenleme Kurulu</a></li>
-                                        <li><a href="/2026/bilimsel-kurul.php">Bilimsel Kurul</a></li>
+                                        <li><a href="duzenleme-kurulu.php">Düzenleme Kurulu</a></li>
+                                        <li><a href="bilimsel-kurul.php">Bilimsel Kurul</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="/2026/genel-bilgiler.php">Genel Bilgiler</a></li>
-                                <li><a href="/2026/kayit-konaklama.php">Kayıt & Konaklama</a></li>
-                                <li><a href="/2026/bilimsel-program.php">Bilimsel Program</a></li>
-                                <li><a href="/2026/bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
-                                <li><a href="/2026/iletisim.php">İletişim</a></li>
+                                <li><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
+                                <li><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
+                                <li><a href="bilimsel-program.php">Bilimsel Program</a></li>
+                                <li><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
+                                <li><a href="iletisim.php">İletişim</a></li>
                             </ul>
                         </div>
                         <div class="body-overlay"></div>
@@ -81,21 +81,21 @@
         <div class="col-12">
             <div class="mobile-header-elements">
                 <div class="mobile-logo" style="flex-grow: 1">
-                    <a href="/2026/#"><img src="/2026/doc/ohd-logo.png" alt="" /></a>
+                    <a href="#"><img src="doc/ohd-logo.png" alt="" /></a>
                 </div>
                 <div class="bayrak" style="display: flex; flex-grow: 4; justify-content: flex-end;">
                     <div class="mobile-float" style="padding-right: 20px;">
-                        <a href="/2026/en/index.php">
+                        <a href="en/index.php">
                             English
                             <!--
-                            <img alt="" src="/2026/doc/united-kingdom.png" style="max-width: 30px;">
+                            <img alt="" src="doc/united-kingdom.png" style="max-width: 30px;">
                             -->
                         </a>
                     </div>
                     <!--
                     <div class="mobile-float tr" style="padding-right: 20px;">
-                        <a href="/2026/index.php">
-                            <img alt="" src="/2026/doc/square.png" style="max-width: 30px;">
+                        <a href="index.php">
+                            <img alt="" src="doc/square.png" style="max-width: 30px;">
                         </a>
                     </div>
                     -->
@@ -113,7 +113,7 @@
 <div class="mobile-sidebar mobile-sidebar2">
     <div class="logosicon-area">
         <div class="logos">
-            <img src="/2026/doc/ohd-logo.png" alt="" style="max-width: 100px;" />
+            <img src="doc/ohd-logo.png" alt="" style="max-width: 100px;" />
         </div>
         <div class="menu-close">
             <i class="fa-solid fa-xmark"></i>
@@ -122,19 +122,19 @@
     <div class="mobile-nav mobile-nav1">
         <ul class="mobile-nav-list nav-list1">
 
-            <li><a href="/2026/index.php">Anasayfa</a></li>
+            <li><a href="index.php">Anasayfa</a></li>
             <li>
-                <a href="/2026/#">Kurullar</a>
+                <a href="#">Kurullar</a>
                 <ul class="sub-menu">
-                    <li><a href="/2026/duzenleme-kurulu.php">Düzenleme Kurulu</a></li>
-                    <li><a href="/2026/bilimsel-kurul.php">Bilimsel Kurul</a></li>
+                    <li><a href="duzenleme-kurulu.php">Düzenleme Kurulu</a></li>
+                    <li><a href="bilimsel-kurul.php">Bilimsel Kurul</a></li>
                 </ul>
             </li>
-            <li><a href="/2026/genel-bilgiler.php">Genel Bilgiler</a></li>
-            <li><a href="/2026/kayit-konaklama.php">Kayıt & Konaklama</a></li>
-            <li><a href="/2026/bilimsel-program.php">Bilimsel Program</a></li>
-            <li><a href="/2026/bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
-            <li><a href="/2026/iletisim.php">İletişim</a></li>
+            <li><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
+            <li><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
+            <li><a href="bilimsel-program.php">Bilimsel Program</a></li>
+            <li><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
+            <li><a href="iletisim.php">İletişim</a></li>
 
         </ul>
     </div>

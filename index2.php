@@ -21,17 +21,17 @@
 
 		<!--===== HERO AREA STARTS =======-->
 		<div class="hero2-slider-area">
-			<div class="her2-section-area" style="background-image: url(/2026/doc/slider-02.jpg);">
+			<div class="her2-section-area" style="background-image: url(doc/slider-02.jpg);">
 
-				<img src="/2026/assets/img/elements/elements10.png" alt="" class="elements10" />
-				<img src="/2026/assets/img/elements/elements11.png" alt="" class="elements11" />
+				<img src="assets/img/elements/elements10.png" alt="" class="elements10" />
+				<img src="assets/img/elements/elements11.png" alt="" class="elements11" />
 
 				<div class="container" style="background-color: rgb(41 37 31 / 54%);">
 					<div class="row justify-content-center">
 						<div class="col-lg-6">
 							<div class="hero2-header" style="padding-top: 30px;">
 								
-								<img src="/2026/doc/slider-01-metin.png" alt="" />
+								<img src="doc/slider-01-metin.png" alt="" />
 
 								<div class="timer">
 									<div class="time-box">
@@ -61,7 +61,7 @@
 						<div class="col-lg-3">
 							<div class="arrow-btn">
 								<div class="about-btnarea">
-									<img src="/2026/doc/logolar.png" style="max-width: 645px;">
+									<img src="doc/logolar.png" style="max-width: 645px;">
 								</div>
 							</div>
 						</div>

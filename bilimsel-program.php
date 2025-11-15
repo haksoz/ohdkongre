@@ -21,11 +21,11 @@
         <!--===== HERO AREA STARTS =======-->
         <div class="hero2-slider-area" style="background-color: #3d3f51">
             <div class="her2-section-area">
-                <img src="assets/img/elements/elements9.png" alt="" class="elements9" />
-                <img src="assets/img/elements/elements10.png" alt="" class="elements10" />
-                <img src="assets/img/elements/elements11.png" alt="" class="elements11" />
+                <img src="/assets/img/elements/elements9.png" alt="" class="elements9" />
+                <img src="/assets/img/elements/elements10.png" alt="" class="elements10" />
+                <img src="/assets/img/elements/elements11.png" alt="" class="elements11" />
                 <div class="img1">
-                    <img src="doc/slider-01.png" alt="" />
+                    <img src="/doc/slider-01.png" alt="" />
                 </div>
                 <div class="container">
                     <div class="row">
@@ -34,7 +34,7 @@
                         <div class="col-lg-4">
                             <div class="hero2-header">
 
-                                <img src="doc/slider-01-metin.png" alt="" />
+                                <img src="/doc/slider-01-metin.png" alt="" />
 
 
 
@@ -73,7 +73,7 @@
                             <ul class="nav nav-pills" id="pills-tab" role="tablist">
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">
-                                        <span class="calender"><img src="assets/img/icons/calender2.svg" alt="" /></span>
+                                        <span class="calender"><img src="/assets/img/icons/calender2.svg" alt="" /></span>
                                         <span class="pl-8 d-flex flex-column">
 											<span class="day">1. Gün</span>
 											<span class="date">7 Mayıs, 2026</span>
@@ -82,7 +82,7 @@
                                 </li>
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">
-                                        <span class="calender"><img src="assets/img/icons/calender2.svg" alt="" /></span>
+                                        <span class="calender"><img src="/assets/img/icons/calender2.svg" alt="" /></span>
                                         <span class="pl-8 d-flex flex-column">
 											<span class="day">2. Gün</span>
 											<span class="date">8 Mayıs, 2026</span>
@@ -91,7 +91,7 @@
                                 </li>
                                 <li class="nav-item" role="presentation">
                                     <button class="nav-link m-0" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">
-                                        <span class="calender"><img src="assets/img/icons/calender2.svg" alt="" /> </span>
+                                        <span class="calender"><img src="/assets/img/icons/calender2.svg" alt="" /> </span>
                                         <span class="pl-8 d-flex flex-column">
 											<span class="day">3. Gün</span>
 											<span class="date">9 Mayıs, 2026</span>

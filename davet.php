@@ -21,9 +21,9 @@
         <!--===== HERO AREA STARTS =======-->
         <div class="hero2-slider-area" style="background-color: #3d3f51">
             <div class="her2-section-area">
-                <img src="assets/img/elements/elements9.png" alt="" class="elements9" />
-                <img src="assets/img/elements/elements10.png" alt="" class="elements10" />
-                <img src="assets/img/elements/elements11.png" alt="" class="elements11" />
+                <img src="/assets/img/elements/elements9.png" alt="" class="elements9" />
+                <img src="/assets/img/elements/elements10.png" alt="" class="elements10" />
+                <img src="/assets/img/elements/elements11.png" alt="" class="elements11" />
                 <div class="img1">
                     <img src="doc/slider-01.png" alt="" />
                 </div>

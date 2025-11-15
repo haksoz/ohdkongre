@@ -15,7 +15,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?>" />
     <meta property="og:description" content="2nd International Oncology Nursing Association Congress - An international congress organized to share scientific developments in oncology nursing and strengthen international collaboration." />
-    <meta property="og:image" content="/2026/doc/ohd-2026.jpg" />
+    <meta property="og:image" content="doc/ohd-2026.jpg" />
     <meta property="og:url" content="https://ohdkongre.org/en/" />
     <meta property="og:site_name" content="ONA Congress 2026" />
     <meta property="og:locale" content="en_US" />
@@ -25,7 +25,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?>" />
     <meta name="twitter:description" content="2nd International Oncology Nursing Association Congress - An international congress organized to share scientific developments in oncology nursing and strengthen international collaboration." />
-    <meta name="twitter:image" content="/2026/doc/ohd-2026.jpg" />
+    <meta name="twitter:image" content="doc/ohd-2026.jpg" />
 
     <!--===== ADDITIONAL META TAGS =======-->
     <meta name="theme-color" content="#ffffff" />

@@ -21,11 +21,11 @@
         <!--===== HERO AREA STARTS =======-->
         <div class="hero2-slider-area" style="background-color: #3d3f51">
             <div class="her2-section-area">
-                <img src="assets/img/elements/elements9.png" alt="" class="elements9" />
-                <img src="assets/img/elements/elements10.png" alt="" class="elements10" />
-                <img src="assets/img/elements/elements11.png" alt="" class="elements11" />
+                <img src="/assets/img/elements/elements9.png" alt="" class="elements9" />
+                <img src="/assets/img/elements/elements10.png" alt="" class="elements10" />
+                <img src="/assets/img/elements/elements11.png" alt="" class="elements11" />
                 <div class="img1">
-                    <img src="doc/slider-01.png" alt="" />
+                    <img src="/doc/slider-01.png" alt="" />
                 </div>
                 <div class="container">
                     <div class="row">
@@ -34,7 +34,7 @@
                         <div class="col-lg-4">
                             <div class="hero2-header">
 
-                                <img src="doc/slider-01-metin.png" alt="" />
+                                <img src="/doc/slider-01-metin.png" alt="" />
 
 
 
@@ -70,31 +70,6 @@
                         <div class="our-team-boxarea">
                             <div class="content-area">
                                 <a href="">Bilimsel Kurul</a>
-                                <p>John Doe</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
                             </div>
                         </div>
                     </div>
@@ -102,31 +77,6 @@
                         <div class="our-team-boxarea">
                             <div class="content-area">
                                 <a href="">Düzenleme Kurulu</a>
-                                <p>John Doe</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
-                                <p>Lorem İpsum Dolor Sit Amet</p>
-                                <p>Lorem İpsum Dolor</p>
-                                <p>Lorem İpsum Dolor Sit</p>
-                                <p>Lorem İpsum</p>
                             </div>
                         </div>
                     </div>
