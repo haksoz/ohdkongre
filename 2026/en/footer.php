@@ -10,7 +10,7 @@
                     <ul>
 
                         <li>
-                            <a href="mailto:turkcocukgastro@gmail.com"><img src="assets/img/icons/mail1.svg" alt="" />ohdkongre@gmail.com</a>
+                            <a href="mailto:ohdkongre@gmail.com"><img src="assets/img/icons/mail1.svg" alt="" />ohdkongre@gmail.com</a>
                         </li>
                     </ul>
                 </div>
