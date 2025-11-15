@@ -83,7 +83,7 @@
                                 <a href="#">BADGE</a>
                                 <div class="space16"></div>
                                 <p>
-                                    
+                                    Badges will be distributed to all registered participants and companions. In order to maintain congress order, please wear your badge at all scientific and social activities.
                                 </p>
                             </div>
                         </div>
@@ -92,9 +92,9 @@
                     <div class="col-md-10">
                         <div class="choose-widget-boxarea">
                             <div class="content-area">
-                                <a href="#">LETTER OF INVITATION</a>
+                                <a href="#">LETTER OF INVITATION / PERMISSION LETTER</a>
                                 <div class="space16"></div>
-                                <p></p>
+                                <p>Invitation letters requested to be submitted to institutions for congress participation will be sent to participants who request them through the congress secretariat. Such invitation letters can only be used for permission purposes. Guests holding invitation letters are responsible for their own registration and accommodation fees.</p>
                             </div>
                         </div>
                     </div>
@@ -103,7 +103,10 @@
                             <div class="content-area">
                                 <a href="#">REGISTRATION AND ACCOMMODATION SERVICES </a>
                                 <div class="space16"></div>
-                                
+                                <p>* Discounted early registration and accommodation prices will only be valid if payment is made before April 1, 2026. Reservations not paid by this date will be charged at late prices.</p>
+                                <p>* All reservations and requests for sponsorships not paid until 30 days before the meeting date will be cancelled.</p>
+                                <p>* For payments made after the congress date, a 10% interest will be applied on the total invoice amount for each month of delay. Otherwise, requests will not be confirmed.</p>
+                                <p>* Refunds for registration and accommodation cancellations will be calculated according to the relevant cancellation refund conditions and paid to the notified accounts via bank payment within 20 business days from the end of the congress.</p>
                             </div>
                         </div>
                     </div>
@@ -112,7 +115,8 @@
                             <div class="content-area">
                                 <a href="#">OTHER SPONSORSHIP REQUESTS</a>
                                 <div class="space16"></div>
-                                
+                                <p>* The last cancellation date for other sponsorship requests is April 15, 2026. No refund will be made for cancellations after this date.</p>
+                                <p>* For printed sponsorship requests, logos/advertisements etc. must be submitted in the size and format provided by the agency by April 15, 2026. Works not sent by this date cannot be printed and visually applied.</p>
                             </div>
                         </div>
                     </div>
