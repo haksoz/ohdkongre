@@ -1,86 +1,144 @@
-<!-- Navbar -->
-<nav class="navbar navbar-custom navbar-fixed-top" id="navbar-custom">
-	<div class="header-container">
-		<!-- Logo and toggle get grouped for better mobile display -->
-		<div class="navbar-header">
-            <div class="mobile-float">
-                <a href="/en/index.php">
-                    <img alt="" src="/doc/united-kingdom.png" style="max-width: 30px;">
-                </a>
-            </div>
-            <div class="mobile-float tr">
-                <a href="/index.php">
-                    <img alt="" src="/doc/square.png" style="max-width: 30px;">
-                </a>
-            </div>
-			<button class="navbar-toggle" data-target="#navbar-brand" data-toggle="collapse" type="button"><i class="fa fa-bars"></i></button> 
-			<!-- 
-			<div class="navbar-brand page-scroll">
-				<a href="index-demo.php">
-					<img alt="" class="img-responsive" src="/doc/onkoloji-hemsireligi-dernegi-logo.png">
-				</a>
-			</div>
-		-->
-		</div><!-- /.navbar-header -->
+<!--=====HEADER START=======-->
+<header>
+    <div class="header-area homepage2 header header-sticky d-none d-lg-block" id="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-1" style="padding:0px;">
+                    <div class="sol-logo" style="background-color: #ffffff; display: flex; align-items: center; height: 100%; border-radius: 0px 0px 0px 8px;">
+                        <div class="site-logo" style="padding-right: 5px; padding-left: 5px;">
+                            <a href="#"><img src="../doc/ohd-logo.png" alt="" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-11" style="padding-left:0px;">
+                    <div class="menu-top-area">
+                        <div class="top-menu-area tema-slogani">
 
-		<!-- Collect the nav links, forms, and other content for toggling -->
-		<div class="collapse navbar-collapse" id="navbar-brand">
-			<ul class="nav navbar-nav page-scroll navbar-right">
-				<li class="<?php echo $page == 'index' ? 'active' : '' ?>">
-					<a href="/en/index.php">Homepage</a>
-				</li>
-<!--				<li class="--><?php //echo $page == 'invitation' ? 'active' : '' ?><!--">-->
-<!--					<a href="/en/invitation.php">Invitation</a>-->
-<!--				</li>-->
-                <li class="dropdown <?php echo $page == 'committees' ? 'active' : '' ?>">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Committees<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="/en/organizing-committee.php">Organizing Committee</a>
-                        </li>
-                        <li>
-                            <a href="/en/scientific-committee.php">Scientific Committee</a>
-                        </li>
-                    </ul>
-                </li>
-				<li class="<?php echo $page == 'general-information' ? 'active' : '' ?>">
-					<a href="/en/general-info.php">Information</a>
-				</li>
-				<li class="<?php echo $page == 'registration-accommodation' ? 'active' : '' ?>">
-					<a href="/en/registration-accommodation.php">Registration & Accommodation</a>
-				</li>
-                <li class="dropdown <?php echo $page == 'program' ? 'active' : '' ?>">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Program<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="/en/program.php">Scientific Program</a>
-                        </li>
-                        <li>
-                            <a href="/en/program.php">Courses</a>
-                        </li>
-                    </ul>
-                </li>
-<!--                <li class="--><?php //echo $page == 'international-speakers' ? 'active' : '' ?><!--">-->
-<!--                    <a href="/en/international-speakers.php">International Speakers</a>-->
-<!--                </li>-->
-				<li class="<?php echo $page == 'abstract' ? 'active' : '' ?>">
-					<a href="/en/abstract-submission.php">Abstract Submission</a>
-				</li>
-                <li class="<?php echo $page == 'abstract' ? 'active' : '' ?>" style="background-color: #ee2a2c;border-radius:0px 0px 5px 5px;">
-                    <a href="/doc/ohd-abstract-book.pdf" target="_blank">Abstract Book</a>
-                </li>
-				<li class="<?php echo $page == 'contact' ? 'active' : '' ?>">
-					<a href="/en/contact.php">Contact</a>
-				</li>
-                <li class="mobile-hidden">
-                    <a href="/en/index.php">
-                        <img alt="" src="/doc/united-kingdom.png" style="max-width: 30px;"></a>
-                </li>
-                <li class="mobile-hidden">
-                    <a href="/index.php">
-                        <img alt="" src="/doc/square.png" style="max-width: 30px;"></a>
-                </li>
-			</ul>
-		</div><!-- /.navbar-collapse -->
-	</div><!-- /container -->
-</nav><!-- /nav -->
+                            <p class="tema-slogani">Strength, Science, and Compassion: Oncology Nursing.</p>
+
+                            <!--
+                            <ul style="padding-right: 20px;">
+                                <li>
+                                    <a href="mailto:salih.gonca@bosphorusmice.net"><img src="../assets/img/icons/mail1.svg" alt="" />salih.gonca@bosphorusmice.net <span> | </span></a>
+                                </li>
+                                <li>
+                                    <a href="tel:+902162350686"><img src="../assets/img/icons/phn1.svg" alt="" />+90 (216) 235 06 86</a>
+                                </li>
+                            </ul>
+                            -->
+                            <ul>
+                                <!--
+                                <li class="mobile-hidden">
+                                    <a href="../en/index.php">
+                                        <img alt="" src="../doc/united-kingdom.png" style="max-width: 30px;">
+                                    </a>
+                                </li>
+                                -->
+                                <li class="mobile-hidden">
+                                    <a href="../index.php">
+                                        Türkçe
+                                        <!--
+                                        <img alt="" src="../doc/square.png" style="max-width: 30px;">
+                                        -->
+                                    </a>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="header-elements">
+                        <div class="main-menu">
+                            <ul>
+                                <li><a href="index.php">Homepage</a></li>
+                                <li>
+                                    <a href="#">
+                                        Committees
+                                        <i class="fa-solid fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-padding">
+                                        <li><a href="organizing-committee.php">Organizing Committee</a></li>
+                                        <li><a href="scientific-committee.php">Scientific Committee</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="general-info.php">Information</a></li>
+                                <li><a href="registration-accommodation.php">Registration Accommodation</a></li>
+                                <li><a href="scientific-program.php">Program</a></li>
+                                <li><a href="abstract-submission.php">Abstract Submission</a></li>
+                                <li><a href="contact.php">Contact</a></li>
+                            </ul>
+                        </div>
+                        <div class="body-overlay"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!--=====HEADER END =======-->
+
+<!--===== MOBILE HEADER STARTS =======-->
+<div class="mobile-header mobile-haeder2 d-block d-lg-none">
+    <div class="container-fluid">
+        <div class="col-12">
+            <div class="mobile-header-elements">
+                <div class="mobile-logo" style="flex-grow: 1">
+                    <a href="#"><img src="../doc/ohd-logo.png" alt="" /></a>
+                </div>
+                <div class="bayrak" style="display: flex; flex-grow: 4; justify-content: flex-end;">
+                    <!--
+                    <div class="mobile-float" style="padding-right: 20px;">
+                        <a href="../en/index.php">
+                            <img alt="" src="../doc/united-kingdom.png" style="max-width: 30px;">
+                        </a>
+                    </div>
+                    -->
+                    <div class="mobile-float tr" style="padding-right: 20px;">
+                        <a href="../index.php">
+                            Türkçe
+                            <!--
+                            <img alt="" src="../doc/square.png" style="max-width: 30px;">
+                            -->
+                        </a>
+                    </div>
+                </div>
+                <div class="mobile-nav-icon dots-menu" style="flex-grow: 1">
+                    <i class="fa-solid fa-bars-staggered"></i>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+            <p class="tema-slogani-mobil">Strength, Science, and Compassion: Oncology Nursing.</p>
+
+</div>
+
+<div class="mobile-sidebar mobile-sidebar2">
+    <div class="logosicon-area">
+        <div class="logos">
+            <img src="../doc/ohd-logo.png" alt="" style="max-width: 100px;" />
+        </div>
+        <div class="menu-close">
+            <i class="fa-solid fa-xmark"></i>
+        </div>
+    </div>
+    <div class="mobile-nav mobile-nav1">
+        <ul class="mobile-nav-list nav-list1">
+
+            <li><a href="index.php">Homepage</a></li>
+            <li>
+                <a href="#">Committees</a>
+                <ul class="sub-menu">
+                    <li><a href="organizing-committee.php">Organizing Committee</a></li>
+                    <li><a href="scientific-committee.php">Scientific Committee</a></li>
+                </ul>
+            </li>
+            <li><a href="general-info.php">Information</a></li>
+            <li><a href="registration-accommodation.php">Registration Accommodation</a></li>
+            <li><a href="scientific-program.php">Scientific Program</a></li>
+            <li><a href="abstract-submission.php">Abstract Submission</a></li>
+            <li><a href="contact.php">Contact</a></li>
+
+        </ul>
+    </div>
+</div>
+<!--===== MOBILE HEADER STARTS =======-->

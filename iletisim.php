@@ -1,93 +1,74 @@
 <!DOCTYPE html>
-<html lang="en">
-<?php $page = 'iletisim'; ?>
+<html lang="TR">
+    <?php $page = 'index'; ?>
+    <?php $pageTitle = 'İletişim'; ?>
 
-<head>
-	<title>1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi | İletişim</title>
-	<?php include("head.php") ?>
-</head>
+	<?php include('head.php') ?>
+	<body class="homepage2-body">
+		
 
-<body data-spy="scroll" data-target=".navbar-custom" id="page-top">
-	<!-- Preloader  -->
-	<div id="preloader">
-		<div class="spinner">
-			<div class="bounce1"></div>
-			<div class="bounce2"></div>
-			<div class="bounce3"></div>
+		<!--===== PAGE PROGRESS START=======-->
+		<div class="paginacontainer">
+			<div class="progress-wrap">
+				<svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+					<path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+				</svg>
+			</div>
 		</div>
-	</div><!-- /Preloader ends -->
-	<div id="page-width">
-		<?php include("header.php") ?>
-		<!-- Blog Page -->
-		<!-- Blog Single Page  -->
-		<div id="page-section">
-            <section id="blog">
-                <div class="container-fluid">
-                    <div class="jumbotron"></div>
-                    <div class="jumbo-heading">
-                        <div class="container">
-                            <img src="/doc/slider-banner-v3.png" alt="">
+		<!--===== PAGE PROGRESS END=======-->
+        <?php include('header.php') ?>
+
+        <!--===== HERO AREA STARTS =======-->
+        <div class="hero2-slider-area" style="background-color: #3d3f51">
+            <div class="her2-section-area">
+                <img src="assets/img/elements/elements9.png" alt="" class="elements9" />
+                <img src="assets/img/elements/elements10.png" alt="" class="elements10" />
+                <img src="assets/img/elements/elements11.png" alt="" class="elements11" />
+                <div class="img1">
+                    <img src="doc/slider-01.png" alt="" />
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-2">
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="hero2-header">
+
+                                <img src="doc/slider-01-metin.png" alt="" />
+
+
+
+                            </div>
+                        </div>
+                        <!--
+                        <div class="col-lg-3">
+                            <div class="arrow-btn">
+                                <div class="about-btnarea">
+                                    <img src="doc/logolar.png" style="max-width: 645px;">
+                                </div>
+                            </div>
+                        </div>
+                    -->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+		<!--===== HERO AREA ENDS =======-->
+
+        <div class="footer1-sertion-area sp1">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 m-auto">
+                        <div class="heading2 text-center space-margin60">
+                            <h2> İletişim</h2>
                         </div>
                     </div>
                 </div>
-            </section>
-			<section class="container-fluid nobg-small" style="min-height: 65vh;" id="contact">
-				<div class="section-heading margin1">
-					<div class="hr"></div>
-				</div>
+            </div>
+        </div>
 
-				<!-- Contact -->
-				<div class="container">
-					<div class="res-margin">
-						<div class="col-lg-5 col-md-5 well text-center">
-                            <img style="max-height: 100px;" src="/doc/onkoloji-hemsireligi-dernegi-logo.png" alt="">
-                            <div class="contact-info">
-                                <h5><b>Kongre Sekretaryası</b></h5>
-								<p>
-                                    <i class="fa fa-envelope margin-icon text-black"></i>
-                                    <b>E-Mail: </b>
-                                    <a href="mailto:ohdkongre@gmail.com" target="_blank">ohdkongre@gmail.com</a>
-                                </p>
-							</div>
-						</div>
-						<div class="col-lg-2 col-md-2">
-
-						</div>
-						<div class="col-lg-5 col-md-5 well text-center">
-                            <img style="max-height: 100px;width: 100%;" src="/doc/bosphorusmice.jpeg" alt="">
-
-                            <div class="contact-info">
-								<h5><b>Organizasyon Sekretaryası</b></h5>
-                                <p><b>Bosphorus Kongre Organizasyon Etkinlik ve Danışmanlık Hiz. Tic. Ltd. Şti.</b></p>
-								<p><i class="fa fa-map-marker margin-icon text-black"></i><b>Adres:</b>
-                                    Koşuyolu Mah. İsmailpaşa Sok, No:42/1, 34718, Kadıköy, İstanbul, Türkiye
-                                </p>
-								<p><i class="fa fa-phone margin-icon text-black"></i><b>Tel:</b> <a href="tel:+902162350686">+90 216 235 06 86 </a></p>
-								<p><i class="fa fa-envelope margin-icon text-black"></i><b>E-Mail:</b> <a href="mailto:salih.gonca@bosphorusmice.net">salih.gonca@bosphorusmice.net</a></p>
-							</div>
-						</div>
-					</div>
-				
-				</div>
-			</section>
-			<!--/Section ends -->
-		</div>
-		<!--/page-section-->
-
-		<footer>
-			<div class="container">
-				<div class="credits col-md-12 text-center">
-					<hr>
-                    <a href="https://ko.com.tr" target="_blank"> Copyright © 2024 - Kapital Online</a> <!-- Go To Top Link -->
-					<div class="page-scroll hidden-sm hidden-xs">
-						<a class="back-to-top" href="#page-top"><i class="fa fa-angle-up"></i></a>
-					</div>
-				</div><!-- /credits -->
-			</div><!-- /.container -->
-		</footer><!-- /footer ends -->
-	</div><!-- /page-width -->
-
-	<?php include("script.php") ?>
-</body>
-
+        <?php include('footer.php') ?>
+        <?php include('script.php') ?>
+	</body>
 </html>

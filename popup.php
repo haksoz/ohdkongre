@@ -7,10 +7,10 @@
                 <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
             </header>
             <main class="modal__content" id="modal-1-content" style="margin-top:1rem;">
-                <img src="/doc/ohd-2026.jpg" class="w-100" alt="">
-<!--                <h3 style="color: #123755;">Duyuru</h3>-->
-<!--                <h6 class="popup-letter">Kongre katılım belgesi tarafına ulaşmamış katılımcılar <br> <a href="mailto:elif.eser@bosphorusmice.net">elif.eser@bosphorusmice.net</a>-->
-<!--                    <br> adresinden mail ile talep edebilirler</h6>-->
+<!--                <img src="/doc/ohd-2026.jpg" class="w-100" alt="">-->
+                <h3 style="color: #123755;">Duyuru</h3>
+                <h6 class="popup-letter"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia, nisl non
+                </h6>
             </main>
 <!--            <footer class="modal__footer text-center">-->
 <!--            </footer>-->

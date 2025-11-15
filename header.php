@@ -1,83 +1,142 @@
-<!-- Navbar -->
-<nav class="navbar navbar-custom navbar-fixed-top" id="navbar-custom">
-	<div class="header-container">
-		<!-- Logo and toggle get grouped for better mobile display -->
-		<div class="navbar-header">
-            <div class="mobile-float">
-                <a href="/en/index.php">
-                    <img alt="" src="doc/united-kingdom.png" style="max-width: 30px;">
-                </a>
-            </div>
-            <div class="mobile-float tr">
-                <a href="/index.php">
-                    <img alt="" src="doc/square.png" style="max-width: 30px;">
-                </a>
-            </div>
-			<button class="navbar-toggle" data-target="#navbar-brand" data-toggle="collapse" type="button"><i class="fa fa-bars"></i></button> 
-			<!-- 
-			<div class="navbar-brand page-scroll">
-				<a href="index-demo.php">
-					<img alt="" class="img-responsive" src="/doc/onkoloji-hemsireligi-dernegi-logo.png">
-				</a>
-			</div>
-		-->
-		</div><!-- /.navbar-header -->
+<!--=====HEADER START=======-->
+<header>
+    <div class="header-area homepage2 header header-sticky d-none d-lg-block" id="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-1" style="padding:0px;">
+                    <div class="sol-logo" style="background-color: #ffffff; display: flex; align-items: center; height: 100%; border-radius: 0px 0px 0px 8px;">
+                        <div class="site-logo" style="padding-right: 5px; padding-left: 5px;">
+                            <a href="/2026/#"><img src="/2026/doc/ohd-logo.png" alt="" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-11" style="padding-left:0px;">
+                    <div class="menu-top-area">
+                        <div class="top-menu-area tema-slogani">
+                            
+                            <p class="tema-slogani">Güç, Bilim ve Şefkat: Onkoloji Hemşireliği</p>
+                            <!--
+                            <ul style="padding-right: 20px;">
+                                <li>
+                                    <a href="mailto:ohdkongre@bosphorusmice.net"><img src="/2026/assets/img/icons/mail1.svg" alt="" />ohdkongre@bosphorusmice.net <span> | </span></a>
+                                </li>
+                                <li>
+                                    <a href="tel:+902162350686"><img src="/2026/assets/img/icons/phn1.svg" alt="" />+90 (216) 235 06 86</a>
+                                </li>
+                            </ul>
+                            -->
+                            <ul>
+                                <li class="mobile-hidden">
+                                    <a href="/2026/en/index.php">
+                                        English
+                                        <!--
+                                        <img alt="" src="/2026/doc/united-kingdom.png" style="max-width: 30px;">
+                                        -->
+                                    </a>
+                                </li>
+                                <!--
+                                <li class="mobile-hidden">
+                                    <a href="/2026/index.php">
+                                        <img alt="" src="/2026/doc/square.png" style="max-width: 30px;">
+                                    </a>
+                                </li>
+                                -->
+                            </ul>
 
-		<!-- Collect the nav links, forms, and other content for toggling -->
-		<div class="collapse navbar-collapse" id="navbar-brand">
-			<ul class="nav navbar-nav page-scroll navbar-right">
-				<li class="<?php echo $page == 'index' ? 'active' : '' ?>">
-					<a href="/index.php">Anasayfa</a>
-				</li>
-<!--				<li class="--><?php //echo $page == 'davet' ? 'active' : '' ?><!--">-->
-<!--					<a href="/davet.php">Davet</a>-->
-<!--				</li>-->
-                <li class="dropdown <?php echo $page == 'kurullar' ? 'active' : '' ?>">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Kurullar<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="/duzenleme-kurulu.php">Düzenleme Kurulu</a>
-                        </li>
-                        <li>
-                            <a href="/bilimsel-kurul.php">Bilimsel Kurul</a>
-                        </li>
-                    </ul>
-                </li>
-				<li class="<?php echo $page == 'genel-bilgiler' ? 'active' : '' ?>">
-					<a href="/genel-bilgiler.php">Genel Bilgiler</a>
-				</li>
-				<li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>">
-					<a href="/kayit-konaklama.php">Kayıt & Konaklama</a>
-				</li>
-				<li class="<?php echo $page == 'program' ? 'active' : '' ?>">
-					<a href="/program.php">Bilimsel Program</a>
-				</li>
-                <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>">
-					<a href="/program.php">Kurslar</a>
-				</li>
-<!--                <li class="--><?php //echo $page == 'uluslararasi-konusmacilar' ? 'active' : '' ?><!--">-->
-<!--					<a href="/uluslararasi-konusmacilar.php">Uluslararası Konuşmacılar</a>-->
-<!--				</li>-->
-				<li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
-					<a href="/bildiri-gonderimi.php">Bildiri Gönderimi</a>
-				</li>
-                <li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>" style="background-color: #ee2a2c;border-radius:0px 0px 5px 5px;">
-					<a href="/doc/ohd-abstract-book.pdf" target="_blank">Bildiri Kitabı</a>
-				</li>
-				<li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>">
-					<a href="/iletisim.php">İletişim</a>
-				</li>
-                <li class="mobile-hidden">
-                    <a href="/en/index.php">
-                        <img alt="" src="doc/united-kingdom.png" style="max-width: 30px;">
-                    </a>
-                </li>
-                <li class="mobile-hidden">
-                    <a href="/index.php">
-                        <img alt="" src="doc/square.png" style="max-width: 30px;">
-                    </a>
-                </li>
-			</ul>
-		</div><!-- /.navbar-collapse -->
-	</div><!-- /container -->
-</nav><!-- /nav -->
+                        </div>
+                    </div>
+                    <div class="header-elements">
+                        <div class="main-menu">
+                            <ul>
+                                <li><a href="/2026/index.php">Anasayfa</a></li>
+                                <li>
+                                    <a href="/2026/#">
+                                        Kurullar
+                                        <i class="fa-solid fa-angle-down"></i>
+                                    </a>
+                                    <ul class="dropdown-padding">
+                                        <li><a href="/2026/duzenleme-kurulu.php">Düzenleme Kurulu</a></li>
+                                        <li><a href="/2026/bilimsel-kurul.php">Bilimsel Kurul</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="/2026/genel-bilgiler.php">Genel Bilgiler</a></li>
+                                <li><a href="/2026/kayit-konaklama.php">Kayıt & Konaklama</a></li>
+                                <li><a href="/2026/bilimsel-program.php">Bilimsel Program</a></li>
+                                <li><a href="/2026/bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
+                                <li><a href="/2026/iletisim.php">İletişim</a></li>
+                            </ul>
+                        </div>
+                        <div class="body-overlay"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!--=====HEADER END =======-->
+
+<!--===== MOBILE HEADER STARTS =======-->
+<div class="mobile-header mobile-haeder2 d-block d-lg-none">
+    <div class="container-fluid">
+        <div class="col-12">
+            <div class="mobile-header-elements">
+                <div class="mobile-logo" style="flex-grow: 1">
+                    <a href="/2026/#"><img src="/2026/doc/ohd-logo.png" alt="" /></a>
+                </div>
+                <div class="bayrak" style="display: flex; flex-grow: 4; justify-content: flex-end;">
+                    <div class="mobile-float" style="padding-right: 20px;">
+                        <a href="/2026/en/index.php">
+                            English
+                            <!--
+                            <img alt="" src="/2026/doc/united-kingdom.png" style="max-width: 30px;">
+                            -->
+                        </a>
+                    </div>
+                    <!--
+                    <div class="mobile-float tr" style="padding-right: 20px;">
+                        <a href="/2026/index.php">
+                            <img alt="" src="/2026/doc/square.png" style="max-width: 30px;">
+                        </a>
+                    </div>
+                    -->
+                </div>
+                <div class="mobile-nav-icon dots-menu" style="flex-grow: 1">
+                    <i class="fa-solid fa-bars-staggered"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+            <p class="tema-slogani-mobil">Güç, Bilim ve Şefkat: Onkoloji Hemşireliği</p>
+
+</div>
+
+<div class="mobile-sidebar mobile-sidebar2">
+    <div class="logosicon-area">
+        <div class="logos">
+            <img src="/2026/doc/ohd-logo.png" alt="" style="max-width: 100px;" />
+        </div>
+        <div class="menu-close">
+            <i class="fa-solid fa-xmark"></i>
+        </div>
+    </div>
+    <div class="mobile-nav mobile-nav1">
+        <ul class="mobile-nav-list nav-list1">
+
+            <li><a href="/2026/index.php">Anasayfa</a></li>
+            <li>
+                <a href="/2026/#">Kurullar</a>
+                <ul class="sub-menu">
+                    <li><a href="/2026/duzenleme-kurulu.php">Düzenleme Kurulu</a></li>
+                    <li><a href="/2026/bilimsel-kurul.php">Bilimsel Kurul</a></li>
+                </ul>
+            </li>
+            <li><a href="/2026/genel-bilgiler.php">Genel Bilgiler</a></li>
+            <li><a href="/2026/kayit-konaklama.php">Kayıt & Konaklama</a></li>
+            <li><a href="/2026/bilimsel-program.php">Bilimsel Program</a></li>
+            <li><a href="/2026/bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
+            <li><a href="/2026/iletisim.php">İletişim</a></li>
+
+        </ul>
+    </div>
+</div>
+<!--===== MOBILE HEADER STARTS =======-->

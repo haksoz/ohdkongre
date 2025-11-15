@@ -1,29 +1,59 @@
-	<meta charset="utf-8"><!--[if IE]>
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <![endif]-->
-	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?></title>
 
-    <meta content="Oncology Nursing Congress 2025, International Oncology Nursing, Oncology Nursing Association, Cancer Nursing, Oncology Care, Nursing Education, Ankara Congress, Oncology Seminar, Cancer Treatment, Innovations in Nursing" name="keywords">
-    <meta content="You are invited to the 1st International Oncology Nursing Association Congress, organized with the 35-year experience of the Oncology Nursing Association, to be held in Ankara on May 21-23, 2025. Our congress provides an international platform to share innovative approaches and technological developments in oncology nursing." name="description">
+    <!--===== META TAGS =======-->
+    <meta name="description" content="2nd International Oncology Nursing Association Congress - An international congress organized to share scientific developments in oncology nursing and strengthen international collaboration." />
+    <meta name="keywords" content="oncology nursing, congress, international congress, ONA, nursing congress, oncology, cancer care, nursing education, oncology nursing association" />
+    <meta name="author" content="Oncology Nursing Association" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="English" />
 
-    <meta content="Kapital Online" name="author">
-	<!--[if lt IE 9]>
-      <script src="/js/respond.js"></script>
-      <![endif]-->
-	<!-- Bootstrap Core CSS -->
-	<link href="/css/bootstrap.css?v=623453323" rel="stylesheet" type="text/css"><!-- Icon fonts -->
-	<link href="/fonts/font-awesome/css/font-awesome.min.css?v=623453323" rel="stylesheet" type="text/css">
-	<link href="/fonts/glyphicons/bootstrap-glyphicons.css?v=623453323" rel="stylesheet" type="text/css">
-	<link href="/fonts/flaticons/flaticon.css?v=623453323" rel="stylesheet" type="text/css"><!-- Google fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Baloo|Lato:400,700,900" rel="stylesheet"><!-- Style CSS -->
-	
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <!--===== OPEN GRAPH META TAGS =======-->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?>" />
+    <meta property="og:description" content="2nd International Oncology Nursing Association Congress - An international congress organized to share scientific developments in oncology nursing and strengthen international collaboration." />
+    <meta property="og:image" content="/2026/doc/ohd-2026.jpg" />
+    <meta property="og:url" content="https://ohdkongre.org/en/" />
+    <meta property="og:site_name" content="ONA Congress 2026" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale:alternate" content="tr_TR" />
 
-	<link href="/css/style.css?v=623453323" rel="stylesheet"><!-- Plugins CSS -->
-	<link href="/css/plugins.css?v=623453323" rel="stylesheet"><!-- Color Style CSS -->
-	<link href="/styles/pinkandblue.css?v=623453323" rel="stylesheet"><!-- LayerSlider stylesheet -->
-	<link href="/layerslider/css/layerslider.css?v=623453323" rel="stylesheet"><!-- Favicons-->
-	<link href="/doc/favicon.png" rel="shortcut icon" type="image/x-icon"><!-- Switcher Only -->
-<!--	<link href="switcher\css\switcher.css" id="switcher-css" media="all" rel="stylesheet" type="text/css">
+    <!--===== TWITTER CARD META TAGS =======-->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="2nd International Oncology Nursing Association Congress - <?php echo $pageTitle; ?>" />
+    <meta name="twitter:description" content="2nd International Oncology Nursing Association Congress - An international congress organized to share scientific developments in oncology nursing and strengthen international collaboration." />
+    <meta name="twitter:image" content="/2026/doc/ohd-2026.jpg" />
+
+    <!--===== ADDITIONAL META TAGS =======-->
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <!--=====FAB ICON=======-->
+    <link rel="shortcut icon" href="../doc/favicon.png" />
+    <link rel="icon" type="image/png" href="../doc/favicon.png" />
+
+    <!--===== CSS LINK =======-->
+    <link rel="stylesheet" href="../assets/css/vendor/bootstrap.min.css" />
+    <link rel="stylesheet" href="../assets/css/vendor/aos.css" />
+    <link rel="stylesheet" href="../assets/css/vendor/fontawesome.css" />
+    <link rel="stylesheet" href="../assets/css/vendor/magnific-popup.css" />
+    <link rel="stylesheet" href="../assets/css/vendor/mobile.css?v=7" />
+    <link rel="stylesheet" href="../assets/css/vendor/owlcarousel.min.css" />
+    <link rel="stylesheet" href="../assets/css/vendor/sidebar.css" />
+    <link rel="stylesheet" href="../assets/css/vendor/slick-slider.css" />
+    <link rel="stylesheet" href="../assets/css/vendor/nice-select.css" />
+    <link rel="stylesheet" href="../assets/css/vendor/odometer.css" />
+    <link rel="stylesheet" href="../assets/css/main.css?v=8" />
+    <link rel="stylesheet" href="../assets/css/main-en.css?v=10" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
+
+    <!--=====  JS SCRIPT LINK =======-->
+    <script src="../assets/js/vendor/jquery-3.7.1.min.js"></script>
+</head>

@@ -1,26 +1,17 @@
-<!-- Core JavaScript Files -->
-<script src="js/jquery.min.js?v=7123523">
-</script> 
-<script src="js/bootstrap.min.js?v=7123523">
-</script> <!-- Main Js -->
- 
-<script src="js/main.js?v=7123523">
-</script> <!-- Open maps -->
-
- 
-<script src="js/contact.js?v=7123523">
-</script> <!--Other Plugins -->
- 
-<script src="js/plugins.js?v=7123523">
-</script> <!-- Prefix free CSS -->
- 
-</script> <!-- LayerSlider script files -->
- 
-<script src="layerslider/js/layerslider.kreaturamedia.jquery.js?v=7123523" type="text/javascript">
-</script> <!-- Bootstrap Select Tool (For Module #4) -->
-<!--<script src="switcher/js/bootstrap-select.js?v=7123523">-->
-</script> <!-- UI jQuery (For Module #5 and #6) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.js?v=7123523" type="text/javascript">
-</script> <!-- All Scripts & Plugins -->
-<!--<script src="switcher/js/dmss.js">-->
-<!--</script>-->
+<script src="/2026/assets/js/vendor/bootstrap.min.js"></script>
+<script src="/2026/assets/js/vendor/fontawesome.js"></script>
+<script src="/2026/assets/js/vendor/aos.js"></script>
+<script src="/2026/assets/js/vendor/jquery.appear.js"></script>
+<script src="/2026/assets/js/vendor/jquery.odometer.min.js"></script>
+<script src="/2026/assets/js/vendor/sidebar.js"></script>
+<script src="/2026/assets/js/vendor/magnific-popup.js"></script>
+<script src="/2026/assets/js/vendor/gsap.min.js"></script>
+<script src="/2026/assets/js/vendor/ScrollTrigger.min.js"></script>
+<script src="/2026/assets/js/vendor/Splitetext.js"></script>
+<script src="/2026/assets/js/vendor/mobilemenu.js"></script>
+<script src="/2026/assets/js/vendor/owlcarousel.min.js"></script>
+<script src="/2026/assets/js/vendor/nice-select.js"></script>
+<script src="/2026/assets/js/vendor/waypoints.js"></script>
+<script src="/2026/assets/js/vendor/slick-slider.js"></script>
+<script src="/2026/assets/js/vendor/circle-progress.js"></script>
+<script src="/2026/assets/js/main.js?v=5523234"></script>

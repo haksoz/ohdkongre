@@ -1,173 +1,156 @@
 <!DOCTYPE html>
 <html lang="TR">
-<?php $page = 'index'; ?>
-<head>
-	<title>1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi | Anasayfa</title>
-	<?php include("head.php") ?>
-</head>
-<body data-spy="scroll" data-target=".navbar-custom" id="page-top">
+    <?php $page = 'index'; ?>
+    <?php $pageTitle = 'Anasayfa'; ?>
 
-	<!-- Preloader  -->
-	<div id="preloader">
-		<div class="spinner">
-			<div class="bounce1"></div>
-			<div class="bounce2"></div>
-			<div class="bounce3"></div>
+	<?php include('head.php') ?>
+	<body class="homepage2-body">
+		
+
+
+		<!--===== PAGE PROGRESS START=======-->
+		<div class="paginacontainer">
+			<div class="progress-wrap">
+				<svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+					<path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+				</svg>
+			</div>
 		</div>
-	</div><!-- /Preloader ends -->
-	<div id="page-width">
-		<?php include ("header.php") ?>
-		<!-- Home Page -->
-		<div class="home" id="main">
-			<!--
-			<div id="layerslider">
-				<div class="ls-slide" data-ls="transition2d:48;timeshift:-2000;">
-					<img alt="Slide background" class="ls-bg" src="doc/caaad-2023-final-psd.jpg">
-					<div class="ls-l header-text" data-ls="offsetxin:0;durationin:2000;delayin:200;easingin:easeInOutExpo;rotatexin:100;scalexin:0.8;scaleyin:0.8;transformoriginin:50% 50% -150;offsetxout:0;durationout:500;rotatexout:-20;scalexout:0.8;scaleyout:0.8;transformoriginout:50% 50% -150;">
-						<h1>Uluslararası Katılımlı <br>17. Çocuk Alerji ve Astım Kongresi</h1>
-						<h3 style="color: #FFFFFF">Elite World Sapanca Hotel <br>27-30 Nisan 2023</h3>
+		<!--===== PAGE PROGRESS END=======-->
+        <?php include('header.php') ?>
+
+		<!--===== HERO AREA STARTS =======-->
+		<div class="hero2-slider-area" style="background-color: #604c58">
+			<div class="her2-section-area">
+
+				<img src="/2026/assets/img/elements/elements10.png" alt="" class="elements10" />
+				<img src="/2026/assets/img/elements/elements11.png" alt="" class="elements11" />
+
+				<div class="img1">
+					<img src="/2026/doc/slider-01.png" alt="" />
+				</div>
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-1">
+						</div>
+						<div class="col-lg-6">
+							<div class="hero2-header">
+								
+								<img src="/2026/doc/slider-01-metin.png" alt="" />
+
+								<div class="timer">
+									<div class="time-box">
+										<span id="days" class="time-value"></span>
+										<div class="space8"></div>
+									</div>
+									<div class="space14"></div>
+									<div class="time-box">
+										<span id="hours" class="time-value"></span>
+										<div class="space8"></div>
+									</div>
+									<div class="space14"></div>
+									<div class="time-box">
+										<span id="minutes" class="time-value"></span>
+										<div class="space8"></div>
+									</div>
+									<div class="space14"></div>
+									<div class="time-box" style="margin: 0">
+										<span id="seconds" class="time-value"></span>
+										<div class="space8"></div>
+									</div>
+								</div>
+
+							</div>
+						</div>
+						<!--
+						<div class="col-lg-3">
+							<div class="arrow-btn">
+								<div class="about-btnarea">
+									<img src="/2026/doc/logolar.png" style="max-width: 645px;">
+								</div>
+							</div>
+						</div>
+					-->
 					</div>
 				</div>
+			</div>
 
-			</div>-->
-            <div class="relative">
-                <img class="banner-img banner-desktop" src="/doc/ohd-slider-v5.png" alt="">
-                <img class="banner-img banner-mobil" src="/doc/ohd-slider-v5.png" alt="">
-            </div>
-			<!-- Section Services -->
-			<section >
-                <div class="container">
-                    <div class="row">
-	                    <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInLeft news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInLeft;">
-	                        <a href="kayit-konaklama.php">
-                        <div class="serviceBox bg-color2">
-                            <!-- service image-->
-                            <div class="service-content text-light">
-                                <h4 class="title">Kayıt & Konaklama</h4>
-                            </div>
-                        </div>
-                    </a>
-	                    </div>
-	                    <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInRight news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInRight;">
-	                       <a href="program.php">
-                        <div class="serviceBox bg-color1">
-                            <!-- service image-->
-                            <div class="service-content text-light">
-                                <h4 class="title">Bilimsel Program</h4>
-                            </div>
-                        </div>
-                    </a>
-	                    </div>
-	                    <div class="col-xl-4 col-lg-4 col-md-6 col-6 wow fadeInLeft news-addon-one animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInLeft;">
-	                        <a href="/doc/ohd-abstract-book.pdf" target="_blank">
-                        <div class="serviceBox bg-color3">
-                            <div class="service-content text-light">
-                                <h4 class="title">Bildiri Kitabı</h4>
-                            </div>
-                        </div>
-                    </a>
-	                    </div>
+		</div>
+		<div class="testimonial-arrows">
+			<div class="testimonial-prev-arrow">
+				<button><i class="fa-solid fa-angle-left"></i></button>
+			</div>
+			<div class="testimonial-next-arrow">
+				<button><i class="fa-solid fa-angle-right"></i></button>
+			</div>
+		</div>
+		<!--===== HERO AREA ENDS =======-->
 
-	                </div>
-                </div>
-       	 	</section>
+		<!--===== ABOUT AREA STARTS =======-->
+		<div class="about3-section-area sp1">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-lg-12">
+						<div class="about-header heading5">
+							<div class="space18"></div>
+							<h2 class="text-anime-style-3">Davet</h2>
+							<div class="space18"></div>
 
 
-			<section class="container">
-				<!-- Section heading -->
 
-				<div class="section-heading">
-					<h2>Davet</h2><!-- divider -->
-					<div class="hr"></div>
+<p>
+Değerli Meslektaşlarım,</p>
+<div class="space12"></div>
+<p>
+Sizleri, 7-9 Mayıs 2026 tarihlerinde İstanbul Bilgi Üniversitesi ev sahipliğinde gerçekleştireceğimiz <b>II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi’ne</b> davet etmekten büyük mutluluk ve onur duyuyorum.</p>
+<div class="space12"></div>
+<p>
+Geçtiğimiz yıl Ankara’da düzenlediğimiz <b>I. Uluslararası Onkoloji Hemşireliği Derneği Kongresi,</b> sizlerin yoğun ilgisi ve katkılarıyla onkoloji hemşireliği alanında önemli bir etki yaratmış, güçlü bir bilimsel paylaşım ortamı oluşturmuştur. Birinci kongremizdeki değerli buluşmanın deneyimi ve birikimiyle, daha geniş bir katılım beklentisi ve içerikle yolumuza devam ediyoruz.  Bu yıl kongremizi, onkoloji hemşireliğinin özünü en güçlü biçimde yansıtan bir tema ile düzenliyoruz: <b>“Güç, Bilim ve Şefkat: Onkoloji Hemşireliği.”</b></p>
+<div class="space12"></div>
+<p>
+Bu tema, hemşirelik mesleğinin temelinde yer alan üç evrensel değeri <b>- bilimsel bilgiyle güçlenmeyi, insani duyarlılıkla bakım vermeyi ve mesleki kimliği güçlendirmeyi -</b> bir araya getirmektedir. Kanser bakımında bilimin rehberliğinde ilerlerken, şefkatin insan yaşamına kattığı değeri yeniden hatırlamayı amaçlıyoruz.</p>
+<div class="space12"></div>
+<p>
+Kongremiz boyunca aşağıdaki konular çerçevesinde bilgi paylaşımı, tartışma ve etkileşim için güçlü bir zemin oluşturacağız:</p>
+<div class="space12"></div>
+<p>
+	<ul>
+		<li>•	Bilimsel Yenilikler ve Klinik Uygulamalara Entegrasyonu</li>
+		<li>•	Empati, Anlam ve Şefkat Temelli Bakım</li>
+		<li>•	Dijital Dönüşüm, Yenilikçi Teknolojiler ve Klinik Karar Destek Sistemleri</li>
+		<li>•	Multidisipliner İşbirliği ve Hastaya Bütüncül Yaklaşım</li>
+		<li>•	Onkoloji Hemşireliğinde Küresel İşbirlikleri</li>
+		<li>•	Liderlik, Güçlendirme ve Profesyonel Kimlik</li>
+	</ul>
+</p>
+<div class="space12"></div>
+<p>
+Kongremizde, onkoloji hemşireleri ve akademisyenlerle birlikte, hasta dernekleri, multidisipliner sağlık ekipleri, genç araştırmacılar ve öğrenciler bir araya gelerek bilgi ve deneyimlerini paylaşacaklardır. İlham verici <b>“başarı hikâyeleri”</b> oturumlarıyla, hemşirelerin kanserle yaşayan bireylerin yaşamına nasıl dokunduğunu hep birlikte göreceğiz. Bilimsel yenilikleri, dijital dönüşümü, kültürel duyarlılığı ve şefkat temelli yaklaşımı bir araya getiren bu kongre, onkoloji hemşireliğinin geleceğine yön verecek önemli bir buluşma olacaktır.</p>
+<div class="space12"></div>
+<p>
+Sizleri bu anlamlı kongrede görmek, birlikte olmak, paylaşmak ve güçlenmek bizler için büyük bir mutluluk olacaktır. Geliniz, bilimin ışığında ve  şefkatin rehberliğinde onkoloji hemşireliğinin geleceğini birlikte inşa edelim.</p>
+<div class="space12"></div>
+<p>
+Sevgi ve Saygılarımla,</p>
+<div class="space12"></div>
+<p>
+	<br>
+Prof. Dr. Perihan GÜNER<br>
+Kongre Başkanı</p>
+
+
+						</div>
+					</div>
 				</div>
-				<?php include("davet-metni.php") ?>
+			</div>
+		</div>
+		<!--===== ABOUT AREA ENDS =======-->
 
-            </section><!-- /section  -->
+		<!--===== FOOTER AREA STARTS =======-->
+        <?php include('footer.php') ?>
+		<!--===== FOOTER AREA ENDS =======-->
 
-			<section class="container-fluid small-section" id="testimonials">
-				<div class="section-heading">
-					<h2 class="text-light">Genel Bilgiler</h2><!-- divider -->
-					<div class="hr"></div>
-				</div><!-- Testimonial Slider -->
-				<div class="container">
-					<div class="owl-carousel" id="testimonial-slider">
-						<!-- Testimonial 1 -->
-						<div class="testimonial">
-                            <div class="description">
-                            <p>
-                                <b>Toplantı Adı: </b><br>
-                                1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi
-                            </p>
-                            </div>
-						</div><!-- /Testimonial 1 -->
-						<!-- Testimonial 2 -->
-						<div class="testimonial">
-							<div class="description">
-                                <p>
-                                    <b>Toplanı Yeri ve Tarihi: </b> <br>
-                                    1. Uluslararası Onkoloji Hemşireliği Derneği Kongresi, 21 - 23 Mayıs 2025 tarihleri arasında Ankara
-                                    Gazi Üniversitesi Rektörlük Kampüsü Teknoloji Fakültesi Taşkent Binası Kongre Salonlarında gerçekleşecektir.
-                                </p>
-                            </div>
-						</div><!-- /Testimonial 2 -->
-						<!-- Testimonial 3 -->
-						<div class="testimonial">
-							<div class="description">
-                                <p>
-                                    <b>Toplantı Dili: </b><br>
-                                    Kongrenin resmi dili Türkçe’dir.
-                                </p>
-							</div>
-						</div><!-- /Testimonial 3 -->
-                        <div class="testimonial">
-							<div class="description">
-                                <p>
-                                    <b>Kayıt ve Danışma Masaları: </b><br>
-                                    Ankara Gazi Üniversitesi Rektörlüğü’ndeki kayıt ve danışma masaları 21 Mayıs tarihinden itibaren
-                                    çalışmaya başlayacaktır. Bu masalar 21 – 23 Mayıs tarihleri arasında 08:00 – 18:00 saatleri arasında
-                                    açık kalacaktır.
-                                </p>
-							</div>
-						</div><!-- /Testimonial 3 -->
-                        <div class="testimonial">
-							<div class="description">
-                                <p>
-                                    <b>Yaka Kartı: </b><br>
-                                    Tüm katılımcılara yaka kartı verilecektir. Kongre düzeninin sağlanabilmesi için yaka kartlarının
-                                    sürekli takılması rica olunur.
-                                </p>
-							</div>
-						</div><!-- /Testimonial 3 -->
-						<div class="testimonial">
-							<div class="description">
-                                <p>
-                                    <b>Katılım Sertifikası: </b><br>
-                                    Tüm katılımcılar katılım sertifikalarını 23 Mayıs 2025 tarihinde saat 12:00 itibariyle
-                                    online gönderilmeye başlanacaktır
-                                </p>
-							</div>
-						</div><!-- /Testimonial 3 -->
-                        <div class="testimonial">
-							<div class="description">
-                                <p>
-                                    <b>İzinler: </b><br>
-                                    Kongre katılımı için kurumlara verilmek üzere talep edilecek kongre davet yazıları Kongre
-                                    Sekreterliği aracılığı ile isteyen katılımcılara gönderilecektir. Bu tür davet yazıları sadece izin
-                                    amacı ile kullanılabilir. Bu tür davet mektubu sahibi misafirlerin kayıt ve konaklama ücretleri
-                                    kendilerine aittir.
-                                </p>
-							</div>
-						</div><!-- /Testimonial 3 -->
-
-					</div><!--/Testimonial Slider -->
-				</div><!--/container -->
-			</section><!-- /Section -->
-		</div><!-- /main-->
-
-    <?php include("footer.php") ?>
-
-	</div><!-- /page-width -->
-    <?php include("script.php") ?>
-    <?php include("popup.php") ?>
-</body>
+        <?php include('script.php') ?>
+<!--        --><?php //include("popup.php") ?>
+    </body>
 </html>

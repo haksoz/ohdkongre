@@ -1,41 +1,48 @@
-<footer>
+<div class="footer1-sertion-area">
     <div class="container">
-        <div class="d-flex justify-content-around flex-wrap">
-            <div class="col-md-4 res-margin">
-                <ul class="list-unstyled footer-icons">
-                    <img alt="" class="res-margin center-block footer-logo" src="/doc/onkoloji-hemsireligi-dernegi-logo.png">
-                    <li style="margin-top: 10px">
-                        <i class="fa fa-envelope"></i><b>Email</b>
-                        <a href="mailto:ohdkongre@gmail.com" target="_blank">ohdkongre@gmail.com</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-4 res-margin">
-                <ul class="list-unstyled footer-icons">
-                    <img alt="" class="res-margin center-block footer-logo" src="/doc/bosphorusmice.jpeg">
-                    <li style="margin-top: 10px">
-                        <i class="fa fa-map-marker"></i><b>Address:</b>
-                        Koşuyolu Mah. İsmailpaşa Sok, No:42/1, 34718, Kadıköy, İstanbul, Türkiye
-                    </li>
-                    <li>
-                        <i class="fa fa-phone"></i><b>Tel:</b>
-                        <a href="tel:+902162350686"> +90 216 235 06 86 </a>
-                    </li>
-                    <li>
-                        <i class="fa fa-envelope"></i><b>E-Mail:</b>
-                        <a href="mailto:salih.gonca@bosphorusmice.net"> salih.gonca@bosphorusmice.net</a>
-                    </li>
-                </ul>
+        <div class="row justify-content-md-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="link-content2">
 
+                    <div class="space12"></div>
+                    <img src="../doc/ohd-logo.png" alt="" style="max-height: 126px;" />
+                    <div class="space12"></div>
+                    <ul>
+
+                        <li>
+                            <a href="mailto:ohdkongre@gmail.com"><img src="assets/img/icons/mail1.svg" alt="" />ohdkongre@gmail.com</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="link-content2">
+                    <div class="space12"></div>
+                    <img src="../doc/bosphorusmice.jpeg" alt="" />
+                    <div class="space12"></div>
+                    <ul>
+                        <li>
+                            <a href="#">Koşuyolu Mah. İsmailpaşa Sok, No:42/1, 34718, Kadıköy, İstanbul, Türkiye</a>
+                        </li>
+                        <li>
+                            <a href="mailto:ohdkongre@bosphorusmice.net"><img src="/2026/assets/img/icons/mail1.svg" alt="" />ohdkongre@bosphorusmice.net</a>
+                        </li>
+                        <li>
+                            <a href="tel:+902162350686"><img src="/2026/assets/img/icons/phn1.svg" alt="" />+90 216 235 06 86</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="space20"></div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="copyright">
+                    <p><a href="https://ko.com.tr/" target="_blank">&copy; 2025 - Kapital Online</a>
+                    </p>
+                </div>
             </div>
         </div>
     </div>
-    <div class="credits text-center">
-        <hr>
-        <span class="text-white">Copyright © 2024 -</span>
-        <a href="https://ko.com.tr" target="_blank">Kapital Online</a>
-        <div class="page-scroll hidden-sm hidden-xs">
-            <a class="back-to-top" href="#page-top"><i class="fa fa-angle-up"></i></a>
-        </div>
-    </div>
-</footer>
+</div>

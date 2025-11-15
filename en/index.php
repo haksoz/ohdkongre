@@ -1,142 +1,162 @@
 <!DOCTYPE html>
-<html lang="EN">
-<?php $page = 'index'; ?>
-<head>
-    <title>1st International Oncology Nursing Association Congress | Home</title>
-    <?php include("head.php") ?>
-</head>
-<body data-spy="scroll" data-target=".navbar-custom" id="page-top">
+<html lang="TR">
+    <?php $page = 'index'; ?>
+    <?php $pageTitle = 'Homepage'; ?>
 
-<!-- Preloader  -->
-<div id="preloader">
-    <div class="spinner">
-        <div class="bounce1"></div>
-        <div class="bounce2"></div>
-        <div class="bounce3"></div>
-    </div>
-</div><!-- /Preloader ends -->
-<div id="page-width">
-    <?php include ("header.php") ?>
-    <!-- Home Page -->
-    <div class="home" id="main">
-        <div class="relative">
-            <img class="banner-img banner-desktop" src="/doc/ohd-slider-en.png" alt="">
-            <img class="banner-img banner-mobil" src="/doc/ohd-slider-en.png" alt="">
-        </div>
-        <!-- Section Services -->
-        <section >
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-12 wow fadeInLeft news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInLeft;">
-                        <a href="/en/registration-accommodation.php">
-                            <div class="serviceBox bg-color2" style="padding:4px 0 4px 0; margin-top: 0px;">
-                                <!-- service image-->
-                                <div class="service-content text-light">
-                                    <h4 class="title" style="padding-left: 0px; padding-right: 0px;">Registration & Accommodation</h4>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-12 wow fadeInRight news-addon-one animated" data-wow-delay="0ms" style="visibility: visible; animation-delay: 0ms; animation-name: fadeInRight;">
-                        <a href="/en/program.php">
-                            <div class="serviceBox bg-color1" style="padding-right: 0px; padding-left: 0px; margin-top: 0px;">
-                                <!-- service image-->
-                                <div class="service-content text-light">
-                                    <h4 class="title" style="padding-left: 0px; padding-right: 0px;">Scientific Program</h4>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 wow fadeInLeft news-addon-one animated" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInLeft;">
-                        <a href="/doc/ohd-abstract-book.pdf" target="_blank">
-                            <div class="serviceBox bg-color3" style="padding-right: 0px; padding-left: 0px; margin-top: 0px;">
-                                <div class="service-content text-light">
-                                    <h4 class="title" style="padding-left: 0px; padding-right: 0px;">Abstract Book</h4>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
+	<?php include('head.php') ?>
+	<body class="homepage2-body">
+		
 
-                </div>
-            </div>
-        </section>
+		<!--===== PAGE PROGRESS START=======-->
+		<div class="paginacontainer">
+			<div class="progress-wrap">
+				<svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+					<path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+				</svg>
+			</div>
+		</div>
+		<!--===== PAGE PROGRESS END=======-->
+        <?php include('header.php') ?>
 
-        <section class="container">
-            <!-- Section heading -->
+		<!--===== HERO AREA STARTS =======-->
+		<div class="hero2-slider-area" style="background-color: #604c58">
+			<div class="her2-section-area">
 
-            <div class="section-heading">
-                <h2>Invitation</h2><!-- divider -->
-                <div class="hr"></div>
-            </div>
-            <?php include("invitation-text.php") ?>
+				<img src="../assets/img/elements/elements10.png" alt="" class="elements10" />
+				<img src="../assets/img/elements/elements11.png" alt="" class="elements11" />
 
-        </section><!-- /section  -->
+				<div class="img1">
+					<img src="../doc/slider-01.png" alt="" />
+				</div>
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-1">
+						</div>
+						<div class="col-lg-6">
+							<div class="hero2-header">
+								
+								<img src="../doc/slider-01-metin-en.png" alt="" />
 
-        <section class="container-fluid small-section" id="testimonials">
-            <div class="section-heading">
-                <h2 class="text-light">General Information</h2><!-- divider -->
-                <div class="hr"></div>
-            </div><!-- Testimonial Slider -->
-            <div class="container">
-                <div class="owl-carousel" id="testimonial-slider">
-                    <!-- Testimonial 1 -->
-                    <div class="testimonial">
-                        <div class="description">
-                            <p>
-                                <b>Congress Date and Place:</b><br>
-                                The 1st International Oncology Nursing Association Congress will be held between 21-25 May 2025 at Ankara Gazi University Rectorate Campus Technology Faculty Tashkent Building Congress Halls.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="testimonial">
-                        <div class="description">
-                            <p>
-                                <b>Badge: </b> <br>
-                                All participants and accompanying persons are required to wear their badges at the entrance to the congress centre, during scientific sessions, stand areas and other social programmes in order to ensure the healthy running and safety of the congress. Guests without badges will not be able to participate in congress activities.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="testimonial">
-                        <div class="description">
-                            <p>
-                                <b>Certificate of Participation: </b><br>
-                                PartiParticipation certificates will be sent digitally to all participants of the scientific programme to those who complete and submit the online questionnaire after the Congress.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="testimonial">
-                        <div class="description">
-                            <p>
-                                <b>Letter of Invitation: </b><br>
-                                An invitation letter will be sent to the congress participants who have completed the registration process upon request. This invitation letter is only intended to help the participants to obtain permission from the institutions to which they are affiliated and will not provide any financial support to the participant.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="testimonial">
-                        <div class="description">
-                            <p>
-                                <b>Exhibition Area: </b><br>
-                                During the congress, pharmaceutical and medical device companies will be able to exhibit their products in the area reserved for them in the symposium centre. The exhibition area will be open throughout the congress.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="testimonial">
-                        <div class="description">
-                            <p>
-                                <b>Organiser: </b><br>
-                                The Organising Committee has appointed Bosphorus Mice as the Official Agent of the Meeting. We kindly ask you to contact Bosphorus Mice for any request within the framework of the meeting.
-                            </p>
-                        </div>
-                    </div>
+								<div class="timer">
+									<div class="time-box">
+										<span id="days" class="time-value"></span>
+										<div class="space8"></div>
+									</div>
+									<div class="space14"></div>
+									<div class="time-box">
+										<span id="hours" class="time-value"></span>
+										<div class="space8"></div>
+									</div>
+									<div class="space14"></div>
+									<div class="time-box">
+										<span id="minutes" class="time-value"></span>
+										<div class="space8"></div>
+									</div>
+									<div class="space14"></div>
+									<div class="time-box" style="margin: 0">
+										<span id="seconds" class="time-value"></span>
+										<div class="space8"></div>
+									</div>
+								</div>
 
-                </div><!--/Testimonial Slider -->
-            </div><!--/container -->
-        </section><!-- /Section -->
-    </div><!-- /main-->
+							</div>
+						</div>
+						<!--
+						<div class="col-lg-3">
+							<div class="arrow-btn">
+								<div class="about-btnarea">
+									<img src="doc/logolar.png" style="max-width: 645px;">
+								</div>
+							</div>
+						</div>
+					-->
+					</div>
+				</div>
+			</div>
 
-    <?php include("footer.php") ?>
+		</div>
+		<div class="testimonial-arrows">
+			<div class="testimonial-prev-arrow">
+				<button><i class="fa-solid fa-angle-left"></i></button>
+			</div>
+			<div class="testimonial-next-arrow">
+				<button><i class="fa-solid fa-angle-right"></i></button>
+			</div>
+		</div>
+		<!--===== HERO AREA ENDS =======-->
 
-</div><!-- /page-width -->
-<?php include("script.php") ?>
-</body>
+		<!--===== ABOUT AREA STARTS =======-->
+		<div class="about3-section-area sp1">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-lg-12">
+						<div class="about-header heading5">
+							<div class="space18"></div>
+							<h2 class="text-anime-style-3">Invitation</h2>
+							<div class="space18"></div>
+							<p>
+Dear Colleagues,
+</p>
+<div class="space12"></div>
+<p>
+It is my great pleasure and honour to invite you to <b>the 2nd International Oncology Nursing Association Congress,</b> which will be held on May 7-9, 2026, and hosted by Istanbul Bilgi University.
+</p>
+<div class="space12"></div>
+<p>
+<b>The 1st International Oncology Nursing Association Congress,</b> held last year in Ankara, created a significant impact in the field of oncology nursing through your strong interest and invaluable contributions. Building on the experience and insight gained from that remarkable gathering, we are moving forward this year with broader participation and enriched scientific content.
+</p>
+<div class="space12"></div>
+<p>
+This year, we are organising our congress around a theme that best reflects the essence of oncology nursing: <b>“Strength, Science, and Compassion: Oncology Nursing.”</b>
+</p>
+<div class="space12"></div>
+<p>
+This theme brings together three universal values at the core of our profession<b>-empowerment through scientific knowledge, compassionate and humane care, and the strengthening of professional identity.</b> In advancing cancer care guided by science, we also aim to reaffirm the essential value that compassion brings to human life. Throughout the congress, we will provide a strong platform for sharing knowledge, discussion, and collaboration under the following subthemes:
+</p>
+<div class="space12"></div>
+<p>
+	<ul>
+		<li>•	Scientific Innovations and Integration into Clinical Practice</li>
+		<li>•	Empathy, Meaning, and Compassion-Based Care</li>
+		<li>•	Digital Transformation, Innovative Technologies, and Clinical Decision Support Systems</li>
+		<li>•	Multidisciplinary Collaboration and Holistic Patient-Centred Care</li>
+		<li>•	Global Collaborations in Oncology Nursing</li>
+		<li>•	Leadership, Empowerment, and Professional Identity</li>
+	</ul>
+</p>
+<div class="space12"></div>
+<p>
+The congress will bring together oncology nurses, academicians, patient associations, multidisciplinary healthcare teams, young researchers, and students to exchange knowledge and experiences. Through inspiring <b>“Success Stories”</b> sessions, we will witness how nurses touch the lives of individuals living with cancer. By integrating scientific innovation, digital transformation, cultural sensitivity, and compassion-centred approaches, this congress will serve as a significant milestone in shaping the future of oncology nursing.
+</p>
+<div class="space12"></div>
+<p>
+We would be truly delighted to welcome you to this meaningful event, where you can learn, share, and grow together. Let us build the future of oncology nursing, guided by science and inspired by compassion.
+</p>
+<div class="space12"></div>
+<p>
+With warm regards,
+</p>
+<div class="space12"></div>
+<p>
+	<br>
+Prof. Perihan GÜNER<br>
+Congress President</p>
+
+
+
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--===== ABOUT AREA ENDS =======-->
+
+		<!--===== FOOTER AREA STARTS =======-->
+        <?php include('footer.php') ?>
+		<!--===== FOOTER AREA ENDS =======-->
+
+        <?php include('script.php') ?>
+	</body>
 </html>
