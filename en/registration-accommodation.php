@@ -144,6 +144,51 @@
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-lg-12 m-auto">
+                        <div class="heading2 text-center space-margin60">
+                            <h3> Bank Account Details
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 m-auto ">
+                        <div class="our-team-boxarea">
+                            <div class="content-area">
+                                <table class="table table-bordered table-striped table-hover">
+                                    <colgroup>
+                                        <col span="1" style="width: 33%;">
+                                        <col span="1" style="width: 66%;">
+                                    </colgroup>
+                                    <thead>
+                                    <tr>
+                                        <th style="" colspan="2">BANK ACCOUNT DETAILS
+                                        </th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <tr>
+                                        <td>Beneficiary </td>
+                                        <td>Bosphorus Congress Organization Events and Consultancy Services</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Bank</td>
+                                        <td>Garanti BBVA</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Branch</td>
+                                        <td>Koşuyolu (1016)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>IBAN (TRY)</td>
+                                        <td>TR19 0006 2001 0160 0006 2958 37</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
 
