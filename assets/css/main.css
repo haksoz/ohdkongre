@@ -24418,3 +24418,16 @@ html {
   box-shadow: 5px 6px 12px 7px rgba(153, 153, 153, 0.22); /* Gölge efekti */
 }
 
+.contact-footer .footer1-sertion-area{
+  min-height: 50vh;
+}
+.copyright {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  left: 0;
+}
+.copyright p{
+  margin-bottom: 20px;
+}

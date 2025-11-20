@@ -60,7 +60,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 m-auto">
-                        <div class="heading2 text-center space-margin60">
+                        <div class="heading2 text-center pt-5 space-margin60">
                             <h2> İletişim</h2>
                         </div>
                     </div>
@@ -68,7 +68,10 @@
             </div>
         </div>
 
+        <div class="contact-footer">
         <?php include('footer.php') ?>
+        </div>
         <?php include('script.php') ?>
+        
 	</body>
 </html>
