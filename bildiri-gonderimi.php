@@ -70,6 +70,11 @@
                     <div class="col-md-12">
                         <div class="our-team-boxarea bildiri-gonderimi">
                             <div class="content-area text-start">
+                                <div class="text-center">
+                                    <a href="https://www.abstractmodule.com/2026ohdkongre/?plng=tur" target="_blank" class="abstract-button">
+                                        <img src="/doc/abs.png">
+                                    </a>
+                                </div>
                                 <h3>1. Bildiri Gönderim Kuralları</h3>
                                 <ol>
                                     <li>Bildiriler yalnızca kongre web sitesi üzerinden Online Bildiri Sistemi aracılığıyla gönderilebilecektir.
