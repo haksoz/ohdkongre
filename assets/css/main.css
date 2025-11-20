@@ -24357,4 +24357,53 @@ html {
   padding-top: 10px !important;
 }
 
+/*============= LIST STYLES FOR BILDIRI PAGES ===============*/
+.bildiri-gonderimi.our-team-boxarea .content-area ol {
+  list-style-type: decimal !important;
+  padding-left: 25px !important;
+  margin-bottom: 20px !important;
+}
+
+.bildiri-gonderimi.our-team-boxarea .content-area ol li {
+  list-style-type: decimal !important;
+  margin-bottom: 10px !important;
+  line-height: 1.6 !important;
+  display: list-item !important;
+}
+
+.bildiri-gonderimi.our-team-boxarea .content-area ul {
+  list-style-type: disc !important;
+  padding-left: 25px !important;
+  margin-bottom: 20px !important;
+}
+
+.bildiri-gonderimi.our-team-boxarea .content-area ul li {
+  list-style-type: disc !important;
+  margin-bottom: 8px !important;
+  line-height: 1.6 !important;
+  display: list-item !important;
+}
+
+.bildiri-gonderimi.our-team-boxarea .content-area ol ul,
+.bildiri-gonderimi.our-team-boxarea .content-area ul ul {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  list-style-type: circle !important;
+}
+
+.bildiri-gonderimi.our-team-boxarea .content-area ol ul li,
+.bildiri-gonderimi.our-team-boxarea .content-area ul ul li {
+  list-style-type: circle !important;
+}
+
+.bildiri-gonderimi.our-team-boxarea .content-area h3 {
+  margin-top: 30px !important;
+  margin-bottom: 20px !important;
+}
+
+.bildiri-gonderimi.our-team-boxarea .content-area h4 {
+  margin-top: 20px !important;
+  margin-bottom: 15px !important;
+}
+
 
