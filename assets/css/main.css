@@ -29459,13 +29459,13 @@ html {
 .contact-footer .footer1-sertion-area {
   min-height: 50vh;
 }
-.contact-footer.copyright {
+.contact-footer .copyright {
   position: absolute;
   bottom: 0;
   width: 100%;
   text-align: center;
   left: 0;
 }
-.contact-footer.copyright p {
+.contact-footer .copyright p {
   margin-bottom: 20px;
 }
