@@ -88,28 +88,28 @@
                                         <col span="1" style="width: 25%;">
                                         <col span="1" style="width: 25%;">
                                     </colgroup>
-                                    <thead>
+                                    <thead style="background-color: #604c59; color: #ffffff;">
                                         <tr>
-                                            <th style="">Kayıt Tipi</th>
-                                            <th>Erken Kayıt Ücreti</th>
-                                            <th>Kayıt Ücreti</th>
+                                            <th style="vertical-align: middle;">Kayıt Tipi</th>
+                                            <th>Erken Kayıt Ücreti <br> <span style="font-weight: normal;">7 Nisan ve Öncesi</span></th>
+                                            <th>Kayıt Ücreti <br> <span style="font-weight: normal;">7 Nisan Sonrası</span></th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>Dernek Üyesi </td>
+                                            <td>Dernek Üyesi Kayıt </td>
                                             <td>9.500 TL</td>
                                             <td>10.500 TL</td>
                                         </tr>
                                         <tr>
-                                            <td>Dernek Üyesi Olmayan</td>
+                                            <td>Dernek Üyesi Olmayan Kayıt</td>
                                             <td>10.500 TL</td>
                                             <td>11.500 TL</td>
                                         </tr>
                                         <tr>
-                                            <td>Öğrenci (Lisans Öğrencisi, herhangi bir yerde çalışmadığını bir dilekçe ile beyan eden yüksek lisans ve doktora öğrencileri)</td>
-                                            <td>3.000 TL</td>
-                                            <td>4.000 TL</td>
+                                            <td>Lisans ve Lisansüstü Öğrenci Kayıt  <br>(Öğrenci Belgesi gerekmektedir.)</td>
+                                            <td style="vertical-align: middle;">3.000 TL</td>
+                                            <td style="vertical-align: middle;">4.000 TL</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -156,7 +156,7 @@
                                         <col span="1" style="width: 33%;">
                                         <col span="1" style="width: 66%;">
                                     </colgroup>
-                                    <thead>
+                                    <thead style="background-color: #604c59; color: #ffffff;">
                                     <tr>
                                         <th style="" colspan="2">HESAP BİLGİLERİ</th>
                                     </tr>
