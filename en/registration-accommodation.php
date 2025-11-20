@@ -90,28 +90,28 @@
                                         <col span="1" style="width: 25%;">
                                         <col span="1" style="width: 25%;">
                                     </colgroup>
-                                    <thead>
+                                    <thead style="background-color: #604c59; color: #ffffff;">
                                         <tr>
-                                            <th style="">Registration Type</th>
-                                            <th>Early Registration Fee</th>
-                                            <th>Registration Fee</th>
+                                            <th style="vertical-align: middle;">Registration Type</th>
+                                            <th>Early Registration Fee <br> <span style="font-weight: normal;">Before April 7</span></th>
+                                            <th>Registration Fee <br> <span style="font-weight: normal;">After April 7</span></th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>Member of the Association</td>
+                                            <td>Association Member Registration</td>
                                             <td>9.500 TL</td>
                                             <td>10.500 TL</td>
                                         </tr>
                                         <tr>
-                                            <td>Non-Member of the Association</td>
+                                            <td>Non-Association Member Registration</td>
                                             <td>10.500 TL</td>
                                             <td>11.500 TL</td>
                                         </tr>
                                         <tr>
-                                            <td>Undergraduate students</td>
-                                            <td>3.000 TL</td>
-                                            <td>4.000 TL</td>
+                                            <td>Undergraduate and Graduate Student Registration <br>(Student Certificate Required)</td>
+                                            <td style="vertical-align: middle;">3.000 TL</td>
+                                            <td style="vertical-align: middle;">4.000 TL</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -159,10 +159,9 @@
                                         <col span="1" style="width: 33%;">
                                         <col span="1" style="width: 66%;">
                                     </colgroup>
-                                    <thead>
+                                    <thead style="background-color: #604c59; color: #ffffff;">
                                     <tr>
-                                        <th style="" colspan="2">BANK ACCOUNT DETAILS
-                                        </th>
+                                        <th style="" colspan="2">BANK ACCOUNT DETAILS</th>
                                     </tr>
                                     </thead>
                                     <tbody>
