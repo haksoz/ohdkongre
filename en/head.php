@@ -47,8 +47,8 @@
     <link rel="stylesheet" href="../assets/css/vendor/slick-slider.css" />
     <link rel="stylesheet" href="../assets/css/vendor/nice-select.css" />
     <link rel="stylesheet" href="../assets/css/vendor/odometer.css" />
-    <link rel="stylesheet" href="../assets/css/main.css?v=10" />
-    <link rel="stylesheet" href="../assets/css/main-en.css?v=10" />
+    <link rel="stylesheet" href="../assets/css/main.css?v=11" />
+    <link rel="stylesheet" href="../assets/css/main-en.css?v=11" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
