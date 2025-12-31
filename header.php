@@ -1,6 +1,11 @@
 <!--=====HEADER START=======-->
 <header>
     <div class="header-area homepage2 header header-sticky d-none d-lg-block" id="header">
+        <div class="top-info-bar">
+            <a href="ulasim.php" class="info-bar-link">
+                <p class="">İstanbul Bilgi Üniversitesi SantralIstanbul Kampüsü'ne nasıl gelebilirim?</p>
+            </a>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-1" style="padding:0px;">
@@ -76,7 +81,12 @@
 <!--=====HEADER END =======-->
 
 <!--===== MOBILE HEADER STARTS =======-->
-<div class="mobile-header mobile-haeder2 d-block d-lg-none">
+<div class="mobile-header mobile-haeder2 d-block d-lg-none" style="padding-top:0px;">
+    <div class="top-info-bar" style="margin-bottom:15px;">
+        <a href="ulasim.php" class="info-bar-link">
+            <p class="">İstanbul Bilgi Üniversitesi SantralIstanbul Kampüsü'ne nasıl gelebilirim?</p>
+        </a>
+     </div>
     <div class="container-fluid">
         <div class="col-12">
             <div class="mobile-header-elements">
