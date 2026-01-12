@@ -151,6 +151,6 @@ Kongre Başkanı</p>
 		<!--===== FOOTER AREA ENDS =======-->
 
         <?php include('script.php') ?>
-<!--        --><?php //include("popup.php") ?>
+      <?php include("popup.php") ?>
     </body>
 </html>
