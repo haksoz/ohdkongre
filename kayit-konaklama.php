@@ -175,11 +175,50 @@
                                 <p>Rezervasyon ve fiyat bilgisi için: <a href="https://www.movenpickistanbulgoldenhorn.com/tr/" target="_blank">movenpickistanbulgoldenhorn.com/</a></p>
                             </div>
                             
-                            <!-- Beyoğlu Öğretmenevi -->
+                            <!-- İstanbul Konukevleri ve Misafirhaneleri -->
                             <div class="mb-5">
-                                <h4 class="mb-3" style="color: #604c59;">Beyoğlu Öğretmenevi</h4>
-                                <p><strong>Kongre merkezi ile arası yaklaşık 1 km mesafedir.</strong></p>
-                                <p>Rezervasyon ve fiyat bilgisi için: <a href="https://beyogluogretmenevi.meb.k12.tr/tema/index.php" target="_blank">beyogluogretmenevi.meb.k12.tr</a></p>
+                                <h4 class="mb-3" style="color: #604c59;">İstanbul Konukevleri ve Misafirhaneleri</h4>
+
+                                <h5 class="mt-4" style="color: #604c59;">Öğretmenevleri</h5>
+                                <ul>
+                                    <li>İstanbul Bahçelievler Öğretmenevi</li>
+                                    <li>İstanbul Beyoğlu Öğretmenevi</li>
+                                    <li>İstanbul Fatih Öğretmenevi</li>
+                                    <li>İstanbul Şişli Öğretmenevi</li>
+                                </ul>
+
+                                <h5 class="mt-4" style="color: #604c59;">PTT Misafirhaneleri</h5>
+                                <ul>
+                                    <li>İstanbul Üsküdar PTT Misafirhanesi</li>
+                                    <li>İstanbul Beyoğlu PTT Misafirhanesi</li>
+                                </ul>
+
+                                <h5 class="mt-4" style="color: #604c59;">Teiaş (Tedaş) Misafirhaneleri</h5>
+                                <ul>
+                                    <li>İstanbul Beşiktaş Teiaş Misafirhanesi</li>
+                                </ul>
+
+                                <h5 class="mt-4" style="color: #604c59;">Üniversite Misafirhaneleri</h5>
+                                <ul>
+                                    <li>Marmara Üniversitesi Misafirhanesi</li>
+                                    <li>Yıldız Teknik Üniversitesi Misafirhanesi</li>
+                                    <li>Boğaziçi Üniversitesi Misafirhanesi</li>
+                                    <li>İstanbul Üniversitesi Misafirhanesi</li>
+                                    <li>İstanbul Teknik Üniversitesi Sosyal Tesisleri</li>
+                                </ul>
+
+                                <h5 class="mt-4" style="color: #604c59;">Diğer Konukevleri</h5>
+                                <ul>
+                                    <li>İlksan Taksim Konukevi</li>
+                                </ul>
+
+                                <h5 class="mt-4" style="color: #604c59;">Eklenen Diğer Misafirhaneler</h5>
+                                <ul>
+                                    <li>İstanbul Gümrük ve Ticaret Bölge Müdürlüğü Misafirhanesi – Bakırköy</li>
+                                    <li>İstanbul Beyoğlu Vakıf Konuk Evi</li>
+                                    <li>Eti Maden İstanbul Misafirhanesi – Fatih</li>
+                                    <li>İstanbul Atatürk DHMİ Misafirhanesi – Bakırköy</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -231,5 +270,17 @@
 
         <?php include('footer.php') ?>
         <?php include('script.php') ?>
+        <style>
+            ul li{
+                list-style: disc;
+                list-style-position: inside;
+                margin-left: 10px;
+            }
+            ul li::marker{
+                margin-left: 3px;
+                margin-right: 3px;
+
+            }
+        </style>
 	</body>
 </html>
