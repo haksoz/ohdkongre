@@ -134,16 +134,45 @@
                             <h3> Konaklama</h3>
                         </div>
                     </div>
-                    <!-- <div class="col-lg-12 m-auto">
-                        <div class="heading2 space-margin60">
-                            <ul>
-                                <li><i class="fa-solid fa-arrow-right"></i>Lütfen konaklama taleplerinizi için <a href="mailto:ohdkongre@bosphorusmice.net">ohdkongre@bosphorusmice.net</a> adresine iletiniz.</li>
-                            </ul>
-                        </div>
-                    </div> -->
-                    
-                    <!-- Otel Bilgileri -->
+                    <!-- Konaklama Ücretlendirme -->
                     <div class="col-lg-12 m-auto">
+                            <div class="our-team-boxarea row justify-content-center">
+                                <div class="content-area col-lg-8">
+                                    <table class="table table-bordered table-striped table-hover">
+                                        <colgroup>
+                                            <col span="1" style="width: 50%;">
+                                            <col span="1" style="width: 25%;">
+                                            <col span="1" style="width: 25%;">
+                                        </colgroup>
+                                        <thead style="background-color: #604c59; color: #ffffff;">
+                                        <tr>
+                                            <th colspan="3">2 Gece Paket</th>
+                                        </tr>
+                                            <tr>
+                                                <th style="vertical-align: middle;">Otel</th>
+                                                <th style="vertical-align: middle;">Tek Kişilik Oda</th>
+                                                <th style="vertical-align: middle;">Çift Kişilik Oda</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>Ramada by Wyndham Istanbul Alibeykoy</td>
+                                                <td>16.000 TL</td>
+                                                <td>18.000 TL</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <ul>
+                                <li><i class="fa-solid fa-arrow-right"></i>Konaklama ücretlerine %10 KDV ve %2 şehir vergisi ilave edilecektir.</li>
+                                <li><i class="fa-solid fa-arrow-right"></i>Fiyatlar, 2 gece paket için 07 Mayıs 2026 giriş, 9 Mayıs 2026 çıkış şeklindedir.</li>
+                                <li><i class="fa-solid fa-arrow-right"></i>Konaklama rezervasyonu, konaklama ücretinin tamamı ödendiğinde onaylanır. Konaklama rezervasyonunun onaylanması için lütfen ödeme makbuzunuzu Organizasyon Sekretaryası'na e-mail olarak gönderiniz.</li>
+                            </ul>
+                    </div>
+
+                    <!-- Otel Bilgileri -->
+                    <div class="col-lg-12 m-auto hotel-info">
                         <div class="space-margin60">
                             <!-- Clarion Hotel Golden Horn -->
                             <div class="mb-5">
@@ -271,12 +300,12 @@
         <?php include('footer.php') ?>
         <?php include('script.php') ?>
         <style>
-            ul li{
+            .hotel-info ul li{
                 list-style: disc;
                 list-style-position: inside;
                 margin-left: 10px;
             }
-            ul li::marker{
+           .hotel-info ul li::marker{
                 margin-left: 3px;
                 margin-right: 3px;
 
