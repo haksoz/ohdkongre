@@ -128,6 +128,105 @@
                         </div>
                     </div>
                 </div>
+                <div class="row justify-content-center w-100">
+                    <div class="col-lg-12 m-auto">
+                        <div class="heading2 text-center space-margin60">
+                            <h3> Kurslar</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-10">
+                        <div class="our-team-boxarea">
+                            <div class="content-area">
+                                <table class="table table-bordered table-striped table-hover">
+                                    <colgroup>
+                                        <col span="1" style="width: 15%;">
+                                        <col span="1" style="width: 70%;">
+                                        <col span="1" style="width: 15%;">
+                                    </colgroup>
+                                    <thead style="background-color: #604c59; color: #ffffff;">
+                                        <tr>
+                                            <th style="vertical-align: middle;">Süre</th>
+                                            <th style="vertical-align: middle;">Kurs Adı</th>
+                                            <th style="vertical-align: middle;">Kayıt Ücreti</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>Temel Palyatif Bakım Hemşireliği Kursu</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>Onkolojide Ağrı Yönetimi Kursu</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>Onkoloji Hemşirelerini Güçlendirme; Mindfulness- Öz Şefkat -Nefes-Psikodrama</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Yarım gün</td>
+                                            <td>Kişilerarası İlişkiler Psikoterapisi (KİPT) Temelli Yaklaşımın Onkoloji Hemşireliğinde Kullanımı</td>
+                                            <td>2.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>Pediatri Onkoloji Hemşireliğinde Kanıta Dayalı Uygulamalar</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>Onkoloji Hemşireliğinde Temel Kanser Eğitimi Kursu</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>İmmünoterapi Kursu</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>Kanserde Tamamlayıcı ve Bütünleşik Sağlık Uygulamaları</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>Meme Kanseri Yolculuğunu Anlamak: Sağ Kalımı Güçlendiren Bütüncül Bakım ve Uzun Yaşam Stratejileri</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>Radyasyon Onkolojisi Hemşireliğinde İnteraktif Beceri Eğitimi</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>Temel Düzey Kök Hücre Nakli Hemşireliği Kursu</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Yarım gün</td>
+                                            <td>Terapötik Aferez Hemşireliği Kursu</td>
+                                            <td>2.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>Geriatrik Kanserlerde Kapsamlı Değerlendirme</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                        <tr>
+                                            <td>1 gün</td>
+                                            <td>Jinekolojik Onkoloji Hemşireliği Kursu</td>
+                                            <td>3.000 TL</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-lg-12 m-auto">
                         <div class="heading2 text-center space-margin60">
