@@ -67,85 +67,83 @@
                             <div class="content-area">
                                 <table class="table table-bordered table-striped table-hover">
                                     <colgroup>
-                                        <col span="1" style="width: 15%;">
-                                        <col span="1" style="width: 70%;">
-                                        <col span="1" style="width: 15%;">
+                                        <col span="1" style="width: 80%;">
+                                        <col span="1" style="width: 20%;">
                                     </colgroup>
                                     <thead style="background-color: #604c59; color: #ffffff;">
                                         <tr>
-                                            <th style="vertical-align: middle;">Süre</th>
                                             <th style="vertical-align: middle;">Kurs Adı</th>
                                             <th style="vertical-align: middle; text-align: center;">Detay</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>Temel Palyatif Bakım Hemşireliği Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/temel-palyatif-bakim-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>Onkolojide Ağrı Yönetimi Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/onkolojide-agri-yonetimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>Onkoloji Hemşirelerini Güçlendirme; Mindfulness- Öz Şefkat -Nefes-Psikodrama Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/onkoloji-hemsirelerini-guclendirme-mindfulness-oz-sefkat-nefes-psikodrama.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>Yarım gün</td>
+
                                             <td>Kişilerarası İlişkiler Psikoterapisi (KİPT) Temelli Yaklaşımın Onkoloji Hemşireliğinde Kullanımı Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/kisilerarasi-iliskiler-psikoterapisi-kipt-temelli-yaklasimin-onkoloji-hemsireliginde-kullanimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>Pediatri Onkoloji Hemşireliğinde Kanıta Dayalı Uygulamalar Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/pediatri-onkoloji-hemsireliginde-kanita-dayali-uygulamalar-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>Onkoloji Hemşireliğinde Temel Kanser Eğitimi Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/onkoloji-hemsireliginde-temel-kanser-egitimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>İmmünoterapi Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/immunoterapi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>Kanserde Tamamlayıcı ve Bütünleşik Sağlık Uygulamaları Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/kanserde-tamamlayici-ve-butunlesik-saglik-uygulamalari-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>Meme Kanseri Yolculuğunu Anlamak: Sağ Kalımı Güçlendiren Bütüncül Bakım ve Uzun Yaşam Stratejileri Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/meme-kanseri-yolculugunu-anlamak-sagkalimi-guclendiren-butuncul-bakim-ve-uzun-yasam-stratejileri-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>Radyasyon Onkolojisi Hemşireliğinde İnteraktif Beceri Eğitimi Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/radyasyon-onkolojisi-hemsireliginde-interaktif-beceri-egitimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>Temel Düzey Kök Hücre Nakli Hemşireliği Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/temel-duzey-kok-hucre-nakli-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>Yarım gün</td>
+
                                             <td>Terapötik Aferez Hemşireliği Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/terapotik-aferez-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>Geriatrik Kanserlerde Kapsamlı Değerlendirme Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/geriatrik-kanserlerde-kapsamli-degerlendirme-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+
                                             <td>Jineonkoloji Hemşireliği Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/jineonkoloji-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
