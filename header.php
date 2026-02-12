@@ -1,3 +1,22 @@
+<?php
+// Otomatik sayfa tespiti - menü active class'ı için
+$currentFile = basename($_SERVER['PHP_SELF'], '.php');
+
+$pageMap = [
+    'index' => 'index',
+    'duzenleme-kurulu' => 'kurullar',
+    'bilimsel-kurul' => 'kurullar',
+    'genel-bilgiler' => 'genel-bilgiler',
+    'kayit-konaklama' => 'kayit-konaklama',
+    'kurslar' => 'kurslar',
+    'bilimsel-program' => 'bilimsel-program',
+    'bildiri-gonderimi' => 'bildiri-gonderimi',
+    'iletisim' => 'iletisim',
+    'kurullar' => 'kurullar'
+];
+
+$page = isset($pageMap[$currentFile]) ? $pageMap[$currentFile] : $currentFile;
+?>
 <!--=====HEADER START=======-->
 <header>
     <div class="header-area homepage2 header header-sticky d-none d-lg-block" id="header">
@@ -53,8 +72,8 @@
                     <div class="header-elements">
                         <div class="main-menu">
                             <ul>
-                                <li><a href="index.php">Anasayfa</a></li>
-                                <li>
+                                <li class="<?php echo $page == 'index' ? 'active' : '' ?>"><a href="index.php">Anasayfa</a></li>
+                                <li class="<?php echo $page == 'kurullar' ? 'active' : '' ?>">
                                     <a href="#">
                                         Kurullar
                                         <i class="fa-solid fa-angle-down"></i>
@@ -64,12 +83,12 @@
                                         <li><a href="bilimsel-kurul.php">Bilimsel Kurul</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
-                                <li><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
-                                <li><a href="kurslar.php">Kurslar</a></li>
-                                <li><a href="bilimsel-program.php">Bilimsel Program</a></li>
-                                <li><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
-                                <li><a href="iletisim.php">İletişim</a></li>
+                                <li class="<?php echo $page == 'genel-bilgiler' ? 'active' : '' ?>"><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
+                                <li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>"><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
+                                <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a href="kurslar.php">Kurslar</a></li>
+                                <li class="<?php echo $page == 'bilimsel-program' ? 'active' : '' ?>"><a href="bilimsel-program.php">Bilimsel Program</a></li>
+                                <li class="<?php echo $page == 'bildiri-gonderimi' ? 'active' : '' ?>"><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
+                                <li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>"><a href="iletisim.php">İletişim</a></li>
                             </ul>
                         </div>
                         <div class="body-overlay"></div>
@@ -133,20 +152,20 @@
     <div class="mobile-nav mobile-nav1">
         <ul class="mobile-nav-list nav-list1">
 
-            <li><a href="index.php">Anasayfa</a></li>
-            <li>
+            <li class="<?php echo $page == 'index' ? 'active' : '' ?>"><a href="index.php">Anasayfa</a></li>
+            <li class="<?php echo $page == 'kurullar' ? 'active' : '' ?>">
                 <a href="#">Kurullar</a>
                 <ul class="sub-menu">
                     <li><a href="duzenleme-kurulu.php">Düzenleme Kurulu</a></li>
                     <li><a href="bilimsel-kurul.php">Bilimsel Kurul</a></li>
                 </ul>
             </li>
-            <li><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
-            <li><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
-            <li><a href="kurslar.php">Kurslar</a></li>
-            <li><a href="bilimsel-program.php">Bilimsel Program</a></li>
-            <li><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
-            <li><a href="iletisim.php">İletişim</a></li>
+            <li class="<?php echo $page == 'genel-bilgiler' ? 'active' : '' ?>"><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
+            <li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>"><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
+            <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a href="kurslar.php">Kurslar</a></li>
+            <li class="<?php echo $page == 'bilimsel-program' ? 'active' : '' ?>"><a href="bilimsel-program.php">Bilimsel Program</a></li>
+            <li class="<?php echo $page == 'bildiri-gonderimi' ? 'active' : '' ?>"><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
+            <li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>"><a href="iletisim.php">İletişim</a></li>
 
         </ul>
     </div>

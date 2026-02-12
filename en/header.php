@@ -1,3 +1,21 @@
+<?php
+// Otomatik sayfa tespiti - menü active class'ı için
+$currentFile = basename($_SERVER['PHP_SELF'], '.php');
+
+$pageMap = [
+    'index' => 'index',
+    'organizing-committee' => 'committees',
+    'scientific-committee' => 'committees',
+    'general-info' => 'general-info',
+    'registration-accommodation' => 'registration-accommodation',
+    'scientific-program' => 'scientific-program',
+    'abstract-submission' => 'abstract-submission',
+    'contact' => 'contact',
+    'committees' => 'committees'
+];
+
+$page = isset($pageMap[$currentFile]) ? $pageMap[$currentFile] : $currentFile;
+?>
 <!--=====HEADER START=======-->
 <header>
     <div class="header-area homepage2 header header-sticky d-none d-lg-block" id="header">
@@ -49,8 +67,8 @@
                     <div class="header-elements">
                         <div class="main-menu">
                             <ul>
-                                <li><a href="/en/index.php">Homepage</a></li>
-                                <li>
+                                <li class="<?php echo $page == 'index' ? 'active' : '' ?>"><a href="/en/index.php">Homepage</a></li>
+                                <li class="<?php echo $page == 'committees' ? 'active' : '' ?>">
                                     <a href="#">
                                         Committees
                                         <i class="fa-solid fa-angle-down"></i>
@@ -60,11 +78,11 @@
                                         <li><a href="/en/scientific-committee.php">Scientific Committee</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="/en/general-info.php">Information</a></li>
-                                <li><a href="/en/registration-accommodation.php">Registration Accommodation</a></li>
-                                <li><a href="/en/scientific-program.php">Program</a></li>
-                                <li><a href="/en/abstract-submission.php">Abstract Submission</a></li>
-                                <li><a href="/en/contact.php">Contact</a></li>
+                                <li class="<?php echo $page == 'general-info' ? 'active' : '' ?>"><a href="/en/general-info.php">Information</a></li>
+                                <li class="<?php echo $page == 'registration-accommodation' ? 'active' : '' ?>"><a href="/en/registration-accommodation.php">Registration Accommodation</a></li>
+                                <li class="<?php echo $page == 'scientific-program' ? 'active' : '' ?>"><a href="/en/scientific-program.php">Program</a></li>
+                                <li class="<?php echo $page == 'abstract-submission' ? 'active' : '' ?>"><a href="/en/abstract-submission.php">Abstract Submission</a></li>
+                                <li class="<?php echo $page == 'contact' ? 'active' : '' ?>"><a href="/en/contact.php">Contact</a></li>
                             </ul>
                         </div>
                         <div class="body-overlay"></div>
@@ -124,19 +142,19 @@
     <div class="mobile-nav mobile-nav1">
         <ul class="mobile-nav-list nav-list1">
 
-            <li><a href="index.php">Homepage</a></li>
-            <li>
+            <li class="<?php echo $page == 'index' ? 'active' : '' ?>"><a href="index.php">Homepage</a></li>
+            <li class="<?php echo $page == 'committees' ? 'active' : '' ?>">
                 <a href="#">Committees</a>
                 <ul class="sub-menu">
                     <li><a href="/en/organizing-committee.php">Organizing Committee</a></li>
                     <li><a href="/en/scientific-committee.php">Scientific Committee</a></li>
                 </ul>
             </li>
-            <li><a href="/en/general-info.php">Information</a></li>
-            <li><a href="/en/registration-accommodation.php">Registration Accommodation</a></li>
-            <li><a href="/en/scientific-program.php">Scientific Program</a></li>
-            <li><a href="/en/abstract-submission.php">Abstract Submission</a></li>
-            <li><a href="/en/contact.php">Contact</a></li>
+            <li class="<?php echo $page == 'general-info' ? 'active' : '' ?>"><a href="/en/general-info.php">Information</a></li>
+            <li class="<?php echo $page == 'registration-accommodation' ? 'active' : '' ?>"><a href="/en/registration-accommodation.php">Registration Accommodation</a></li>
+            <li class="<?php echo $page == 'scientific-program' ? 'active' : '' ?>"><a href="/en/scientific-program.php">Scientific Program</a></li>
+            <li class="<?php echo $page == 'abstract-submission' ? 'active' : '' ?>"><a href="/en/abstract-submission.php">Abstract Submission</a></li>
+            <li class="<?php echo $page == 'contact' ? 'active' : '' ?>"><a href="/en/contact.php">Contact</a></li>
 
         </ul>
     </div>

@@ -29603,3 +29603,10 @@ html {
     padding-left:3%;
   }
 }
+.homepage2-body .header-area.homepage2 .header-elements .main-menu ul li.active > a{
+  color: var(--ztc-text-text-4) !important;
+}
+
+.mobile-nav li.active > a{
+  color: #ffffff !important;
+}
