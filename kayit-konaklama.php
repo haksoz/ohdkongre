@@ -128,7 +128,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row justify-content-center w-100">
+                <div class="row justify-content-center w-100 mb-5">
                     <div class="col-lg-12 m-auto">
                         <div class="heading2 text-center space-margin60">
                             <h3> Kurslar</h3>
@@ -223,8 +223,12 @@
                                         </tr>
                                     </tbody>
                                 </table>
+
                             </div>
                         </div>
+                    </div>
+                    <div class="col-md-12">
+                        <p><span class="text-red">*</span>Kurs kayıt ücretlerine kdv dahildir. Her kursun kontenjanı "kurslar" sekmesinde belirtilmiştir. Yeterli kontenjan sağlanamayan kurslar açılmayacaktır. Söz konusu kurslara kayıt olan kişiler açılan diğer kurslara kaydırılacaktır.</p>
                     </div>
                 </div>
                 <div class="row">
