@@ -9994,7 +9994,7 @@ html {
   color: var(--ztc-text-text-5);
   display: block;
   transition: all 0.4s;
-  padding: 0 26px;
+  padding: 0 16px;
 }
 .homepage2-body
   .header-area.homepage2
@@ -29383,7 +29383,7 @@ html {
 
 @media only screen and (min-width: 1201px) and (max-width: 1400px) {
   .homepage2-body .header-area.homepage2 .header-elements .main-menu ul li a {
-    padding: 0 18px;
+    padding: 0 10px;
   }
 }
 
@@ -29590,4 +29590,16 @@ html {
   color: #666;
   line-height: 1.6;
   margin: 0;
+}
+@media screen and (min-width: 991px) {
+  .homepage2-body .header-area.homepage2 .header-elements{
+    justify-content: center;
+  }
+}
+@media (min-width: 991px)  and (max-width: 1200px) {
+  .header-container{
+    max-width: none;
+    padding-right:3%;
+    padding-left:3%;
+  }
 }

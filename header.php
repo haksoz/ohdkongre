@@ -6,7 +6,7 @@
                 <p class="">İstanbul Bilgi Üniversitesi SantralIstanbul Kampüsü'ne nasıl gelebilirim?</p>
             </a>
         </div>
-        <div class="container">
+        <div class="container header-container">
             <div class="row">
                 <div class="col-lg-1" style="padding:0px;">
                     <div class="sol-logo" style="background-color: #ffffff; display: flex; align-items: center; height: 100%; border-radius: 0px 0px 0px 8px;">
@@ -66,6 +66,7 @@
                                 </li>
                                 <li><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
                                 <li><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
+                                <li><a href="kurslar.php">Kurslar</a></li>
                                 <li><a href="bilimsel-program.php">Bilimsel Program</a></li>
                                 <li><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
                                 <li><a href="iletisim.php">İletişim</a></li>
@@ -142,6 +143,7 @@
             </li>
             <li><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
             <li><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
+            <li><a href="kurslar.php">Kurslar</a></li>
             <li><a href="bilimsel-program.php">Bilimsel Program</a></li>
             <li><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
             <li><a href="iletisim.php">İletişim</a></li>
