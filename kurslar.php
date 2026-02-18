@@ -58,6 +58,7 @@
                     <div class="col-lg-12 m-auto">
                         <div class="heading2 text-center space-margin60">
                             <p>II. Uluslararası Onkoloji Hemşireliği Derneği Kongresi kapsamında düzenlenecek kurslar ve detayları aşağıda yer almaktadır. tablodaki göz ikonuna tıklayarak detaylarını inceleyebilirsiniz.</p>
+                            <h5 style="margin-top: 20px;text-transform: none;color:#ed1c25;">Kurslar için Son Başvuru Tarihi : 17 Nisan 2026 Cuma</h5>
                         </div>
                     </div>
                 </div>
