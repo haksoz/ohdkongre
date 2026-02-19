@@ -1,0 +1,312 @@
+/* TAB STYLES  */
+
+.ilkgun, .aragun{
+ margin-right: 10px;
+}
+.tabs {
+ display: flex;
+ justify-content: center;
+}
+
+.event_part .single_event_list {
+ background-color: #d3b37f;
+ margin-bottom: 10px !important;
+ position: relative;
+ display: flex;
+ align-items: center;
+ padding: 10px 10px;
+ border-radius: 5px;
+ -webkit-transition: .3s;
+ transition: .3s
+}
+.event_part .single_event_list:focus{
+ box-shadow: 0 3px 10px rgb(74 74 74 );
+}
+.event_part .single_event_list:hover {
+ box-shadow: 0px 0px 20px 3px rgb(162 162 162);
+}
+
+@media(max-width:767.98px) {
+ .event_part .single_event_list {
+  padding: 6px 10px;
+  margin-bottom: 6px !important;
+ }
+}
+@media only screen and (min-width:768px) and (max-width:991.98px) {
+ .event_part .single_event_list {
+  padding: 4px 10px
+ }
+}
+.event_part .single_event_list:last-child {
+ margin-bottom: 0
+}
+.event_part .single_event_list .event_date {
+ border: 1px solid #c5ab80;
+ background-color: #c5ab80;
+ color: #fff;
+ width: 75px;
+ height: 75px;
+ text-align: center;
+ border-radius: 50%;
+ font-size: 30px;
+ line-height: 20px;
+ display: flex;
+ align-items: center;
+ justify-content: center
+}
+@media(max-width:767.98px) {
+ .event_part .single_event_list .event_date {
+  height: 65px;
+  width: 65px
+ }
+}
+@media only screen and (min-width:768px) and (max-width:991.98px) {
+ .event_part .single_event_list .event_date {
+  height: 75px;
+  width: 75px
+ }
+}
+.event_part .single_event_list .event_date h3 {
+ color: #fff;
+ font-family: nunito, sans-serif;
+ margin-bottom: 0;
+ line-height: 25px;
+ font-weight: 700
+}
+@media(max-width:767.98px) {
+ .event_part .single_event_list .event_date h3 {
+  line-height: 20px
+ }
+}
+@media only screen and (min-width:768px) and (max-width:991.98px) {
+ .event_part .single_event_list .event_date h3 {
+  line-height: 20px
+ }
+}
+.event_part .single_event_list .event_date span {
+ font-size: 19px;
+ display: block;
+ font-weight: 400
+}
+@media(max-width:767.98px) {
+ .event_part .single_event_list .event_date span {
+  font-size: 14px
+ }
+}
+@media only screen and (min-width:768px) and (max-width:991.98px) {
+ .event_part .single_event_list .event_date span {
+  font-size: 14px
+ }
+}
+.event_part .single_event_list:nth-child(2) {
+ background-color: #72606b
+}
+.event_part .single_event_list:nth-child(2):focus {
+ box-shadow: 0px 0px 20px 3px rgb(162 162 162);
+}
+.event_part .single_event_list:nth-child(2) .event_date {
+ border: 1px solid #87757e;
+ background-color: #87757e
+}
+.event_part .single_event_list:nth-child(3) {
+ background-color: #379efd
+}
+.event_part .single_event_list:nth-child(3):focus {
+ box-shadow: 0px 0px 20px 3px rgb(162 162 162);
+}
+.event_part .single_event_list:nth-child(3) .event_date {
+ border: 1px solid #2493fa;
+ background-color: #2493fa
+}
+.event_part .single_event_list:nth-child(4) {
+ background-color: #ff6559
+}
+.event_part .single_event_list:nth-child(4):focus {
+ box-shadow: 0px 0px 20px 3px rgb(162 162 162);
+}
+.event_part .single_event_list:nth-child(4) .event_date {
+ border: 1px solid #fdb510;
+ background-color: #fdb510
+}
+.event_part .single_event_list:nth-child(5) {
+ background-color: #ff6559
+}
+.event_part .single_event_list:nth-child(5):focus {
+ box-shadow: 0px 0px 20px 3px rgb(162 162 162);
+}
+.event_part .single_event_list:nth-child(5) .event_date {
+ border: 1px solid #fdb510;
+ background-color: #fdb510
+}
+.event_part .single_event_list .event_content {
+ padding-left: 10px
+}
+.event_part .single_event_list .event_content h4 {
+ font-size: 18px;
+ font-family: nunito, sans-serif;
+ color: #fff;
+ margin-bottom: 0px;
+ font-weight: 700
+}
+@media(max-width:767.98px) {
+ .event_part .single_event_list .event_content h4 {
+  font-size: 18px
+ }
+}
+@media only screen and (min-width:768px) and (max-width:991.98px) {
+ .event_part .single_event_list .event_content h4 {
+  font-size: 18px
+ }
+}
+.event_part .single_event_list .event_content h4 a {
+ color: #fff
+}
+.event_part .single_event_list .event_content h4 a:hover {
+ opacity: .9
+}
+.event_part .single_event_list .event_content p {
+ color: #fff
+}
+.event_part .event_part_iner {
+ position: relative
+}
+.event_part .event_part_iner .event_img {
+ position: absolute;
+ left: -72px;
+ height: 100%
+}
+@media(max-width:767.98px) {
+ .event_part .event_part_iner .event_img {
+  display: none
+ }
+}
+.event_part .event_part_iner .event_img img {
+ height: 100%;
+ object-fit: cover;
+ border-radius: 5px;
+ background-color: #bfbfbf;
+ box-shadow: 0 5px 30px 0 rgba(254, 75, 123, .1)
+}
+@media only screen and (min-width:768px) and (max-width:991.98px) {
+ .event_part .event_part_iner .event_img img {
+  max-width: 87%
+ }
+}
+@media only screen and (min-width:992px) and (max-width:1199.98px) {
+ .event_part .event_part_iner .event_img img {
+  max-width: 87%
+ }
+}
+.event_part [class^=event_animation_], .event_part [class*=" event_animation_"] {
+ position: absolute;
+ z-index: -1
+}
+.event_part .event_animation_1 {
+ left: 5%;
+ top: 10%
+}
+@media(max-width:767.98px) {
+ .event_part .event_animation_1 {
+  left: 5%;
+  top: 0%
+ }
+}
+.event_part .event_animation_2 {
+ left: 5%;
+ top: 55%
+}
+.event_part .event_animation_3 {
+ right: 8%;
+ top: 28%
+}
+.event_part .event_animation_4 {
+ right: 8%;
+ top: 65%
+}
+
+
+.tabgroup div {
+ padding: 14px 10px 14px 10px;
+}
+.gun_title h2{
+ font-size: 22px;
+ font-family: nunito, sans-serif;
+ color: #fff;
+ font-weight: 700;
+ margin-bottom: 0px;
+}
+
+.gun_title {
+ border-radius: 5px;
+ text-align: center;
+}
+
+#first-tab-group ul {
+ border: 1px solid;
+ margin-top: 20px;
+ border-color: #fff;
+ padding: 0;
+
+}
+#first-tab-group li {
+ border: 1px solid;
+
+ border-color: #fff;
+ text-align: center;
+ display: flex;
+ align-items: center;
+ background-color: #72606b;
+ border-radius: 5px;
+}
+
+#first-tab-group li:hover {
+ box-shadow: 0 3px 10px rgb(0 0 0 / 50%);
+}
+#first-tab-group li:focus {
+ box-shadow: 0 3px 10px rgb(0 0 0 / 50%);
+}
+#first-tab-group li:after {
+ box-shadow: 0 3px 10px rgb(0 0 0 / 50%);
+}
+
+#first-tab-group li a{
+ display: flex;
+ align-items: center;
+ height: 100%;
+ width: 100%;
+ color: #fff;
+ padding: 10px;
+}
+
+#first-tab-group li a.active{
+ font-weight: bold;
+ background-color: white;
+ color: #72606b;
+ border: 2px solid #72606b;
+ border-radius: 5px;
+}
+.event_part p{
+ font-size: 14px;
+}
+
+
+
+
+@media(max-width:991px) {
+ .tabs{
+  display: block;
+ }
+ .mt-5, .my-5 {
+  margin-top: 1rem!important;
+ }
+ .ilkgun {
+  margin-right: 0px!important;
+ }
+ .aragun {
+  margin-right: 0px!important;
+ }
+
+ .songun {
+  margin-right: 0px!important;
+ }
+}
