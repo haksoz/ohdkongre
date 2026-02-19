@@ -130,7 +130,7 @@
                 }
 
                 .tg .tg-0pky2 {
-                    background-color: #72606b;
+                    background-color: #ecce9d;
                     text-align: left;
                     vertical-align: initial;
                     border-radius: 0;
