@@ -134,7 +134,7 @@
                     text-align: left;
                     vertical-align: initial;
                     border-radius: 0;
-                    color: #ffffff !important;
+                    color: #000000 !important;
                     border-right: 2px solid #fff;
                 }
 
