@@ -235,7 +235,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="2">10:00-10:30</td>
                                     <td class="tg-0pky2">Açılış Konferansı-1: Liderlik, Güçlendirme ve Profesyonel Kimlik<br>
-                                        <b>Oturum Başkanı:</b> Sultan Kav, Sevinç Kutlutürkan<br>
+                                        <b>Oturum Başkanları:</b> Sultan Kav, Sevinç Kutlutürkan<br>
                                     </td>
                                 </tr>
                                 <tr>
@@ -255,7 +255,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="4">11:00-12:00</td>
                                     <td class="tg-0pky2">Panel-1: Bilimsel ve Teknolojik Yeniliklerin Onkoloji Hemşireliğine Yansıması<br>
-                                        <b>Oturum Başkanı:</b> Ayfer Karadakovan, Nimet Ovayolu, Sebahat Ateş</td>
+                                        <b>Oturum Başkanları:</b> Ayfer Karadakovan, Nimet Ovayolu, Sebahat Ateş</td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky">
@@ -280,7 +280,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">12:00-12:30</td>
                                     <td class="tg-0pky2">Uydu Sempozyumu-1: Semptom Yönetiminde Kanıta Dayalı Çözüm Yolları<br>
-                                        <b>Oturum Başkanı:</b> Fatma Gundogdu, Derya Subaşı Sezgin<br>
+                                        <b>Oturum Başkanları:</b> Fatma Gündoğdu, Derya Subaşı Sezgin<br>
                                     </td>
                                 </tr>
                                 <tr>
@@ -306,7 +306,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">13:30-14:00</td>
                                     <td class="tg-0pky2">Konferans-2: Onkoloji Hemşireliğinde Küresel İşbirlikleri<br>
-                                        <b>Oturum Başkanı:</b> Özlem Ovayolu, Remziye Semerci
+                                        <b>Oturum Başkanları:</b> Özlem Ovayolu, Remziye Semerci
                                     </td>
                                 </tr>
                                 <tr>
@@ -326,11 +326,11 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="4">14:00-15:00</td>
                                     <td class="tg-0pky2">Panel-2: Psikososyal Bakımın Klinik Uygulamaya Entegrasyonu<br>
-                                        <b>Oturum Başkanı:</b> Besti Üstün, Ayşe Okanlı, Zeynep Karakuş
+                                        <b>Oturum Başkanları:</b> Besti Üstün, Ayşe Okanlı, Zeynep Karakuş
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky">
+                                    <td class="tg-0pky text-capitalize">
                                         Hasta perspektifinden umut ve umutsuzluk<br>
                                         <b>Konuşmacı:</b> Behice Belkıs Çalışkan
                                     </td>
@@ -338,7 +338,7 @@
                                 <tr>
                                     <td class="tg-0pky">
                                         Zorluktan güce Kanser hastalarında psikolojık dayanıklılık mekanizmaları<br>
-                                        <b>Konuşmacı:</b> Yeter Sinem Uçar
+                                        <b>Konuşmacı:</b> Yeter Sinem Üzar Özçetin
                                     </td>
                                 </tr>
                                 <tr>
@@ -358,7 +358,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">15:30-16:15</td>
                                     <td class="tg-0pky2">Panel -3: Onkoloji Hemşireliğinde Savunuculuk<br>
-                                        <b>Oturum Başkanı:</b> Öznur Usta Yeşil Balkan, Miray Aksu
+                                        <b>Oturum Başkanları:</b> Öznur Usta Yeşil Balkan, Miray Aksu
                                     </td>
                                 </tr>
                                 <tr>
@@ -369,7 +369,7 @@
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky">
-                                        Onkoloji Hemşireliğinin Savunuculuk Misyonunun Dönüşümü<br>
+                                        Onkoloji Hemşireliğinde Savunuculuk Misyonunun Dönüşümü<br>
                                         <b>Konuşmacı:</b> İlknur Yazıcıoğlu
                                     </td>
                                 </tr>
@@ -378,7 +378,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">16:15-17:00</td>
                                     <td class="tg-0pky2">Panel 4: Onkoloji Hemşiresi Yetkinlik Eğitimi ve Gelecek Perspektifi Hemşire, Hasta ve Klinik Üçgeni<br>
-                                        <b>Oturum Başkanı:</b> Münevver Erkul, Sevgül Özdemir
+                                        <b>Oturum Başkanları:</b> Münevver Erkul, Sevgül Özdemir
                                     </td>
                                 </tr>
                                 <tr>
@@ -410,7 +410,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">11:00-12:00</td>
                                     <td class="tg-0pky2">Panel-10: Oyun Teknoloji ve Dokunuş: Pediatrik Onkoloji Bakım Ortamında Nonfarmakolojik Yaklaşımlar<br>
-                                        <b>Oturum Başkanı:</b> Pınar Taşpınar, Pınar Yılmaz
+                                        <b>Oturum Başkanları:</b> Pınar Taşpınar, Pınar Yılmaz
                                     </td>
                                 </tr>
                                 <tr>
@@ -430,7 +430,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">12:00-12:30</td>
                                     <td class="tg-0pky2">Panel-11: Jinekolojik Kanser Hemşireliği Komisyonu<br>
-                                        <b>Oturum Başkanı:</b> Gülten Güvenç, Gönül Kurt
+                                        <b>Oturum Başkanları:</b> Gülten Güvenç, Gönül Kurt
                                     </td>
                                 </tr>
                                 <tr>
@@ -456,7 +456,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">13:30-14:00</td>
                                     <td class="tg-0pky2">Panel-12: Kök Hücre Nakil Hemşireliği<br>
-                                        <b>Oturum Başkanı:</b> Yasemin Karacan, Dilek Urtekin
+                                        <b>Oturum Başkanları:</b> Yasemin Karacan, Dilek Urtekin
                                     </td>
                                 </tr>
                                 <tr>
@@ -476,7 +476,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">14:00-14:30</td>
                                     <td class="tg-0pky2">Panel-13: Radyoterapide Hasta Bildirimli Ölçümler<br>
-                                        <b>Oturum Başkanı:</b> Ükke Karabacak, Vildan Kocatepe
+                                        <b>Oturum Başkanları:</b> Ükke Karabacak, Vildan Kocatepe
                                     </td>
                                 </tr>
                                 <tr>
@@ -496,7 +496,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">14:30-15:00</td>
                                     <td class="tg-0pky2">Panel-14: Kemoterapi Ünitesinde Bilinenler, Bilinmeyenler: Görünmeyen Riskler ve Hemşire Güvenliği<br>
-                                        <b>Oturum Başkanı:</b> Dilek Yıldırım, Zeliha Genç
+                                        <b>Oturum Başkanları:</b> Dilek Yıldırım, Zeliha Genç
                                     </td>
                                 </tr>
                                 <tr>
@@ -522,7 +522,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">15:30-16:00</td>
                                     <td class="tg-0pky2">Panel-15: Meme Kanserinde Hemşirelik Bakımının Bugünü ve Yarını<br>
-                                        <b>Oturum Başkanı:</b> Özgül Karayurt, Ayla Gürsöy
+                                        <b>Oturum Başkanları:</b> Özgül Karayurt, Ayla Gürsöy
                                     </td>
                                 </tr>
                                 <tr>
@@ -574,7 +574,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="7">09:00-10:30</td>
                                     <td class="tg-0pky2">Panel-5: İnterdisipliner İşbirliği ve Hastaya Bütüncül Yaklaşım<br>
-                                        <b>Oturum Başkanı:</b> Gülbeyaz Can, Ferhan Çetin Şeref, Ünal Önsüz
+                                        <b>Oturum Başkanları:</b> Gülbeyaz Can, Ferhan Çetin Şeref, Ünal Önsüz
                                     </td>
                                 </tr>
                                 <tr>
@@ -606,7 +606,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="7">11:00-12:00</td>
                                     <td class="tg-0pky2">Panel-6: Kanser Hasta Derneklerinden Mesaj Var<br>
-                                        <b>Oturum Başkanı:</b> Perihan Güner, Ayşin Kayış, Kadriye Sancı
+                                        <b>Oturum Başkanları:</b> Perihan Güner, Ayşin Kayış, Kadriye Sancı
                                     </td>
                                 </tr>
                                 <tr>
@@ -638,7 +638,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="4">13:00-14:00</td>
                                     <td class="tg-0pky2">Panel-7: Başarı Öyküleri<br>
-                                        <b>Oturum Başkanı:</b> Zeynep Şimşek, Figen Bay, Hale Sünbül
+                                        <b>Oturum Başkanları:</b> Zeynep Şimşek, Figen Bay, Hale Sünbül
                                     </td>
                                 </tr>
                                 <tr>
@@ -655,7 +655,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="4">14:00-15:00</td>
                                     <td class="tg-0pky2">Panel-8: Geleceğin Onkoloji Hemşirelerini Dinliyoruz<br>
-                                        <b>Oturum Başkanı:</b> Kamile Kirca, Ebru Temizsoy, Hilal Özenç
+                                        <b>Oturum Başkanları:</b> Kamile Kirca, Ebru Temizsoy, Hilal Özenç
                                     </td>
                                 </tr>
                                 <tr>
@@ -687,7 +687,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">15:30-16:30</td>
                                     <td class="tg-0pky2">Panel-9: Geleceğin Onkolojisi: Çevresel Sürdürülebilirlikten Uzun Ömür Stratejilerine<br>
-                                        <b>Oturum Başkanı:</b> Betül Tosun, Şerife Karaca
+                                        <b>Oturum Başkanları:</b> Betül Tosun, Şerife Karaca
                                     </td>
                                 </tr>
                                 <tr>
@@ -725,7 +725,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">09:00-09:30</td>
                                     <td class="tg-0pky2">Panel-16: Geriatrik Hematoloji/Onkoloji Hemşireliğinde Kırılganlık: Değerlendirmeden Uygulamaya<br>
-                                        <b>Oturum Başkanı:</b> Yasemin Yıldırım, Elif Sözeri Öztürk</td>
+                                        <b>Oturum Başkanları:</b> Yasemin Yıldırım, Elif Sözeri Öztürk</td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky">
@@ -742,7 +742,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">09:30-10:00</td>
                                     <td class="tg-0pky2">Panel-17: Palyatif Bakımda Bütüncül Yaklaşım<br>
-                                        <b>Oturum Başkanı:</b> Özlem Uğur, Hanife Özçelik</td>
+                                        <b>Oturum Başkanları:</b> Özlem Uğur, Hanife Özçelik</td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky">
@@ -778,7 +778,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">13:00-13:30</td>
                                     <td class="tg-0pky2">Panel-18: Dezavantajlı Gruplarda Kanserle Mücadelede Erken Tanı ve Tarama: Hemşireliğin Güçlendirici Rolü<br>
-                                        <b>Oturum Başkanı:</b> Nurhan Doğan Aydın, Canan Pörücü</td>
+                                        <b>Oturum Başkanları:</b> Nurhan Doğan Aydın, Canan Pörücü</td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky">
