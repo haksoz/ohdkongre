@@ -101,6 +101,7 @@
                     overflow: hidden;
                     padding: 10px 5px;
                     word-break: normal;
+                    text-transform: capitalize;
                 }
 
                 .tg th {
