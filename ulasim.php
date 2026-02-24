@@ -52,10 +52,10 @@
                         <div class="address-section">
                             <h3 class="section-title">Kongre Merkezi Adresi</h3>
                             <div class="address-box">
-                                <h4>İstanbul Bilgi Üniversitesi santralİstanbul Kampüsü</h4>
+                                <h4>İstanbul Bilgi Üniversitesi santralistanbul Kampüsü</h4>
                                 <p class="address-text">
                                     <i class="fas fa-map-marker-alt"></i>
-                                    Eski Silahtarağa Elektrik Santralı<br>
+                                    Eski Silahtarağa Elektrik Santrali<br>
                                     Kazım Karabekir Cad. No: 2/13<br>
                                     34060 Eyüp, İstanbul
                                 </p>

@@ -22,7 +22,7 @@ $page = isset($pageMap[$currentFile]) ? $pageMap[$currentFile] : $currentFile;
     <div class="header-area homepage2 header header-sticky d-none d-lg-block" id="header">
         <div class="top-info-bar">
             <a href="ulasim.php" class="info-bar-link">
-                <p class="">İstanbul Bilgi Üniversitesi SantralIstanbul Kampüsü'ne nasıl gelebilirim?</p>
+                <p class="">İstanbul Bilgi Üniversitesi santralistanbul Kampüsü'ne nasıl gelebilirim?</p>
             </a>
         </div>
         <div class="container header-container">
@@ -30,7 +30,7 @@ $page = isset($pageMap[$currentFile]) ? $pageMap[$currentFile] : $currentFile;
                 <div class="col-lg-1" style="padding:0px;">
                     <div class="sol-logo" style="background-color: #ffffff; display: flex; align-items: center; height: 100%; border-radius: 0px 0px 0px 8px;">
                         <div class="site-logo" style="padding-right: 5px; padding-left: 5px;">
-                            <a href="#"><img src="doc/ohd-logo.png" alt="" /></a>
+                            <a href="/index.php"><img src="doc/ohd-logo.png" alt="" /></a>
                         </div>
                     </div>
                 </div>
@@ -104,7 +104,7 @@ $page = isset($pageMap[$currentFile]) ? $pageMap[$currentFile] : $currentFile;
 <div class="mobile-header mobile-haeder2 d-block d-lg-none" style="padding-top:0px;">
     <div class="top-info-bar" style="margin-bottom:15px;">
         <a href="ulasim.php" class="info-bar-link">
-            <p class="">İstanbul Bilgi Üniversitesi SantralIstanbul Kampüsü'ne nasıl gelebilirim?</p>
+            <p class="">İstanbul Bilgi Üniversitesi santralistanbul Kampüsü'ne nasıl gelebilirim?</p>
         </a>
      </div>
     <div class="container-fluid">

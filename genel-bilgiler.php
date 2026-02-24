@@ -18,45 +18,10 @@
 		<!--===== PAGE PROGRESS END=======-->
         <?php include('header.php') ?>
 
-        <!--===== HERO AREA STARTS =======-->
-        <div class="hero2-slider-area" style="background-color: #604c58">
-            <div class="her2-section-area">
-                <img src="/assets/img/elements/elements9.png" alt="" class="elements9" />
-                <img src="/assets/img/elements/elements10.png" alt="" class="elements10" />
-                <img src="/assets/img/elements/elements11.png" alt="" class="elements11" />
-                <div class="img1">
-                    <img src="/doc/slider-01.png" alt="" />
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-2">
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="hero2-header">
-
-                                <img src="/doc/slider-01-metin.png" alt="" />
+        <?php include('banner-area.php') ?>
 
 
-
-                            </div>
-                        </div>
-                        <!--
-                        <div class="col-lg-3">
-                            <div class="arrow-btn">
-                                <div class="about-btnarea">
-                                    <img src="doc/logolar.png" style="max-width: 645px;">
-                                </div>
-                            </div>
-                        </div>
-                    -->
-                    </div>
-                </div>
-            </div>
-
-        </div>
-		<!--===== HERO AREA ENDS =======-->
-
-		<!--===== ABOUT AREA STARTS =======-->
+        <!--===== ABOUT AREA STARTS =======-->
         <div class="choose-section-area sp2">
             <div class="container">
                 <div class="row">

@@ -36,7 +36,7 @@
 						<div class="col-lg-6">
 							<div class="hero2-header">
 								
-								<img src="doc/slider-01-metin.png" alt="" />
+								<img src="doc/slider-01-metin-new.png" alt="" />
 
 								<div class="timer">
 									<div class="time-box">
