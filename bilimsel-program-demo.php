@@ -34,11 +34,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="hero2-header">
-
                         <img src="/doc/slider-01-metin.png" alt="" />
-
-
-
                     </div>
                 </div>
                 <!--
@@ -101,7 +97,6 @@
                     overflow: hidden;
                     padding: 10px 5px;
                     word-break: normal;
-                    text-transform: capitalize;
                 }
 
                 .tg th {
@@ -338,7 +333,7 @@
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky">
-                                        Zorluktan güce Kanser hastalarında psikolojık dayanıklılık mekanizmaları<br>
+                                        Zorluktan Güce Kanser hastalarında psikolojık dayanıklılık mekanizmaları<br>
                                         <b>Konuşmacı:</b> Yeter Sinem Üzar Özçetin
                                     </td>
                                 </tr>
@@ -379,7 +374,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">16:15-17:00</td>
                                     <td class="tg-0pky2">Panel 4: Onkoloji Hemşiresi Yetkinlik Eğitimi ve Gelecek Perspektifi Hemşire, Hasta ve Klinik Üçgeni<br>
-                                        <b>Oturum Başkanları:</b> Münevver Erkul, Sevgül Özdemir
+                                        <b>Oturum Başkanları:</b> F. İlknur Çınar, Sevgül Özdemir
                                     </td>
                                 </tr>
                                 <tr>
@@ -523,11 +518,11 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">15:30-16:00</td>
                                     <td class="tg-0pky2">Panel-15: Meme Kanserinde Hemşirelik Bakımının Bugünü ve Yarını<br>
-                                        <b>Oturum Başkanları:</b> Özgül Karayurt, Ayla Gürsöy
+                                        <b>Oturum Başkanları:</b> Özgül Karayurt, Ayla Gürsoy
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky">
+                                    <td class="tg-0pky text-capitalize">
                                         Sağ kalım sürecinde yaşam kalitesini arttıran kanıta dayalı yaklaşımlar<br>
                                         <b>Konuşmacı:</b> Çisem Baştarcan
                                     </td>
@@ -535,7 +530,7 @@
                                 <tr>
                                     <td class="tg-0pky">
                                         Öz Doku ile Meme Rekonstrüksiyonunda Güncel Yaklaşımlar ve Hemşirelik Bakımı<br>
-                                        <b>Konuşmacı:</b> Başak Ari
+                                        <b>Konuşmacı:</b> Başak Arı
                                     </td>
                                 </tr>
 
@@ -543,7 +538,7 @@
                                 <tr>
                                     <td class="tg-pidv">16:00-17:00</td>
                                     <td class="tg-0pky2">Atölye Çalışması-1: Duygusal Özgürlük Teknikleri (EFT Emotional Freedom Techniques)<br>
-                                        <b>Konuşmacı:</b> Esin Akin</td>
+                                        <b>Konuşmacı:</b> Esin Akın</td>
                                 </tr>
                             </table>
                         </div>
@@ -594,7 +589,7 @@
                                     <td class="tg-0pky"><b>KLP Hemşiresi:</b> Nesibe Kalyoncu</td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky"><b>Akademisyen Hemşire:</b> Funda Çam</td>
+                                    <td class="tg-0pky"><b>Onkoloji Hemşiresi:</b> Funda Çam</td>
                                 </tr>
 
                                 <!-- Ara -->
@@ -605,7 +600,7 @@
 
                                 <!-- Panel-6 -->
                                 <tr>
-                                    <td class="tg-pidv" rowspan="7">11:00-12:00</td>
+                                    <td class="tg-pidv" rowspan="6">11:00-12:00</td>
                                     <td class="tg-0pky2">Panel-6: Kanser Hasta Derneklerinden Mesaj Var<br>
                                         <b>Oturum Başkanları:</b> Perihan Güner, Ayşin Kayış, Kadriye Sancı
                                     </td>
@@ -623,10 +618,7 @@
                                     <td class="tg-0pky"><b>Kanserle Dans:</b> Sevil Gürkan</td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky"><b>Pembe İzler:</b> Arzu Karataş</td>
-                                </tr>
-                                <tr>
-                                    <td class="tg-0pky">Seral Çelik</td>
+                                    <td class="tg-0pky"><b>Pembe İzler:</b> Arzu Karataş, Seral Çelik</td>
                                 </tr>
 
                                 <!-- Öğle Yemeği -->
@@ -656,12 +648,12 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="4">14:00-15:00</td>
                                     <td class="tg-0pky2">Panel-8: Geleceğin Onkoloji Hemşirelerini Dinliyoruz<br>
-                                        <b>Oturum Başkanları:</b> Kamile Kirca, Ebru Temizsoy, Hilal Özenç
+                                        <b>Oturum Başkanları:</b> Kamile Kırca, Ebru Temizsoy, Hilal Özenç
                                     </td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky">
-                                        Onkoloji Hemşireliğine Nasıl Bakıyorum?: Beklenti ve Kaygılar<br>
+                                        Onkoloji Hemşireliğine Nasıl Bakıyorum? Beklenti ve Kaygılar<br>
                                         <b>Konuşmacı:</b> Rüveyda Berk
                                     </td>
                                 </tr>
@@ -688,7 +680,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">15:30-16:30</td>
                                     <td class="tg-0pky2">Panel-9: Geleceğin Onkolojisi: Çevresel Sürdürülebilirlikten Uzun Ömür Stratejilerine<br>
-                                        <b>Oturum Başkanları:</b> Betül Tosun, Şerife Karaca
+                                        <b>Oturum Başkanları:</b> Münevver Erkul, Şerife Karaca
                                     </td>
                                 </tr>
                                 <tr>
@@ -766,7 +758,7 @@
                                 <tr>
                                     <td class="tg-pidv">11:00-12:00</td>
                                     <td class="tg-0pky2">Atölye Çalışması-2: Okuyucuya Kanca Atan Makale Başlığı Oluşturma<br>
-                                        <b>Konuşmacı:</b> Ayla Gürsöy</td>
+                                        <b>Konuşmacı:</b> Ayla Gürsoy</td>
                                 </tr>
 
                                 <!-- Öğle Yemeği -->
@@ -794,18 +786,18 @@
 
                                 <!-- Atölye Çalışması-3 -->
                                 <tr>
-                                    <td class="tg-pidv">13:30-14:15</td>
+                                    <td class="tg-pidv">13:30-15:00</td>
                                     <td class="tg-0pky2">Atölye Çalışması-3: Onkoloji Hastasının Semptom Yönetiminde Liderlik<br>
                                         <b>Konuşmacı:</b> Aysel Tekeli</td>
                                 </tr>
 
-                                <!-- Atölye Çalışması-4 -->
+                                <!-- Atölye Çalışması-4
                                 <tr>
                                     <td class="tg-pidv">14:15-15:00</td>
                                     <td class="tg-0pky2">Atölye Çalışması-4: Bireysel Yaratıcılığını Farketme<br>
                                         <b>Konuşmacı:</b> Aydanur Aydın</td>
                                 </tr>
-
+                                -->
                                 <!-- Ara -->
                                 <tr>
                                     <td class="tg-pidv">15.00-15.30</td>
