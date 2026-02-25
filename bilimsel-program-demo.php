@@ -538,7 +538,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="7">09:00-10:30</td>
                                     <td class="tg-0pky2">Panel-5: İnterdisipliner İşbirliği ve Hastaya Bütüncül Yaklaşım<br>
-                                        <b>Oturum Başkanları:</b> Gülbeyaz Can, Ferhan Çetin Şeref, Ünal Önsüz
+                                        <b>Oturum Başkanları:</b> Gülbeyaz Can, Vildan Kocatepe, Ferhan Çetin Şeref, Ünal Önsüz
                                     </td>
                                 </tr>
                                 <tr>
@@ -557,7 +557,7 @@
                                     <td class="tg-0pky"><b>KLP Hemşiresi:</b> Nesibe Kalyoncu</td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky"><b>Onkoloji Hemşiresi:</b> Funda Çam</td>
+                                    <td class="tg-0pky"><b>Akademisyen Hemşire:</b> Funda Çam</td>
                                 </tr>
 
                                 <!-- Ara -->
@@ -583,7 +583,7 @@
                                     <td class="tg-0pky"><b>Genç Birikim Derneği:</b> Salih Yüce</td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky"><b>Kanserle Dans:</b> Sevil Gürkan</td>
+                                    <td class="tg-0pky"><b>Kanserle Dans:</b> Esra Çokçetin </td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky"><b>Pembe İzler:</b> Arzu Karataş, Seral Çelik</td>
