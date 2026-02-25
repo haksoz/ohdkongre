@@ -219,7 +219,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="4">11:00-12:00</td>
                                     <td class="tg-0pky2">Panel-1: Bilimsel ve Teknolojik Yeniliklerin Onkoloji Hemşireliğine Yansıması<br>
-                                        <b>Oturum Başkanları:</b> Ayfer Karadakovan, Nimet Ovayolu, Sebahat Ateş</td>
+                                        <b>Oturum Başkanları:</b> Ayfer Karadakovan, Nimet Ovayolu, Kamile Kırca</td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky">
@@ -342,7 +342,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">16:15-17:00</td>
                                     <td class="tg-0pky2">Panel 4: Onkoloji Hemşiresi Yetkinlik Eğitimi ve Gelecek Perspektifi Hemşire, Hasta ve Klinik Üçgeni<br>
-                                        <b>Oturum Başkanları:</b> F. İlknur Çınar, Sevgül Özdemir
+                                        <b>Oturum Başkanları:</b> Münevver Erkul, Sevgül Özdemir
                                     </td>
                                 </tr>
                                 <tr>
@@ -616,7 +616,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="4">14:00-15:00</td>
                                     <td class="tg-0pky2">Panel-8: Geleceğin Onkoloji Hemşirelerini Dinliyoruz<br>
-                                        <b>Oturum Başkanları:</b> Kamile Kırca, Ebru Temizsoy, Hilal Özenç
+                                        <b>Oturum Başkanları:</b> Sebahat Ateş, Ebru Temizsoy, Hilal Özenç
                                     </td>
                                 </tr>
                                 <tr>
@@ -648,7 +648,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">15:30-16:30</td>
                                     <td class="tg-0pky2">Panel-9: Geleceğin Onkolojisi: Çevresel Sürdürülebilirlikten Uzun Ömür Stratejilerine<br>
-                                        <b>Oturum Başkanları:</b> Münevver Erkul, Şerife Karaca
+                                        <b>Oturum Başkanları:</b> Perihan Güner, Şerife Karaca
                                     </td>
                                 </tr>
                                 <tr>
