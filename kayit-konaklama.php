@@ -126,9 +126,9 @@
                                             <td>3.000 TL</td>
                                         </tr>
                                         <tr>
-                                            <td>1 gün</td>
+                                            <td>Yarım gün</td>
                                             <td>Onkoloji Hemşirelerini Güçlendirme; Mindfulness- Öz Şefkat -Nefes-Psikodrama</td>
-                                            <td>3.000 TL</td>
+                                            <td>2.000 TL</td>
                                         </tr>
                                         <tr>
                                             <td>Yarım gün</td>
