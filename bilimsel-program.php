@@ -691,7 +691,7 @@
                                 <tr>
                                     <td class="tg-0pky">
                                         Kırılganlık Kavramı, Klinik Önemi ve Geriatrik Değerlendirme<br>
-                                        <b>Konuşmacı:</b> Gökhan Zengin</td>
+                                        <b>Konuşmacı:</b> Gökhan Sezgin</td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky">
