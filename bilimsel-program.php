@@ -426,7 +426,7 @@
                                 <tr>
                                     <td class="tg-0pky">
                                         Güncel Tedavi ve Klinik Araştırmalar<br>
-                                        <b>Konuşmacı:</b> Hatice Gül Tarakçıoğlu
+                                        <b>Konuşmacı:</b> Gül Hatice Tarakçıoğlu Çelik
                                     </td>
                                 </tr>
                                 <tr>
