@@ -256,7 +256,7 @@
                                 <tr>
                                     <td class="tg-0pky">
                                         Kemik İliği Nakli Hastalarında Mukozitin Yönetimi<br>
-                                        <b>Konuşmacı:</b> Gülca Çelik
+                                        <b>Konuşmacı:</b> Gülcan Çelik
                                     </td>
                                 </tr>
 
