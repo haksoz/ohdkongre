@@ -94,7 +94,7 @@
                                         <tr>
 
                                             <td>Meme Kanseri Yolculuğunu Anlamak: Sağ Kalımı Güçlendiren Bütüncül Bakım ve Uzun Yaşam Stratejileri Kursu</td>
-                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/meme-kanseri-yolculugunu-anlamak-sagkalimi-guclendiren-butuncul-bakim-ve-uzun-yasam-stratejileri-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/meme-kanseri-yolculugunu-anlamak-sagkalimi-guclendiren-butuncul-bakim-ve-uzun-yasam-stratejileri-kursu.jpg?v=2"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
                                         <tr>
 
