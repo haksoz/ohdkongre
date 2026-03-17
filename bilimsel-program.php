@@ -236,7 +236,7 @@
                                 <tr>
                                     <td class="tg-0pky">
                                         Teknoloji Hızlanırken İnsani Bakımı Korumak: Onkoloji Hemşireliğinde Denge Arayışı<br>
-                                        <b>Konuşmacı:</b> Füsun Afşar
+                                        <b>Konuşmacı:</b> Ayşe Gül Parlak
                                     </td>
                                 </tr>
 
@@ -542,7 +542,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky"><b>Hekim:</b> Elvina Almuradova</td>
+                                    <td class="tg-0pky"><b>Hekim:</b> Meltem Dağdelen</td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky"><b>Onkoloji Hemşiresi:</b> Zeyno Bayram</td>
