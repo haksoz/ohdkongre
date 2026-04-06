@@ -205,7 +205,7 @@
                                 <tr>
                                     <td class="tg-0pky">
                                         Onkoloji Hemşireliğinde Liderlik, Güçlendirme ve Mesleki Kimlik<br>
-                                        <b>Konuşmacı:</b> Dimitris Protogiros
+                                        <b>Konuşmacı:</b> Annie Young
                                     </td>
                                 </tr>
 
