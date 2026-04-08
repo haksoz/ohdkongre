@@ -31,7 +31,7 @@
                     <div class="col-lg-12 m-auto">
                         <div class="heading2 space-margin60">
                             <p>Kesin kayıt, ödeme ile kesinlik kazanır; kayıt ücretlerinin kongre hesabına yatırılması ve ödemeye dair belgenin kongre organizasyon sekretaryasına e-posta (<a href="mailto:ohdkongre@bosphorusmice.net">ohdkongre@bosphorusmice.net</a>) ya da Whatsapp kanalıyla 
-                                <a href="https://wa.me/+905343366908">+90 534 336 69 08</a>
+                                <a href="https://wa.me/+905372577273" target="_blank">+90 537 257 72 73</a>
                                  gönderilmesi gerekmektedir.
                              </p>
                         </div>

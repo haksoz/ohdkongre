@@ -34,7 +34,7 @@
                                 Final registration is finalized with payment; registration fees must be deposited into the congress
                                 account and the document regarding the payment must be sent to the congress organization secretariat
                                 via e-mail (<a href="mailto:ohdkongre@bosphorusmice.net">ohdkongre@bosphorusmice.net</a>)
-                                or Whatsapp (<a href="https://wa.me/+905343366908">+90 534 336 69 08</a>).
+                                or Whatsapp (<a href="https://wa.me/+905372577273" target="_blank">+90 537 257 72 73</a>).
                             </p>
                         </div>
                     </div>

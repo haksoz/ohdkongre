@@ -28,7 +28,7 @@
                             <a href="mailto:ohdkongre@bosphorusmice.net"><img src="/assets/img/icons/mail1.svg" alt="" />ohdkongre@bosphorusmice.net</a>
                         </li>
                         <li>
-                            <a href="tel:+902162350686"><img src="/assets/img/icons/phn1.svg" alt="" />+90 216 235 06 86</a>
+                            <a href="https://wa.me/+905372577273"><img src="/assets/img/icons/phn1.svg" alt="" />+90 537 257 72 73</a>
                         </li>
 
                     </ul>
