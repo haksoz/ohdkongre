@@ -218,7 +218,7 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td>Ramada by Wyndham Istanbul Alibeykoy</td>
+                                                <td> Lazzoni Hotel</td>
                                                 <td>16.000 TL</td>
                                                 <td>18.000 TL</td>
                                             </tr>
@@ -245,14 +245,14 @@
                                 <p><strong>Kongre merkezi ile arası yaklaşık 2 km mesafedir.</strong></p>
                                 <p>Rezervasyon ve fiyat bilgisi için: <a href="https://www.clariongoldenhorn.com" target="_blank">clariongoldenhorn.com</a></p>
                             </div>
-                            <div class="mb-5">
-                                <h4 class="mb-3" style="color: #604c59;">RAMADA BY WYNDHAM OTEL</h4>
-                                <p>
-                                Ramada İstanbul'da yer alıyor. Muhteşem bir konuma sahip olan otelden, şehrin önemli alışveriş bölgelerine, iş merkezlerine ve Tarihi Şehir bölgesindeki gözde turistik alanlara kolayca ulaşabilirsiniz.
-                                </p>
-                                <p><strong>Kongre merkezi ile arası yaklaşık 3,5 km mesafedir.</strong></p>
-                                <p>Rezervasyon ve fiyat bilgisi için: <a href="https://ramadaalibeykoy.com/tr/" target="_blank">ramadaalibeykoy.com</a></p>
-                                </div>
+<!--                            <div class="mb-5">-->
+<!--                                <h4 class="mb-3" style="color: #604c59;">RAMADA BY WYNDHAM OTEL</h4>-->
+<!--                                <p>-->
+<!--                                Ramada İstanbul'da yer alıyor. Muhteşem bir konuma sahip olan otelden, şehrin önemli alışveriş bölgelerine, iş merkezlerine ve Tarihi Şehir bölgesindeki gözde turistik alanlara kolayca ulaşabilirsiniz.-->
+<!--                                </p>-->
+<!--                                <p><strong>Kongre merkezi ile arası yaklaşık 3,5 km mesafedir.</strong></p>-->
+<!--                                <p>Rezervasyon ve fiyat bilgisi için: <a href="https://ramadaalibeykoy.com/tr/" target="_blank">ramadaalibeykoy.com</a></p>-->
+<!--                            </div>-->
                             
                             
                             
