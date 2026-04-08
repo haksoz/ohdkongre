@@ -43,36 +43,31 @@
                             <h3> Kayıt</h3>
                         </div>
                     </div>
-                    <div class="col-md-12 ">
+                    <div class="col-md-10 m-auto ">
                         <div class="our-team-boxarea">
                             <div class="content-area">
                                 <table class="table table-bordered table-striped table-hover">
                                     <colgroup>
-                                        <col span="1" style="width: 50%;">
-                                        <col span="1" style="width: 25%;">
-                                        <col span="1" style="width: 25%;">
+                                        <col span="1" style="width: 60%;">
+                                        <col span="1" style="width: 40%;">
                                     </colgroup>
                                     <thead style="background-color: #604c59; color: #ffffff;">
                                         <tr>
                                             <th style="vertical-align: middle;">Kayıt Tipi</th>
-                                            <th>Erken Kayıt Ücreti <br> <span style="font-weight: normal;">7 Nisan ve Öncesi</span></th>
-                                            <th>Kayıt Ücreti <br> <span style="font-weight: normal;">7 Nisan Sonrası</span></th>
+                                            <th>Kayıt Ücreti</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
                                             <td>Dernek Üyesi Kayıt </td>
-                                            <td>9.500 TL</td>
                                             <td>10.500 TL</td>
                                         </tr>
                                         <tr>
                                             <td>Dernek Üyesi Olmayan Kayıt</td>
-                                            <td>10.500 TL</td>
                                             <td>11.500 TL</td>
                                         </tr>
                                         <tr>
                                             <td>Lisans ve Lisansüstü Öğrenci Kayıt  <br>(Öğrenci Belgesi gerekmektedir.)</td>
-                                            <td style="vertical-align: middle;">3.000 TL</td>
                                             <td style="vertical-align: middle;">4.000 TL</td>
                                         </tr>
                                     </tbody>

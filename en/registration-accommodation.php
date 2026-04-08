@@ -45,36 +45,31 @@
                             <h3> Registration</h3>
                         </div>
                     </div>
-                    <div class="col-md-12 ">
+                    <div class="col-md-10 m-auto">
                         <div class="our-team-boxarea">
                             <div class="content-area">
                                 <table class="table table-bordered table-striped table-hover">
                                     <colgroup>
-                                        <col span="1" style="width: 50%;">
-                                        <col span="1" style="width: 25%;">
-                                        <col span="1" style="width: 25%;">
+                                        <col span="1" style="width: 60%;">
+                                        <col span="1" style="width: 40%;">
                                     </colgroup>
                                     <thead style="background-color: #604c59; color: #ffffff;">
                                         <tr>
                                             <th style="vertical-align: middle;">Registration Type</th>
-                                            <th>Early Registration Fee <br> <span style="font-weight: normal;">Before April 7</span></th>
-                                            <th>Registration Fee <br> <span style="font-weight: normal;">After April 7</span></th>
+                                            <th>Registration Fee</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
                                             <td>Association Member Registration</td>
-                                            <td>9.500 TL</td>
                                             <td>10.500 TL</td>
                                         </tr>
                                         <tr>
                                             <td>Non-Association Member Registration</td>
-                                            <td>10.500 TL</td>
                                             <td>11.500 TL</td>
                                         </tr>
                                         <tr>
                                             <td>Undergraduate and Graduate Student Registration <br>(Student Certificate Required)</td>
-                                            <td style="vertical-align: middle;">3.000 TL</td>
                                             <td style="vertical-align: middle;">4.000 TL</td>
                                         </tr>
                                     </tbody>
