@@ -665,10 +665,10 @@
                                 </tr>
 
                                 <!-- Ödül Töreni -->
-                                <tr>
-                                    <td class="tg-pidv">16:30-17:30</td>
-                                    <td class="tg-0pky2">Ödül Töreni ve Kapanış</td>
-                                </tr>
+<!--                                <tr>-->
+<!--                                    <td class="tg-pidv">16:30-17:30</td>-->
+<!--                                    <td class="tg-0pky2">Ödül Töreni ve Kapanış</td>-->
+<!--                                </tr>-->
                             </table>
                         </div>
                     </div>
