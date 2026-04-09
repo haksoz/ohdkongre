@@ -39,7 +39,10 @@
                     <div class="col-md-12">
                         <div class="our-team-boxarea">
                             <div class="content-area">
-                                <table class="table table-bordered table-striped table-hover">
+                                <h4 class="mb-5">Radyasyon Onkolojisi Hemşireliğinde İnteraktif Beceri Eğitimi Kursu</h4>
+                                <img src="/doc/posterler/radyasyon-onkolojisi-hemsireliginde-interaktif-beceri-egitimi-kursu.jpg" class="img img-curved" alt="">
+
+                                <table class="table table-bordered table-striped table-hover" style="display: none;">
                                     <colgroup>
                                         <col span="1" style="width: 80%;">
                                         <col span="1" style="width: 20%;">
