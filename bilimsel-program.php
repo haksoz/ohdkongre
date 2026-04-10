@@ -243,8 +243,10 @@
                                 <!-- Uydu Sempozyumu-1 -->
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">12:00-12:30</td>
-                                    <td class="tg-0pky2">Uydu Sempozyumu-1: Semptom Yönetiminde Kanıta Dayalı Çözüm Yolları<br>
-                                        <b>Oturum Başkanları:</b> Fatma Gündoğdu, Derya Subaşı Sezgin<br>
+                                    <td class="tg-0pky2 position-relative">
+                                            Uydu Sempozyumu-1: Semptom Yönetiminde Kanıta Dayalı Çözüm Yolları<br>
+                                            <b>Oturum Başkanları:</b> Fatma Gündoğdu, Derya Subaşı Sezgin<br>
+                                            <img src="/doc/musocamin.png" class="position-absolute top-0 p-2 rounded-3" style="right: 0" alt=" Mucosamin Radioderm">
                                     </td>
                                 </tr>
                                 <tr>
@@ -775,7 +777,7 @@
                                 <!-- Atölye Çalışması-5 -->
                                 <tr>
                                     <td class="tg-pidv">15:30-17:00</td>
-                                    <td class="tg-0pky2">Atölye Çalışması-5: Sanat Terapi-Masalların Masalı: Yas, Zaman ve Var Oluşun Resmi<br>
+                                    <td class="tg-0pky2">Atölye Çalışması-5<br>
                                         <b>Konuşmacı:</b> Elif Hilal Toprak</td>
                                 </tr>
                             </table>
