@@ -292,7 +292,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="4">14:00-15:00</td>
                                     <td class="tg-0pky2">Panel-2: Psikososyal Bakımın Klinik Uygulamaya Entegrasyonu<br>
-                                        <b>Oturum Başkanları:</b> Besti Üstün, Ayşe Okanlı, Zeynep Karakuş
+                                        <b>Oturum Başkanları:</b>  Perihan Güner, Ayşe Okanlı, Zeynep Karakuş
                                     </td>
                                 </tr>
                                 <tr>
@@ -605,13 +605,22 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky">Başarı Öyküsü-I</td>
+                                    <td class="tg-0pky"><b>Başarı Öyküsü-I</b> <br>
+                                        Bir Şarkı, Bir Oyun, Bir Umut: Bir Dokunuşun Ardından Pediatrik Kök Hücre Nakli Sürecinde Terapötik Oyunla Değişen Çocuk Deneyimi <br>
+                                        Öznur Balkan
+                                    </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky">Başarı Öyküsü-II</td>
+                                    <td class="tg-0pky"><b>Başarı Öyküsü-II</b> <br>
+                                        Onkoloji Hemşireliğinde Hasta ve Çalışan Güvenliğini Artırmaya Yönelik Kanıta Dayalı ve İnovatif Uygulamaların Geliştirilmesi: Bir Klinik Dönüşüm Öyküsü <br>
+                                        İncihan Tuna
+                                    </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky">Başarı Öyküsü-III</td>
+                                    <td class="tg-0pky"><b>Başarı Öyküsü-III</b> <br>
+                                        TÜBİTAK Araştırma Yolculuğundan Toplumsal Farkındalığa: Erkeklerde Meme Kanseri ve Dijital Bilgilendirme Platformu <br>
+                                        Ceren Gürleyen
+                                    </td>
                                 </tr>
 
                                 <!-- Panel-8 -->
@@ -650,7 +659,7 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">15:30-16:30</td>
                                     <td class="tg-0pky2">Panel-9: Geleceğin Onkolojisi: Çevresel Sürdürülebilirlikten Uzun Ömür Stratejilerine<br>
-                                        <b>Oturum Başkanları:</b> Perihan Güner, Şerife Karaca
+                                        <b>Oturum Başkanları:</b> Besti Üstün, Şerife Karaca
                                     </td>
                                 </tr>
                                 <tr>
