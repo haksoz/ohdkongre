@@ -179,7 +179,7 @@
                                 </ol>
 
                                 <h3>7. Important Dates</h3>
-                                <p class="text-start"><strong>Abstract Submission Deadline:</strong> April 12, 2026</p>
+                                <p class="text-start"><strong>Abstract Submission Deadline:</strong> April 24, 2026</p>
 
                                 <h3>8. Publication of Abstracts</h3>
                                 <ol>

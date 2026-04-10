@@ -171,7 +171,7 @@
 
                                 <h3>7. Önemli Tarihler</h3>
                                 <ul>
-                                    <li><strong>Bildiri Özet Son Gönderim Tarihi:</strong> 12 Nisan 2026</li>
+                                    <li><strong>Bildiri Özet Son Gönderim Tarihi:</strong> 24 Nisan 2026</li>
                                 </ul>
 
                                 <h3>8. Bildirilerin Yayınlanması</h3>
