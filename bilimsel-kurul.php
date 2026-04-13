@@ -116,6 +116,7 @@
                             Doç. Dr. Ruveyde AYDIN  <br>
                             Doç. Dr. Selda ARSLAN   <br>
                             Doç. Dr. Ayşe ÇAL   <br>
+                            Doç. Dr. Ayşegül ÇELİK <br>
                             Doç. Dr. Yeter Sinem  ÜZAR ÇETİN    <br>
                             Doç. Dr. Banu ÇEVİK <br>
                             Doç. Dr. Derya ÇINAR    <br>
