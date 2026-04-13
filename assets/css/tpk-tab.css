@@ -109,14 +109,14 @@
  background-color: #87757e
 }
 .event_part .single_event_list:nth-child(3) {
- background-color: #379efd
+ background-color: #d3b37f
 }
 .event_part .single_event_list:nth-child(3):focus {
  box-shadow: 0px 0px 20px 3px rgb(162 162 162);
 }
 .event_part .single_event_list:nth-child(3) .event_date {
- border: 1px solid #2493fa;
- background-color: #2493fa
+ border: 1px solid #d3b37f;
+ background-color: #d3b37f
 }
 .event_part .single_event_list:nth-child(4) {
  background-color: #ff6559

@@ -4,7 +4,7 @@
 <?php $pageTitle = 'bilimsel-program'; ?>
 
 <?php include('head.php') ?>
-<link rel="stylesheet" href="/assets/css/tpk-tab.css">
+<link rel="stylesheet" href="/assets/css/tpk-tab.css?v=43">
 <body class="homepage2-body">
 
 
@@ -22,13 +22,23 @@
 <?php include('banner-area.php') ?>
 
 <!-- Service Details Section Start -->
-<section class="event_part service-dtails overflow-hidden pt-4 space-bottom position-relative">
+<section class="event_part service-dtails overflow-hidden pt-4 pb-5 space-bottom position-relative">
     <div class="container">
         <div class="common-content-box mb-40 wow fadeInUp" data-wow-delay=".3s">
             <h1 class="mb-lg-4 mb-md-4 mb-4 text-center">Bilimsel Program</h1>
         </div>
 
         <ul class="tabs clearfix" data-tabgroup="first-tab-group">
+            <a class="active single_event_list wow fadeInDown aragun" data-wow-delay=".3s" href="#kurs1"
+               style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;">
+                <div class="event_date">
+                    <h3>07 <span>Mayıs</span></h3>
+                </div>
+                <div class="event_content">
+                    <h4>Kurslar</h4>
+                    <p>2026, Cumartesi</p>
+                </div>
+            </a>
             <a class="active single_event_list wow fadeInDown ilkgun" data-wow-delay=".2s" href="#gun1"
                style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;">
                 <div class="event_date">
@@ -158,10 +168,17 @@
                     }
                 }
             </style>
-
+            <div id="kurs1">
+                <div class="gun_title" style="background-color: #d3b37f;">
+                    <h2>Radyasyon Onkolojisi Hemşireliğinde İnteraktif Beceri Eğitimi Kursu</h2>
+                </div>
+                <div class="mt-4 d-flex justify-content-center">
+                    <img src="/doc/posterler/radyasyon-onkolojisi-hemsireliginde-interaktif-beceri-egitimi-kursu.jpg" class="img img-curved" alt="">
+                </div>
+            </div>
             <!-- 1. GÜN - 8 MAYIS CUMA -->
             <div id="gun1">
-                <div class="gun_title" style="background-color: #d3b37f;">
+                <div class="gun_title" style="background-color: #72606b;">
                     <h2>8 Mayıs 2026, Cuma | Bilimsel Program</h2>
                 </div>
                 <ul class="tabs clearfix" data-tabgroup="second-tab-group">
@@ -518,7 +535,7 @@
 
             <!-- 2. GÜN - 9 MAYIS CUMARTESİ -->
             <div id="gun2">
-                <div class="gun_title" style="background-color: #72606b;">
+                <div class="gun_title" style="background-color: #d3b37f;">
                     <h2>9 Mayıs 2026, Cumartesi | Bilimsel Program</h2>
                 </div>
                 <ul class="tabs clearfix" data-tabgroup="third-tab-group">
