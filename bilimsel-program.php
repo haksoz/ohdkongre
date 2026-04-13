@@ -36,7 +36,7 @@
                 </div>
                 <div class="event_content">
                     <h4>Kurslar</h4>
-                    <p>2026, Cumartesi</p>
+                    <p>2026, Perşembe</p>
                 </div>
             </a>
             <a class="active single_event_list wow fadeInDown ilkgun" data-wow-delay=".2s" href="#gun1"
