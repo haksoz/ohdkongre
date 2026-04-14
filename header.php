@@ -8,7 +8,7 @@ $pageMap = [
     'bilimsel-kurul' => 'kurullar',
     'genel-bilgiler' => 'genel-bilgiler',
     'kayit-konaklama' => 'kayit-konaklama',
-//    'kurslar' => 'kurslar',
+    'kurslar' => 'kurslar',
     'bilimsel-program' => 'bilimsel-program',
     'bildiri-gonderimi' => 'bildiri-gonderimi',
     'iletisim' => 'iletisim',
@@ -85,7 +85,7 @@ $page = isset($pageMap[$currentFile]) ? $pageMap[$currentFile] : $currentFile;
                                 </li>
                                 <li class="<?php echo $page == 'genel-bilgiler' ? 'active' : '' ?>"><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
                                 <li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>"><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
-<!--                                <li class="--><?php //echo $page == 'kurslar' ? 'active' : '' ?><!--"><a href="kurslar.php">Kurslar</a></li>-->
+                                <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a href="kurslar.php">Kurslar</a></li>
                                 <li class="<?php echo $page == 'bilimsel-program' ? 'active' : '' ?>"><a href="bilimsel-program.php">Bilimsel Program</a></li>
                                 <li class="<?php echo $page == 'bildiri-gonderimi' ? 'active' : '' ?>"><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
                                 <li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>"><a href="iletisim.php">İletişim</a></li>
