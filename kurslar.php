@@ -39,10 +39,10 @@
                     <div class="col-md-12">
                         <div class="our-team-boxarea">
                             <div class="content-area">
-                                <h4 class="mb-5">Radyasyon Onkolojisi Hemşireliğinde İnteraktif Beceri Eğitimi Kursu</h4>
-                                <img src="/doc/posterler/radyasyon-onkolojisi-hemsireliginde-interaktif-beceri-egitimi-kursu.jpg" class="img img-curved" alt="">
+                                <h4 class="mb-5" style="display: none;">Radyasyon Onkolojisi Hemşireliğinde İnteraktif Beceri Eğitimi Kursu</h4>
+                                <img style="display: none;" src="/doc/posterler/radyasyon-onkolojisi-hemsireliginde-interaktif-beceri-egitimi-kursu.jpg" class="img img-curved" alt="">
 
-                                <table class="table table-bordered table-striped table-hover" style="display: none;">
+                                <table class="table table-bordered table-striped table-hover">
                                     <colgroup>
                                         <col span="1" style="width: 80%;">
                                         <col span="1" style="width: 20%;">
