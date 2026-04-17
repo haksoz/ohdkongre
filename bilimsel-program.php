@@ -803,7 +803,7 @@
                                 <!-- Atölye Çalışması-5 -->
                                 <tr>
                                     <td class="tg-pidv">15:30-17:00</td>
-                                    <td class="tg-0pky2">Atölye Çalışması-5<br>
+                                    <td class="tg-0pky2">Atölye Çalışması-5: Yas Süreci Yönetimi<br>
                                         <b>Konuşmacı:</b> Elif Hilal Toprak</td>
                                 </tr>
                             </table>
