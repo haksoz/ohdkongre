@@ -411,7 +411,7 @@
 
                                 <!-- Panel-11 -->
                                 <tr>
-                                    <td class="tg-pidv" rowspan="3">12:00-12:30</td>
+                                    <td class="tg-pidv" rowspan="2">12:00-12:30</td>
                                     <td class="tg-0pky2">Panel-11: Jinekolojik Kanser Hemşireliği Komisyonu<br>
                                         <b>Oturum Başkanları:</b> Gülten Güvenç, Gönül Kurt
                                     </td>
@@ -422,12 +422,12 @@
                                         <b>Konuşmacı:</b> Ayşe Kılıç Uçar
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td class="tg-0pky">
-                                        Jinekolojik Onkolojide Navigatör Hemşirenin Rolleri<br>
-                                        <b>Konuşmacı:</b> Gülşen Vural
-                                    </td>
-                                </tr>
+<!--                                <tr>-->
+<!--                                    <td class="tg-0pky">-->
+<!--                                        Jinekolojik Onkolojide Navigatör Hemşirenin Rolleri<br>-->
+<!--                                        <b>Konuşmacı:</b> Gülşen Vural-->
+<!--                                    </td>-->
+<!--                                </tr>-->
 
                                 <!-- Öğle Yemeği -->
                                 <tr>
@@ -605,7 +605,7 @@
                                     <td class="tg-0pky"><b>Kanserle Dans:</b> Esra Çokçetin </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky"><b>Pembe İzler:</b> Arzu Karataş, Seral Çelik</td>
+                                    <td class="tg-0pky"><b>Pembe İzler:</b> Seral Çelik</td>
                                 </tr>
 
                                 <!-- Öğle Yemeği -->
