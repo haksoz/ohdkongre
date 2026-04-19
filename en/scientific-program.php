@@ -421,12 +421,12 @@
                                                 <b>Speaker:</b> Ayşe Kılıç Uçar
                                             </td>
                                         </tr>
-                                        <tr>
-                                            <td class="tg-0pky">
-                                                The Roles of the Nurse Navigator in Gynecologic Oncology<br>
-                                                <b>Speaker:</b> Gülşen Vural
-                                            </td>
-                                        </tr>
+<!--                                        <tr>-->
+<!--                                            <td class="tg-0pky">-->
+<!--                                                The Roles of the Nurse Navigator in Gynecologic Oncology<br>-->
+<!--                                                <b>Speaker:</b> Gülşen Vural-->
+<!--                                            </td>-->
+<!--                                        </tr>-->
 
                                         <!-- Lunch -->
                                         <tr>
@@ -604,7 +604,7 @@
                                             <td class="tg-0pky"><b>Kanserle Dans Association:</b> Esra Çokçetin </td>
                                         </tr>
                                         <tr>
-                                            <td class="tg-0pky"><b>Pembe İzler Association:</b> Arzu Karataş, Seral Çelik</td>
+                                            <td class="tg-0pky"><b>Pembe İzler Association:</b> Seral Çelik</td>
                                         </tr>
 
                                         <!-- Lunch -->
