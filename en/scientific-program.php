@@ -410,7 +410,7 @@
 
                                         <!-- Panel-11 -->
                                         <tr>
-                                            <td class="tg-pidv" rowspan="3">12:00-12:30</td>
+                                            <td class="tg-pidv" rowspan="2">12:00-12:30</td>
                                             <td class="tg-0pky2">Panel-11: Gynecologic Oncology Nursing Commission<br>
                                                 <b>Session Chairs:</b> Gülten Güvenç, Gönül Kurt
                                             </td>
