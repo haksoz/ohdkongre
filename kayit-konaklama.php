@@ -110,26 +110,26 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr>
-                                            <td>1 gün</td>
-                                            <td>Temel Palyatif Bakım Hemşireliği Kursu</td>
-                                            <td>3.000 TL</td>
-                                        </tr>
-                                        <tr>
-                                            <td>1 gün</td>
-                                            <td>Onkolojide Ağrı Yönetimi Kursu</td>
-                                            <td>3.000 TL</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Yarım gün</td>
-                                            <td>Onkoloji Hemşirelerini Güçlendirme; Mindfulness- Öz Şefkat -Nefes-Psikodrama</td>
-                                            <td>2.000 TL</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Yarım gün</td>
-                                            <td>Kişilerarası İlişkiler Psikoterapisi (KİPT) Temelli Yaklaşımın Onkoloji Hemşireliğinde Kullanımı</td>
-                                            <td>2.000 TL</td>
-                                        </tr>
+<!--                                        <tr>-->
+<!--                                            <td>1 gün</td>-->
+<!--                                            <td>Temel Palyatif Bakım Hemşireliği Kursu</td>-->
+<!--                                            <td>3.000 TL</td>-->
+<!--                                        </tr>-->
+<!--                                        <tr>-->
+<!--                                            <td>1 gün</td>-->
+<!--                                            <td>Onkolojide Ağrı Yönetimi Kursu</td>-->
+<!--                                            <td>3.000 TL</td>-->
+<!--                                        </tr>-->
+<!--                                        <tr>-->
+<!--                                            <td>Yarım gün</td>-->
+<!--                                            <td>Onkoloji Hemşirelerini Güçlendirme; Mindfulness- Öz Şefkat -Nefes-Psikodrama</td>-->
+<!--                                            <td>2.000 TL</td>-->
+<!--                                        </tr>-->
+<!--                                        <tr>-->
+<!--                                            <td>Yarım gün</td>-->
+<!--                                            <td>Kişilerarası İlişkiler Psikoterapisi (KİPT) Temelli Yaklaşımın Onkoloji Hemşireliğinde Kullanımı</td>-->
+<!--                                            <td>2.000 TL</td>-->
+<!--                                        </tr>-->
                                         <tr>
                                             <td>1 gün</td>
                                             <td>Pediatri Onkoloji Hemşireliğinde Kanıta Dayalı Uygulamalar</td>
@@ -165,21 +165,21 @@
                                             <td>Temel Düzey Kök Hücre Nakli Hemşireliği Kursu</td>
                                             <td>3.000 TL</td>
                                         </tr>
-                                        <tr>
-                                            <td>Yarım gün</td>
-                                            <td>Terapötik Aferez Hemşireliği Kursu</td>
-                                            <td>2.000 TL</td>
-                                        </tr>
-                                        <tr>
-                                            <td>1 gün</td>
-                                            <td>Geriatrik Kanserlerde Kapsamlı Değerlendirme</td>
-                                            <td>3.000 TL</td>
-                                        </tr>
-                                        <tr>
-                                            <td>1 gün</td>
-                                            <td>Jinekolojik Onkoloji Hemşireliği Kursu</td>
-                                            <td>3.000 TL</td>
-                                        </tr>
+<!--                                        <tr>-->
+<!--                                            <td>Yarım gün</td>-->
+<!--                                            <td>Terapötik Aferez Hemşireliği Kursu</td>-->
+<!--                                            <td>2.000 TL</td>-->
+<!--                                        </tr>-->
+<!--                                        <tr>-->
+<!--                                            <td>1 gün</td>-->
+<!--                                            <td>Geriatrik Kanserlerde Kapsamlı Değerlendirme</td>-->
+<!--                                            <td>3.000 TL</td>-->
+<!--                                        </tr>-->
+<!--                                        <tr>-->
+<!--                                            <td>1 gün</td>-->
+<!--                                            <td>Jinekolojik Onkoloji Hemşireliği Kursu</td>-->
+<!--                                            <td>3.000 TL</td>-->
+<!--                                        </tr>-->
                                     </tbody>
                                 </table>
 
