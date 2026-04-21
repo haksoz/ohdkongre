@@ -17,6 +17,21 @@ $pageMap = [
 
 $page = isset($pageMap[$currentFile]) ? $pageMap[$currentFile] : $currentFile;
 ?>
+<style>
+@keyframes nav-kurslar-blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
+}
+a.nav-kurslar-blink {
+    animation: nav-kurslar-blink 2.3s ease-in-out infinite;
+    color: #ed1c25 !important;
+}
+@media (prefers-reduced-motion: reduce) {
+    a.nav-kurslar-blink {
+        animation: none;
+    }
+}
+</style>
 <!--=====HEADER START=======-->
 <header>
     <div class="header-area homepage2 header header-sticky d-none d-lg-block" id="header">
@@ -85,7 +100,7 @@ $page = isset($pageMap[$currentFile]) ? $pageMap[$currentFile] : $currentFile;
                                 </li>
                                 <li class="<?php echo $page == 'genel-bilgiler' ? 'active' : '' ?>"><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
                                 <li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>"><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
-                                <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a href="kurslar.php">Kurslar</a></li>
+                                <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a class="<?php echo $page == 'kurslar' ? '' : 'nav-kurslar-blink' ?>" href="kurslar.php">Kurslar</a></li>
                                 <li class="<?php echo $page == 'bilimsel-program' ? 'active' : '' ?>"><a href="bilimsel-program.php">Bilimsel Program</a></li>
                                 <li class="<?php echo $page == 'bildiri-gonderimi' ? 'active' : '' ?>"><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
                                 <li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>"><a href="iletisim.php">İletişim</a></li>
@@ -162,7 +177,7 @@ $page = isset($pageMap[$currentFile]) ? $pageMap[$currentFile] : $currentFile;
             </li>
             <li class="<?php echo $page == 'genel-bilgiler' ? 'active' : '' ?>"><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
             <li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>"><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
-            <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a href="kurslar.php">Kurslar</a></li>
+            <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a href="kurslar.php" class="<?php echo $page == 'kurslar' ? '' : 'nav-kurslar-blink' ?>">Kurslar</a></li>
             <li class="<?php echo $page == 'bilimsel-program' ? 'active' : '' ?>"><a href="bilimsel-program.php">Bilimsel Program</a></li>
             <li class="<?php echo $page == 'bildiri-gonderimi' ? 'active' : '' ?>"><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
             <li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>"><a href="iletisim.php">İletişim</a></li>
