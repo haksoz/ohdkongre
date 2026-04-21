@@ -54,26 +54,26 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr>
-
-                                            <td>Temel Palyatif Bakım Hemşireliği Kursu</td>
-                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/temel-palyatif-bakim-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                        </tr>
-                                        <tr>
-
-                                            <td>Onkolojide Ağrı Yönetimi Kursu</td>
-                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/onkolojide-agri-yonetimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                        </tr>
-                                        <tr>
-
-                                            <td>Onkoloji Hemşirelerini Güçlendirme; Mindfulness- Öz Şefkat -Nefes-Psikodrama Kursu</td>
-                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/onkoloji-hemsirelerini-guclendirme-mindfulness-oz-sefkat-nefes-psikodrama.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                        </tr>
-                                        <tr>
-
-                                            <td>Kişilerarası İlişkiler Psikoterapisi (KİPT) Temelli Yaklaşımın Onkoloji Hemşireliğinde Kullanımı Kursu</td>
-                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/kisilerarasi-iliskiler-psikoterapisi-kipt-temelli-yaklasimin-onkoloji-hemsireliginde-kullanimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                        </tr>
+<!--                                        <tr>-->
+<!---->
+<!--                                            <td>Temel Palyatif Bakım Hemşireliği Kursu</td>-->
+<!--                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/temel-palyatif-bakim-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>-->
+<!--                                        </tr>-->
+<!--                                        <tr>-->
+<!---->
+<!--                                            <td>Onkolojide Ağrı Yönetimi Kursu</td>-->
+<!--                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/onkolojide-agri-yonetimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>-->
+<!--                                        </tr>-->
+<!--                                        <tr>-->
+<!---->
+<!--                                            <td>Onkoloji Hemşirelerini Güçlendirme; Mindfulness- Öz Şefkat -Nefes-Psikodrama Kursu</td>-->
+<!--                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/onkoloji-hemsirelerini-guclendirme-mindfulness-oz-sefkat-nefes-psikodrama.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>-->
+<!--                                        </tr>-->
+<!--                                        <tr>-->
+<!---->
+<!--                                            <td>Kişilerarası İlişkiler Psikoterapisi (KİPT) Temelli Yaklaşımın Onkoloji Hemşireliğinde Kullanımı Kursu</td>-->
+<!--                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/kisilerarasi-iliskiler-psikoterapisi-kipt-temelli-yaklasimin-onkoloji-hemsireliginde-kullanimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>-->
+<!--                                        </tr>-->
                                         <tr>
 
                                             <td>Pediatri Onkoloji Hemşireliğinde Kanıta Dayalı Uygulamalar Kursu</td>
@@ -109,21 +109,21 @@
                                             <td>Temel Düzey Kök Hücre Nakli Hemşireliği Kursu</td>
                                             <td class="text-center course-detail-cell" data-image="/doc/posterler/temel-duzey-kok-hucre-nakli-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
                                         </tr>
-                                        <tr>
-
-                                            <td>Terapötik Aferez Hemşireliği Kursu</td>
-                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/terapotik-aferez-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                        </tr>
-                                        <tr>
-
-                                            <td>Geriatrik Kanserlerde Kapsamlı Değerlendirme Kursu</td>
-                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/geriatrik-kanserlerde-kapsamli-degerlendirme-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                        </tr>
-                                        <tr>
-
-                                            <td>Jineonkoloji Hemşireliği Kursu</td>
-                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/jineonkoloji-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                        </tr>
+<!--                                        <tr>-->
+<!---->
+<!--                                            <td>Terapötik Aferez Hemşireliği Kursu</td>-->
+<!--                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/terapotik-aferez-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>-->
+<!--                                        </tr>-->
+<!--                                        <tr>-->
+<!---->
+<!--                                            <td>Geriatrik Kanserlerde Kapsamlı Değerlendirme Kursu</td>-->
+<!--                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/geriatrik-kanserlerde-kapsamli-degerlendirme-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>-->
+<!--                                        </tr>-->
+<!--                                        <tr>-->
+<!---->
+<!--                                            <td>Jineonkoloji Hemşireliği Kursu</td>-->
+<!--                                            <td class="text-center course-detail-cell" data-image="/doc/posterler/jineonkoloji-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>-->
+<!--                                        </tr>-->
                                     </tbody>
                                 </table>
                             </div>
