@@ -7,7 +7,7 @@
                 <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
             </header>
             <main class="modal__content" id="modal-1-content" style="margin-top:1rem;">
-               <img src="/doc/ohd-mailing-popup.jpg" class="w-100" alt="">
+               <img src="/doc/kurs-popup.jpeg" class="w-100" alt="">
                 <!-- <h3 style="color: #123755;">Duyuru</h3>
                 <h6 class="popup-letter"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia, nisl non
                 </h6> -->
