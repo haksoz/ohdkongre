@@ -26,6 +26,8 @@
                     <div class="col-lg-12 m-auto">
                         <div class="heading2 text-center space-margin60">
                             <h2> Abstract Submission</h2>
+                            <h4 style="margin-top: 20px;text-transform: none;color:#ed1c25;">The deadline for abstract submission is April 24th at 23:59</h4>
+
                         </div>
                     </div>
                 </div>

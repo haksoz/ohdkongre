@@ -26,6 +26,8 @@
                     <div class="col-lg-12 m-auto">
                         <div class="heading2 text-center space-margin60">
                             <h2> Bildiri Gönderimi</h2>
+                                                        <h4 style="margin-top: 20px;text-transform: none;color:#ed1c25;">Bildiri Gönderimi Son Tarihi 24 Nisan 23:59</h4>
+
                         </div>
                     </div>
                 </div>
