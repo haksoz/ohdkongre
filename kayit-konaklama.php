@@ -237,14 +237,14 @@
                     <div class="col-lg-12 m-auto hotel-info">
                         <div class="space-margin60">
                             <!-- Clarion Hotel Golden Horn -->
-                            <div class="mb-5">
-                                <h4 class="mb-3" style="color: #604c59;">Clarion Hotel Golden Horn</h4>
-                                <p>
-                                    Clarion Hotel Golden Horn sizi bekliyor… İstanbul'un canlı hayatının titreşimlerini hissedip, bu büyüleyici şehri yepyeni otelimiz ile keşfetmeye ne dersiniz? Tüm dünyada 6,400'den fazla oteli ile başarılı otel zincirlerinden biri olan Choice Hotels International® ailesinin yeni üyesi Clarion Hotel Golden Horn modern tasarımı, Beyoğlu bölgesindeki merkezi konumu ile Haliç'in kıyısında yer almaktadır. Her çeşit ulaşım alternatiflerine olan yakınlığı ve önünde uzanan Altın Boynuz' un sunduğu huzur; otelimizin konumunu eşsiz yapmaktadır. 185 adet manzaralı ve konforlu odaları, geniş balo salonu, bölünebilen beş adet toplantı salonunun yanı sıra restoran ve lobi bar ile misafirlerine hizmet vermektedir.
-                                </p>
-                                <p><strong>Kongre merkezi ile arası yaklaşık 2 km mesafedir.</strong></p>
-                                <p>Rezervasyon ve fiyat bilgisi için: <a href="https://www.clariongoldenhorn.com" target="_blank">clariongoldenhorn.com</a></p>
-                            </div>
+<!--                            <div class="mb-5">-->
+<!--                                <h4 class="mb-3" style="color: #604c59;">Clarion Hotel Golden Horn</h4>-->
+<!--                                <p>-->
+<!--                                    Clarion Hotel Golden Horn sizi bekliyor… İstanbul'un canlı hayatının titreşimlerini hissedip, bu büyüleyici şehri yepyeni otelimiz ile keşfetmeye ne dersiniz? Tüm dünyada 6,400'den fazla oteli ile başarılı otel zincirlerinden biri olan Choice Hotels International® ailesinin yeni üyesi Clarion Hotel Golden Horn modern tasarımı, Beyoğlu bölgesindeki merkezi konumu ile Haliç'in kıyısında yer almaktadır. Her çeşit ulaşım alternatiflerine olan yakınlığı ve önünde uzanan Altın Boynuz' un sunduğu huzur; otelimizin konumunu eşsiz yapmaktadır. 185 adet manzaralı ve konforlu odaları, geniş balo salonu, bölünebilen beş adet toplantı salonunun yanı sıra restoran ve lobi bar ile misafirlerine hizmet vermektedir.-->
+<!--                                </p>-->
+<!--                                <p><strong>Kongre merkezi ile arası yaklaşık 2 km mesafedir.</strong></p>-->
+<!--                                <p>Rezervasyon ve fiyat bilgisi için: <a href="https://www.clariongoldenhorn.com" target="_blank">clariongoldenhorn.com</a></p>-->
+<!--                            </div>-->
 <!--                            <div class="mb-5">-->
 <!--                                <h4 class="mb-3" style="color: #604c59;">RAMADA BY WYNDHAM OTEL</h4>-->
 <!--                                <p>-->
@@ -257,17 +257,17 @@
                             
                             
                             <!-- Mövenpick İstanbul Golden Horn -->
-                            <div class="mb-5">
-                                <h4 class="mb-3" style="color: #604c59;">Mövenpick İstanbul Golden Horn</h4>
-                                <p>
-                                    Mövenpick Hotel İstanbul Golden Horn; tarihi yarımada üzerinde, Haliç'te yer alır. Avrupa'yı Asya'ya bağlayan İstanbul'un ortasından geçen geniş bir su yolu olan ve Boğaziçi'nin devamı niteliğindeki Haliç kıyılarından tarih boyunca Bizans, Roma ve Osmanlı imparatorlukları yükselmiştir. Haliç, bugünün canlı, sofistike, zengin kültür çeşitliliğine sahip İstanbul'unun, varlık sebebi olan tarihi katmanlara ev sahipliği yapmıştır.
-                                </p>
-                                <p><strong>Kongre merkezi ile arası yaklaşık 2,5 km mesafedir.</strong></p>
-                                <p>Rezervasyon ve fiyat bilgisi için: <a href="https://www.movenpickistanbulgoldenhorn.com/tr/" target="_blank">movenpickistanbulgoldenhorn.com/</a></p>
-                            </div>
+<!--                            <div class="mb-5">-->
+<!--                                <h4 class="mb-3" style="color: #604c59;">Mövenpick İstanbul Golden Horn</h4>-->
+<!--                                <p>-->
+<!--                                    Mövenpick Hotel İstanbul Golden Horn; tarihi yarımada üzerinde, Haliç'te yer alır. Avrupa'yı Asya'ya bağlayan İstanbul'un ortasından geçen geniş bir su yolu olan ve Boğaziçi'nin devamı niteliğindeki Haliç kıyılarından tarih boyunca Bizans, Roma ve Osmanlı imparatorlukları yükselmiştir. Haliç, bugünün canlı, sofistike, zengin kültür çeşitliliğine sahip İstanbul'unun, varlık sebebi olan tarihi katmanlara ev sahipliği yapmıştır.-->
+<!--                                </p>-->
+<!--                                <p><strong>Kongre merkezi ile arası yaklaşık 2,5 km mesafedir.</strong></p>-->
+<!--                                <p>Rezervasyon ve fiyat bilgisi için: <a href="https://www.movenpickistanbulgoldenhorn.com/tr/" target="_blank">movenpickistanbulgoldenhorn.com/</a></p>-->
+<!--                            </div>-->
                             
                             <!-- İstanbul Konukevleri ve Misafirhaneleri -->
-                            <div class="mb-5">
+                            <div class="mb-5 mt-5">
                                 <h4 class="mb-3" style="color: #604c59;">İstanbul Konukevleri ve Misafirhaneleri</h4>
 
                                 <h5 class="mt-4" style="color: #604c59;">Öğretmenevleri</h5>
