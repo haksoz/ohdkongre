@@ -5,6 +5,25 @@
 
 <?php include('head.php') ?>
 <link rel="stylesheet" href="/assets/css/tpk-tab.css?v=43">
+<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
+<link rel="stylesheet" href="/assets/css/modal.css">
+<style>
+    .course-eye-icon {
+        width: 24px;
+        height: 24px;
+        pointer-events: none;
+    }
+    .course-detail-cell {
+        cursor: pointer;
+        transition: background-color 0.2s;
+    }
+    .course-detail-cell:hover {
+        background-color: #f0f0f0;
+    }
+    #course-modal .modal__container {
+        max-width: 800px;
+    }
+</style>
 <body class="homepage2-body">
 
 
@@ -170,10 +189,70 @@
             </style>
             <div id="kurs1">
                 <div class="gun_title" style="background-color: #d3b37f;">
-                    <h2>Radyasyon Onkolojisi Hemşireliğinde İnteraktif Beceri Eğitimi Kursu</h2>
+                    <h2>Kurslar</h2>
                 </div>
-                <div class="mt-4 d-flex justify-content-center">
-                    <img src="/doc/posterler/radyasyon-onkolojisi-hemsireliginde-interaktif-beceri-egitimi-kursu.jpg" class="img img-curved" alt="">
+                <div class="container ">
+                    <h5 style="margin-top: 20px;text-transform: none;color:#ed1c25;text-align: center;">Kurslar Bilgi Üniversitesi Dolapdere Kampüsü'nde düzenlenecektir.<br>
+                        Detaylı bilgi için :<a href="tel:+905303243824">0530 324 38 24</a> arayabilirsiniz</h5>
+
+                    <table class="table table-bordered table-striped table-hover mt-4">
+                        <colgroup>
+                            <col span="1" style="width: 80%;">
+                            <col span="1" style="width: 20%;">
+                        </colgroup>
+                        <thead style="background-color: #604c59; color: #ffffff;">
+                        <tr>
+                            <th style="vertical-align: middle;">Kurs Adı</th>
+                            <th style="vertical-align: middle; text-align: center;">Detay</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>Pediatri Onkoloji Hemşireliğinde Kanıta Dayalı Uygulamalar Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/pediatri-onkoloji-hemsireliginde-kanita-dayali-uygulamalar-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>Onkoloji Hemşireliğinde Temel Kanser Eğitimi Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/onkoloji-hemsireliginde-temel-kanser-egitimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>İmmünoterapi Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/immunoterapi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>Kanserde Tamamlayıcı ve Bütünleşik Sağlık Uygulamaları Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/kanserde-tamamlayici-ve-butunlesik-saglik-uygulamalari-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>Meme Kanseri Yolculuğunu Anlamak: Sağ Kalımı Güçlendiren Bütüncül Bakım ve Uzun Yaşam Stratejileri Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/meme-kanseri-yolculugunu-anlamak-sagkalimi-guclendiren-butuncul-bakim-ve-uzun-yasam-stratejileri-kursu.jpg?v=2"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>Radyasyon Onkolojisi Hemşireliğinde İnteraktif Beceri Eğitimi Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/radyasyon-onkolojisi-hemsireliginde-interaktif-beceri-egitimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>Temel Düzey Kök Hücre Nakli Hemşireliği Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/temel-duzey-kok-hucre-nakli-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+
+                <!-- Course Modal -->
+                <div class="modal micromodal-slide" id="course-modal" aria-hidden="true">
+                    <div class="modal__overlay" tabindex="-1" data-micromodal-close>
+                        <div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="course-modal-title" style="max-width: 800px;">
+                            <header class="modal__header" style="height: 20px;">
+                                <h2 class="modal__title" id="course-modal-title"></h2>
+                                <button class="modal__close" aria-label="Close modal" data-micromodal-close></button>
+                            </header>
+                            <main class="modal__content" id="course-modal-content" style="margin-top: 1rem;">
+                                <img id="course-poster-img" src="" alt="Kurs Poster" style="width: 100%;">
+                            </main>
+                        </div>
+                    </div>
                 </div>
             </div>
             <!-- 1. GÜN - 8 MAYIS CUMA -->
@@ -261,9 +340,9 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">12:00-12:30</td>
                                     <td class="tg-0pky2 position-relative">
-                                            Uydu Sempozyumu-1: Semptom Yönetiminde Kanıta Dayalı Çözüm Yolları<br>
-                                            <b>Oturum Başkanları:</b> Fatma Gündoğdu, Derya Subaşı Sezgin<br>
-                                            <img src="/doc/musocamin.png" class="position-absolute top-0 p-2 rounded-3" style="right: 0" alt=" Mucosamin Radioderm">
+                                        Uydu Sempozyumu-1: Semptom Yönetiminde Kanıta Dayalı Çözüm Yolları<br>
+                                        <b>Oturum Başkanları:</b> Fatma Gündoğdu, Derya Subaşı Sezgin<br>
+                                        <img src="/doc/musocamin.png" class="position-absolute top-0 p-2 rounded-3" style="right: 0" alt=" Mucosamin Radioderm">
                                     </td>
                                 </tr>
                                 <tr>
@@ -422,12 +501,12 @@
                                         <b>Konuşmacı:</b> Ayşe Kılıç Uçar
                                     </td>
                                 </tr>
-<!--                                <tr>-->
-<!--                                    <td class="tg-0pky">-->
-<!--                                        Jinekolojik Onkolojide Navigatör Hemşirenin Rolleri<br>-->
-<!--                                        <b>Konuşmacı:</b> Gülşen Vural-->
-<!--                                    </td>-->
-<!--                                </tr>-->
+                                <!--                                <tr>-->
+                                <!--                                    <td class="tg-0pky">-->
+                                <!--                                        Jinekolojik Onkolojide Navigatör Hemşirenin Rolleri<br>-->
+                                <!--                                        <b>Konuşmacı:</b> Gülşen Vural-->
+                                <!--                                    </td>-->
+                                <!--                                </tr>-->
 
                                 <!-- Öğle Yemeği -->
                                 <tr>
@@ -693,10 +772,10 @@
                                 </tr>
 
                                 <!-- Ödül Töreni -->
-<!--                                <tr>-->
-<!--                                    <td class="tg-pidv">16:30-17:30</td>-->
-<!--                                    <td class="tg-0pky2">Ödül Töreni ve Kapanış</td>-->
-<!--                                </tr>-->
+                                <!--                                <tr>-->
+                                <!--                                    <td class="tg-pidv">16:30-17:30</td>-->
+                                <!--                                    <td class="tg-0pky2">Ödül Töreni ve Kapanış</td>-->
+                                <!--                                </tr>-->
                             </table>
                         </div>
                     </div>
@@ -822,5 +901,21 @@
 
 <!-- Tabs Script -->
 <script src="/assets/js/tpk-tab.js"></script>
+<script>
+    document.querySelectorAll('.course-detail-cell').forEach(cell => {
+        cell.addEventListener('click', function() {
+            const imagePath = this.getAttribute('data-image');
+            document.getElementById('course-poster-img').src = imagePath;
+            MicroModal.show('course-modal', {
+                openClass: 'is-open',
+                disableScroll: true,
+                disableFocus: false,
+                awaitOpenAnimation: false,
+                awaitCloseAnimation: false,
+                debugMode: false
+            });
+        });
+    });
+</script>
 </body>
 </html>
