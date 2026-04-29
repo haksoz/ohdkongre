@@ -672,7 +672,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky"><b>Onko-day:</b> Füsun Önen</td>
+                                    <td class="tg-0pky"><b>Onko-day:</b> Güzin Arbaş</td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky"><b>Europadonna:</b> Violet Aroya</td>
