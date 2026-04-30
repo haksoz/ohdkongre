@@ -263,7 +263,6 @@
                 <ul class="tabs clearfix" data-tabgroup="second-tab-group">
                     <li><a href="#gun1-salonA" class="active">A Salonu</a></li>
                     <li><a href="#gun1-salonB">B Salonu</a></li>
-                    <li><a href="#gun1-sozel1">Sözel Bildiriler</a></li>
                 </ul>
 
                 <section id="second-tab-group" class="tabgroup">
@@ -610,13 +609,6 @@
                             </table>
                         </div>
                     </div>
-
-                    <!-- Sözel Bildiriler 1 -->
-                    <div id="gun1-sozel1">
-                        <div class="tg-wrap">
-                            <?php include('sozel-bildiriler-1.php') ?>
-                        </div>
-                    </div>
                 </section>
             </div>
 
@@ -628,7 +620,6 @@
                 <ul class="tabs clearfix" data-tabgroup="third-tab-group">
                     <li><a href="#gun2-salonA" class="active">A Salonu</a></li>
                     <li><a href="#gun2-salonB">B Salonu</a></li>
-                    <li><a href="#gun2-sozel2">Sözel Bildiriler</a></li>
                 </ul>
 
                 <section id="third-tab-group" class="tabgroup">
@@ -895,13 +886,6 @@
                                         <b>Konuşmacı:</b> Elif Hilal Toprak</td>
                                 </tr>
                             </table>
-                        </div>
-                    </div>
-
-                    <!-- Sözel Bildiriler 2 -->
-                    <div id="gun2-sozel2">
-                        <div class="tg-wrap">
-                           <?php include('sozel-bildiriler-2.php') ?>
                         </div>
                     </div>
                 </section>

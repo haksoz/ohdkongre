@@ -24,7 +24,7 @@
         <section class="event_part service-dtails overflow-hidden pt-4 pb-5 space-bottom position-relative">
             <div class="container">
                 <div class="common-content-box mb-40 wow fadeInUp" data-wow-delay=".3s">
-                    <h1 class="mb-lg-4 mb-md-4 mb-4 text-center">Scientific Program</h1>
+                    <h1 class="mb-lg-4 mb-md-4 mb-4 text-center">Scientific Programme</h1>
                 </div>
 
                 <ul class="tabs clearfix" data-tabgroup="first-tab-group">
@@ -44,7 +44,7 @@
                             <h3>08 <span>May</span></h3>
                         </div>
                         <div class="event_content">
-                            <h4>Scientific Program</h4>
+                            <h4>Scientific Programme</h4>
                             <p>2026, Friday</p>
                         </div>
                     </a>
@@ -54,7 +54,7 @@
                             <h3>09 <span>May</span></h3>
                         </div>
                         <div class="event_content">
-                            <h4>Scientific Program</h4>
+                            <h4>Scientific Programme</h4>
                             <p>2026, Saturday</p>
                         </div>
                     </a>
@@ -178,13 +178,11 @@
                     <!-- 1. GÜN - 8 MAYIS CUMA -->
                     <div id="gun1">
                         <div class="gun_title" style="background-color: #72606b;">
-                            <h2>8 May 2026, Friday | Scientific Program</h2>
+                            <h2>8 May 2026, Friday | Scientific Programme</h2>
                         </div>
                         <ul class="tabs clearfix" data-tabgroup="second-tab-group">
                             <li><a href="#gun1-salonA" class="active">A Salonu</a></li>
                             <li><a href="#gun1-salonB">B Salonu</a></li>
-                            <li><a href="#gun1-sozel1">Oral Presentations</a></li>
-
                         </ul>
 
                         <section id="second-tab-group" class="tabgroup">
@@ -423,6 +421,12 @@
                                                 <b>Speaker:</b> Ayşe Kılıç Uçar
                                             </td>
                                         </tr>
+<!--                                        <tr>-->
+<!--                                            <td class="tg-0pky">-->
+<!--                                                The Roles of the Nurse Navigator in Gynecologic Oncology<br>-->
+<!--                                                <b>Speaker:</b> Gülşen Vural-->
+<!--                                            </td>-->
+<!--                                        </tr>-->
 
                                         <!-- Lunch -->
                                         <tr>
@@ -525,24 +529,17 @@
                                     </table>
                                 </div>
                             </div>
-                             <!-- Sözel Bildiriler 1 -->
-                    <div id="gun1-sozel1">
-                        <div class="tg-wrap">
-                            <?php include('../sozel-bildiriler-1-en.php') ?>
-                        </div>
-                    </div>
                         </section>
                     </div>
 
                     <!-- 2. GÜN - 9 MAYIS CUMARTESİ -->
                     <div id="gun2">
                         <div class="gun_title" style="background-color: #d3b37f;">
-                            <h2>9 May 2026, Saturday | Scientific Program</h2>
+                            <h2>9 May 2026, Saturday | Scientific Programme</h2>
                         </div>
                         <ul class="tabs clearfix" data-tabgroup="third-tab-group">
                             <li><a href="#gun2-salonA" class="active">A Salonu</a></li>
                             <li><a href="#gun2-salonB">B Salonu</a></li>
-                            <li><a href="#gun2-sozel2">Oral Presentations</a></li>
                         </ul>
 
                         <section id="third-tab-group" class="tabgroup">
@@ -811,11 +808,6 @@
                                     </table>
                                 </div>
                             </div>
-                            <div id="gun2-sozel2">
-                        <div class="tg-wrap">
-                            <?php include('../sozel-bildiriler-2-en.php') ?>
-                        </div>
-                    </div>
                         </section>
                     </div>
 
