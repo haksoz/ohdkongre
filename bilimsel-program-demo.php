@@ -191,51 +191,53 @@
                 <div class="gun_title" style="background-color: #d3b37f;">
                     <h2>Kurslar</h2>
                 </div>
-                <div class="container mt-4">
-                    
-                                    <table class="table table-bordered table-striped table-hover">
-                                        <colgroup>
-                                            <col span="1" style="width: 80%;">
-                                            <col span="1" style="width: 20%;">
-                                        </colgroup>
-                                        <thead style="background-color: #604c59; color: #ffffff;">
-                                            <tr>
-                                                <th style="vertical-align: middle;">Kurs Adı</th>
-                                                <th style="vertical-align: middle; text-align: center;">Detay</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>Pediatri Onkoloji Hemşireliğinde Kanıta Dayalı Uygulamalar Kursu</td>
-                                                <td class="text-center course-detail-cell" data-image="/doc/posterler/pediatri-onkoloji-hemsireliginde-kanita-dayali-uygulamalar-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                            </tr>
-                                            <tr>
-                                                <td>Onkoloji Hemşireliğinde Temel Kanser Eğitimi Kursu</td>
-                                                <td class="text-center course-detail-cell" data-image="/doc/posterler/onkoloji-hemsireliginde-temel-kanser-egitimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                            </tr>
-                                            <tr>
-                                                <td>İmmünoterapi Kursu</td>
-                                                <td class="text-center course-detail-cell" data-image="/doc/posterler/immunoterapi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                            </tr>
-                                            <tr>
-                                                <td>Kanserde Tamamlayıcı ve Bütünleşik Sağlık Uygulamaları Kursu</td>
-                                                <td class="text-center course-detail-cell" data-image="/doc/posterler/kanserde-tamamlayici-ve-butunlesik-saglik-uygulamalari-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                            </tr>
-                                            <tr>
-                                                <td>Meme Kanseri Yolculuğunu Anlamak: Sağ Kalımı Güçlendiren Bütüncül Bakım ve Uzun Yaşam Stratejileri Kursu</td>
-                                                <td class="text-center course-detail-cell" data-image="/doc/posterler/meme-kanseri-yolculugunu-anlamak-sagkalimi-guclendiren-butuncul-bakim-ve-uzun-yasam-stratejileri-kursu.jpg?v=2"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                            </tr>
-                                            <tr>
-                                                <td>Radyasyon Onkolojisi Hemşireliğinde İnteraktif Beceri Eğitimi Kursu</td>
-                                                <td class="text-center course-detail-cell" data-image="/doc/posterler/radyasyon-onkolojisi-hemsireliginde-interaktif-beceri-egitimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                            </tr>
-                                            <tr>
-                                                <td>Temel Düzey Kök Hücre Nakli Hemşireliği Kursu</td>
-                                                <td class="text-center course-detail-cell" data-image="/doc/posterler/temel-duzey-kok-hucre-nakli-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                
+                <div class="container ">
+                    <h5 style="margin-top: 20px;text-transform: none;color:#ed1c25;text-align: center;">Kurslar Bilgi Üniversitesi Dolapdere Kampüsü'nde düzenlenecektir.<br>
+                        Detaylı bilgi için :<a href="tel:+905303243824">0530 324 38 24</a> arayabilirsiniz</h5>
+
+                    <table class="table table-bordered table-striped table-hover mt-4">
+                        <colgroup>
+                            <col span="1" style="width: 80%;">
+                            <col span="1" style="width: 20%;">
+                        </colgroup>
+                        <thead style="background-color: #604c59; color: #ffffff;">
+                        <tr>
+                            <th style="vertical-align: middle;">Kurs Adı</th>
+                            <th style="vertical-align: middle; text-align: center;">Detay</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>Pediatri Onkoloji Hemşireliğinde Kanıta Dayalı Uygulamalar Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/pediatri-onkoloji-hemsireliginde-kanita-dayali-uygulamalar-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>Onkoloji Hemşireliğinde Temel Kanser Eğitimi Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/onkoloji-hemsireliginde-temel-kanser-egitimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>İmmünoterapi Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/immunoterapi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>Kanserde Tamamlayıcı ve Bütünleşik Sağlık Uygulamaları Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/kanserde-tamamlayici-ve-butunlesik-saglik-uygulamalari-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>Meme Kanseri Yolculuğunu Anlamak: Sağ Kalımı Güçlendiren Bütüncül Bakım ve Uzun Yaşam Stratejileri Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/meme-kanseri-yolculugunu-anlamak-sagkalimi-guclendiren-butuncul-bakim-ve-uzun-yasam-stratejileri-kursu.jpg?v=2"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>Radyasyon Onkolojisi Hemşireliğinde İnteraktif Beceri Eğitimi Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/radyasyon-onkolojisi-hemsireliginde-interaktif-beceri-egitimi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        <tr>
+                            <td>Temel Düzey Kök Hücre Nakli Hemşireliği Kursu</td>
+                            <td class="text-center course-detail-cell" data-image="/doc/posterler/temel-duzey-kok-hucre-nakli-hemsireligi-kursu.jpg"><img src="/doc/ico-show.svg" class="course-eye-icon" alt="Detay"></td>
+                        </tr>
+                        </tbody>
+                    </table>
+
                 </div>
 
                 <!-- Course Modal -->
@@ -261,6 +263,7 @@
                 <ul class="tabs clearfix" data-tabgroup="second-tab-group">
                     <li><a href="#gun1-salonA" class="active">A Salonu</a></li>
                     <li><a href="#gun1-salonB">B Salonu</a></li>
+                    <li><a href="#gun1-sozel1">Sözel Bildiriler</a></li>
                 </ul>
 
                 <section id="second-tab-group" class="tabgroup">
@@ -338,9 +341,9 @@
                                 <tr>
                                     <td class="tg-pidv" rowspan="3">12:00-12:30</td>
                                     <td class="tg-0pky2 position-relative">
-                                            Uydu Sempozyumu-1: Semptom Yönetiminde Kanıta Dayalı Çözüm Yolları<br>
-                                            <b>Oturum Başkanları:</b> Fatma Gündoğdu, Derya Subaşı Sezgin<br>
-                                            <img src="/doc/musocamin.png" class="position-absolute top-0 p-2 rounded-3" style="right: 0" alt=" Mucosamin Radioderm">
+                                        Uydu Sempozyumu-1: Semptom Yönetiminde Kanıta Dayalı Çözüm Yolları<br>
+                                        <b>Oturum Başkanları:</b> Fatma Gündoğdu, Derya Subaşı Sezgin<br>
+                                        <img src="/doc/musocamin.png" class="position-absolute top-0 p-2 rounded-3" style="right: 0" alt=" Mucosamin Radioderm">
                                     </td>
                                 </tr>
                                 <tr>
@@ -499,12 +502,12 @@
                                         <b>Konuşmacı:</b> Ayşe Kılıç Uçar
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td class="tg-0pky">
-                                        Jinekolojik Onkolojide Navigatör Hemşirenin Rolleri<br>
-                                        <b>Konuşmacı:</b> Filiz Ünal Toprak
-                                    </td>
-                                </tr>
+                                                                <tr>
+                                                                    <td class="tg-0pky">
+                                                                        Jinekolojik Onkolojide Navigatör Hemşirenin Rolleri<br>
+                                                                        <b>Konuşmacı:</b> Filiz Ünal Toprak
+                                                                    </td>
+                                                                </tr>
 
                                 <!-- Öğle Yemeği -->
                                 <tr>
@@ -607,6 +610,13 @@
                             </table>
                         </div>
                     </div>
+
+                    <!-- Sözel Bildiriler 1 -->
+                    <div id="gun1-sozel1">
+                        <div class="tg-wrap">
+                            <?php include('sozel-bildiriler-1.php') ?>
+                        </div>
+                    </div>
                 </section>
             </div>
 
@@ -618,6 +628,7 @@
                 <ul class="tabs clearfix" data-tabgroup="third-tab-group">
                     <li><a href="#gun2-salonA" class="active">A Salonu</a></li>
                     <li><a href="#gun2-salonB">B Salonu</a></li>
+                    <li><a href="#gun2-sozel2">Sözel Bildiriler</a></li>
                 </ul>
 
                 <section id="third-tab-group" class="tabgroup">
@@ -670,7 +681,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky"><b>Onko-day:</b> Füsun Önen</td>
+                                    <td class="tg-0pky"><b>Onko-day:</b> Güzin Arbaş</td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky"><b>Europadonna:</b> Violet Aroya</td>
@@ -770,10 +781,10 @@
                                 </tr>
 
                                 <!-- Ödül Töreni -->
-<!--                                <tr>-->
-<!--                                    <td class="tg-pidv">16:30-17:30</td>-->
-<!--                                    <td class="tg-0pky2">Ödül Töreni ve Kapanış</td>-->
-<!--                                </tr>-->
+                                <!--                                <tr>-->
+                                <!--                                    <td class="tg-pidv">16:30-17:30</td>-->
+                                <!--                                    <td class="tg-0pky2">Ödül Töreni ve Kapanış</td>-->
+                                <!--                                </tr>-->
                             </table>
                         </div>
                     </div>
@@ -884,6 +895,13 @@
                                         <b>Konuşmacı:</b> Elif Hilal Toprak</td>
                                 </tr>
                             </table>
+                        </div>
+                    </div>
+
+                    <!-- Sözel Bildiriler 2 -->
+                    <div id="gun2-sozel2">
+                        <div class="tg-wrap">
+                           <?php include('sozel-bildiriler-2.php') ?>
                         </div>
                     </div>
                 </section>
