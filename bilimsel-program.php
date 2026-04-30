@@ -192,8 +192,8 @@
                     <h2>Kurslar</h2>
                 </div>
                 <div class="container ">
-                    <h5 style="margin-top: 20px;text-transform: none;color:#ed1c25;text-align: center;">Kurslar Bilgi Üniversitesi Dolapdere Kampüsü'nde düzenlenecektir.<br>
-                        Detaylı bilgi için :<a href="tel:+905303243824">0530 324 38 24</a> arayabilirsiniz</h5>
+                    <!--<h5 style="margin-top: 20px;text-transform: none;color:#ed1c25;text-align: center;">Kurslar Bilgi Üniversitesi Dolapdere Kampüsü'nde düzenlenecektir.<br>
+                        Detaylı bilgi için :<a href="tel:+905303243824">0530 324 38 24</a> arayabilirsiniz</h5> -->
 
                     <table class="table table-bordered table-striped table-hover mt-4">
                         <colgroup>
