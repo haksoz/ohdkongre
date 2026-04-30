@@ -824,7 +824,7 @@
                                 <tr>
                                     <td class="tg-0pky">
                                         Merhamet ve Şefkatle Dokunuş; Palyatif Bakımda Maneviyat<br>
-                                        <b>Konuşmacı:</b> Öznur Özdoğan</td>
+                                        <b>Konuşmacı:</b> Funda Eldemir</td>
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky">

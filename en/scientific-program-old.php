@@ -735,7 +735,7 @@
                                         <tr>
                                             <td class="tg-0pky">
                                                 Compassionate Touch; Spirituality in Palliative Care<br>
-                                                <b>Speaker:</b> Öznur Özdoğan</td>
+                                                <b>Speaker:</b> Funda Eldemir</td>
                                         </tr>
                                         <tr>
                                             <td class="tg-0pky">
