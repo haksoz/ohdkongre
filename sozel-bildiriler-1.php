@@ -6,7 +6,7 @@
                                 <thead>
                                     <th colspan="2" style="background-color: #2a2b76; color:#ffffff; text-align:center;">
                                         SÖZEL BİLDİRİLER PROGRAMI <br>
-                                        Sözel Bildiriler Oturumu- ÇSM 401 <br>
+                                        Sözel Bildiriler Oturumu- ÇSM 401 Salonu <br>
                                         Oturum Başkanları: Sevil Özkan, Zeliha Genç
                                     </th>
                                 </thead>
@@ -66,7 +66,7 @@
                                 <thead>
                                     <th colspan="2" style="background-color: #2a2b76; color:#ffffff; text-align:center;">
                                         SÖZEL BİLDİRİLER PROGRAMI <br>
-                                        Sözel Bildiriler Oturumu- ÇSM 401 <br>
+                                        Sözel Bildiriler Oturumu- ÇSM 401 Salonu <br>
                                         Oturum Başkanları: Kamile Kırca, Şerife Karaca
                                     </th>
                                 </thead>
@@ -157,7 +157,7 @@
                                 <thead>
                                     <th colspan="2" style="background-color: #2a2b76; color:#ffffff; text-align:center;">
                                         SÖZEL BİLDİRİLER PROGRAMI <br>
-                                        Sözel Bildiriler Oturumu- ÇSM 401 <br>
+                                        Sözel Bildiriler Oturumu- ÇSM 401 Salonu <br>
                                         Oturum Başkanları: Ülkü Yılmaz, Betül Yücelkan
                                     </th>
                                 </thead>
@@ -220,7 +220,7 @@
                                 <thead>
                                     <th colspan="2" style="background-color: #2a2b76; color:#ffffff; text-align:center;">
                                         SÖZEL BİLDİRİLER PROGRAMI <br>
-                                        Sözel Bildiriler Oturumu- ÇSM 401 <br>
+                                        Sözel Bildiriler Oturumu- ÇSM 401 Salonu <br>
                                         Oturum Başkanları: Akile Karaaslan Eşer, Ayşe Önal
                                     </th>
                                 </thead>

@@ -14,15 +14,15 @@
                                     <tr>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;"></th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Oral Presentations Session - ÇSM 401 <br>
+                                            Oral Presentations Session - Hall ÇSM 401 <br>
                                             Session Chairs: Münevver Erkul, Canan Pörücü
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Oral Presentations Session - ÇSM 405 <br>
+                                            Oral Presentations Session - Hall ÇSM 405 <br>
                                             Session Chairs: Merziye Atalay, Yasemin Karacan                                    
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Oral Presentations Session - ÇSM Z11 <br>
+                                            Oral Presentations Session - Hall ÇSM Z11 <br>
                                             Session Chairs: Miray Aksu, Dilek Urtekin                                  
                                         </th>
                                     </tr>
@@ -212,15 +212,15 @@
                                     <tr>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;"></th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Oral Presentations Session - ÇSM 401 <br>
+                                            Oral Presentations Session - Hall ÇSM 401 <br>
                                             Session Chairs: Elif Sözeri Öztürk, Gökhan Sezgin
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Oral Presentations Session - ÇSM 405 <br>
+                                            Oral Presentations Session - Hall ÇSM 405 <br>
                                             Session Chairs: Neşe Uysal, Firdevs Gül                                    
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Oral Presentations Session - ÇSM Z11 <br>
+                                            Oral Presentations Session - Hall ÇSM Z11 <br>
                                             Session Chairs: Rukiye Burucu, Behice Belkıs Çalışkan                                  
                                         </th>
                                     </tr>

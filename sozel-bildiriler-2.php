@@ -14,15 +14,15 @@
                                     <tr>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;"></th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Sözel Bildiriler Oturumu - ÇSM 401 <br>
+                                            Sözel Bildiriler Oturumu - ÇSM 401 Salonu <br>
                                             Oturum Başkanları: Münevver Erkul, Canan Pörücü
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Sözel Bildiriler Oturumu - ÇSM 405 <br>
+                                            Sözel Bildiriler Oturumu - ÇSM 405 Salonu <br>
                                             Oturum Başkanları: Merziye Atalay, Yasemin Karacan                                    
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Sözel Bildiriler Oturumu - ÇSM Z11 <br>
+                                            Sözel Bildiriler Oturumu - ÇSM Z11 Salonu <br>
                                             Oturum Başkanları: Miray Aksu, Dilek Urtekin                                  
                                         </th>
                                     </tr>
@@ -212,15 +212,15 @@
                                     <tr>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;"></th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Sözel Bildiriler Oturumu - ÇSM 401 <br>
+                                            Sözel Bildiriler Oturumu - ÇSM 401 Salonu <br>
                                             Oturum Başkanları: Elif Sözeri Öztürk, Gökhan Sezgin
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Sözel Bildiriler Oturumu - ÇSM 405 <br>
+                                            Sözel Bildiriler Oturumu - ÇSM 405 Salonu <br>
                                             Oturum Başkanları: Neşe Uysal, Firdevs Gül                                    
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Sözel Bildiriler Oturumu - ÇSM Z11 <br>
+                                            Sözel Bildiriler Oturumu - ÇSM Z11 Salonu <br>
                                             Oturum Başkanları: Rukiye Burucu, Behice Belkıs Çalışkan                                  
                                         </th>
                                     </tr>
