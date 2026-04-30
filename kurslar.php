@@ -27,7 +27,7 @@
                         <div class="heading2 text-center space-margin60">
                             <h2> Kurslar</h2>
 
-                            <h5 style="margin-top: 20px;text-transform: none;color:#ed1c25;text-align: center;">Tüm Kurslar Bilgi Üniversitesi Dolapdere Kampüsü'nde düzenlenecektir.</h5>
+<!--                            <h5 style="margin-top: 20px;text-transform: none;color:#ed1c25;text-align: center;">Tüm Kurslar Bilgi Üniversitesi Dolapdere Kampüsü'nde düzenlenecektir.</h5>-->
                         </div>
                     </div>
                     <div class="col-lg-12 m-auto">
