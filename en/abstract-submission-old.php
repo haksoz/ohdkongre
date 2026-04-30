@@ -4,8 +4,6 @@
     <?php $pageTitle = 'Abstract Submission'; ?>
 
 	<?php include('head.php') ?>
-    <link rel="stylesheet" href="/assets/css/tpk-tab.css?v=43">
-<link rel="stylesheet" href="/assets/css/modal.css">
 	<body class="homepage2-body">
 		
 
@@ -28,210 +26,21 @@
                     <div class="col-lg-12 m-auto">
                         <div class="heading2 text-center space-margin60">
                             <h2> Abstract Submission</h2>
+                            <h4 style="margin-top: 20px;text-transform: none;color:#ed1c25;">The deadline for abstract submission is April 24th at 23:59</h4>
 
-                        </div>
-                         <div class="text-center">
-                                    <a href="https://www.abstractmodule.com/2026ohdkongre/?plng=eng" target="_blank" class="abstract-button">
-                                        <img src="/doc/abs.png">
-                                    </a>
-                                </div>
-                    </div>
-                </div>
-                <div class="event_part service-dtails overflow-hidden pt-4 pb-5 space-bottom position-relative container">
-            <ul class="tabs clearfix" data-tabgroup="first-tab-group">
-                <a class="active single_event_list wow fadeInDown ilkgun" data-wow-delay=".2s" href="#gun1"
-                   style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;">
-
-                        <div class="event_date">
-                            <h3>OP</h3>
-                        </div>
-                        <div class="event_content">
-                            <h4>Oral Presentations <br> Program</h4>
-                        </div>
-                </a>
-                <a class="active single_event_list wow fadeInDown aragun" data-wow-delay=".3s" href="#gun2"
-                   style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;">
-
-                        <div class="event_date">
-                            <h3>PP</h3>
-                        </div>
-                        <div class="event_content">
-                            <h4>Poster Presentations <br> Program</h4>
-                        </div>
-                </a>
-            </ul>
-
-            <div id="first-tab-group" class="tabgroup" style="box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);">
-                <style type="text/css">
-                    .tg {
-                        border-collapse: collapse;
-                        border-spacing: 0;
-                        margin: 0px auto;
-                        width: 100%;
-                    }
-
-                    .tg td {
-                        font-size: 14px;
-                        overflow: hidden;
-                        padding: 3px 5px;
-                        word-break: normal;
-                    }
-
-                    .tg th {
-                        font-size: 18px;
-                        font-weight: normal;
-                        overflow: hidden;
-                        padding: 10px 5px;
-                        word-break: normal;
-                    }
-
-                    .tg .tg-smvl {
-                        background-color: #6db1a0;
-                        color: #fff !important;
-                        font-weight: bold !important;
-                        text-align: center;
-                        vertical-align: middle;
-                        border: 1px solid #ddd;
-                    }
-
-                    .tg .tg-0pky {
-                        background-color: #ecdcc5;
-                        text-align: left;
-                        vertical-align: initial;
-                        border-radius: 0;
-                        color: #000000 !important;
-                        border-right: 2px solid #fff;
-                    }
-
-                    .tg .tg-0pky2 {
-                        background-color: #ecce9d;
-                        text-align: left;
-                        vertical-align: initial;
-                        border-radius: 0;
-                        color: #000000 !important;
-                        border-right: 2px solid #fff;
-                    }
-
-                    .tg .tg-pidv {
-                        background-color: #6db1a0;
-                        color: #fff !important;
-                        font-weight: 500;
-                        text-align: center;
-                        vertical-align: middle;
-                    }
-
-                    .tg .tg-pidv2 {
-                        background-color: #0c6c6b;
-                        color: #fff !important;
-                        font-weight: 800 !important;
-                        text-align: center;
-                        vertical-align: middle;
-                        font-size: 15px;
-                    }
-
-                    .tg .font-weight-600 {
-                        font-weight: 600;
-                    }
-
-                    .tg tr {
-                        border: 3px solid #fff;
-                    }
-
-                    @media screen and (max-width: 991px) {
-                        .tabs {
-                            padding: 0px 26px 10px 26px !important;
-                        }
-                    }
-
-                    @media screen and (max-width: 767px) {
-                        .tabgroup div {
-                            padding: 10px 0px 10px 0px;
-                        }
-
-                        .tg {
-                            min-width: 700px;
-                            overflow-x: scroll;
-                        }
-
-                        .tg col {
-                            width: auto !important;
-                        }
-
-                        .tg-wrap {
-                            overflow-x: auto;
-                            -webkit-overflow-scrolling: touch;
-                            margin: auto 0px;
-                        }
-
-                        .tabs {
-                            padding: 0px 26px 10px 26px !important;
-                        }
-                    }
-                </style>
-                <!-- Sözel Bildiriler -->
-                <div id="gun1">
-                    <div class="gun_title" style="background-color: #d3b37f;">
-                        <h2>Oral Presentation Program</h2>
-                    </div>
-                    <ul class="tabs clearfix" data-tabgroup="second-tab-group">
-                        <li><a href="#gun1-salonA" class="active"> May 8 2026, Friday</a></li>
-                        <li><a href="#gun1-salonB"> May 9 2026, Saturday</a></li>
-                    </ul>
-                    <div id="second-tab-group" class="tabgroup">
-                        <!-- A SALONU -->
-                        <div id="gun1-salonA">
-                            <div class="tg-wrap">
-                                <?php include('../sozel-bildiriler-1-en.php') ?>
-                            </div>
-                        </div>
-                        <!-- B SALONU -->
-                        <div id="gun1-salonB">
-                            <div class="tg-wrap">
-                                <?php include('../sozel-bildiriler-2-en.php') ?>
-                            </div>
-                        </div>
-                        <!-- Sözel Bildiriler 1 -->
-                        <div id="gun1-sozel1">
-                            <div class="tg-wrap">
-                                <?php include('../sozel-bildiriler-1-en.php') ?>
-                            </div>
                         </div>
                     </div>
                 </div>
-
-                <!-- 2. GÜN - 9 MAYIS CUMARTESİ -->
-                <div id="gun2">
-                    <div class="gun_title" style="background-color: #72606b;">
-                        <h2>Poster Presentation Program</h2>
-                    </div>
-                    <ul class="tabs clearfix" data-tabgroup="third-tab-group">
-                        <li><a href="#gun2-salonA" class="active">May 8 2026, Friday</a></li>
-                        <li><a href="#gun2-salonB">May 9 2026, Saturday</a></li>
-                    </ul>
-                    <div id="third-tab-group" class="tabgroup">
-                        <!-- A SALONU -->
-                        <div id="gun2-salonA">
-                            <div class="tg-wrap">
-                                <?php include('../poster-bildiriler-1-en.php') ?>
-                            </div>
-                        </div>
-                        <!-- B SALONU -->
-                        <div id="gun2-salonB">
-                            <div class="tg-wrap">
-                                <?php include('../poster-bildiriler-2-en.php') ?>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
                 
                 <div class="row">
                     <div class="col-md-12">
                         <div class="our-team-boxarea bildiri-gonderimi">
                             <div class="content-area text-start">
-                               
+                                <div class="text-center">
+                                    <a href="https://www.abstractmodule.com/2026ohdkongre/?plng=eng" target="_blank" class="abstract-button">
+                                        <img src="/doc/abs.png">
+                                    </a>
+                                </div>
                                 <h3>1. Abstract Submission Rules</h3>
                                 <ol>
                                     <li>Abstracts can only be submitted through the Online Abstract Submission System available on the congress website.</li>
@@ -389,7 +198,5 @@
 
         <?php include('footer.php') ?>
         <?php include('script.php') ?>
-        <script src="/assets/js/tpk-tab.js"></script>
-
 	</body>
 </html>
