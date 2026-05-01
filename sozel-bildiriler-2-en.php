@@ -19,7 +19,7 @@
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
                                             Oral Presentations Session - Hall ÇSM 405 <br>
-                                            Session Chairs: Merziye Atalay, Yasemin Karacan                                    
+                                            Session Chairs: Merziye Altay, Yasemin Karacan                                    
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
                                             Oral Presentations Session - Hall ÇSM Z11 <br>
