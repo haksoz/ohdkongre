@@ -375,4 +375,49 @@
                                         <b>Esin Sevgi Doğan, Leyla Gündoğdu Çetin, Metiye Ünver, Atike Pınar Erdoğan</b>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td class="tg-pidv">11.34-11.41</td>
+                                    <td class="tg-0pky">
+                                        Investigation of the Effect of Education Given to Chemotherapy Patients on Knowledge Level <br>
+                                        <b>İrem Sezgin, Emine İlayda Kartal, Ayşin Kayış, İzzet Doğan</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        Digital Health Literacy in Cancer Patients and Influencing Factors: A Systematic Review <br>
+                                        <b>Neslisah Yaşar Kartal</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        The Relationship Between Symptoms Experienced by Patients Receiving Chemotherapy Treatment and Cyberchondria <br>
+                                        <b>Özlem Özdemir, İlknur Metin Akten, Handan Özen, Aslı Bahtiyar Güntürk</b>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="tg-pidv">11.41-11.48</td>
+                                    <td class="tg-0pky">
+                                        The effect of central venous catheter care education on nurses caring for pediatric oncology patients on knowledge level and infection prevention behaviors <br>
+                                        <b>Emine İlayda Kartal, Yağmur Şancı</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        The Role of Oncology Nursing in the Management of a Case of Sepsis Developing in a Patient with Relapsed Multiple Myeloma Undergoing Intensive Care: A Case Report <br>
+                                        <b>Zeynep Çakırbey Türk, Özlem Altınbaş Akkaş</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        The Effect of Children's Needs and Emotional Manifestations on Parental Stress in Hospitalized School-Age Children with Cancer <br>
+                                        <b>İpek Göçer, Gülçin Özalp Gerçeker</b>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="tg-pidv">11.48-11.53</td>
+                                    <td class="tg-0pky">
+                                        Examination of Digital Media Use in Patients Receiving Chemotherapy <br>
+                                        <b>Emine İlayda Kartal, İrem Sezgin, Ayşin Kayış, İzzet Doğan</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        Trends and Content Characteristics of Breast Cancer Studies in Nursing Journals in Turkey: A ULAKBİM Analysis <br>
+                                        <b>Yakup Akyüz, Dilara Aşık, Yasemin Uslu</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        Perioperative Management of Hemorrhagic Cerebellar Metastasis in a Lung Cancer Case Receiving Targeted Therapy: A Case Report <br>
+                                        <b>Mehmet Can Şimşek</b>
+                                    </td>
+                                </tr>
                             </table>

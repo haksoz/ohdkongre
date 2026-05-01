@@ -375,4 +375,49 @@
                                         <b>Esin Sevgi Doğan, Leyla Gündoğdu Çetin, Metiye Ünver, Atike Pınar Erdoğan</b>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td class="tg-pidv">11.34-11.41</td>
+                                    <td class="tg-0pky">
+                                        Kemoterapi Hastalarına Verilen Eğitimin Bilgi Düzeyine Etkisinin İncelenmesi <br>
+                                        <b>İrem Sezgin, Emine İlayda Kartal, Ayşin Kayış, İzzet Doğan</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        Kanser Hastalarında Dijital Sağlık Okuryazarlığı ve Etkileyen Faktörler: Sistematik Derleme <br>
+                                        <b>Neslisah Yaşar Kartal</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        Kemoterapi Tedavisi Alan Hastaların Deneyimlediği Semptomlar ve Siberkondri İlişkisi <br>
+                                        <b>Özlem Özdemir, İlknur Metin Akten, Handan Özen, Aslı Bahtiyar Güntürk</b>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="tg-pidv">11.41-11.48</td>
+                                    <td class="tg-0pky">
+                                        Pediatrik onkoloji hastalarına bakım veren hemşirelere verilen santral venöz kateter bakım eğitiminin bilgi düzeyi ve enfeksiyon önleme davranışları üzerine etkisi <br>
+                                        <b>Emine İlayda Kartal, Yağmur Şancı</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        Relaps Multipl Miyelom Hastasında Gelişen Sepsis Sürecinde Yoğun Bakımda İzlenen Olgunun Yönetiminde Onkoloji Hemşireliğinin Rolü: Olgu Sunumu <br>
+                                        <b>Zeynep Çakırbey Türk, Özlem Altınbaş Akkaş</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        Hastanede yatan okul çağındaki kanser tanılı çocukların gereksinimlerinin ve duygusal görünümlerinin ebeveyn stresine etkisi <br>
+                                        <b>İpek Göçer, Gülçin Özalp Gerçeker</b>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="tg-pidv">11.48-11.53</td>
+                                    <td class="tg-0pky">
+                                        Kemoterapi Alan Hastalarda Dijital Medya Kullanımının İncelenmesi <br>
+                                        <b>Emine İlayda Kartal, İrem Sezgin, Ayşin Kayış, İzzet Doğan</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        Türkiye'de Hemşirelik Dergilerinde Meme Kanseri Çalışmalarının Eğilimleri ve İçerik Özellikleri: ULAKBİM Analizi <br>
+                                        <b>Yakup Akyüz, Dilara Aşık, Yasemin Uslu</b>
+                                    </td>
+                                    <td class="tg-0pky">
+                                        Hedefe Yönelik Tedavi Alan Akciğer Kanseri Olgusunda Kanamalı Serebellar Metastazın Perioperatif Yönetimi: Bir Olgu Sunumu <br>
+                                        <b>Mehmet Can Şimşek</b>
+                                    </td>
+                                </tr>
                             </table>
