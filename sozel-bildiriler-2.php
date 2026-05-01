@@ -19,7 +19,7 @@
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
                                             Sözel Bildiriler Oturumu - ÇSM 405 Salonu <br>
-                                            Oturum Başkanları: Merziye Atalay, Yasemin Karacan                                    
+                                            Oturum Başkanları: Merziye Altay, Yasemin Karacan                                    
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
                                             Sözel Bildiriler Oturumu - ÇSM Z11 Salonu <br>
