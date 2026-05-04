@@ -102,7 +102,7 @@ a.nav-kurslar-blink {
                                 <li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>"><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
                                 <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a class="<?php echo $page == 'kurslar' ? '' : 'nav-kurslar-blink' ?>" href="kurslar.php">Kurslar</a></li>
                                 <li class="<?php echo $page == 'bilimsel-program' ? 'active' : '' ?>"><a href="bilimsel-program.php">Bilimsel Program</a></li>
-                                <li class="<?php echo $page == 'bildiri-gonderimi' ? 'active' : '' ?>"><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
+                                <li class="<?php echo $page == 'bildiri-gonderimi' ? 'active' : '' ?>"><a class="<?php echo $page == 'bildiri-gonderimi' ? '' : 'nav-kurslar-blink' ?>" href="bildiri-gonderimi.php">Bildiri Sonuçları</a></li>
                                 <li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>"><a href="iletisim.php">İletişim</a></li>
                             </ul>
                         </div>
@@ -179,7 +179,7 @@ a.nav-kurslar-blink {
             <li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>"><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
             <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a href="kurslar.php" class="<?php echo $page == 'kurslar' ? '' : 'nav-kurslar-blink' ?>">Kurslar</a></li>
             <li class="<?php echo $page == 'bilimsel-program' ? 'active' : '' ?>"><a href="bilimsel-program.php">Bilimsel Program</a></li>
-            <li class="<?php echo $page == 'bildiri-gonderimi' ? 'active' : '' ?>"><a href="bildiri-gonderimi.php">Bildiri Gönderimi</a></li>
+            <li class="<?php echo $page == 'bildiri-gonderimi' ? 'active' : '' ?>"><a href="bildiri-gonderimi.php" class="<?php echo $page == 'bildiri-gonderimi' ? '' : 'nav-kurslar-blink' ?>">Bildiri Sonuçları</a></li>
             <li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>"><a href="iletisim.php">İletişim</a></li>
 
         </ul>

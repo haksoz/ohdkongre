@@ -231,6 +231,7 @@
                                 <li><i class="fa-solid fa-arrow-right"></i>Fiyatlar, 2 gece paket için 07 Mayıs 2026 giriş, 9 Mayıs 2026 çıkış şeklindedir.</li>
                                 <li><i class="fa-solid fa-arrow-right"></i>Konaklama rezervasyonu, konaklama ücretinin tamamı ödendiğinde onaylanır. Konaklama rezervasyonunun onaylanması için lütfen ödeme makbuzunuzu Organizasyon Sekretaryası'na e-mail olarak gönderiniz.</li>
                             </ul>
+                        <p class="mt-2"><b>Otel Adres:</b> Sütlüce Mah. İmrahor Cad. No:14 34445 Beyoğlu - İstanbul</p>
                         <h4 class="mt-4 mb-4">İptal Koşulları</h4>
                         <p><b style="color: red;">*</b> Tüm iadeler yazılı olarak Bosphorus MICE’a bildirildiği takdirde geçerli olacaktır.</p>
                         <p>Kayıt ve konaklama ücretleri;</p>
