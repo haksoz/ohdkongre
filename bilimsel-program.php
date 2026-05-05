@@ -23,6 +23,15 @@
     #course-modal .modal__container {
         max-width: 800px;
     }
+    .zoom-icon{
+        max-width: 40px;
+        position: absolute;
+        right: 15px;
+        top: 15px;
+    }
+    div.position-relative{
+        padding-right: 60px !important;
+    }
 </style>
 <body class="homepage2-body">
 
@@ -319,14 +328,20 @@
                                 </tr>
                                 <tr>
                                     <td class="tg-0pky">
-                                        Yenilikçi Kanser Bakımının Sunumunda Hemşirelik Araştırmalarının Entegrasyonu<br>
-                                        <b>Konuşmacı:</b> Cherith Semple
+                                        <div class="position-relative">
+                                            Yenilikçi Kanser Bakımının Sunumunda Hemşirelik Araştırmalarının Entegrasyonu<br>
+                                            <b>Konuşmacı:</b> Cherith Semple
+                                            <img src="/doc/zoom-meetings-icon.png" class="zoom-icon" alt="">
+                                        </div>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky">
-                                        Dijital Dönüşüm, Yenilikçi Teknolojiler ve Klinik Karar Destek Sistemleri: <em>iNTERVENE</em> projesi<br>
-                                        <b>Konuşmacı:</b> Nikolina Dodlek
+                                    <td class="tg-0pky ">
+                                        <div class="position-relative">
+                                            Dijital Dönüşüm, Yenilikçi Teknolojiler ve Klinik Karar Destek Sistemleri: <em>iNTERVENE</em> projesi<br>
+                                            <b>Konuşmacı:</b> Nikolina Dodlek
+                                            <img src="/doc/zoom-meetings-icon.png" class="zoom-icon" alt="">
+                                        </div>
                                     </td>
                                 </tr>
                                 <tr>
@@ -372,15 +387,21 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky">
-                                        Onkoloji Hemşireliğinde Küresel İş Birlikleri<br>
-                                        <b>Konuşmacı:</b> Darcy Burbage
+                                    <td class="tg-0pky ">
+                                        <div class="position-relative">
+                                            Onkoloji Hemşireliğinde Küresel İş Birlikleri<br>
+                                            <b>Konuşmacı:</b> Darcy Burbage
+                                            <img src="/doc/zoom-meetings-icon.png" class="zoom-icon" alt="">
+                                        </div>
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky">
-                                        Onkoloji Hemşireliğinde Liderlik ve Sağlık Politikaları<br>
-                                        <b>Konuşmacı:</b> Julia Downing
+                                    <td class="tg-0pky ">
+                                        <div class="position-relative">
+                                            Onkoloji Hemşireliğinde Liderlik ve Sağlık Politikaları<br>
+                                            <b>Konuşmacı:</b> Julia Downing
+                                            <img src="/doc/zoom-meetings-icon.png" class="zoom-icon" alt="">
+                                        </div>
                                     </td>
                                 </tr>
 
@@ -404,9 +425,12 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky">
-                                        Onkoloji Hastalarında Psikoseksüel Bakım<br>
-                                        <b>Konuşmacı:</b> Lorraine Grover
+                                    <td class="tg-0pky ">
+                                        <div class="position-relative">
+                                            Onkoloji Hastalarında Psikoseksüel Bakım<br>
+                                            <b>Konuşmacı:</b> Lorraine Grover
+                                            <img src="/doc/zoom-meetings-icon.png" class="zoom-icon" alt="">
+                                        </div>
                                     </td>
                                 </tr>
 
@@ -821,14 +845,22 @@
                                         <b>Oturum Başkanları:</b> Özlem Uğur, Hanife Özçelik</td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky">
-                                        Merhamet ve Şefkatle Dokunuş; Palyatif Bakımda Maneviyat<br>
-                                        <b>Konuşmacı:</b> Funda Eldemir</td>
+                                    <td class="tg-0pky ">
+                                        <div class="position-relative">
+                                            Merhamet ve Şefkatle Dokunuş; Palyatif Bakımda Maneviyat<br>
+                                            <b>Konuşmacı:</b> Funda Eldemir
+                                            <img src="/doc/zoom-meetings-icon.png" class="zoom-icon" alt="">
+                                        </div>
+                                    </td>
                                 </tr>
                                 <tr>
-                                    <td class="tg-0pky">
-                                        Palyatif Bakımda Kanıta Dayalı Uygulamalar<br>
-                                        <b>Konuşmacı:</b> Hicran Bektaş</td>
+                                    <td class="tg-0pky ">
+                                        <div class="position-relative">
+                                            Palyatif Bakımda Kanıta Dayalı Uygulamalar<br>
+                                            <b>Konuşmacı:</b> Hicran Bektaş
+                                            <img src="/doc/zoom-meetings-icon.png" class="zoom-icon" alt="">
+                                        </div>
+                                    </td>
                                 </tr>
 
                                 <!-- Ara -->
