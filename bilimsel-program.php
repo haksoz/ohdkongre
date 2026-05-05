@@ -32,6 +32,9 @@
     div.position-relative{
         padding-right: 60px !important;
     }
+    .tg .tg-0pky2.position-relative{
+        padding-right: 150px;
+    }
 </style>
 <body class="homepage2-body">
 
@@ -357,7 +360,7 @@
                                     <td class="tg-0pky2 position-relative">
                                         Uydu Sempozyumu-1: Semptom Yönetiminde Kanıta Dayalı Çözüm Yolları<br>
                                         <b>Oturum Başkanları:</b> Fatma Gündoğdu, Derya Subaşı Sezgin<br>
-                                        <img src="/doc/musocamin.png" class="position-absolute top-0 p-2 rounded-3" style="right: 0" alt=" Mucosamin Radioderm">
+                                        <img src="/doc/musocamin.png" class="position-absolute top-0 p-2 rounded-3" style="right: 0; max-width: 130px;" alt=" Mucosamin Radioderm">
                                     </td>
                                 </tr>
                                 <tr>
