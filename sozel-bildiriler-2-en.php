@@ -14,7 +14,7 @@
                                     <tr>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;"></th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Oral Presentations Session - Hall ÇSM 401 <br>
+                                            Oral Presentations Session - Hall ÇSM 401 (C Hall)<br>
                                             Session Chairs: Münevver Erkul, Canan Pörücü
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
@@ -212,7 +212,7 @@
                                     <tr>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;"></th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Oral Presentations Session - Hall ÇSM 401 <br>
+                                            Oral Presentations Session - Hall ÇSM 401 (C Hall)<br>
                                             Session Chairs: Elif Sözeri Öztürk, Gökhan Sezgin
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">

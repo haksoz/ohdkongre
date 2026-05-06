@@ -6,7 +6,7 @@
                                 <thead>
                                     <th colspan="2" style="background-color: #2a2b76; color:#ffffff; text-align:center;">
                                         ORAL PRESENTATION PROGRAM  - MAY 8, 2026<br>
-                                        Oral Presentations Session - Hall ÇSM 401 <br>
+                                        Oral Presentations Session - Hall ÇSM 401 (C Hall)<br>
                                         Session Chairs: Sevil Özkan, Zeliha Genç
                                     </th>
                                 </thead>
@@ -66,7 +66,7 @@
                                 </tr>
                                 <thead>
                                     <th colspan="2" style="background-color: #2a2b76; color:#ffffff; text-align:center;">
-                                        Oral Presentations Session - Hall ÇSM 401 <br>
+                                        Oral Presentations Session - Hall ÇSM 401 (C Hall)<br>
                                         Session Chairs: Kamile Kırca, Şerife Karaca
                                     </th>
                                 </thead>
@@ -156,7 +156,7 @@
                                 </tr>
                                 <thead>
                                     <th colspan="2" style="background-color: #2a2b76; color:#ffffff; text-align:center;">
-                                        Oral Presentations Session- Hall ÇSM 401 <br>
+                                        Oral Presentations Session- Hall ÇSM 401 (C Hall)<br>
                                         Session Chairs: Ülkü Yılmaz, Betül Yücelkan
                                     </th>
                                 </thead>
@@ -218,7 +218,7 @@
                                 </tr>
                                 <thead>
                                     <th colspan="2" style="background-color: #2a2b76; color:#ffffff; text-align:center;">
-                                        Oral Presentations Session- Hall ÇSM 401 <br>
+                                        Oral Presentations Session- Hall ÇSM 401 (C Hall)<br>
                                         Session Chairs: Akile Karaaslan Eşer, Ayşe Önal
                                     </th>
                                 </thead>

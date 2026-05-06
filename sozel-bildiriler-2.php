@@ -14,7 +14,7 @@
                                     <tr>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;"></th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Sözel Bildiriler Oturumu - ÇSM 401 Salonu <br>
+                                            Sözel Bildiriler Oturumu - ÇSM 401 Salonu (Salon C )<br>
                                             Oturum Başkanları: Münevver Erkul, Canan Pörücü
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
@@ -212,7 +212,7 @@
                                     <tr>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;"></th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
-                                            Sözel Bildiriler Oturumu - ÇSM 401 Salonu <br>
+                                            Sözel Bildiriler Oturumu - ÇSM 401 Salonu (Salon C )<br>
                                             Oturum Başkanları: Elif Sözeri Öztürk, Gökhan Sezgin
                                         </th>
                                         <th style="background-color: #2a2b76; color:#ffffff; text-align:center; border:2px solid white;">
