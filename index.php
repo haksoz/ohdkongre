@@ -38,27 +38,27 @@
 								
 								<img src="doc/slider-01-metin-new.png" alt="" />
 
-								<div class="timer">
-									<div class="time-box">
-										<span id="days" class="time-value"></span>
-										<div class="space8"></div>
-									</div>
-									<div class="space14"></div>
-									<div class="time-box">
-										<span id="hours" class="time-value"></span>
-										<div class="space8"></div>
-									</div>
-									<div class="space14"></div>
-									<div class="time-box">
-										<span id="minutes" class="time-value"></span>
-										<div class="space8"></div>
-									</div>
-									<div class="space14"></div>
-									<div class="time-box" style="margin: 0">
-										<span id="seconds" class="time-value"></span>
-										<div class="space8"></div>
-									</div>
-								</div>
+<!--								<div class="timer">-->
+<!--									<div class="time-box">-->
+<!--										<span id="days" class="time-value"></span>-->
+<!--										<div class="space8"></div>-->
+<!--									</div>-->
+<!--									<div class="space14"></div>-->
+<!--									<div class="time-box">-->
+<!--										<span id="hours" class="time-value"></span>-->
+<!--										<div class="space8"></div>-->
+<!--									</div>-->
+<!--									<div class="space14"></div>-->
+<!--									<div class="time-box">-->
+<!--										<span id="minutes" class="time-value"></span>-->
+<!--										<div class="space8"></div>-->
+<!--									</div>-->
+<!--									<div class="space14"></div>-->
+<!--									<div class="time-box" style="margin: 0">-->
+<!--										<span id="seconds" class="time-value"></span>-->
+<!--										<div class="space8"></div>-->
+<!--									</div>-->
+<!--								</div>-->
 
 							</div>
 						</div>
