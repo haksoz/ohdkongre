@@ -179,7 +179,7 @@ a.nav-kurslar-blink {
             </li>
 <!--            <li class="--><?php //echo $page == 'genel-bilgiler' ? 'active' : '' ?><!--"><a href="genel-bilgiler.php">Genel Bilgiler</a></li>-->
             <li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>"><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
-            <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a href="kurslar.php" class="<?php echo $page == 'kurslar' ? '' : 'nav-kurslar-blink' ?>">Kurslar</a></li>
+            <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a href="kurslar.php">Kurslar</a></li>
             <li class="<?php echo $page == 'bilimsel-program' ? 'active' : '' ?>"><a href="bilimsel-program.php">Bilimsel Program</a></li>
             <li class="<?php echo $page == 'bildiri-gonderimi' ? 'active' : '' ?>"><a href="bildiri-gonderimi.php" class="<?php echo $page == 'bildiri-gonderimi' ? '' : 'nav-kurslar-blink' ?>">Bildiri Sonuçları</a></li>
             <li><a href="https://e-certificate.ko.com.tr/sertifikalar/ii-uluslararasi-onkoloji-hemsireligi-dernegi-kongre-sertifikasi/verify" class="nav-kurslar-blink" target="_blank">E-Sertifika</a></li>
