@@ -36,8 +36,8 @@ a.nav-kurslar-blink {
 <header>
     <div class="header-area homepage2 header header-sticky d-none d-lg-block" id="header">
         <div class="top-info-bar">
-            <a href="ulasim.php" class="info-bar-link">
-                <p class="">İstanbul Bilgi Üniversitesi santralistanbul Kampüsü'ne nasıl gelebilirim?</p>
+            <a href="ulasim.php" class="info-bar-link text-black">
+                İstanbul Bilgi Üniversitesi santralistanbul Kampüsü'ne nasıl gelebilirim?
             </a>
         </div>
         <div class="container header-container">
@@ -98,12 +98,13 @@ a.nav-kurslar-blink {
                                         <li><a href="bilimsel-kurul.php">Bilimsel Kurul</a></li>
                                     </ul>
                                 </li>
-                                <li class="<?php echo $page == 'genel-bilgiler' ? 'active' : '' ?>"><a href="genel-bilgiler.php">Genel Bilgiler</a></li>
+<!--                                <li class="--><?php //echo $page == 'genel-bilgiler' ? 'active' : '' ?><!--"><a href="genel-bilgiler.php">Genel Bilgiler</a></li>-->
                                 <li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>"><a href="kayit-konaklama.php">Kayıt & Konaklama</a></li>
-                                <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a class="<?php echo $page == 'kurslar' ? '' : 'nav-kurslar-blink' ?>" href="kurslar.php">Kurslar</a></li>
+                                <li class="<?php echo $page == 'kurslar' ? 'active' : '' ?>"><a href="kurslar.php">Kurslar</a></li>
                                 <li class="<?php echo $page == 'bilimsel-program' ? 'active' : '' ?>"><a href="bilimsel-program.php">Bilimsel Program</a></li>
                                 <li class="<?php echo $page == 'bildiri-gonderimi' ? 'active' : '' ?>"><a class="<?php echo $page == 'bildiri-gonderimi' ? '' : 'nav-kurslar-blink' ?>" href="bildiri-gonderimi.php">Bildiri Sonuçları</a></li>
                                 <li><a href="https://e-certificate.ko.com.tr/sertifikalar/ii-uluslararasi-onkoloji-hemsireligi-dernegi-kongre-sertifikasi/verify" class="nav-kurslar-blink" target="_blank">E-Sertifika</a></li>
+                                <li><a href="/doc/ohd2026-kongre-kitabi.pdf" class="nav-kurslar-blink" target="_blank">Kongre Kitabı</a></li>
                                 <li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>"><a href="iletisim.php">İletişim</a></li>
                             </ul>
                         </div>
