@@ -120,8 +120,8 @@ a.nav-kurslar-blink {
 <!--===== MOBILE HEADER STARTS =======-->
 <div class="mobile-header mobile-haeder2 d-block d-lg-none" style="padding-top:0px;">
     <div class="top-info-bar" style="margin-bottom:15px;">
-        <a href="ulasim.php" class="info-bar-link">
-            <p class="">İstanbul Bilgi Üniversitesi santralistanbul Kampüsü'ne nasıl gelebilirim?</p>
+        <a href="ulasim.php" class="info-bar-link text-black">
+            İstanbul Bilgi Üniversitesi santralistanbul Kampüsü'ne nasıl gelebilirim?
         </a>
      </div>
     <div class="container-fluid">
